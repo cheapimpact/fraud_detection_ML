@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-EKAD-att1.pdf",
+    "ticker": "EKAD_2024",
+    "mdma_start": "21",
+    "mdma_end": "30",
+    "Positive_Sum": 1003.0,
+    "Negative_Sum": 736.0,
+    "Total_Matched_Words": 574,
+    "Total_Word": 4530,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

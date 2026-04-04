@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TOWR-att1.pdf",
+    "ticker": "TOWR_2024",
+    "mdma_start": "138",
+    "mdma_end": "236",
+    "Positive_Sum": 13203.0,
+    "Negative_Sum": 10503.0,
+    "Total_Matched_Words": 7604,
+    "Total_Word": 46867,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

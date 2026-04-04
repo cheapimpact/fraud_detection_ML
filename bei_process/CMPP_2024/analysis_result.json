@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CMPP-att2.pdf",
+    "ticker": "CMPP_2024",
+    "mdma_start": "90",
+    "mdma_end": "123",
+    "Positive_Sum": 3052.0,
+    "Negative_Sum": 3604.0,
+    "Total_Matched_Words": 2134,
+    "Total_Word": 14644,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

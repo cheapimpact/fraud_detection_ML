@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TMAS-att1.pdf",
+    "ticker": "TMAS_2023",
+    "mdma_start": "76",
+    "mdma_end": "97",
+    "Positive_Sum": 1849.0,
+    "Negative_Sum": 1895.0,
+    "Total_Matched_Words": 1224,
+    "Total_Word": 8312,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

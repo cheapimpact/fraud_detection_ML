@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-FUJI-att1.pdf",
+    "ticker": "FUJI_2023",
+    "mdma_start": "54",
+    "mdma_end": "69",
+    "Positive_Sum": 1621.0,
+    "Negative_Sum": 2013.0,
+    "Total_Matched_Words": 1161,
+    "Total_Word": 7606,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

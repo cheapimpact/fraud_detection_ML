@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-WTON-att2.pdf",
+    "ticker": "WTON_2024",
+    "mdma_start": "222",
+    "mdma_end": "356",
+    "Positive_Sum": 14771.0,
+    "Negative_Sum": 13326.0,
+    "Total_Matched_Words": 9066,
+    "Total_Word": 55999,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

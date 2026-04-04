@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-NICL-att1.pdf",
+    "ticker": "NICL_2023",
+    "mdma_start": "70",
+    "mdma_end": "74",
+    "Positive_Sum": 391.0,
+    "Negative_Sum": 313.0,
+    "Total_Matched_Words": 228,
+    "Total_Word": 1523,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

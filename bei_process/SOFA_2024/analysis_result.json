@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SOFA-att1.pdf",
+    "ticker": "SOFA_2024",
+    "mdma_start": "79",
+    "mdma_end": "98",
+    "Positive_Sum": 2402.0,
+    "Negative_Sum": 2151.0,
+    "Total_Matched_Words": 1427,
+    "Total_Word": 8773,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

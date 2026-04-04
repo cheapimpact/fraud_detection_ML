@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-UNVR-att2.pdf",
+    "ticker": "UNVR_2023",
+    "mdma_start": "140",
+    "mdma_end": "221",
+    "Positive_Sum": 9263.0,
+    "Negative_Sum": 7729.0,
+    "Total_Matched_Words": 5315,
+    "Total_Word": 30786,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BKDP-att2.pdf",
+    "ticker": "BKDP_2023",
+    "mdma_start": "18",
+    "mdma_end": "26",
+    "Positive_Sum": 1565.0,
+    "Negative_Sum": 1608.0,
+    "Total_Matched_Words": 1013,
+    "Total_Word": 7291,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

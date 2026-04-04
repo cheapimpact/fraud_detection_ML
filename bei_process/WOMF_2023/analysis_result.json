@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-WOMF-att1.pdf",
+    "ticker": "WOMF_2023",
+    "mdma_start": "170",
+    "mdma_end": "259",
+    "Positive_Sum": 8066.0,
+    "Negative_Sum": 9358.0,
+    "Total_Matched_Words": 5552,
+    "Total_Word": 37653,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

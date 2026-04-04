@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-AUTO-att3.pdf",
+    "ticker": "AUTO_2024",
+    "mdma_start": "134",
+    "mdma_end": "153",
+    "Positive_Sum": 2408.0,
+    "Negative_Sum": 2313.0,
+    "Total_Matched_Words": 1513,
+    "Total_Word": 10658,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

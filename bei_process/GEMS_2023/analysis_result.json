@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-GEMS-att2.pdf",
+    "ticker": "GEMS_2023",
+    "mdma_start": "45",
+    "mdma_end": "60",
+    "Positive_Sum": 1857.0,
+    "Negative_Sum": 1537.0,
+    "Total_Matched_Words": 1174,
+    "Total_Word": 8578,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

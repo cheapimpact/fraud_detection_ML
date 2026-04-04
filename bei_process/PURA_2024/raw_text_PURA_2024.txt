@@ -1,0 +1,984 @@
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Industri angkutan logistik Indonesia diproyeksikan mengalami pertumbuhan signifikan 
+pada tahun 2024 dan 2025, didorong oleh berbagai faktor seperti adopsi teknologi canggih, 
+peningkatan e-commerce, dan fokus pada keberlanjutan. 
+Menurut Supply Chain Indonesia (SCI), sektor transportasi dan pergudangan diperkirakan akan 
+berkontribusi sebesar Rp1.436 triliun terhadap Produk Domestik Bruto (PDB) Indonesia pada 
+tahun 2024, dengan pertumbuhan 14,16% dibanding tahun sebelumnya. Pada tahun 2025, 
+kontribusi sektor ini diproyeksikan meningkat menjadi Rp1.623,65 triliun, tumbuh 12,53% 
+dibanding tahun 2024. 
+Pertumbuhan ini didorong oleh subsektor transportasi yang diperkirakan berkontribusi 
+Rp1.276,66 triliun pada tahun 2025, meningkat 11,09% dari tahun sebelumnya, serta subsektor 
+pergudangan yang diproyeksikan mencapai Rp346,99 triliun, tumbuh 18,26%. 
+Adopsi teknologi seperti Internet of Things (IoT), kecerdasan buatan (AI), dan blockchain semakin 
+meningkatkan efisiensi operasional perusahaan logistik. Teknologi ini memungkinkan pelacakan 
+pengiriman secara real-time dan pengambilan keputusan berbasis data, yang penting dalam 
+menghadapi dinamika pasar. 
+Pertumbuhan e-commerce yang pesat di Indonesia juga mendorong peningkatan aktivitas 
+logistik, terutama dalam pengiriman jarak terakhir (last-mile delivery). Perusahaan logistik 
+mulai menerapkan model pengiriman berbasis micro-fulfillment center di berbagai kota besar, 
+memungkinkan pengiriman dalam hari yang sama atau bahkan dalam hitungan jam. 
+Keberlanjutan menjadi fokus utama, dengan perusahaan logistik mengadopsi kendaraan listrik 
+dan mengoptimalkan rute pengiriman untuk mengurangi konsumsi bahan bakar. Investasi 
+dalam infrastruktur hijau, seperti gudang ramah lingkungan dan kemasan yang dapat didaur 
+ulang, juga meningkat, sejalan dengan upaya mengurangi jejak karbon dan memenuhi tuntutan 
+konsumen yang lebih peduli lingkungan. 
+Diversifikasi rantai pasok menjadi strategi penting dalam menghadapi ketidakpastian global. 
+Perusahaan logistik membangun jaringan distribusi yang lebih luas dan berbasis multi-supplier 
+untuk mengurangi risiko keterlambatan pengiriman dan meningkatkan ketahanan operasional. 
+Tinjauan Industri 
+Industry Review 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Pemerintah Indonesia juga berperan dalam mendukung pertumbuhan sektor logistik 
+melalui pembangunan infrastruktur seperti jalan tol, pelabuhan, dan jaringan kereta api 
+logistik. Dukungan regulasi dan insentif fiskal bagi perusahaan yang mengadopsi teknologi 
+hijau turut mempercepat transisi industri menuju model logistik yang lebih berkelanjutan. 
+Dengan kombinasi inovasi teknologi, efisiensi operasional, dan kepedulian terhadap 
+lingkungan, industri angkutan logistik Indonesia berada pada jalur pertumbuhan positif dan 
+dinamis pada tahun 2024 dan 2025. 
+Indonesia's logistics transportation industry is projected to experience significant growth in 
+2024 and 2025, driven by factors such as the adoption of advanced technology, the rise of 
+e-commerce, and a focus on sustainability. 
+According to Supply Chain Indonesia (SCI), the transportation and warehousing sector is 
+expected to contribute IDR 1,436 trillion to Indonesia's Gross Domestic Product (GDP) in 2024, 
+reflecting a 14.16% growth compared to the previous year. In 2025, this sector's contribution is 
+projected to increase to IDR 1,623.65 trillion, growing by 12.53% from 2024. 
+This growth is driven by the transportation subsector, which is expected to contribute IDR 
+1,276.66 trillion in 2025, an 11.09% increase from the previous year, while the warehousing 
+subsector is projected to reach IDR 346.99 trillion, growing by 18.26%. 
+The adoption of technologies such as the Internet of Things (IoT), artificial intelligence (AI), and 
+blockchain is significantly enhancing the operational efficiency of logistics companies. These 
+technologies enable real-time shipment tracking and data-driven decision-making, which are 
+crucial in responding to market dynamics. 
+The rapid growth of e-commerce in Indonesia is also fueling an increase in logistics activities, 
+particularly in last-mile delivery services. Logistics companies are implementing micro-fulfill- 
+ment centers in major cities, enabling same-day or even instant deliveries, which align with 
+rising consumer expectations for faster and more flexible shipping options. 
+Sustainability is becoming a key focus, with logistics companies increasingly adopting electric 
+vehicles and route optimization strategies to reduce fuel consumption. Investments in green 
+infrastructure, such as eco-friendly warehouses and recyclable packaging, are also increasing, 
+in line with efforts to reduce the carbon footprint and meet the demands of environmentally 
+conscious consumers. 
+Supply chain diversification is emerging as a crucial strategy for addressing global uncertainties. 
+Logistics companies are developing broader, multi-supplier distribution networks to mitigate the 
+risks of shipment delays and enhance operational resilience in response to geopolitical and trade 
+challenges. 
+The Indonesian government is also playing a key role in supporting logistics sector growth 
+through investments in infrastructure development, including toll roads, ports, and rail logistics 
+networks. Regulatory support and fiscal incentives for companies adopting green technologies 
+are further accelerating the industry's transition toward more sustainable logistics models. 
+With a combination of technological innovation, operational efficiency, and environmental 
+awareness, Indonesia’s logistics transportation industry is on a positive and dynamic growth 
+trajectory in 2024 and 2025. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Tinjauan Operasi Per Segmen Operasi / Operational Review per Operating Segment 
+Kegiatan operasional Perseroan berpusat pada sektor integrated supply chain yaitu 
+segmen downstream (pengiriman dari sumber ke tempat pengolahan bahan baku), 
+processing (pengambilan dan pengiriman bahan baku manufaktur atau industri), 
+inventory (pengiriman penjualan hasil pengolahan bahan baku yang terhubung rantai 
+pasok), dan distribusi (pengiriman barang jadi atau setengah jadi ke gudang produsen 
+dan/atau distributor). Untuk melancarkan kegiatan operasional, Perseroan melakukan 
+pengiriman dengan menggunakan truk dan multimoda (truk dan kereta) serta kontainer 
+(dry container dan iso tank). Kapasitas pengiriman Perseroan selama tahun 2024 
+sebesar 1.078.082 ton. Selama 2023, Perseroan membagi porsi segmen kegiatan 
+operasional dalam cakupan yang berbeda yaitu segmen downstream sebesar 15%, 
+distribusi sebesar 25%, processing sebesar 35%, dan inventory sebesar 25%. 
+The Company's operational activities are centered on the integrated supply chain sector, namely the 
+downstream segment (delivery from source to raw material processing site), processing (collection 
+and delivery of raw materials for manufacturing or industry), inventory (delivery of sales of processed 
+raw materials connected to the supply chain), and distribution (delivery of finished or semi-finished 
+goods to the manufacturer's warehouse and/or distributor). To facilitate operational activities, the Com- 
+pany makes deliveries using trucks and multimodal (trucks and trains) as well as containers (dry con- 
+tainers and iso tanks). The Company's shipping capacity during 2024 is 1,078,082 tons. During 2023, 
+the Company divides the portion of operational activity segments into different scopes, namely the 
+downstream segment of 15%, distribution of 25%, processing of 35%, and inventory of 25%. 
+Tinjauan Keuangan 
+Financial Review 
+Pemerintah Indonesia juga berperan dalam mendukung pertumbuhan sektor logistik 
+melalui pembangunan infrastruktur seperti jalan tol, pelabuhan, dan jaringan kereta api 
+logistik. Dukungan regulasi dan insentif fiskal bagi perusahaan yang mengadopsi teknologi 
+hijau turut mempercepat transisi industri menuju model logistik yang lebih berkelanjutan. 
+Aset Lancar / Current Asset 
+Pada 2024, total aset lancar Perseroan adalah sebesar Rp127.551.942.440 meningkat 
+sebesar Rp12.004.568.845 atau meningkat 10,39 persen dibandingkan tahun 2023 yang 
+sebesar Rp115.547.373.595. 
+Peningkatan ini terutama disebabkan oleh peningkatan Piutang Usaha Pihak Ketiga menjadi 
+Rp96.206.550.408, naik sebesar Rp30.626.020.199 atau 46,70 persen dari posisi 
+Rp65.580.530.209 pada 2023. 
+In 2024, the Company's total current assets will be IDR127,551,942,440, an increase of 
+IDR12,004,568,845 or an increase of 10.39 percent compared to 2023 which was 
+IDR115,547,373,595. 
+This increase was mainly due to an increase in Third Party Accounts Receivables to 
+Rp96,206,550,408, an increase of Rp30,626,020,199 or 46.70 percent from Rp65,580,530,209 in 
+2023. 
+Aset Tidak Lancar / Non-Current Asset 
+Pada 2024, total aset tidak lancar Perseroan adalah sebesar Rp 488.550.076.954 naik sebesar 
+Rp 24.210.478.602 atau naik 5,21% dari tahun 2023 sebesar Rp 464.339.598.352 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Kenaikan ini terutama disebabkan oleh kenaikan Aset Tetap – Neto yang tidak berasal dari 
+reklasifikasi Uang Muka Pembelian yang merupakan pembuatan peralatan pendukung 
+armada Perseroan. 
+In 2024, the Company's total non-current assets were IDR 488,550,076,954, an increase of IDR 
+24,210,478,602 or an increase of 5.21% from 2023 of IDR 464,339,598,352. This increase was mainly 
+due to an increase in Fixed Assets – Net that did not originate from the reclassification of Purchase 
+Advances which is the manufacture of supporting equipment for the Company's fleet. 
+Total Aset / Total Assets 
+Pada 2024, Total Aset Perseroan adalah sebesar Rp616.102.019.394 naik sebesar Rp 
+36.215.047.447 atau naik 6.25 persen dibandingkan pada 2023 sebesar 
+Rp 579.886.971.947. 
+Kenaikan ini terutama disebabkan oleh kenaikan Piutang Usaha Pihak Ketiga dan kenaikan 
+Aset Tetap – Neto yang tidak berasal dari reklasifikasi Uang Muka Pembelian yang merupakan 
+pembuatan peralatan pendukung armada Perseroan. 
+In 2024, the Company's Total Assets were IDR 616,102,019,394, an increase of IDR 
+36,215,047,447 or an increase of 6.25 percent compared to 2023 of IDR 579,886,971,947. 
+This increase was primarily due to an increase in Trade Receivable Third Parties and an increase 
+in Fixed Assets - Net which did not come from the reclassification of Purchase Advances which 
+was the manufacture of equipment to support the Company's fleet. 
+Liabilitas Jangka Pendek / Short-Term Liabilities 
+Pada 2024, jumlah liabilitas jangka pendek Perseroan adalah sebesar Rp100.846.393.666 men- 
+galami kenaikan sebesar Rp 25.516.645.012 atau naik 33,87% dari 2023 sebesar 
+Rp 75.329.748.654. 
+Hal ini disebabkan oleh kenaikan Utang Pembiayaan Jangka Pendek dari sebelumnya 
+Rp 2.000.000.000 menjadi Rp21.800.000.000 pada tahun 2024. Pada tahun 2024 Perseroan 
+mendapatkan tambahan modal kerja dari Perusahaan Multifinance. 
+In 2024, the Company's short-term liabilities amounted to Rp100,846,393,666, an increase of 
+Rp25,516,645,012 or an increase of 33.87% from 2023 of Rp75,329,748,654. 
+This is due to an increase in Short-Term Financing Debt from the previous IDR 2,000,000,000 to 
+IDR 21,800,000,000 in 2024. In 2024, the Company received additional working capital from Mul- 
+tifinance Companies. 
+Liabilitas Jangka Panjang / Long-Term Liabilities 
+Pada 2024, jumlah Liabilitas Jangka Panjang Perseroan adalah sebesar Rp 11.235.313.679 
+mengalami kenaikan sebesar Rp 4.911.386.995 atau naik 77,66% dari 31 Desember 2023 
+sebesar Rp 6.323.926.684. Hal ini terutama disebabkan oleh kenaikan Utang Pembiayaan 
+Jangka Panjang. 
+In 2024, the Company's Long-Term Liabilities amounted to Rp11,235,313,679, an increase of 
+Rp4,911,386,995 or an increase of 77.66% from December 31, 2023 of Rp6,323,926,684. This was 
+mainly due to an increase in Long-Term Financing Debt. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Total Liabilitas / Total Liabilitas 
+Pada 2024, Total Liabilitas Perseroan adalah sebesar Rp 112.081.707.345, mengalami pening- 
+katan sebesar Rp30.428.032.007 atau naik 37,26% dibandingkan 2023 sebesar Rp 
+81.653.675.338. Hal ini terutama disebabkan kenaikan Utang Lembaga Pembiayaan dari 
+sebelumnya Rp 2.000.000.000 menjadi Rp 21.800.000.000 pada tahun 2024. 
+In 2024, the Company's Total Liabilities amounted to Rp112,081,707,345, an increase of 
+Rp30,428,032,007 or an increase of 37.26% compared to 2023 of Rp81,653,675,338. This was 
+mainly due to an increase in Financing Institution Debt from the previous Rp2,000,000,000 to 
+Rp21,800,000,000 in 2024. 
+Ekuitas / Equities 
+Pada 2024, jumlah ekuitas Perseroan adalah sebesar Rp504.020.312.049, mengalami 
+kenaikan sebesar Rp5.787.015.440 atau naik 1,16% dari periode 31 Desember 2023 sebesar 
+Rp498.233.296.609. Kenaikan ekuitas ini berasal dari hasil operasional Perseroan. 
+In 2024, the Company's total equity is Rp504,020,312,049, an increase of Rp5,787,015,440 or an 
+increase of 1.16% from the period of December 31, 2023 of Rp498,233,296,609. This increase in 
+equity comes from the Company's operational results. 
+Periode Laporan Keuangan 
+Financial Statement Period 
+31 Desember 2024 
+31 December 2024 
+31 Desember 2023 
+31 December 2023 
+Jumlah Aset 
+Total Assets 
+Rp 616.102.019.394 
+Rp 579.886.971.947 
+Jumlah Aset Lancar 
+Total Current Assets 
+Rp 127.551.942.440 
+Rp 115.547.373.595 
+Jumlah Tidak Aset 
+Total Non-Current Assets 
+Rp 488.550.076.954 
+Rp 464.339.598.352 
+Jumlah Liabilitas 
+Total Liabilities 
+Rp 112.081.707.345 
+Rp 81.653.675.338 
+Jumlah Liabilitas Jangka Pendek 
+Total Short-Term Liabilities 
+Rp 100.846.393.666 
+Rp 75.329.748.654 
+Jumlah Liabilitas Jangka Panjang 
+Total Long Term 
+Rp 11.235.313.679 
+Rp 6.323.926.684 
+Jumlah Ekuitas 
+Total Equity 
+Rp 504.020.312.049 
+Rp 498.233.296.609 
+Laporan Laba Rugi Komprehensif / Comprehensive Income Statement 
+Tabel berikut merupakan ikhtisar laporan laba rugi dan penghasilan komprehensif lain Perseroan 
+tahun 2024 dibandingkan dengan tahun 2023. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+5.335.945.026 
+The following table is an overview of the Company’s statement of profit and loss and other 
+comprehensive income for 2024 compared to 2023. 
+Uraian 
+Description 
+2024 
+(Dalam Rupiah) 
+(In Rupiah) 
+Catatan 
+Notes 
+2023 
+(Dalam Rupiah) 
+(In Rupiah) 
+Neto 
+Revenues-Net 
+280.301.443.290 
+2k, 19 
+193.097.121.715 
+Beban Langsung 
+Direct costs 
+246.669.043.930 
+2k, 20 
+168.887.709.085 
+Laba bruto 
+Gross profit 
+33.632.399.360 
+- 
+24.209.412.630 
+Beban umum dan administrasi 
+General and administrative expenses 
+8.891.900.280 
+2k, 22 
+9.626.038.939 
+Laba Usaha 
+Operating income 
+24.740.499.080 
+- 
+14.583.373.691 
+Penghasilan lain-lain 
+Other incomes 
+4.707.741 
+2k, 22 
+6.794.163 
+Beban Keuangan 
+Financial expenses 
+17.645.453.703 
+2k, 23 
+9.254.222.828 
+Laba sebelum manfaat pajak 
+penghasilan 
+Profit before income tax benefit 
+7.099.753.118 
+- 
+Manfaat (beban) pajak penghasilan 
+Income tax benefit 
+- 
+- 
+- 
+Kini 
+Current 
+822.212.847 
+2j, 15c 
+810.099.000 
+Tangguhan 
+Deferred 
+527.426.835 
+2j, 15d 
+326.954.306 
+Pajak penghasilan terkait 
+Related income tax 
+8.656.026 
+2j, 15d 
+9.444.612 
+Penghasilan komprehensif lain-neto 
+Other comprehensive income-net 
+36.902.004 
+- 
+40.263.876 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Laba komprehensif neto tahun 
+berjalan 
+Comprehensive income for the year 
+5.787.015.440 
+- 
+4.207.291.591 
+Laba neto per saham dasar 
+Basic earnings per share 
+0,91 
+24 
+0,67 
+Pendapatan Usaha / Operating Revenue 
+Pendapatan usaha Perseroan untuk periode yang berakhir pada 2024 sebesar 
+Rp 280.301.443.290, meningkat Rp 87.204.321.575 atau naik 45,16% dari periode yang berakh- 
+ir pada 2023 sebesar Rp 193.097.121.715. Peningkatan tersebut berasal dari peningkatan 
+pendapatan jasa angkut. 
+The Company's operating revenue for the period ending in 2024 amounted to 
+Rp280,301,443,290, an increase of Rp87,204,321,575 or an increase of 45.16% from the period 
+ending in 2023 of Rp193,097,121,715. The increase came from an increase in transportation 
+service revenue. 
+Beban Pokok Pendapatan / Cost of Revenue 
+Beban langsung Perseroan periode yang berakhir pada 2024 mengalami peningkatan sebesar 
+Rp 77.781.334.845 atau 46,06% menjadi Rp 246.669.043.930 dari posisi sebelumnya pada 2023 
+yang tercatat sebesar Rp 168.887.709.085. Kenaikan ini sejalan dengan utilisasi armada dalam 
+meningkatkan pendapatan di mana terjadi peningkatan konsumsi bahan bakar, biaya perjalanan 
+untuk pengemudi maupun biaya pemeliharaan dan suku cadang kendaraan. 
+The Company's direct expenses for the period ending in 2024 increased by Rp 77,781,334,845 
+or 46.06% to Rp 246,669,043,930 from the previous position in 2023 which was recorded at Rp 
+168,887,709,085. This increase is in line with fleet utilization in increasing revenue where there is 
+an increase in fuel consumption, travel costs for drivers and vehicle maintenance and spare parts 
+costs. 
+Laba Bruto / Gross Profit 
+Laba bruto Perseroan untuk periode yang berakhir pada tanggal 31 Desember 2024 mencapai 
+Rp33.632.399.360, meningkat sebesar Rp9.422.986.730 atau naik 38,92 persen dari laba bruto 
+periode yang berakhir pada tanggal 31 Desember 2023 sebesar Rp24.209.412.630. Peningkatan 
+laba bruto Perseroan terjadi seiring dengan peningkatan pada pendapatan usaha Perseroan. 
+The Company's gross profit for the period ending December 31, 2024 reached Rp 33,632,399,360, 
+an increase of Rp 9,422,986,730 or an increase of 38.92% from the gross profit for the period 
+ending December 31, 2023 of Rp 24,209,412,630. The increase in the Company's gross profit 
+occurred in line with the increase in the Company's operating income. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Laba Sebelum Pajak / Profit Before Tax 
+Posisi laba sebelum pajak Perseroan periode yang berakhir pada tanggal 31 Desember 2024 
+mencapai Rp 7.099.753.118. Angka tersebut mengalami kenaikan sebesar Rp 1.763.808.092 
+atau naik 33,06% dari laba sebelum pajak periode yang berakhir pada tanggal 31 Desember 
+2023 sebesar Rp 5.335.945.026. 
+The Company's profit before tax position for the period ending December 31, 2024 reached Rp 
+7,099,753,118. This figure increased by Rp 1,763,808,092 or increased by 33.06% from the 
+profit before tax for the period ending December 31, 2023 of Rp 5,335,945,026. 
+Laba Tahun Berjalan / Current Year Profit 
+Laba tahun berjalan Perseroan periode yang berakhir pada tanggal 31 Desember 2024 mencapai 
+Rp5.750.113.436. Angka tersebut mengalami kenaikan 36,94% dari periode yang berakhir pada 
+tanggal 31 Desember 2023 yang tercatat sebesar Rp 4.198.891.720. 
+The Company's current year profit for the period ending December 31, 2024 reached 
+Rp5,750,113,436. This figure increased by 36.94% from the period ending December 31, 
+2023, which was recorded at Rp4,198,891,720. 
+Analisis Laporan Arus Kas / The Company’s Cash Flow Statement Analysis 
+Tabel berikut merupakan komposisi Arus Kas Perseroan periode yang berakhir pada tanggal 31 
+Desember 2023 dan 31 Desember 2022. 
+The following table represents the composition of the Company’s Cash Flows for the period 
+ended on 31 December 2023 and 31 December 2022. 
+Uraian 
+Description 
+31 Desember 2024 
+31 December 2024 
+31 Desember 2023 
+31 December 2023 
+Arus Kas Neto Diperoleh Dari 
+Aktivitas Operasi 
+Net Cash Flow Obtained From 
+Operating Activities 
+35.315.123.971 
+10.725.561.027 
+Arus Kas Neto Digunakan Untuk 
+Aktivitas Investasi 
+Net Cash Flow Used For 
+Investment Activities 
+65.303.620.720 
+58.500.000.000 
+Arus Kas Neto Diperoleh Dari 
+(Digunakan Untuk) Aktivitas 
+Pendanaan 
+Net Cash Flows Obtained From 
+(Used For) Funding Activities 
+29.601.578.052 
+37.564.406.451 
+Arus Kas Neto Diperoleh dari Aktivitas Operasi untuk Periode yang berakhir pada Tanggal 
+31 Desember 2024 dan 31 Desember 2023 / Net Cash Flow from Operating Activities for the 
+Periods Ended 31 December 2024 and 31 December 2023 
+Arus kas neto dari aktivitas operasi untuk periode yang berakhir pada tanggal 31 Desember 2024 
+adalah Rp35.315.123.971. Penggunaan kas hasil aktivitas operasi terutama digunakan untuk 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+pembayaran kepada pemasok terkait dengan Beban Pokok Pendapatan, Beban Usaha untuk 
+pembayaran biaya umum dan administrasi serta pembayaran bunga. 
+Arus kas neto dari aktivitas operasi untuk periode yang berakhir pada tanggal 31 Desember 2023 
+adalah Rp10.725.561.027. Penggunaan kas hasil aktivitas operasi terutama digunakan untuk pemba- 
+yaran kepada pemasok terkait dengan Beban Pokok Pendapatan, Beban Usaha untuk pembayaran 
+biaya umum dan administrasi serta pembayaran bunga. 
+Arus kas neto dari aktivitas operasi untuk periode yang berakhir pada tanggal 31 Desember 2024 
+mengalami kenaikan sebesar Rp24.589.562.944 atau naik 229,26 persen dibandingkan periode 
+yang berakhir pada tanggal 31 Desember 2023. Hal ini terutama disebabkan oleh peningkatan 
+penerimaan kas dari pelanggan sebesar Rp104.967.679.956. 
+Net cash flow from operating activities for the period ended December 31, 2023 was 
+Rp10,725,561,027. The use of cash from operating activities was mainly used for payments to 
+suppliers related to Cost of Revenue, Operating Expenses for payment of general and adminis- 
+trative costs and interest payments. 
+Net cash flow from operating activities for the period ended December 31, 2024 increased by 
+Rp24,589,562,944 or increased by 229.26 percent compared to the period ended December 
+31, 2023. This was mainly due to an increase in cash receipts from customers of 
+Rp104,967,679,956. 
+Arus Kas Neto Diperoleh dari Aktivitas Investasi untuk Periode yang berakhir pada Tanggal 
+31 Desember 2024 dan 31 Desember 2023 / Net Cash Flow from Investing Activities for the Peri- 
+ods Ended 31 December 2024 and 31 December 2023 
+Arus kas neto dari aktivitas investasi untuk tahun yang berakhir pada tanggal 31 Desember 2024 
+adalah negatif Rp65.303.620.720. Penggunaan kas terutama digunakan untuk penambahan aset 
+tetap. 
+Arus kas neto dari aktivitas investasi untuk tahun yang berakhir pada tanggal 31 Desember 2023 
+dalah negatif Rp58.500.000.000. Penggunaan kas terutama digunakan untuk penambahan aset 
+tetap. 
+Net cash flow from investing activities for the year ended December 31, 2024 was negative 
+Rp65,303,620,720. The use of cash was mainly used for the addition of fixed assets. 
+Net cash flow from investing activities for the year ended December 31, 2023 was negative 
+Rp58,500,000,000. The use of cash was mainly used for the addition of fixed assets. 
+Arus Kas Neto Diperoleh Dari Aktivitas Pendanaan untuk Periode yang berakhir pada Tanggal 
+31 Desember 2024 dan 31 Desember 2023 / Net Cash Flow From Financing Activities for the Peri- 
+ods Ended 31 December 2024 and 31 December 2023 
+Arus kas neto dari aktivitas pendanaan untuk periode yang berakhir pada tanggal 31 Desember 
+2024 adalah sebesar Rp29.601.578.052. Sedangkan, arus kas neto dari aktivitas pendanaan 
+untuk periode yang berakhir pada tanggal 31 Desember 2023 adalah sebesar 
+Rp37.564.406.451. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+Perbandingan total kewajiban baik pendek maupun panjang terhadap total aset Perusahaan 
+pada waktu tertentu. Debt to Asset Ratio Perusahaan pada tanggal 31 Desember 2024, 
+tanggal 31 Desember 2023 serta tanggal 31 Desember 2022 masing-masing dan 
+berturut-turut adalah 17,89%, 14,08%, dan 13,07%. 
+Comparison of total liabilities, both short and long, to the Company's total assets at a certain 
+time. The Company's Debt to Asset Ratio as of December 31, 2024, December 31, 2023, and 
+December 31, 2022 were respectively 17.89 percent, 14.08 percent, and 13.07%. 
+ 
+01 
+Perbandingan total kewajiban baik pendek maupun panjang terhadap total modal Perusa- 
+haan pada waktu tertentu. Debt to Equity Ratio pada tanggal 31 Desember 2024, tanggal 31 
+Desember 2023 serta tanggal 31 Desember 2022 masing-masing dan berturut-turut adalah 
+21,87%, 16,39%, dan 15,04%. 
+Comparison of total liabilities, both short and long, to the Company's total capital at a cer- 
+tain time. Debt to Equity Ratio as of December 31, 2024, December 31, 2023, and 
+December 31, 2022, respectively, are 21.87%, 16.39%, and 15.04%. 
+ 
+ 
+Posisi arus kas neto dari aktivitas pendanaan untuk periode yang berakhir pada tanggal 31 
+Desember 2024 dibanding arus kas neto dari aktivitas pendanaan periode yang berakhir pada 
+tanggal 31 Desember 2023 mengalami penurunan Rp7.962.828.399 atau turun sebesar 21,20 %. 
+Penurunan ini disebabkan oleh berkurangnya arus masuk yang berasal dari penerimaan penam- 
+bahan modal. 
+Net cash flow from financing activities for the period ended December 31, 2024 was 
+Rp29,601,578,052. Meanwhile, net cash flow from financing activities for the period ended 
+December 31, 2023 was Rp37,564,406,451. 
+The net cash flow position from financing activities for the period ended December 31, 2024 com- 
+pared to the net cash flow from financing activities for the period ended December 31, 2023 
+decreased by Rp7,962,828,399 or decreased by 21.20%. This decrease was due to a decrease 
+in inflows from additional capital receipts. 
+Solvabilitas / Solvency 
+Tingkat solvabilitas mencerminkan kemampuan perusahaan dalam memenuhi liabilitas jangka 
+pendek dan panjangnya baik dengan menggunakan seluruh asetnya maupun hanya dengan 
+modal yang dimilikinya, tingkat solvabilitas diukur dengan: 
+The level of solvency reflects the Company’s ability to meet its short-term and long-term liabilities 
+either by using all of its assets or only with its own capital; the level of solvency is measured by: 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Profitabilitas / Profitability 
+Profitabilitas merupakan kemampuan Perusahaan dalam meraih laba baik diukur dengan 
+pendapatan, aset dan modal yang dimiliki oleh perusahaan. Tingkat profitabilitas diukur dengan: 
+Profitability is the Company’s ability to achieve profit, both measured by income, assets, and 
+capital owned by the Company. The level of profitability is measured by: 
+ 
+Net profit margin 
+Perbandingan pendapatan bersih terhadap total pendapatan 
+pada waktu tertentu. Net Profit Margin, perusahaan pada 
+tanggal 31 Desember 2024, tanggal 31 Desember 2023 
+serta tanggal 31 Desember 2022 masing-masing adalah 
+2,06%, 2,17%, dan 5,17%. 
+Comparison of net income to total income at a certain time. 
+Net Profit Margin, the company on December 31, 2024, 
+December 31, 2023 and December 31, 2022 are 2.06%, 
+2.17%, and 5.17% respectively. 
+ 
+ 
+Return on asset 
+Perbandingan pendapatan komprehensif terhadap total aset 
+pada waktu tertentu. Return on Asset Perusahaan pada 
+tanggal 31 Desember 2024, tanggal 31 Desember 2023 
+serta tanggal 31 Desember 2022 masing-masing dan 
+berturut-turut adalah 0,94%, 0,73%, dan 1,14%. 
+Comparison of comprehensive income to total assets at a 
+certain point in time. The Company's Return on Assets as 
+of December 31, 2024, December 31, 2023 and December 
+31, 2022 were 0.94%, 0.73% and 1.14% respectively. 
+ 
+ 
+Return on equity 
+Perbandingan pendapatan komprehensif terhadap total 
+modal pada waktu tertentu. Return on Equity Perusahaan 
+pada tanggal 31 Desember 2024, tanggal 31 Desember 
+2023 serta tanggal 31 Desember 2022 masing-masing dan 
+berturut-turut adalah 1,15%, 0,84%, dan 1,31%. 
+Comparison of comprehensive income to total capital at a 
+certain time. The Company's Return on Equity as of 
+December 31, 2024, December 31, 2023 and December 
+31, 2022 respectively and respectively are 1.15%, 0.84% 
+and 1.31%. 
+ 
+Ikatan material investasi barang modal 
+Material commitment for capital goods investment 
+Perseroan tidak memiliki ikatan material investasi barang 
+modal yang berkaitan dengan pinjaman dari lembaga 
+keuangan bank maupun non-bank. 
+The company has no material commitments for capital 
+goods investment related to loans from the bank or non-bank 
+financial institutions. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Informasi fakta material yang terjadi setelah tanggal 
+laporan auditor 
+Information on material facts occurring after the date of 
+the auditor’s report 
+Tidak terdapat informasi dan fakta material yang terjadi setelah 
+tanggal Laporan Auditor sampai dengan diterbitkannya Laporan 
+Tahunan ini. 
+There was no material information and facts that occurred 
+after the date of the auditor’s report until the issuance of this 
+annual report. 
+Tingkat Kolektibiltas Piutang 
+Accounts Receivable Collection Rate 
+Pada tahun 2024, kolektibilitas piutang Perseroan mengalami penurunan sebanyak 
+rata-rata 26 hari. Hal ini menunjukkan bahwa Perseroan dapat lebih cepat mengumpulkan 
+piutang serta memperlihatkan perkembangan manajemen piutang Perseroan. 
+In 2024, the collectability of the Company's receivables decreased by an average of 26 days. 
+This indicates that the Company can collect receivables more quickly and demonstrates the 
+development of the Company's receivables management. 
+2024 
+2023 
+Kenaikan/Penurunan 
+Increase/Decrease 
+Persentase 
+Percentage 
+151 hari 
+209 hari 
+58 hari 
+27,75% 
+Struktur modal dan Kebijakan Manajemen atas Struktur Modal / Capital Structure and 
+Management Policy on Capital Structure 
+Dalam mengelola modalnya, Perseroan memastikan pemeliharaan rasio modal yang 
+sehat. Hal itu digunakan untuk mendukung usaha dan memaksimalkan nilai tambah bagi 
+pemegang saham dengan tetap memperhatikan kondisi ekonomi yang terjadi. Perusahaan 
+juga mematuhi peraturan dan perundang-undangan dengan mengkontribusikan 20% 
+modal saham ditempatkan dan disetor penuh ke dalam dana cadangan yang tidak boleh 
+didistribusikan. 
+Perusahaan mengelola struktur modal dengan mempertahankan struktur permodalan yang 
+sehat untuk mengamankan akses terhadap pendanaan pada biaya yang wajar. Perusa- 
+haan tidak memiliki perubahan atas tujuan maupun proses selama untuk tahun-tahun buku 
+yang berakhir pada 31 Desember 2024 dan 2023. 
+In managing its capital, the Company ensures the maintenance of a healthy capital ratio. This is 
+used to support operations and maximize shareholder value while also considering prevailing 
+economic conditions. The Company also complies with regulations by allocating 20% of issued 
+and fully paid-up share capital to a reserve fund that cannot be distributed. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+The Company manages its capital structure by maintaining a healthy capitalization structure to 
+secure access to funding at reasonable costs. In 2023, the Company did not make any changes 
+to its objectives or processes during the fiscal years ending on December 31, 2024, and 2023. 
+Dasar Pemilihan Struktur Modal / Basis for Choosing Capital Structure 
+Struktur modal yang diterapkan oleh Perseroan bertujuan untuk mengelola permodalan dengan 
+mempertahankan basis modal yang kuat. Hal ini bertujuan untuk menjaga kepercayaan investor, 
+kreditur, dan pasar, serta mempertahankan serta mengembangkan bisnis dan usaha yang 
+dijalankan oleh PT Putra Rajawali Kencana di masa yang akan datang. 
+The capital structure adopted by the Company aims to manage capital while maintaining a strong 
+capital base. This is intended to maintain the trust of investors, creditors, and the market, as well 
+as to sustain and develop the business and operations carried out by PT Putra Rajawali Kencana 
+in the future. 
+Rincian Struktur Modal Perusahaan / Details of Company Capital Structure 
+Struktur modal merupakan jumlah modal jangka panjang yang diperoleh dari hasil perimbangan 
+antara liabilitas dan ekuitas Perseroan. Melalui struktur modal yang optimal, Perseroan meyakini 
+hal tersebut dapat memaksimalkan nilai bisnis. 
+The capital structure is the total amount of long-term capital obtained from the balance between 
+liabilities and equity of the Company. Through an optimal capital structure, the Company believes 
+that it can maximize the business value. 
+Uraian 
+Description 
+2024 
+2023 
+Kenaikan/Penurunan 
+Increase/Decrease 
+Jumlah 
+Total (Rp) 
+Komposisi 
+Composition (%) 
+Jumlah 
+Total (Rp) 
+Komposisi 
+Composition (%) 
+Nominal 
+(Rp) 
+Persentase 
+Percentage (%) 
+Liabilitas Jangka Pendek 
+Short-Term Liabilities 
+100.846.393.666 
+16,37% 
+75.329.748.654 
+12,99 
+25.516.645.012 
+33,87% 
+Liabilitas Jangka Panjang 
+Long-Term Liabilities 
+11.235.313.679 
+1,82% 
+6.323.926.684 
+1,09 
+4.911.386.995 
+77,66% 
+Total Liabilitas 
+Total of Liabilities 
+112.081.707.345 
+- 
+81.653.675.338 
+- 
+30.428.032.007 
+37,26% 
+Ekuitas 
+Equity 
+504.020.312.049 
+81,81% 
+498.233.296.609 
+85,92 
+5.787.015.440 
+1,16% 
+Total Liabilitas & Ekuitas 
+Total of Liabilities 
+& Equity 
+616.102.019.394 
+100% 
+579.886.971.947 
+100% 
+36.215.047.447 
+6,25% 
+Berdasarkan data di atas, di tahun 2024, komposisi liabilitas jangka pendek terhadap struktur 
+modal Perusahaan tercatat sebesar 16,37% mengalami perubahan dibanding tahun sebelumnya 
+yang sebesar 12,99%. 
+Sementara komposisi liabilitas jangka panjang terhadap struktur modal Perusahaan juga 
+mengalami perubahan dari 1,95% di tahun 2023 menjadi 1,09% di tahun 2023. Adapun 
+komposisi ekuitas terhadap struktur modal Perusahaan di tahun 2023 adalah 85,92% 
+mengalami perubahan dibanding tahun sebelumnya sebesar 86,93%. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Based on the data above, in 2024, the composition of short-term liabilities to the Company's 
+capital structure stood at 16.37 percent, which changed compared to the previous year's 12.99 
+percent. Meanwhile, the composition of long-term liabilities to the Company's capital structure 
+also changed from 1.09% in 2023 to 1.82% in 2024. The composition of equity to the Company's 
+capital structure in 2024 was 81.81%, which changed compared to the previous year's 85.92%. 
+Rencana Manajemen dan Prospek Usaha 
+Management Plan and Business Prospects 
+Rencana manajemen dan prospek usaha adalah fondasi yang penting bagi setiap perusahaan 
+untuk mencapai keberhasilan jangka panjang. Dalam lingkungan bisnis yang dinamis dan 
+kompetitif, memiliki rencana yang terstruktur dan strategis menjadi kunci untuk bertahan dan 
+tumbuh secara berkelanjutan. Dalam merancang rencana manajemen, Perseroan berupaya 
+untuk melibatkan pengelolaan sumber daya, mengatur operasi dan mencapai tujuan-tujuan 
+yang diterapkan. Hal ini ditujukan untuk merealisasikan prospek usaha yang merujuk pada 
+proyeksi pertumbuhan, peluang pasar, dan strategi pengembangan bisnis yang akan dijalank- 
+an perusahaan. 
+Tahun 2024 diyakini Perseroan sebagai tahun yang cukup menjanjikan karena transformasi di 
+sektor industri yaitu integrasi antara arus produksi dan distribusi cukup memengaruhi kinerja 
+Perseroan dengan melihat adanya peningkatan volume barang dan jasa. Strategi pengemban- 
+gan di rantai pasokan sektor distribusi yang meliputi barang jadi merupakan strategi yang dinilai 
+tepat. Pada tahun 2025, Perseroan merencanakan strategi tersebut untuk dipertahankan di 
+samping merencanakan pengembangan hilirisasi dengan penambahan volume sektor produksi 
+dan distribusi dengan menambah jaringan multimoda kereta dan kapal RORO. 
+Di samping itu, perluasan wilayah dengan memanfaatkan jaringan infrastruktur kereta api di Jawa 
+juga sudah berjalan dengan cukup baik di tahun 2024. Hal ini didukung dengan penambahan 
+jaringan infrastruktur kapal RORO di Sumatera, Bali dan NTB. Perluasan jaringan menjadi lang- 
+kah strategis Perseroan untuk merealisasikan diversifikasi komoditas yang sudah digarap oleh 
+Perseroan dari tahun 2022. Komoditas tersebut meliputi komoditas cair seperti CPO, CNO, aneka 
+kimia dasar, energi dan gas, serta komoditas padat yang termasuk barang jadi, fertilizer (pestisi- 
+da, hibrida dan pupuk). Perseroan mempertimbangkan bahwa diversifikasi komoditas menjadi 
+prospek usaha yang menjanjikan sehingga pada tahun 2024 Perseroan akan berupaya untuk 
+menangani arus produksi dan distribusi di komoditas lainnya, terutama di pangan mengingat 
+prospek komoditas pangan yang dinilai dapat mendukung produktivitas kegiatan bisnis. Perse- 
+roan berencana untuk merambah ke sektor turunan pertanian seperti gula, beras, minyak goreng, 
+hingga susu. 
+Adanya kelanjutan pembangunan infrastruktur untuk konektivitas seperti pembangunan jaringan 
+jalan tol, pelabuhan, kereta api, dan bandara yang modern dan efisien dari pemerintah meningkatkan 
+prospek usaha di industri yang digeluti Perseroan. Terutama setelah pemerintah menerbitkan 
+Instruksi Presiden Nomor 3 tahun 2023 tentang Percepatan Peningkatan Konektivitas Jalan Daerah 
+Perseroan meyakini dukungan pemerintah untuk melakukan akselerasi transformasi 
+struktural dalam mengoptimalkan percepatan waktu dan biaya logistik turut mendukung 
+rencana manajemen dalam pengembangan bisnis ke depannya. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Management plans and business prospects are crucial foundations for any company to achieve 
+long-term success. In a dynamic and competitive business environment, having a structured 
+and strategic plan is key to sustaining and growing effectively. In designing a management plan, 
+the Company strives to involve resource management, streamline operations, and achieve set 
+objectives. This is aimed at realizing business prospects, referring to growth projections, market 
+opportunities, and business development strategies to be implemented by the company. 
+The year 2024 is believed to be promising for the Company due to transformations in the industry 
+sector, specifically the integration of production and distribution flows, which significantly influ- 
+enced the Company's performance by observing an increase in the volume of goods and 
+services. Development strategies in the supply chain, particularly in the distribution sector of 
+finished goods, are deemed appropriate strategies. In 2025, the Company plans to maintain this 
+strategy while also planning downstream development by increasing the volume of the production 
+and distribution sectors through the addition of multimodal networks of trains and RORO ships. 
+Furthermore, expanding into regions by utilizing the railway infrastructure network in Java has 
+progressed quite well in 2024. This is supported by the addition of RORO infrastructure networks in 
+Sumatra, Bali, and NTB. Expanding networks are a strategic step for the Company to realize the 
+diversification of commodities that have been worked on since 2023. These commodities include 
+liquid commodities such as CPO, CNO, various basic chemicals, energy, and gas, as well as solid 
+commodities including finished goods, fertilizers (pesticides, hybrids, and fertilizers). The Company 
+considers commodity diversification as a promising business prospect, so in 2025, the Company will 
+strive to handle production and distribution flows in other commodities, especially in food consider- 
+ing the prospects of food commodities that are deemed to support business activities' productivity. 
+The Company plans to venture into derivative agricultural sectors such as sugar, rice, cooking oil, 
+and milk. 
+The continued development of infrastructure for connectivity, such as the construction of toll roads, 
+ports, railways, and modern and efficient airports by the government, enhances business prospects 
+in the Company's industry. Especially after the government issued Presidential Instruction Number 
+3 of 2023 regarding the Acceleration of Regional Road Connectivity Improvement. The Company 
+believes that government support to accelerate structural transformation in optimizing logistics time 
+and costs also supports management plans in developing future business endeavors. 
+Perbandingan Antara Target / Proyeksi Dengan Hasil Yang Dicapai 
+Comparison Between Target with Results 
+Dalam menjalankan usaha, Perseroan senantiasa melakukan tinjauan terhadap target yang 
+ditetapkan sesuai dengan perkembangan kondisi internal maupun eksternal. Perseroan telah 
+menetapkan target yang hendak dicapai pada tahun buku sebagaimana tertuang dalam Rencana 
+Kerja Anggaran Perusahaan (RKAP) 2024, khususnya untuk kinerja operasional dan finansial 
+utama. PT Putra Rajawali Kencana Tbk juga telah memproyeksikan kinerja operasional dan 
+finansial utama yang ingin dicapai untuk 1 (satu) tahun ke depan sebagaimana tertuang dalam 
+Rencana Kerja Anggaran Perusahaan (RKAP) 2025, berdasarkan pencapaian tahun 2024, serta 
+proyeksinya. 
+Berikut tabel realisasi tahun 2024 terhadap target RKAP: 
+In conducting its business, the Company consistently reviews the targets set in accordance 
+with developments in internal and external conditions. The Company has established targets to 
+be achieved in the fiscal year as outlined in the Company's Budget Work Plan (RKAP) 2024, 
+especially for key operational and financial performance indicators. PT Putra Rajawali Kencana 
+Tbk has also projected the main operational and financial performance it aims to achieve for 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+the next 1 (one) year as outlined in the Company's Budget Work Plan (RKAP) 2025, based on 
+the achievements of 2024 and its projections. 
+Uraian 
+Description 
+Realisasi 2024 
+Realization 2024 
+(Rp) 
+Target 2024 
+Target 2024 
+(Rp) 
+Pencapaian Realisasi 
+terhadap Target 
+Achieved Realization to 
+Target 
+(%) 
+Pendapatan 
+Net Revenue 
+280.301.443.290 
+243.000.000.000 
+115% 
+Laba Operasi 
+Operating Income 
+24.740.499.080 
+18.440.000.000 
+134% 
+Laba Bersih 
+Net Profit of the Year 
+5.750.113.436 
+6.561.000.000 
+-12% 
+Struktur Modal 
+Capital Structure 
+504.020.312.049 
+466.618.331.932 
+108% 
+Target / Proyeksi yang Ingin Dicapai Perusahaan Paling Lama Satu Tahun Mendatang 
+Uraian 
+Description 
+Realisasi 2024 
+Realization 2024 
+(Rp) 
+Target 2025 
+Target 2025 
+(Rp) 
+Pencapaian Realisasi 
+terhadap Target 
+Achieved Realization to 
+Target 
+(%) 
+Pendapatan 
+Net Revenue 
+280.301.443.290 
+375.000.000.000 
+75% 
+Laba Operasi 
+Operating Income 
+24.740.499.080 
+33.750.000.000 
+73% 
+Laba Bersih 
+Net Profit of the Year 
+5.750.113.436 
+7.500.000.000 
+77% 
+Struktur Modal 
+Capital Structure 
+504.020.312.049 
+511.520.312.049 
+100% 
+Aspek Pemasaran 
+Marketing Aspect 
+Perseroan merupakan perusahaan yang menerapkan praktik bisnis B2B atau Business-to-Business 
+dengan fokus transaksi menitikberatkan kepada hubungan bisnis antara dua perusahaan atau entitas 
+bisnis. 
+Antara dua perusahaan atau entitas bisnis. Proses bisnis Perseroan melibatkan negosiasi 
+harga, pembelian dalam jumlah besar, kontrak jangka panjang, dan hubungan yang bersifat 
+profesional antara kedua belah pihak. Oleh sebab itu, Perseroan menerapkan metode dan 
+strategi pemasaran direct selling kepada perusahaan-perusahaan lain. Divisi pemasaran 
+Perseroan memiliki tanggung jawab untuk menjual langsung kepada target pelanggan 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+potensial, memberikan pengenalan mengenai jasa yang ditawarkan oleh Perseroan. 
+Metode pemasaran direct selling diterapkan untuk mempermudah dan mempercepat 
+proses penjualan secara maksimal melalui serangkaian proses yang efektif dan efisien. 
+Melalui peningkatan kualitas yang dilakukan secara terus-menerus, kepercayaan pelanggan juga 
+semakin meningkat. Didukung track record yang baik, Perseroan sering mendapatkan penjualan 
+dari referral basis yaitu pelanggan mereferensikan ke pelanggan yang lain untuk menggunakan jasa 
+Perseroan. Hal ini mendorong Perseroan untuk terus berinovasi serta meningkatkan keunggulan 
+kompetitif untuk menjaga kepercayaan yang diberikan oleh setiap pelanggan. 
+Di samping itu, sepanjang tahun 2024 Perseroan juga terus merancang dan mengembangkan 
+strategi pemasaran dengan fokus pada beberapa aspek sebagai berikut: 
+The company implements B2B (Business-to-Business) business practices, focusing on transactions 
+between two businesses or business entities. The company's business processes involve price 
+negotiations, bulk purchases, long-term contracts, and professional relationships between both 
+parties. Therefore, the company employs direct selling methods and strategies to other companies. 
+The marketing division is responsible for selling directly to potential target customers, introducing the 
+services offered by the company. Direct selling is employed to facilitate and expedite the sales 
+process maximally through effective and efficient processes. 
+Continuous quality improvement has led to increased customer trust. Supported by a good track 
+record, the company often receives sales through referral basis, where customers refer others to use 
+the company's services. This drives the company to continue innovating and enhancing competitive 
+advantages to maintain the trust given by every customer. 
+Moreover, throughout 2024, the company has continuously designed and developed marketing 
+strategies focusing on several aspects: 
+01 Pengelolaan Arus Produksi dan Arus Distribusi / Management of Production & 
+Distribution Flows 
+Saat pertama didirikan, Perseroan hanya dikenal sebagai perusahaan transportasi. Seiring 
+berjalannya waktu, Perseroan menambah aktivitas bisnis untuk mengelola arus produksi dan 
+arus distribusi. Melakukan integrasi layanan menjadi unique selling proposition (USP) yang 
+dapat diberikan Perseroan kepada pelanggan sehingga Perseroan dapat memperkuat posisi 
+di industri transportasi yang menawarkan jasa dari hulu ke hilir. 
+When first established, the company was known solely as a transportation company. Over 
+time, the company expanded its business activities to manage production and distribution 
+flows. This integration of services became a unique selling proposition (USP) that the company 
+offers to its customers, strengthening its position in the transportation industry that provides 
+services from upstream to downstream. 
+02 Perluasan Sektor Pengiriman / Expansion of Delivery Sectors 
+Sebelumnya, Perseroan hanya fokus pada bidang-bidang yang menjadi perhatian pemerintah 
+seperti konstruksi/infrastruktur dan industri bahan kebutuhan pokok seperti beras, gula, 
+minyak, pupuk, dan semen. Pada tahun 2024, Perseroan menambah sektor pengiriman baru 
+seperti sektor kimia dasar, dan distribusi barang setengah jadi. Perluasan sektor pengiriman 
+sejalan dengan ekspansi jangkauan Perseroan yang merambah ke wilayah Sumatera. Perse- 
+roan menargetkan untuk menambah pengiriman sejumlah komoditas yang memiliki serapan 
+tinggi di wilayah tersebut. Komoditas yang disasar meliputi hasil perkebunan, pertambangan, 
+building material, bahan kimia, gula, dan pupuk. 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+Memberikan masukan kepada BOD terkait pemberitaan perseroan. 
+Previously, the company focused on sectors of interest to the government, such as 
+construction/infrastructure and essential commodities industries like rice, sugar, oil, 
+fertilizers, and cement. In 2023, the company expanded into new delivery sectors such 
+as basic chemical sectors and semi-finished goods distribution. The expansion aligns 
+with the company's reach into Sumatra. The company aims to increase deliveries of 
+various commodities with high market demand in that region, including plantation 
+products, mining materials, building materials, chemicals, sugar, and fertilizers. 
+03 Peningkatan Volume Pengiriman / Increase in Delivery Volume 
+Perluasan sektor pengiriman mendorong terjadinya peningkatan volume pengiriman, seiring 
+dengan diversifikasi yang dijalankan Perseroan pada tahun 2024. Hal ini diupayakan oleh 
+Perseroan agar aktivitas bisnis dapat berjalan lebih produktif sehingga dapat meningkatkan 
+pendapatan. Peningkatan volume pengiriman juga menjadi strategi Perseroan untuk men- 
+dukung percepatan bisnis sehingga pemesanan layanan dapat terjadi lebih sering. Dengan 
+peningkatan volume pengiriman, potensi menambah klien baru juga semakin tinggi. 
+The expansion of delivery sectors has led to an increase in delivery volume, in line with the 
+diversification efforts in 2024. The company aims to run a more productive business to boost 
+revenue. Increasing the delivery volume is also a strategy to support business acceleration, 
+allowing more frequent service orders and potentially attracting new clients. 
+04 Efisiensi Proses Pengiriman Melalui Multimoda / Efficiency in Delivery Processes 
+through Multimodal Methods 
+Untuk menjaga efisiensi pengiriman mengingat terjadinya peningkatan volume pengiri- 
+man, Perseroan menjaga efisiensi dengan penggunaan multimoda. Proses pengiriman di 
+Jawa dilakukan dengan menggunakan kereta api sementara untuk Sumatera dengan 
+Kapal Roro. Pada tahun 2024, Perseroan menambah kapasitas kereta api khususnya 
+untuk beroperasi di pulau Jawa. Sedangkan di wilayah Sumatera, pihaknya berupaya 
+memaksimalkan ketersediaan kapal roro untuk pengiriman. Kombinasi penggunaan truk 
+dan kereta juga masih diterapkan, terlebih untuk menjaga keberlanjutan. Dengan angku- 
+tan multimoda, Perseroan dapat memanfaatkan sebagian unit truk yang tersedia untuk 
+angkutan jarak pendek, yaitu dari gudang muat ke stasiun dan dari stasiun ke gudang 
+bongkar. Langkah ini diyakini dapat mengoptimalkan pendapatan serta pelestarian 
+lingkungan. 
+To maintain delivery efficiency amid increasing volumes, the company employs multimodal 
+transportation methods. Delivery processes in Java utilize railways, while in Sumatra, Roro 
+ships are used. In 2024, the company is increasing railway capacity, especially for operations 
+on Java Island. Meanwhile, in Sumatra, efforts are made to maximize Roro ship availability for 
+deliveries. The combination of truck and train transportation is still utilized, especially for sus- 
+tainability. With multimodal transportation, the company utilizes some truck units for short-dis- 
+tance transport, from loading warehouses to stations and from stations to unloading ware- 
+houses. This approach is believed to optimize revenue and environmental preservation. 
+05 Pengembangan Sistem Informasi & Teknologi / Development of Information and 
+Technology Systems 
+PT PUTRA RAJAWALI KENCANA TBK | Laporan Tahunan / Annual Report / 2024 
+Upaya Perseroan agar dapat kompetitif dalam kompetisi yang kian ketat adalah 
+berupaya menurunkan biaya operasional dengan cara yang paling efektif dan efisien. 
+Salah satu cara untuk mencapainya adalah dengan mengembangkan sistem informasi 
+dan teknologi. Untuk itu, Perseroan mengembangkan sistem teknologi operasional 
+multimodal menjadi TMS (Transport Management System) agar bisa terintegrasi 
+langsung dengan unit kendaraan melalui monitoring system operasional. Driver Man- 
+agement System adalah salah satu aplikasi yang dikembangkan Perseroan untuk 
+menunjang pekerjaan supir truk. Beragam benefit diperoleh dari penggunaan Driver 
+Management System, yaitu meniadakan penggunaan kertas dengan mengganti kertas 
+nota menjadi aplikasi digital, meminimalisir kehilangan data, pencatatan aktivitas supir 
+secara realtime, pencatatan histori dan statistik untuk supir, sopir dapat mengakses 
+informasi perusahaan yang terkait dengan pekerjaan dengan mudah melalui aplikasi 
+ini, dan memudahkan komunikasi sopir dengan tim operasional. 
+Selain itu, Perseroan juga mengembangkan Operational Management System, yaitu aplikasi 
+untuk tim operasional Perseroan. Dalam aplikasi ini pihak operasional dapat melihat supir yang 
+aktif dan nonaktif, bukti pengeluaran, kendaraan yang sedang betugas atau yang sedang rusak 
+atau off. Tim operasional juga dengan mudah mengecek kehadiran supir di garasi, melakukan 
+pengkinian data dan kondisi kendaraan, berkoordinasi dengan supir, meminimalikan kecurangan 
+dalam pengecekan dan verifikasi data, serta tim operasional dapat melacak posisi sopir dan 
+kendaraan dalam tiap proses pengiriman sekaligus untuk memantau keselamatan sopir selama 
+bekerja. 
+The company's efforts to remain competitive involve reducing operational costs most 
+effectively and efficiently. One way to achieve this is by developing information and tech- 
+nology systems. Therefore, the company is developing multimodal operational technology 
+systems into TMS (Transport Management System) for direct integration with vehicle units 
+through operational monitoring systems. The Driver Management System is one of the 
+applications developed by the company to support truck drivers' work. Various benefits are 
+gained from using the Driver Management System, such as eliminating the use of paper 
+receipts by replacing them with a digital application, minimizing data loss, real-time driver 
+activity tracking, recording driver history and statistics, easy access to company-related 
+information for drivers through the application, and facilitating driver communication with 
+the operational team. 
+Additionally, the company is developing the Operational Management System, an application 
+for the company's operational team. This application allows the operational team to view active 
+and inactive drivers, expense evidence, vehicles on duty, damaged or off-duty vehicles, easily 
+check driver attendance at the garage, update vehicle data and conditions, coordinate with 
+drivers, minimize fraud in data checks and verification, and track driver and vehicle positions 
+during each delivery process while monitoring driver safety during work. 
+Kebijakan Dividen 
+Dividen Policy 
+Perseroan melakukan pembagian dividen berdasarkan Keputusan Rapat Umum Pemegang 
+Saham Tahunan (RUPS Tahunan) sebagaimana tertuang dalam Undang-Undang No. 40 Tahun 
+2007 tentang Perseroan Terbatas. Berdasarkan Keputusan Rapat Umum Pemgang Saham 
+(RUPS) Tahunan yang diselenggarakan pada tanggal 13 Juni 2024, dan telah dituangkan dalam 
+akta Berita Acara No. 2 yang dibuat di hadapan Notaris Dr. Susanti, S.H. M.Kn., para pemegang 
+saham memutuskan untuk tidak melakukan pembagian dividen kas kepada pemegang saham 
+Perusahaan. 
+Kebijakan pembayaran dividen akan dilakukan dengan mempertimbangkan kondisi keuangan, 
+profitabilitas dan kebutuhan kas untuk menunjang kegiatan operasional dan investasi. 
+The Company distributed dividends based on the Annual General Meeting of Shareholders 
+(AGM) Decision as stipulated in Law No. 40 of 2007 concerning Limited Liability Companies. 
+Based on the Annual General Meeting of Shareholders (AGM) Decision held on June 13, 2024, 
+and documented in Deed No. 2 created before Notary Dr. Susanti, S.H. M.Kn., the shareholders 
+decided not to distribute cash dividends to the Company's shareholders. 
+The dividend payment policy will be carried out by considering the financial condition, profitability and 
+cash requirements to support operational and investment activities. 
+Program Kepemilikan Saham Oleh Karyawan dan Manajemen 
+Employee and Management Share Ownership Program 
+Selama tahun 2024, tidak terdapat program kepemilikan saham oleh karyawan maupun oleh 
+manajemen yang telah dilaksanakan Perseroan. 
+During 2024, there are no share ownership programs by employees or by management that 
+have been implemented by the Company. 
+Informasi dan Transaksi Material Perseroan 
+Information and Material Transactions of The Company 
+Selama tahun 2024, tidak terdapat informasi material Perseroan yang dapat mempengaruhi 
+saham maupun operasional dan keberlangsungan Perseroan. 
+During 2024, there are no share ownership programs by employees or by management that 
+have been implemented by the Company. 
+Perubahan Peraturan Perundang-Undangan 
+Amendments to Laws and Regulations 
+Selama tahun 2024, tidak terdapat perubahan perundang-undangan yang berpengaruh 
+signifikan terhadap Perseroan. 
+In 2024, there were no changes to the legislation that had a significant impact on the Company. 
+Perubahan Kebijakan Akuntansi 
+Changes In Accounting Policies 
+Selama tahun 2024, tidak terdapat perubahan signifikan mengenai kebijakan akuntansi yang 
+harus dijalankan oleh Perseroan. Setiap kebijakan akuntansi yang dilakukan oleh Perseroan 
+telah tertuang dalam laporan keuangan tahunan yang telah di audit oleh kantor akuntan publik 
+yang ditunjuk. 
+In 2024, there were no significant changes to the accounting policies that must be implemented 
+by the Company. Each accounting policy carried out by the Company has been stated in the 
+annual financial report, which has been audited by a designated public accounting firm. 

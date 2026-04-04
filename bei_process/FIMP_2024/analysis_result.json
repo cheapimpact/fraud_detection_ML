@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-FIMP-att1.pdf",
+    "ticker": "FIMP_2024",
+    "mdma_start": "75",
+    "mdma_end": "95",
+    "Positive_Sum": 1202.0,
+    "Negative_Sum": 1533.0,
+    "Total_Matched_Words": 879,
+    "Total_Word": 6825,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

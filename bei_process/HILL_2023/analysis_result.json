@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HILL-att3.pdf",
+    "ticker": "HILL_2023",
+    "mdma_start": "48",
+    "mdma_end": "62",
+    "Positive_Sum": 3275.0,
+    "Negative_Sum": 3242.0,
+    "Total_Matched_Words": 2104,
+    "Total_Word": 12695,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

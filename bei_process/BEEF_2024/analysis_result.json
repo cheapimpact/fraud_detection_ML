@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BEEF-att1.pdf",
+    "ticker": "BEEF_2024",
+    "mdma_start": "97",
+    "mdma_end": "129",
+    "Positive_Sum": 2909.0,
+    "Negative_Sum": 2349.0,
+    "Total_Matched_Words": 1655,
+    "Total_Word": 11534,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

@@ -1,0 +1,14 @@
+f1
+                      target_file ticker_year ticker  year  mdma_start  mdma_end  Positive_Sum  Negative_Sum  Total_Matched_Words  Total_Word processed_at
+0  AnnualReport2024-AADI-att1.pdf   AADI_2024   AADI  2024        38.0      61.0          2914          2465                 1768        9956   2026-02-08
+1  AnnualReport2023-AALI-att1.pdf   AALI_2023   AALI  2023        92.0     113.0          2873          2756                 1783       13121   2026-03-09
+
+f2
+    Ticker Event_Target_Date Event_Actual_Date  Volatility_90d_Annualized  CAR_minus5_to_plus5
+0  AALI.JK        2024-02-23        2024-02-23                   0.164119             0.000094
+1  ACRO.JK        2024-03-30        2024-04-01                   1.116335            -0.230380
+
+f3
+  Ticker  Year         Sales_t       Sales_t-1  Receivables_t  Receivables_t-1  Current_Assets_t  Current_Assets_t-1  Total_Assets_t  Total_Assets_t-1         PPE_t       PPE_t-1  Depreciation_t  Depreciation_t-1   Securities_t  Securities_t-1  Current_Liabilities_t  Current_Liabilities_t-1  Total_Liabilities_t  Total_Liabilities_t-1  Long_Term_Debt_t  Long_Term_Debt_t-1   Net_Income_t  Net_Income_t-1          CFO_t        CFO_t-1          COGS_t        COGS_t-1  SGA_Expense_t  SGA_Expense_t-1      DSRI       GMI       AQI       SGI      DEPI      SGAI      LVGI      TATA   M_Score       Prediction
+0   ADMF  2023           32201           31362       20675293         17200373          31007222            24897205        31007222          24897205        229704        161763           48701             47266        2950000         2275750               31007222                 24897205             31007222               24897205           5885106             4999207        2472669    2.039724e+06        4052033        1527208          966727          700133        1392467          1273655  1.170707  0.734770  1.047436  1.026752  1.292652  1.064799  0.990843 -0.050935 -2.632786  Non-Manipulator
+1   AALI  2023  20745473000000  21828591000000   534007000000     484846000000    28846243000000      29249340000000  28846243000000    29249340000000  715685000000  791413000000   1133173000000     1086352000000  1020975000000   1142218000000         28846243000000           29249340000000       28846243000000         29249340000000     2398096000000       4953180000000  1498402000000    2.429178e+12  2538738000000  1835397000000  17974493000000  18006474000000   908369000000     882976000000  1.158899  1.310896  0.910685  0.950381  0.943923  1.082470  0.926275 -0.036065 -2.415277  Non-Manipulator

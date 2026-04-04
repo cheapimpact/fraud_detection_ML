@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HAIS-att2.pdf",
+    "ticker": "HAIS_2023",
+    "mdma_start": "84",
+    "mdma_end": "108",
+    "Positive_Sum": 2519.0,
+    "Negative_Sum": 2652.0,
+    "Total_Matched_Words": 1611,
+    "Total_Word": 10689,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-NTBK-att1.pdf",
+    "ticker": "NTBK_2023",
+    "mdma_start": "66",
+    "mdma_end": "79",
+    "Positive_Sum": 1507.0,
+    "Negative_Sum": 1569.0,
+    "Total_Matched_Words": 989,
+    "Total_Word": 6449,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

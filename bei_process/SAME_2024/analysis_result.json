@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SAME-att1.pdf",
+    "ticker": "SAME_2024",
+    "mdma_start": "53",
+    "mdma_end": "62",
+    "Positive_Sum": 2675.0,
+    "Negative_Sum": 2416.0,
+    "Total_Matched_Words": 1606,
+    "Total_Word": 10215,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

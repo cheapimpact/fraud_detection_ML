@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MLIA-att2.pdf",
+    "ticker": "MLIA_2024",
+    "mdma_start": "66",
+    "mdma_end": "78",
+    "Positive_Sum": 1375.0,
+    "Negative_Sum": 1437.0,
+    "Total_Matched_Words": 893,
+    "Total_Word": 5149,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

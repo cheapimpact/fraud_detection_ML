@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SDMU-att1.pdf",
+    "ticker": "SDMU_2024",
+    "mdma_start": "79",
+    "mdma_end": "98",
+    "Positive_Sum": 2169.0,
+    "Negative_Sum": 2038.0,
+    "Total_Matched_Words": 1299,
+    "Total_Word": 8032,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PIPA-att2.pdf",
+    "ticker": "PIPA_2023",
+    "mdma_start": "34",
+    "mdma_end": "47",
+    "Positive_Sum": 1214.0,
+    "Negative_Sum": 1367.0,
+    "Total_Matched_Words": 812,
+    "Total_Word": 5411,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

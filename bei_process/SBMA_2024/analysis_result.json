@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SBMA-att1.pdf",
+    "ticker": "SBMA_2024",
+    "mdma_start": "72",
+    "mdma_end": "89",
+    "Positive_Sum": 1737.0,
+    "Negative_Sum": 1772.0,
+    "Total_Matched_Words": 1125,
+    "Total_Word": 7352,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MAHA-att2.pdf",
+    "ticker": "MAHA_2023",
+    "mdma_start": "92",
+    "mdma_end": "131",
+    "Positive_Sum": 3423.0,
+    "Negative_Sum": 4095.0,
+    "Total_Matched_Words": 2340,
+    "Total_Word": 14681,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

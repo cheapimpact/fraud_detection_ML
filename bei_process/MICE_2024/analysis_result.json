@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MICE-att3.pdf",
+    "ticker": "MICE_2024",
+    "mdma_start": "98",
+    "mdma_end": "159",
+    "Positive_Sum": 7489.0,
+    "Negative_Sum": 7166.0,
+    "Total_Matched_Words": 4695,
+    "Total_Word": 32805,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

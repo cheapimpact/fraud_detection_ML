@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BRRC-att1.pdf",
+    "ticker": "BRRC_2024",
+    "mdma_start": "67",
+    "mdma_end": "85",
+    "Positive_Sum": 1920.0,
+    "Negative_Sum": 1680.0,
+    "Total_Matched_Words": 1135,
+    "Total_Word": 7303,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

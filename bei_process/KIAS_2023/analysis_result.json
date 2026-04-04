@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-KIAS-att2.pdf",
+    "ticker": "KIAS_2023",
+    "mdma_start": "62",
+    "mdma_end": "80",
+    "Positive_Sum": 1984.0,
+    "Negative_Sum": 1744.0,
+    "Total_Matched_Words": 1185,
+    "Total_Word": 7703,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

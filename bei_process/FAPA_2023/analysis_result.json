@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-FAPA-att2.pdf",
+    "ticker": "FAPA_2023",
+    "mdma_start": "68",
+    "mdma_end": "119",
+    "Positive_Sum": 5381.0,
+    "Negative_Sum": 4811.0,
+    "Total_Matched_Words": 3228,
+    "Total_Word": 21902,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

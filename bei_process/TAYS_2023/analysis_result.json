@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TAYS-att2.pdf",
+    "ticker": "TAYS_2023",
+    "mdma_start": "64",
+    "mdma_end": "81",
+    "Positive_Sum": 1362.0,
+    "Negative_Sum": 1389.0,
+    "Total_Matched_Words": 875,
+    "Total_Word": 6286,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

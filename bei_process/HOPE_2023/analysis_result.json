@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HOPE-att1.pdf",
+    "ticker": "HOPE_2023",
+    "mdma_start": "62",
+    "mdma_end": "83",
+    "Positive_Sum": 1956.0,
+    "Negative_Sum": 2221.0,
+    "Total_Matched_Words": 1338,
+    "Total_Word": 8629,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

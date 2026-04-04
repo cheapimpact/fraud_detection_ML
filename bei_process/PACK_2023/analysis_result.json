@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PACK-att2.pdf",
+    "ticker": "PACK_2023",
+    "mdma_start": "55",
+    "mdma_end": "66",
+    "Positive_Sum": 1309.0,
+    "Negative_Sum": 933.0,
+    "Total_Matched_Words": 727,
+    "Total_Word": 4623,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

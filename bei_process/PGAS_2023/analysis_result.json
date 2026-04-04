@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PGAS-att2.pdf",
+    "ticker": "PGAS_2023",
+    "mdma_start": "172",
+    "mdma_end": "251",
+    "Positive_Sum": 11215.0,
+    "Negative_Sum": 12347.0,
+    "Total_Matched_Words": 7515,
+    "Total_Word": 42709,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PKPK-att1.pdf",
+    "ticker": "PKPK_2024",
+    "mdma_start": "33",
+    "mdma_end": "42",
+    "Positive_Sum": 2808.0,
+    "Negative_Sum": 3135.0,
+    "Total_Matched_Words": 1862,
+    "Total_Word": 10531,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

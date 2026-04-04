@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-IFII-att2.pdf",
+    "ticker": "IFII_2024",
+    "mdma_start": "76",
+    "mdma_end": "119",
+    "Positive_Sum": 3735.0,
+    "Negative_Sum": 4060.0,
+    "Total_Matched_Words": 2493,
+    "Total_Word": 17555,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

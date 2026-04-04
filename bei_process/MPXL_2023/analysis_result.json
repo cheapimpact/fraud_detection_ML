@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MPXL-att1.pdf",
+    "ticker": "MPXL_2023",
+    "mdma_start": "80",
+    "mdma_end": "99",
+    "Positive_Sum": 1499.0,
+    "Negative_Sum": 1523.0,
+    "Total_Matched_Words": 975,
+    "Total_Word": 7797,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

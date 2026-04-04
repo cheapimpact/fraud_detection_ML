@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TIRA-att2.pdf",
+    "ticker": "TIRA_2023",
+    "mdma_start": "64",
+    "mdma_end": "85",
+    "Positive_Sum": 3090.0,
+    "Negative_Sum": 2631.0,
+    "Total_Matched_Words": 1833,
+    "Total_Word": 12414,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

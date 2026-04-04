@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BIRD-att1.pdf",
+    "ticker": "BIRD_2024",
+    "mdma_start": "98",
+    "mdma_end": "131",
+    "Positive_Sum": 3934.0,
+    "Negative_Sum": 3788.0,
+    "Total_Matched_Words": 2454,
+    "Total_Word": 14968,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

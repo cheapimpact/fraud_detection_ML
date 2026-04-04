@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ERTX-att1.pdf",
+    "ticker": "ERTX_2024",
+    "mdma_start": "56",
+    "mdma_end": "71",
+    "Positive_Sum": 1906.0,
+    "Negative_Sum": 2341.0,
+    "Total_Matched_Words": 1348,
+    "Total_Word": 7835,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

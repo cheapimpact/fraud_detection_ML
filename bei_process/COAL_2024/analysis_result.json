@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-COAL-att1.pdf",
+    "ticker": "COAL_2024",
+    "mdma_start": "92",
+    "mdma_end": "122",
+    "Positive_Sum": 2548.0,
+    "Negative_Sum": 2060.0,
+    "Total_Matched_Words": 1468,
+    "Total_Word": 10116,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

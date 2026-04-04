@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MAIN-att1.pdf",
+    "ticker": "MAIN_2024",
+    "mdma_start": "98",
+    "mdma_end": "126",
+    "Positive_Sum": 2406.0,
+    "Negative_Sum": 2301.0,
+    "Total_Matched_Words": 1521,
+    "Total_Word": 11575,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

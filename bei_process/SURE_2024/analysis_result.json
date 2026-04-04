@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SURE-att1.pdf",
+    "ticker": "SURE_2024",
+    "mdma_start": "52",
+    "mdma_end": "68",
+    "Positive_Sum": 1593.0,
+    "Negative_Sum": 2028.0,
+    "Total_Matched_Words": 1191,
+    "Total_Word": 9077,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GTRA-att2.pdf",
+    "ticker": "GTRA_2024",
+    "mdma_start": "59",
+    "mdma_end": "77",
+    "Positive_Sum": 2849.0,
+    "Negative_Sum": 2348.0,
+    "Total_Matched_Words": 1661,
+    "Total_Word": 10848,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

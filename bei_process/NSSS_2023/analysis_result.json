@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-NSSS-att2.pdf",
+    "ticker": "NSSS_2023",
+    "mdma_start": "70",
+    "mdma_end": "90",
+    "Positive_Sum": 1595.0,
+    "Negative_Sum": 1855.0,
+    "Total_Matched_Words": 1098,
+    "Total_Word": 7383,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

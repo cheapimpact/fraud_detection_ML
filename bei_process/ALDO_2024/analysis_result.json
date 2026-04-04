@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ALDO-att1.pdf",
+    "ticker": "ALDO_2024",
+    "mdma_start": "82",
+    "mdma_end": "111",
+    "Positive_Sum": 3468.0,
+    "Negative_Sum": 2440.0,
+    "Total_Matched_Words": 1915,
+    "Total_Word": 11815,
+    "processed_at": "2026-02-24",
+    "status": "Success"
+}

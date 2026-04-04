@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KREN-att2.pdf",
+    "ticker": "KREN_2024",
+    "mdma_start": "64",
+    "mdma_end": "77",
+    "Positive_Sum": 1433.0,
+    "Negative_Sum": 1398.0,
+    "Total_Matched_Words": 907,
+    "Total_Word": 6134,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,2984 @@
+112
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+TINJAUAN EKONOMI DAN INDUSTRI
+ECONOMIC AND INDUSTRIAL OVERVIEW
+Situasi 
+ekonomi 
+global 
+masih 
+dipenuhi 
+dengan 
+ketidakpastian tinggi akibat geopolitik, proteksionisme, 
+dan perlambatan ekonomi Tiongkok. Meskipun tren 
+inflasi global menunjukkan penurunan, beberapa negara 
+masih mencatatkan kenaikan inflasi.  Terpilih kembalinya 
+Donald Trump sebagai Presiden AS memberikan sentimen 
+positif pada pasar saham AS, namun meningkatkan 
+risiko bagi negara berkembang akibat potensi kebijakan 
+proteksionisme dan perang dagang. Ekspektasi pasar 
+tentang kondisi high for longer yang sempat mereda 
+kembali muncul akibat kebijakan Trump yang dinilai 
+akan berdampak pada progress penurunan inflasi di AS. 
+Tensi geopolitik dan dinamika politik berbagai negara 
+juga menambah risiko bagi stabilitas ekonomi global. 
+Potensi perang dagang dan peningkatan proteksionisme 
+memberikan dampak negatif bagi arus investasi dan 
+perdagangan global. 
+IMF memprediksi pertumbuhan ekonomi global stagnan 
+di 3,2% pada 2024 dan 2025, dengan tekanan utama 
+dari perubahan iklim, tensi geopolitik, dan utang negara 
+berkembang. Sementara itu, ekonomi Indonesia tetap 
+tangguh dengan pertumbuhan 5,03% hingga triwulan 
+III 2024, didorong oleh konsumsi domestik, peningkatan 
+investasi, dan ekspor yang membaik.
+Pemerintah berhasil menjaga stabilitas ekonomi melalui 
+pengendalian inflasi, optimalisasi belanja APBN, dan 
+dukungan terhadap daya beli masyarakat. Langkah 
+strategis yang dilakukan seperti penurunan suku bunga 
+acuan dan penguatan program perlindungan sosial 
+menjadi kunci dalam momentum pertumbuhan ini. 
+Ekonomi digital Indonesia mengalami pertumbuhan dua 
+digit, dengan kontribusi 13% terhadap PDB nasional. 
+Berdasarkan laporan e-Conomy SEA 2024 dari Google, 
+Temasek, dan Bain & Company, nilai ekonomi digital 
+Indonesia diperkirakan mencapai USD 90 miliar (Rp 1.440 
+triliun) pada akhir 2024. Industri AI dan gaming menjadi 
+sektor 
+dengan 
+pertumbuhan 
+tercepat, 
+sementara 
+ekonomi digital Indonesia tetap menjadi yang terbesar di 
+Asia Tenggara. Dengan tren ini, Gross Merchandise Value 
+(GMV) Indonesia diproyeksikan mencapai USD 200-360 
+miliar pada 2030.
+The global economic situation is still filled with high 
+uncertainty due to geopolitics, protectionism, and China’s 
+economic slowdown. Although global inflation has started 
+to decline, some countries are still experiencing increases. 
+The re-election of Donald Trump as US President gave 
+positive sentiment to the US stock market, but increased 
+risks  for  emerging  economies  due  to  potential 
+protectionist policies and trade wars. Market expectation 
+of high for longer interest rate condition that had subsided 
+re-emerged due to Trump’s policy which are considered 
+to impact the progress of inflation decline in the US. 
+Geopolitical tension and political dynamics of various 
+countries also add risks to global economic stability. 
+Potential trade wars and increased protectionism have a 
+negative impact on global investment and trade flows. 
+The IMF predicts global economic growth to stagnate at 
+3.2% in 2024 and 2025, with major pressures from climate 
+change, geopolitical tensions, and emerging market debt. 
+Meanwhile, Indonesia’s economy remains resilient with 
+growth of 5.03% as of the third quarter of 2024, driven 
+by domestic consumption, increased investment, and 
+improved exports.
+The government managed to maintain economic stability 
+through inflation control, optimization of state budget 
+spending, and support for people’s purchasing power. 
+Strategic measures such as lowering the benchmark 
+interest rate and strengthening social protection programs 
+are key to this growth momentum. 
+Indonesia’s digital economy experienced double-digit 
+growth, contributing 13% to national GDP. Based on the 
+e-Conomy SEA 2024 report from Google, Temasek, and 
+Bain & Company, the value of Indonesia’s digital economy 
+is estimated to reach USD 90 billion (IDR 1,440 trillion) by 
+the end of 2024. The AI and gaming industries are the 
+fastest growing sectors, while Indonesia’s digital economy 
+remains the largest in Southeast Asia. With this trend, 
+Indonesia’s Gross Merchandise Value (GMV) is projected to 
+reach USD 200-360 billion by 2030.
+113
+Laporan Terintegrasi 2024 Integrated Report
+Berdasarkan kondisi di atas, Indonesia mencatat kemajuan 
+yang signifikan dalam sektor teknologi. Menurut Mordor 
+Intelligence, pasar ICT (Information and Communications 
+Technology) di Indonesia diperkirakan mencapai USD 45,20 
+miliar pada 2024 dan akan tumbuh hingga USD 67,56 miliar 
+pada 2029, dengan CAGR sebesar 8,20 persen. 
+Pesatnya pertumbuhan ekonomi digital tentunya tak 
+terlepas dari peran pertumbuhan startup di Indonesia. 
+Mengutip laporan bertajuk ‘Dari Indonesia’ yang dilansir 
+oleh Startup Ranking, ekosistem startup berkembang 
+pesat di periode 2024, dengan 2.692 startup menjadikan 
+Indonesia peringkat ke-6 dunia, didukung oleh 120 
+inkubator dan akselerator serta 200 institusi keuangan. 
+Adopsi teknologi digital di manufaktur, pertanian, logistik, 
+dan 
+keuangan 
+semakin 
+mendukung 
+pertumbuhan 
+ekonomi nasional. Pemerintah juga mendorong adopsi 
+teknologi untuk sektor UMKM agar memiliki produktivitas 
+lebih tinggi.
+Tingginya prospek usaha di bidang teknologi digital 
+tentunya direspons oleh Pemerintah dengan berbagai 
+regulasi kebijakan dan infrastruktur digital yang kuat 
+untuk mempercepat transformasi digital Indonesia. Saat 
+ini, Pemerintah Indonesia telah melakukan perbaikan tata 
+kelola TI serta pengembangan regulasi. Kedua hal tersebut 
+menunjukkan keseriusan Pemerintah untuk menghadirkan 
+dasar hukum yang jelas bagi ekosistem ekonomi digital 
+dan pelaku industri sehingga stimulasi ekonomi digital 
+dapat terkontrol dengan baik.
+Sejak tahun 2022, Indonesia telah memiliki Undang-
+Undang No. 27 tahun 2022 tentang Perlindungan Data 
+Pribadi (PDP) untuk menjaga kepercayaan publik terhadap 
+keamanan data dan privasi mereka di dunia digital. 
+Regulasi selanjutnya untuk menguatkan iklim ekonomi 
+digital Indonesia menjadi lebih positif adalah dengan 
+adanya Undang-Undang No. 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan (PPSK) 
+dan Undang-Undang No. 17 Tahun 2023 tentang Kesehatan 
+yang 
+secara 
+khusus 
+mengakomodasi 
+pemanfaatan 
+teknologi di dalamnya. Pemerintah juga terus berupaya 
+meningkatkan pemanfaatan teknologi digital dalam 
+pelayanan kepada masyarakat secara efektif. Dengan 
+menginisiasi penerapan Sistem Pemerintahan Berbasis 
+Elektronik (SPBE) sebagai landasan konseptual dalam 
+mengelola pemerintahan digital di Indonesia.
+Based on the above conditions, Indonesia has made 
+significant progress in the technology sector. According 
+to 
+Mordor 
+Intelligence, 
+the 
+ICT 
+(Information 
+and 
+Communications Technology) market in Indonesia is 
+expected to reach USD 45.20 billion by 2024 and will grow 
+to USD 67.56 billion by 2029, with a CAGR of 8.20 percent. 
+The rapid growth of the digital economy is certainly 
+inseparable from the role of startup growth in Indonesia. 
+According to the Dari Indonesia report by Startup Ranking, 
+the startup ecosystem grew rapidly in the 2024, with 2,692 
+startups placing Indonesia 6th globally, supported by 120 
+incubators and 200 financial institutions. The adoption 
+of digital technology in manufacturing, agriculture, 
+logistics, and finance further supports national economic 
+growth. The government also encourages the adoption of 
+technology for the MSME sector to improve productivity.
+The high business prospects in the field of digital technology 
+are certainly responded by the Government with various 
+policy regulations and strong digital infrastructure to 
+accelerate Indonesia’s digital transformation. Currently, 
+the Government of Indonesia has improved IT governance 
+and developed regulations. These steps demonstrated 
+the Government’s commitment to provide a clear legal 
+foundation for the digital economy ecosystem and 
+industry players ensuring that digital economy growth is 
+well managed.
+Since 2022, Indonesia has enacted Law No. 27 of 2022 on 
+Personal Data Protection (PDP) to maintain public trust 
+in the security of their data and privacy in the digital 
+world. The next regulation to strengthen Indonesia’s 
+digital economy climate to be more positive is the 
+existence of Law No. 4 of 2023 on the Development and 
+Strengthening of the Digital Economy. 4 Year 2023 on 
+Financial Sector Development and Strengthening (PPSK) 
+and Law No. 17 of 2023 on Health which is considered to 
+specifically accommodate the utilization of technology 
+in it. The government also continues to improve the 
+effective utilization of digital technology in public services 
+by initiating the implementation of the Electronic-Based 
+Government System (SPBE) as a conceptual foundation in 
+managing digital governance in Indonesia.
+114
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Saat ini sudah ada 98 instansi yang terhubung jaringan 
+interkoneksi pemerintah dan 61% instansi telah terlayani 
+sistem 
+penghubung 
+layanan 
+pemerintah. 
+Langkah-
+langkah 
+tersebut 
+diharapkan 
+dapat 
+mengangkat 
+peringkat Indonesia dalam indeks global e-government dan 
+mempercepat transformasi digital yang inklusif.
+Tak hanya itu, Pemerintah juga telah menyelesaikan 
+kebijakan Strategis Nasional Ekonomi Digital 2030 yang 
+bertujuan untuk meningkatkan kontribusi sektor digital 
+terhadap PDB Indonesia secara bertahap hingga mencapai 
+20% pada tahun 2045. Di tingkat regional, Indonesia juga 
+telah mencapai kesepakatan untuk mengembangkan 
+ASEAN Digital Economy Framework Agreement (DEFA) guna 
+memajukan digitalisasi dan interoperabilitas di kawasan 
+ASEAN. Diharapkan dengan program ini, ekonomi digital 
+Indonesia pada 2030 yang semula diperkirakan mencapai 
+USD360 miliar, akan meningkat menjadi USD600 miliar.
+Perkembangan Artificial Intelligence (AI) juga menunjukkan 
+tren yang signifikan. Berdasarkan data dari McKinsey 
+tahun 2023, saat ini masyarakat sudah menggunakan 
+AI untuk kehidupan sehari-hari sebanyak 79%. Hal sama 
+juga diungkap oleh Stanford University tentang AI Index 
+Report tahun 2024 di mana banyak perusahaan global 
+telah menggunakan AI dalam menjalankan bisnisnya yaitu 
+sekitar 55%. Pertumbuhan penggunaan AI yang pesat ini 
+berkontribusi terhadap Pendapatan Domestik Bruto (PDB) 
+tahun 2030 yang diprediksi secara Global sebesar US$13 
+Triliun, untuk ASEAN sebesar US$1 Triliun dan Indonesia 
+sebesar US$366 Miliar. Data dari Deloitte menunjukkan 
+bahwa pada 2024, sektor pengguna AI terbesar di 
+Indonesia mencakup layanan kesehatan, manufaktur, 
+pendidikan, serta tenaga kerja.
+Dengan meningkatnya adopsi teknologi seperti IoT, 
+AI, dan cloud computing, celah keamanan baru terus 
+muncul. Peningkatan penggunaan kecerdasan buatan 
+(AI) tidak hanya dimanfaatkan untuk memperkuat 
+sistem keamanan, tetapi juga dieksploitasi oleh pelaku 
+kejahatan siber untuk melancarkan serangan yang lebih 
+canggih. Selain itu, adopsi luas dari Internet of Things (IoT) 
+menambah lapisan kompleksitas dalam keamanan, karena 
+perangkat IoT sering kali memiliki kelemahan keamanan 
+yang belum sepenuhnya diatasi. Ancaman Cyber Security 
+yang meningkat di 2024 adalah serangan ransomware. 
+Serangan ini menjadi semakin canggih dengan pelaku 
+kejahatan yang menggunakan AI untuk mengenkripsi 
+data dengan cara yang lebih sulit dideteksi dan dilawan. 
+Selain itu, serangan phishing yang semakin terarah dan 
+berbasis pada analisis perilaku pengguna juga meningkat. 
+Oleh karena itu, perlindungan siber atau Cyber Security 
+diperlukan  untuk  mencegah  kebocoran  data  yang  dapat
+Currently, there are 98 agencies connected to the 
+government interconnection network and 61% of agencies 
+have been served by the government service liaison 
+system. These measures are expected to lift Indonesia’s 
+ranking in the global e-government index and accelerate 
+inclusive digital transformation.
+In addition, the Government has also finalized the National 
+Strategic Policy on Digital Economy 2030 which aims to 
+gradually increase the contribution of the digital sector 
+to Indonesia’s GDP to reach 20% by 2045. At the regional 
+level, Indonesia has also reached an agreement to develop 
+the ASEAN Digital Economy Framework Agreement (DEFA) 
+to advance digitalization and interoperability in the ASEAN 
+region. With this program, Indonesia’s digital economy—
+estimated to reach USD360 billion by 2030—is projected 
+to grow to USD600 billion.
+According to McKinsey data in 2023, 79% of people have 
+already used Artificial Intelligence (AI) in their daily lives. 
+Similarly, the 2024 AI Index Report by Stanford University 
+revealed that around 55% of global companies have 
+adopted AI in their business operations. This rapid growth 
+in the use of AI contributes to the Gross Domestic Product 
+(GDP) in 2030 which is predicted to be US$13 Trillion for 
+Global, US$1 Trillion for ASEAN and US$366 Billion for 
+Indonesia. Data from Deloitte reveals the 2024 AI users 
+in Indonesia are the healthcare, manufacturing and 
+education sectors as well as for labor.
+With the increasing adoption of technologies such as IoT, 
+AI and cloud computing, new security gaps continue to 
+emerge. The increased use of artificial intelligence (AI) is 
+not only utilized to strengthen security systems, but also 
+exploited by cybercriminals to launch more sophisticated 
+attacks. In addition, the widespread adoption of the 
+Internet of Things (IoT) adds another layer of complexity to 
+security, as IoT devices often have security flaws that have 
+yet to be fully addressed. An increasing Cyber Security 
+threat in 2024 is ransomware attacks. These attacks are 
+becoming increasingly sophisticated with criminals using 
+AI to encrypt data in ways that are harder to detect and 
+counter. In addition, phishing attacks are becoming more 
+targeted and based on user behavior analysis. Cyber 
+security is therefore necessary to prevent data leaks that 
+can be financially costly and reputationally damaging.
+115
+Laporan Terintegrasi 2024 Integrated Report
+merugikan secara finansial dan merusak reputasi.  Peran 
+Cyber Security dalam Transformasi Digital Transformasi 
+digital yang masif juga menuntut peningkatan fokus pada 
+cyber security.
+Sumber: 
+1.	
+Komdigi: https://www.komdigi.go.id/transformasi-digital
+2.	
+Kementerian 
+Keuangan: 
+https://fiskal.kemenkeu.go.id/publikasi/
+tinjauan-ekonomi-keuangan-dan-fiskal
+3.	
+Antara: 
+https://www.antaranews.com/berita/4463377/
+pertumbuhan-ekonomi-digital-indonesia-menguat-di-2024-hingga-
+dua-digit#google_vignette
+4.	
+Antara: 
+https://www.antaranews.com/berita/4353115/penguatan-
+regulasi-bukti-indonesia-siap-jadi-pemain-ekonomi-digital
+5.	
+https://computradetech.com/id/blog-id/perkembangan-teknologi-
+2024-wawasan-strategis-untuk-inovasi-2025/
+6.	
+https://indonesia.go.id/kategori/editorial/8497/masa-depan-
+ekonomi-digital-indonesia-strategi-menuju-2030?lang=1
+The Role of Cyber Security in Digital Transformation The 
+massive digital transformation also demands an increased 
+focus on cyber security.
+Source: 
+1.	
+Komdigi: https://www.komdigi.go.id/transformasi-digital
+2.	
+2. Kementerian Keuangan: https://fiskal.kemenkeu.go.id/publikasi/tinjauan-
+ekonomi-keuangan-dan-fiskal
+3.	
+Antara: https://www.antaranews.com/berita/4463377/pertumbuhan-
+ekonomi-digital-indonesia-menguat-di-2024-hingga-dua-digit#google_
+vignette
+4.	
+Antara: https://www.antaranews.com/berita/4353115/penguatan-regulasi-
+bukti-indonesia-siap-jadi-pemain-ekonomi-digital
+5.	
+https://computradetech.com/id/blog-id/perkembangan-teknologi-2024-
+wawasan-strategis-untuk-inovasi-2025/
+6.	
+https://indonesia.go.id/kategori/editorial/8497/masa-depan-ekonomi-
+digital-indonesia-strategi-menuju-2030?lang=1
+116
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+KEBIJAKAN STRATEGI PERSEROAN
+COMPANY STRATEGY POLICY
+Strategi pengembangan bisnis yang dijalankan Elitery 
+pada tahun 2024 adalah sebagai berikut:
+1.	
+Peluncuran Produk Inovatif:
+Di awal tahun 2024, Elitery meluncurkan “Elipedia”, sebuah 
+produk yang dirancang untuk memfasilitasi pertukaran 
+pengetahuan dan menyederhanakan solusi TI bagi 
+bisnis. Inisiatif ini menunjukkan komitmen perusahaan 
+dalam menghadirkan solusi inovatif yang mendukung 
+transformasi digital.
+2.	
+Kemitraan Strategis: 
+•	 Perseroan menjadi Google Cloud Partner Managed 
+Service 
+Provider 
+(MSP) 
+pertama 
+di 
+Indonesia, 
+menegaskan kepemimpinannya dalam memberikan 
+layanan cloud kelas dunia.
+•	 Perseroan bekerja sama dengan USAID dan Amazon 
+Web Services (AWS) dalam Program TALENTA 
+Akselerator 2024 untuk mendukung transformasi 
+digital dan inovasi startup di Indonesia.
+•	 Perseroan secara resmi bergabung dalam inisiatif 
+Google Cloud Managed Security Services Provider 
+(MSSP). 
+Langkah 
+ini 
+memperkuat 
+kapabilitas 
+Perseroan dalam menyediakan layanan keamanan 
+canggih yang proaktif, membantu bisnis menghadapi 
+tantangan kompleks dalam keamanan siber. 
+3.	
+Aksi Korporasi:
+Perseroan melaksanakan pembelian kembali saham 
+(buyback) dan pembagian dividen sebagai bentuk apresiasi 
+kepada pemegang saham, didukung oleh kinerja keuangan 
+yang solid.
+4.	
+Pengembangan Budaya Kerja Positif:
+Elitery dianugerahi Indonesia Best CX-EX Strategy 
+Award 2024 oleh SWA Magazine atas upayanya dalam 
+menciptakan layanan berkualitas. Selain itu, perusahaan 
+diakui sebagai Great Place to Work Certified™ untuk 
+periode 
+Desember 
+2024 
+hingga 
+Desember 
+2025, 
+berdasarkan survei internal yang menunjukkan 91% 
+karyawan merasa Elitery adalah tempat yang luar biasa 
+untuk bekerja.
+5.	
+Peningkatan Target Pendapatan:
+Dengan 
+optimisme 
+tinggi, 
+Elitery 
+menargetkan 
+pendapatan sebesar Rp400 miliar pada tahun 2024, 
+mencerminkan pertumbuhan sekitar 25% dibandingkan 
+tahun sebelumnya. Peningkatan target ini didukung oleh 
+kinerja hingga 30 September 2024 yang mencatatkan 
+pendapatan Rp338,69 miliar. 
+Elitery’s business development strategy for 2024 is as 
+follows:
+1.	
+Innovative Product Launches: 
+In early 2024, Elitery launched “Elipedia”, a product 
+designed to empower knowledge sharing and simplify IT 
+solutions for businesses. This initiative demonstrates the 
+company’s commitment to delivering innovative solutions 
+that support digital transformation.
+2.	
+Strategic Partnerships: 
+•	 The Company became the first Google Cloud Partner 
+Managed Service Provider (MSP) in Indonesia, 
+emphasizing its leadership in delivering world-class 
+cloud services.
+•	 The Company collaborates with USAID and Amazon 
+Web Services (AWS) in the TALENTA Accelerator 2024 
+Program to support digital transformation and startup 
+innovation in Indonesia.
+•	 The Company officially joined the Google Cloud 
+Managed Security Services Provider (MSSP) initiative. 
+This step strengthens the Company’s capabilities 
+in providing proactive advanced security services, 
+helping businesses face complex challenges in 
+cybersecurity. 
+3.	
+Corporate Action:
+The Company executed share buyback and dividend 
+distribution as a token of appreciation to shareholders, 
+supported by solid financial performance.
+4.	
+Positive Work Culture Development:
+Elitery was awarded the Indonesia Best CX-EX Strategy 
+Award 2024 by SWA Magazine for its efforts in creating 
+quality services. In addition, the company was recognized 
+as Great Place to Work Certified™ for the period December 
+2024 to December 2025, based on an internal survey that 
+showed 91% of employees considered Elitery was a great 
+place to work.
+5.	
+Increased Revenue Target:
+With high optimism, Elitery is targeting revenue of Rp400 
+billion in 2024, reflecting growth of approximately 25% 
+compared to the previous year. This increased target is 
+supported by the performance up to September 30, 2024 
+which recorded revenue of Rp38.69 billion.
+117
+Laporan Terintegrasi 2024 Integrated Report
+Pendapatan Usaha
+Operating Revenues
+Tinjauan Operasi Per Segmen Usaha 
+Sesuai dengan pasal 3 Anggaran Dasar, ruang lingkup 
+Perseroan bergerak dalam bidang perdagangan besar 
+komputer 
+dan 
+perlengkapan 
+komputer, 
+aktivitas 
+konsultasi komputer dan manajemen fasilitas komputer 
+lainnya, aktivitas konsultasi manajemen lainnya dan 
+aktivitas pengolahan data khususnya dalam bidang usaha 
+penyedia layanan (managed service) di bidang teknologi 
+informasi, khususnya teknologi pusat data terbaru, data 
+center virtual (cloud).
+Berdasarkan hal tersebut, maka segmen usaha Perseroan 
+terdiri dari:
+1.	
+Penyedia layanan (managed services); 
+2.	
+Produk; dan 
+3.	
+Lainnya.
+Untuk memberikan gambaran awal mengenai skala bisnis 
+masing-masing segmen dan kontribusinya terhadap 
+Perseroan, berikut disampaikan kontribusi masing-masing 
+segmen terhadap Pendapatan Usaha Perseroan.
+Pendapatan usaha Perseroan di tahun 2024 sebesar 
+Rp478,32 miliar, meningkat 49,67% dari tahun sebelumnya 
+sebesar Rp319,58 miliar. Jumlah pendapatan usaha 
+Perseroan didominasi oleh pendapatan dari penyedia 
+layanan sebesar 88,46%, sedangkan dari produk dan lain-
+lain masing-masing hanya berkontribusi sebesar 5,38% 
+dan 6,15%.
+Penyedia Layanan (Managed Services)
+Produk I Product
+Lain-Lain I Others
+Operating Review by Business Segment 
+In accordance with article 3 of the Articles of Association, 
+the scope of the Company is engaged in wholesale 
+trading 
+of 
+computers 
+and 
+computer 
+equipment, 
+computer consulting activities and other computer 
+facility management, other management consulting 
+activities and data processing activities, especially in the 
+field of managed service provider business in the field of 
+information technology, especially the latest data center 
+technology, virtual data center (cloud).
+In accordance with this, the Company business segments 
+consist of:
+1.	
+Managed Services; 
+2.	
+Product; and 
+3.	
+Others.
+In order to provide an initial overview of the scale of each 
+segment’s business and its contribution to the Company, 
+the following is the contribution of each segment to the 
+Company’s Operating Revenue.
+The Company’s operating revenue in 2024 amounted to 
+IDR 478.32 billion, representing an increase of 49.67% 
+compared to the previous year’s revenue of IDR 319.58 
+billion. The majority of the Company’s operating revenue, 
+accounting for 88.46%, was derived from service provision. 
+Meanwhile, revenue from products and other sources 
+contributed 5.38% and 6.15%, respectively.
+Penyedia Layanan 
+(Managed Services)
+Produk I Product
+5,38
+27.313
+8,55
+(1.566)
+(5,73)
+88,46
+276.846
+83,63
+146.288
+52,84
+Pendapatan Usaha I 
+Revenue
+100
+319.583
+100
+158.734
+49,67
+Lain-Lain I Others
+25.747
+423.134
+478.317
+29.436
+6,15
+15.424
+4,83
+14.012
+90,85
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+Segmen Usaha 
+I Business 
+Segment
+Jumlah (Rp-
+Juta) I Total 
+(Rp-Million)
+Jumlah (Rp-
+Juta) I Total 
+(Rp-Million)
+Jumlah (Rp-
+Juta) I Total 
+(Rp-Million)
+Kontribusi (%) I 
+Contribution (%)
+Kontribusi (%) I 
+Contribution (%)
+Kontribusi (%) I 
+Contriution (%)
+88,46%
+5,38%
+6,15%
+118
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Penyedia layanan (Managed Services)
+Sebagai Perusahaan teknologi informasi digital yang 
+bergerak di bidang konsultasi manajemen dan pengolahan 
+data, Elitery memiliki kegiatan usaha sebagai penyedia 
+layanan (managed service) di bidang teknologi informasi, 
+khususnya teknologi pusat data terbaru, data center virtual 
+(cloud). Elitery menawarkan jasa penyedia layanan untuk:
+1.	
+Elite Cloud Managed Service
+Sebagai penyedia layanan IT Managed Services, Elitery 
+memadukan keahlian tim, proses yang handal, dan 
+teknologi terdepan untuk menghadirkan pengalaman 
+terbaik bagi pengguna sistem. Keuntungan Layanan Elite 
+Cloud Managed Service adalah kami menyediakan tenaga 
+ahli bersertifikat Internasional, melakukan pemantauan 
+sistem yang efektif dan efisien, serta mempunyai standar 
+kualitas dan keamanan internasional dengan standar ISO 
+9001 dan ISO 27001.
+2.	
+Elite Managed Security Service
+Elite Managed Security Service adalah layanan keamanan 
+siber dari Elitery untuk mencegah, mendeteksi & 
+memulihkan dari serangan siber yang mengancam 
+infrastruktur TI bisnis di era digital. Elitery menyediakan 
+solusi Endpoint Detection & Response (EDR) dan Managed 
+Detection 
+& 
+Response 
+(MDR) 
+komprehensif 
+yang 
+memastikan deteksi tepat waktu, respon cepat, dan 
+mitigasi ancaman yang efektif.
+Service provider (Managed Services)
+As a digital information technology company engaged 
+in management consulting and data processing, Elitery 
+has business activities as a managed service provider in 
+the field of information technology, especially the latest 
+data center technology, virtual data center (cloud). Elitery 
+offers service providers for:
+1.	
+Elite Cloud Managed Service
+As an IT Managed Services provider, Elitery combines 
+team expertise, reliable processes, and leading-edge 
+technology to deliver the best experience for system 
+users. The benefits of Elite Cloud Managed Service are 
+that we provide internationally certified experts, conduct 
+effective and efficient system monitoring, and have 
+international quality and security standards with ISO 9001 
+and ISO 27001 standards.
+2.	
+Elite Managed Security Service
+Elite Managed Security Service is a cybersecurity service 
+from Elitery to prevent, detect & recover from cyber 
+attacks that threaten business IT infrastructure in the 
+digital era. Elitery provides comprehensive Endpoint 
+Detection & Response (EDR) and Managed Detection & 
+Response (MDR) solutions that ensure timely detection, 
+rapid response and effective threat mitigation.
+Profitabilitas I Profitability
+Pendapatan I Revenue
+276.846
+Rp-Juta I Rp-Million
+Rp-Juta I Rp-Million
+Rp-Juta I Rp-Million
+Rp-Juta I Rp-Million
+Rp-Juta I Rp-Million
+423.134
+Uraian I Description
+Satuan I Unit
+2023
+2024
+Beban Pokok Pendapatan I Cost of Revenue
+Laba Bruto I Gross Profit
+Piutang Usaha| Accounts Receivable
+Net Profit Margin (NPM)
+Utang usaha| Accounts Payable
+Return on Asset (ROA)
+Gross Profit Margin (GPM)
+Return on Equity (ROE)
+(246.223)
+(362.862)
+48.236
+73.359
+5,35
+54.269
+8
+22,96
+14
+% 
+%
+%
+%
+90.369
+115.454
+5,41
+73.258
+9
+24,14
+19
+119
+Laporan Terintegrasi 2024 Integrated Report
+Produk
+1.	
+Medtro 
+Medtro 
+merupakan 
+platform 
+berbasis 
+cloud 
+yang 
+mengintegrasikan sistem rekam medis elektronik dengan 
+SATUSEHAT dan PCare.
+2.	
+Elipedia 
+Elipedia merupakan solusi Knowledge Management 
+Chatbot berbasis Artificial Intelligence (AI) dari Elitery. 
+Seluruh informasi dan knowledge perusahaan/instansi 
+dapat dikonversi menjadi collective knowledge perusahaan 
+berbasis AI yang dapat diakses secara mudah dan cepat 
+melalui web-based ataupun application based chat bot. 
+3.	
+Elicovery 
+Ketersediaan pusat pemulihan data sudah menjadi 
+persyaratan yang dimandatkan oleh banyak peraturan 
+antara lain Peraturan Pemerintah (PP 95/2018 SPBE) 
+dan Peraturan lembaga (POJK 04/2021). Elicovery 
+adalah layanan end-to-end yang terdiri dari teknologi, 
+proses bisnis, dan sumber daya manusia (SDM) untuk 
+menyediakan pusat pemulihan data (disaster recovery 
+data center) bagi pelanggan kami. Dengan menggunakan 
+Elicovery, pelanggan kami dapat menghemat waktu lebih 
+dari 90% dan menghemat biaya sampai dengan 30% 
+dibandingkan dengan metode yang biasa dilakukan dalam 
+mempersiapkan dan mengoperasikan pusat pemulihan 
+data. 
+4.	
+Elivision
+Elivision adalah solusi Internet of Things (IoT) yang 
+dilengkapi oleh kecerdasan buatan (AI) dan kemampuan 
+untuk menambah kecerdasan melalui machine learning 
+(ML). Penggunaan solusi ini beragam, mulai dari mengelola 
+data video, memantau kondisi lalu lintas, sampai dengan 
+memonitor ruangan ATM.
+Metode pengelolaan data video yang digunakan oleh 
+Elivision dapat menghemat penggunaan bandwidth 
+sampai dengan 80%, dan saat ini sedang tahap “patent 
+pending” dengan nomor pendaftaran #S00202002616. 
+Karena penghematan yang sangat signifikan ini, Elivision 
+digunakan oleh salah satu bank swasta terbesar di 
+Indonesia untuk mengelola data video di ribuan ATM yang 
+tersebar di seluruh Indonesia.
+Kinerja Operasional dan Keuangan
+Di tahun 2024, Pendapatan atas segmen produk sebesar 
+Rp25,76 miliar.
+Tinjauan Keuangan
+Tinjauan keuangan yang diuraikan berikut mengacu 
+kepada Laporan Keuangan untuk tahun yang berakhir 
+Product
+1.	
+Medtro 
+Medtro is a cloud-based platform that integrates 
+electronic medical record system with SATUSEHAT and 
+PCare.
+2.	
+Elipedia 
+Elipedia is a Knowledge Management Chatbot solution 
+based on Artificial Intelligence (AI) from Elitery. All 
+company/agency information and knowledge can be 
+converted into AI-based collective corporate knowledge 
+that can be accessed easily and quickly through web-
+based or application-based chat bots. 
+3.	
+Elicovery 
+The availability of a data recovery center has become a 
+requirement mandated by many regulations, including 
+Government Regulations (PP 95/2018 SPBE) and agency 
+regulations (POJK 04/2021). Elicovery is an end-to-end 
+service consisting of technology, business process, and 
+human resources to provide disaster recovery data center 
+for our customers. By using Elicovery, our customers can 
+save more than 90% time and up to 30% cost compared 
+to the traditional method of setting up and operating a 
+data recovery center. 
+4.	
+Elivision
+Elivision is an Internet of Things (IoT) solution equipped 
+with artificial intelligence (AI) and the ability to augment 
+intelligence through machine learning (ML). The uses of 
+this solution range from managing video data, monitoring 
+traffic conditions, to monitoring ATM rooms.
+The video data management method used by Elivision can 
+save up to 80% of bandwidth usage, and is currently patent 
+pending with registration number #S00202002616. 
+Because of this significant savings, Elivision is used by one 
+of the largest private banks in Indonesia to manage video 
+data in thousands of ATMs spread throughout Indonesia.
+Operational and Financial Performance
+In 2024, revenue from the product segment amounted to 
+Rp25.76 billion.
+Financial Review 
+The financial review described below refers to the 
+Financial Statements for the years ended December 
+120
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+tanggal 31 Desember 2024 dan 2023 yang disajikan 
+dalam Laporan Tahunan ini. Laporan Keuangan telah 
+diaudit oleh Kantor Akuntan Publik Anwar & Rekan yang 
+menyatakan opini laporan keuangan menyajikan secara 
+wajar dalam semua hal yang material, posisi keuangan 
+konsolidasian PT Data Sinergitama Jaya Tbk pada tanggal 
+31 Desember 2024, serta kinerja keuangan dan arus kas 
+konsolidasiannya untuk tahun yang berakhir pada tanggal 
+tersebut, sesuai dengan Standar Akuntansi Keuangan di 
+Indonesia.
+31, 2024 and 2023 presented in this Annual Report. The 
+Financial Statements have been audited by Anwar & Rekan 
+Public Accounting Firm which expressed the opinion that 
+the financial statements present fairly in all material 
+respects, the consolidated financial position of PT Data 
+Sinergitama Jaya Tbk as of December 31, 2024, and its 
+consolidated financial performance and cash flows for the 
+year then ended, in accordance with Indonesian Financial 
+Accounting Standards.
+Laporan Posisi Keuangan Konsolidasian                
+Aset Lancar| Current Assets
+dalam jutaan Rupiah I In Million Rupiah
+Aset Tidak Lancar| Non-current Assets
+Liabilitas Jangka Pendek| Short-term 
+Liabilities
+Jumlah Liabilitas| Total Liabilities 
+109.911
+80.313
+107.893
+117.860
+Jumlah Aset| Total Assets 
+Liabilitas Jangka Panjang | Long-term 
+Liabilities
+Jumlah Ekuitas | Total Equity
+227.772
+27.580
+119.879
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Jumlah Liabilitas dan Ekuitas| Total 
+Liabilities and Total Equity
+227.772
+Uraian I 
+Description
+127.384
+17.472
+15,90
+112.956
+32.643
+40,64
+145.221
+37.328
+34,60
+151.968
+34.107
+28,94
+279.352
+51.580
+22,65
+32.267
+4.685
+16,99
+134.131
+14.252
+11,89
+279.352
+51.580
+22,65
+Jumlah Aset
+Jumlah Aset Perseroan per 31 Desember 2024 sebesar 
+Rp279.35 miliar, meningkat 22,65% dibandingkan tahun 
+2023 sebesar Rp227.77 miliar. Peningkatan tersebut 
+terutama dipengaruhi oleh dua faktor utama. Pertama, 
+adanya peningkatan piutang yang sejalan dengan 
+pertumbuhan 
+penjualan 
+yang 
+berhasil 
+dibukukan 
+perseroan sepanjang tahun 2024. Kedua, penambahan 
+aset tidak lancar juga berkontribusi signifikan terhadap 
+kenaikan total aset, di mana penambahan ini berasal dari 
+investasi pada aset tetap berupa data center. Investasi pada 
+data center ini merupakan langkah strategis perseroan 
+dalam mempersiapkan dan mendukung pertumbuhan 
+kinerja perusahaan untuk jangka panjang.
+Total Assets
+As of December 31, 2024, the Company’s total assets 
+amounted to IDR 279.35 billion, an increase of 22.65% 
+compared to IDR 227.77 billion in 2023. The increase 
+was primarily driven by two key factors. First, the rise in 
+accounts receivable, which was in line with the growth in 
+sales recorded by the Company throughout 2024. Second, 
+the addition of non-current assets also contributed 
+significantly to the overall increase in total assets, with 
+the increase stemming from investments in fixed assets 
+in the form of a data center. This investment in the data 
+center represents a strategic initiative by the Company to 
+support and prepare for long-term performance growth.
+121
+Laporan Terintegrasi 2024 Integrated Report
+Aset Lancar I Current Assets      
+Kas dan Bank| Cash and Bank
+dalam jutaan Rupiah I In Million Rupiah
+Piutang Usaha| Accounts Receivable
+Beban Dibayar di Muka | Prepaid 
+Expenses
+Jumlah Aset Lancar| Total Current 
+Assets
+48.327
+90.369
+42.042
+86,99
+11.321
+17.683
+6.362
+56,20
+117.860
+151.968
+34.108
+28,94
+21.562
+33.554
+11.992
+55,62
+Piutang Lain| Other Receivables
+Pajak Dibayar di Muka| Prepaid Tax
+7.619
+1.553
+(6.066)
+(79,62)
+29.032
+8.809
+(20.223)
+(69,66)
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+Aset Lancar Perseroan di tahun 2024 sebesar Rp151,97 
+miliar, meningkat 28,94% dibandingkan tahun 2023 
+sebesar Rp117,86 miliar. Peningkatan tersebut terutama 
+dikarenakan oleh:
+•	
+Kas dan bank meningkat sebesar Rp 11,99 miliar atau 
+55,62% berasal dari peningkatan penerimaan kas dari 
+aktivitas operasional Perseroan pada periode tahun 
+berjalan. 
+•	
+Piutang usaha meningkat dikarenakan meningkatnya 
+penjualan di tahun berjalan, terutama penjualan 
+managed services.
+•	
+Piutang 
+lain-lain 
+menurun 
+utamanya 
+karena 
+penerimaan pembayaran piutang insentif di periode 
+berjalan. 
+•	
+Biaya dibayar di muka meningkat sebesar Rp 6,36 
+miliar atau 56,20% terutama disebabkan oleh 
+peningkatan pembayaran dimuka atas pembelian 
+aset dan serta pembelian license untuk projek yang 
+masa manfaatnya berakhir dalam 1 tahun.
+•	
+Pajak dibayar di muka mengalami penurunan Rp 20,22 
+miliar atau sebesar 69,66% dikarenakan penerimaan 
+restitusi pajak pertambahan nilai di periode berjalan.
+The Company’s Current Assets in 2024 amounted to IDR 
+151.97 billion, marking an increase of 28.94% compared 
+to IDR 117.86 billion in 2023. This increase was primarily 
+attributed to the following factors:
+•	
+Cash and bank balances increased by IDR 11.99 billion 
+or 55.62%, primarily due to increased cash receipts 
+from the Company’s operating activities during the 
+current period.
+•	
+Trade receivables increased as a result of higher sales 
+during the year, particularly from managed services.
+•	
+Other receivables decreased mainly due to the receipt 
+of incentive receivable payments during the current 
+period.
+•	
+Prepaid expenses increased by IDR 6.36 billion or 
+56.20%, primarily due to higher advance payments for 
+asset purchases and license acquisitions for projects 
+with a useful life of less than one year.
+•	
+Prepaid taxes decreased by IDR 20.22 billion or 
+69.66%, due to the receipt of value-added tax refunds 
+during the current period.
+Aset Tidak Lancar I Non-current Assets    
+Aset tetap - neto I Fixed assets - net
+Aset tidak berwujud - neto I Intangible 
+Assets - net
+Aset pajak tangguhan - neto I Deferred 
+tax assets - net
+49.602
+35.123
+(14.479)
+(29,19)
+1.457
+792
+(665)
+(45,64)
+55.968
+88.609
+32.641
+58,32
+Uang jaminan I Security deposit
+Jumlah Aset Tidak Lancar I Total 
+non-current assets
+2.884
+2.860
+(24)
+(0,83)
+109.911
+127.384
+17.473
+15,90
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+122
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Liabilitas Jangka Pendek  I Short-term Liabilities            
+Utang usaha I Trade payables
+Utang lain-lain I Other payables
+Utang pajak I Tax payable
+Utang bank jangka pendek I Short-
+term bank debts
+133
+117
+(16)
+(12,03)
+1.062
+1.560
+498
+46,89
+5.706
+5.706
+0
+0,00
+54.269
+73.258
+18.989
+34,99
+Beban akrual I Accrual expenses
+Liabilitas sewa I Lease liabilities
+Utang pembiayaan konsumen I 
+Consumer financing payables
+9.824
+23.093
+13.269
+135,07
+9.185
+9.116
+(69) 
+(0,75)
+132
+106
+(26)
+(19,70)
+Total Liabilitas Jangka Pendek I Total 
+short-term liabilities
+80.313
+112.956
+32.643
+40,64
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+Di tahun 2024, jumlah aset tidak lancar Perseroan lebih 
+tinggi 15,90% dibandingkan tahun 2023 dari Rp109,91 
+miliar menjadi Rp127,38 miliar di tahun 2024. Hal tersebut 
+terutama dipengaruhi oleh:
+•	
+Aset tetap – neto meningkat sebesar Rp32,64 miliar 
+atau 58,32% yang disebabkan oleh penambahan 
+berasal dari investasi pada aset tetap berupa data 
+center.
+•	
+Aset tidak berwujud – neto menurun sebesar Rp14,48 
+miliar atau 29,19% yang dikarenakan oleh  alokasi 
+beban depresiasi selama periode berjalan.
+•	
+Uang jaminan menurun sebesar Rp24 juta atau 0,83% 
+yang disebabkan oleh Pengembalian uang jaminan 
+pada tahun berjalan.
+•	
+Aset pajak tangguhan – neto menurun sebesar Rp665 
+juta atau 45,64% yang dikarenakan oleh perbedaan 
+temporer yang berbalik.
+Jumlah Liabilitas
+Jumlah liabilitas Perseroan per 31 Desember 2024 
+tercatat sebesar Rp145,22 miliar, meningkat 34,60% 
+dibandingkan tahun sebelumnya sebesar Rp107,89 miliar. 
+Hal ini terutama disebabkan oleh kenaikan utang usaha 
+dan beban akrual, peningkatan liabilitas ini sejalan dengan 
+tren kenaikan penjualan Perseroan, yang secara langsung 
+maupun tidak langsung memerlukan pendanaan dan 
+menimbulkan kewajiban yang lebih besar.
+In 2024, the Company’s non-current assets increased by 
+15.90% compared to 2023, rising from Rp109.91 billion to 
+Rp127.38 billion. This growth was primarily influenced by 
+the following factors:
+•	
+Fixed Assets – Net increased by IDR 32.64 billion or 
+58.32%, primarily due to additional investments in 
+fixed assets in the form of a data center.
+•	
+Intangible Assets – Net decreased by IDR 14.48 billion 
+or 29.19%, mainly due to the allocation of amortization 
+expenses during the reporting period.
+•	
+Security Deposits decreased by IDR 24 million or 
+0.83%, as a result of the return of security deposits 
+during the year.
+•	
+Deferred Tax Assets – Net declined by IDR 665 
+million or 45.64%, due to the reversal of temporary 
+differences.
+Total Liabilities
+The Company’s total liabilities as of December 31, 2024 
+were recorded at IDR145.22 billion, an increase of 34.60% 
+compared to the previous year of IDR107.89 billion. This 
+was mainly due to an increase in Accounts Payable and 
+accrued expenses, this increase in liabilities is in line with 
+the Company’s increasing sales trend, which directly or 
+indirectly requires funding and creates greater obligations.
+Jumlah liabilitas jangka pendek Perseroan tahun 2024 
+tercatat sebesar Rp112,96 miliar, lebih tinggi dibandingkan 
+tahun sebelumnya sebesar Rp80,31 miliar. Peningkatan 
+jumlah liabilitas jangka pendek tersebut utamanya 
+disebabkan oleh:
+The Company’s current liabilities in 2024 amounted to 
+Rp112.96 billion, higher than the previous year of Rp80.31 
+billion. The increase in total current liabilities was mainly 
+due to:
+123
+Laporan Terintegrasi 2024 Integrated Report
+•	
+Utang usaha meningkat sebesar Rp18,99 miliar atau 
+34,99% yang dikarenakan oleh kenaikan pendapatan 
+Perseroan, yang secara langsung maupun tidak 
+langsung memerlukan pendanaan dan menimbulkan 
+kewajiban yang lebih besar.
+•	
+Utang lain-lain menurun sebesar Rp16 juta atau 
+12,03% yang disebabkan oleh pembayaran kewajiban 
+yang dilakukan oleh Perseroan selama tahun berjalan.
+•	
+Beban akrual meningkat sebesar Rp13,27 miliar atau 
+•	
+Utang pajak meningkat sebesar Rp498 juta atau 
+46,89% yang disebabkan oleh Pajak keluaran yang 
+meningkat.
+•	
+Liabilitas sewa menurun sebesar Rp69 juta atau 0,75% 
+yang dikarenakan oleh pembayaran kewajiban terkait 
+liabilitas sewa yang dilakukan oleh Perseroan selama 
+tahun berjalan.
+•	
+Utang pembiayaan konsumen menurun sebesar Rp26 
+juta atau 19,70% yang dikarenakan oleh pembayaran 
+kewajiban 
+terkait 
+Pembiayaan 
+konsumen 
+yang 
+dilakukan oleh Perseroan selama tahun berjalan.
+•	
+Trade Payables increased by IDR 18.99 billion or 34.99%, 
+driven by the rise in the Company’s revenue, which 
+directly and indirectly required additional funding and 
+resulted in greater liabilities.
+•	
+Other Payables decreased by IDR 16 million or 12.03%, 
+as a result of the settlement of obligations made by 
+the Company during the year.
+•	
+Accrued Expenses rose by IDR 13.27 billion or 135.07%, 
+•	
+Tax Payables increased by IDR 498 million or 46.89%, 
+due to higher output tax.
+•	
+Lease Liabilities decreased by IDR 69 million or 0.75%, 
+following payments made by the Company to settle 
+lease-related obligations during the year.
+•	
+Consumer Financing Payables declined by IDR 26 
+million or 19.70%, resulting from the repayment of 
+consumer financing obligations by the Company 
+throughout the year.
+Liabilitas Jangka Panjang I Long-term Liabilities    
+Liabilitas sewa| Lease liabilities
+Pendapatan diterima di muka | Prepaid 
+income
+Total Liabilitas Jangka Panjang | Total 
+long-term liabilities
+14.941
+10.921
+73,09
+25.862
+27.580
+4.685
+16,99
+32.265
+9.935
+(8.556)
+(86,12)
+1.379
+Liabilitas imbalan kerja | Employee 
+benefit liabilities 
+2.704
+2.320
+85,80
+5.024
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+Jumlah liabilitas jangka panjang tahun 2024 tercatat 
+sebesar Rp32,27 miliar, naik 16,99% dari tahun sebelumnya 
+sebesar Rp27,58 miliar. Peningkatan tersebut disebabkan:
+•	
+Liabilitas sewa menurun sebesar Rp8,56 miliar atau 
+86,12% yang disebabkan oleh pembayaran kewajiban 
+terkait Sewa yang dilakukan oleh Perseroan selama 
+tahun berjalan.
+•	
+Pendapatan diterima di muka meningkat sebesar 
+Rp10,92 miliar atau 73,09% yang disebabkan oleh 
+kenaikan pendapatan Perseroan.
+•	
+Liabilitas imbalan kerja meningkat sebesar Rp2,32 
+miliar atau 85,80% yang dikarenakan oleh dua faktor 
+utama, yaitu kenaikan gaji karyawan dan penambahan 
+jumlah karyawan.
+Total long-term liabilities in 2024 were recorded at Rp32.27 
+billion, up 16.99% from the previous year of Rp27.58 billion. 
+The increase was due to:
+•	
+Lease Liabilities decreased by IDR 8.56 billion or 
+86.12%, due to the Company’s settlement of lease-
+related obligations during the year.
+•	
+Unearned Revenue increased by IDR 10.92 billion or 
+73.09%, in line with the Company’s revenue growth.
+•	
+Employee Benefit Liabilities rose by IDR 2.32 billion 
+or 85.80%, primarily driven by two key factors: an 
+increase in employee salaries and the addition of new 
+personnel.
+135,07%   utamanya   dikarenakan   adanya  kenaikan
+biaya                                      sejalan      dengan     adanya
+cybersecurity
+peningkatan penjualan pada tahun berjalan.
+primarily due to higher cybersecurity costs in line with 
+with the increase in sales during the current year.
+124
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Ekuitas I Equity      
+Modal Dasar I Authorized Capital
+Saham treasuri | Treasury shares
+Tambahan modal disetor| Additional 
+paid-up capital
+Selisih kurs penjabaran laporan 
+keuangan | Exchange differences on 
+translation of financial statements
+Rugi komprehensif lain | Other 
+comprehensive loss
+Belum ditentukan penggunaannya | 
+Unspecified use
+-
+(869)
+(869)
+(100,00)
+51.390
+51.405
+15
+0,03
+(76)
+(422)
+343
+(1.439)
+419
+(1.017)
+(551,32)
+241,00
+17.209
+32.929
+15.720
+91,35
+50.788
+50.791
+3
+0,01
+Saldo Laba I Profit balance
+Sudah ditentukan penggunaannya | 
+Specified use
+Ekuitas yang dapat diatribusikan kepada I Equity attributable to
+1.000
+1.000
+0
+0,00
+Entitas induk| Parent entity
+Kepentingan non pengendali| Non-
+controlling interest
+Jumlah Ekuitas| Total Equity
+119.890
+134.160
+14.270
+11,90
+(11)
+(29)
+(18)
+163,64
+119.879
+134.131
+14.252
+11,89
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+Jumlah ekuitas Perseroan per 31 Desember 2024 
+tercatat sebesar Rp134,13 miliar, meningkat 11,89% dari 
+tahun sebelumnya sebesar Rp119,88 miliar. Peningkatan 
+ekuitas terjadi karena perolehan hasil positif atau laba 
+komprehensif selama tahun 2024.
+As of December 31, 2024, the Company’s total equity 
+stood at IDR 134.13 billion, reflecting an increase of 11.89% 
+compared to IDR 119.88 billion in the previous year. This 
+increase in equity was driven by the positive results or 
+comprehensive income earned during the year 2024.
+Laporan Laba Rugi dan Penghasilan Komprehensif Lain Konsolidasian I Consolidated Statements of Profit or 
+Loss and Other Comprehensive Income
+Pendapatan I Revenue
+Beban Pokok Pendapatan I Operating 
+Expenses
+Beban Usaha | Operating Expenses  
+Laba Sebelum Pajak | Profit before Tax  
+(246.223)
+(362.863)
+(116.640)
+47,37
+22.195
+34.835
+12.640
+56,95
+319.583
+478.317
+158.734
+49,67
+Laba Kotor| Gross Profit
+Laba Usaha | Operating Profit 
+Beban Pajak Penghasilan| Income Tax 
+Expense
+Laba Komprehensif Tahun Berjalan | 
+Comprehensive Income for the Year 
+73.360
+(64.716)
+8.643
+115.454
+(84.453)
+31.001
+42.094
+(19.737)
+22.358
+57,38
+30,50
+258,68
+(5.099)
+(8.967)
+(3.868)
+75,86
+16.912
+25.262
+8.350
+49,37
+Laba Tahun Berjalan | Profit for the Year 
+Laba per saham| Earnings per share
+17.096
+25.866
+8.770
+51,30
+8,39
+12,79
+4
+52,44
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I 
+Description
+125
+Laporan Terintegrasi 2024 Integrated Report
+Pendapatan
+Secara umum, Pendapatan Perseroan pada tahun 2024 
+mengalami peningkatan sebesar 49,67% menjadi Rp478,32 
+miliar, dibandingkan tahun sebelumnya yang sebesar 
+Rp319,58 miliar. Hal tersebut terutama disebabkan oleh 
+adanya kenaikan pendapatan atas manage service dari 
+manage cloud dan Cybersecurity.
+Beban Pokok Pendapatan
+Sejalan dengan meningkatnya pendapatan, beban pokok 
+pendapatan Perseroan juga naik 47,37% menjadi Rp362,86 
+miliar dibandingkan tahun 2023 yang sebesar Rp246,22 
+miliar. Peningkatan beban pokok pendapatan ini sejalan 
+dengan meningkatnya pendapatan Perseroan pada tahun 
+2024.
+Laba Kotor
+Laba Kotor Perseroan sampai dengan akhir tahun 2024 
+tercatat sebesar Rp115,45 miliar, mengalami peningkatan 
+dibandingkan 
+laba 
+kotor 
+pada 
+tahun 
+2023 
+yaitu 
+sebesar Rp73,36 miliar. Peningkatan ini disebabkan oleh 
+pertumbuhan pendapatan Perseroan yang solid serta 
+keberhasilan dalam menerapkan efisiensi biaya.
+Beban Usaha
+Beban usaha yang diperoleh Perseroan pada tahun 2024 
+tercatat sebesar Rp84,45 miliar, mengalami peningkatan 
+30,50% dari tahun sebelumnya yang tercatat sebesar 
+Rp64,72 miliar. Hal ini terutama dipengaruhi oleh kenaikan 
+depresiasi sejalan dengan penambahan aset di tahun 
+2024.
+Laba Usaha
+Laba usaha Perseroan tahun 2024 tercatat sebesar 
+Rp31,00 miliar, mengalami kenaikan 258,68% dari tahun 
+sebelumnya yang tercatat Rp8,64 miliar. Kenaikan ini 
+disebabkan oleh pertumbuhan pendapatan perseroan dan 
+juga keberhasilan dalam menerapkan efisiensi biaya.
+Laba Sebelum Beban Pajak
+Realisasi laba sebelum beban pajak tahun 2024 tercatat 
+sebesar Rp34,84 miliar, naik sebesar 56,95% dibandingkan 
+tahun 2023. Kenaikan ini disebabkan oleh pertumbuhan 
+pendapatan perseroan dan juga keberhasilan dalam 
+menerapkan efisiensi biaya.
+Laba Tahun Berjalan
+Pada tahun 2024, jumlah laba tahun berjalan yang 
+diperoleh Perseroan tercatat sebesar Rp25,87 miliar, naik 
+51,30% dari tahun sebelumnya yang tercatat Rp17,10 miliar. 
+Kenaikan ini sejalan dengan pertumbuhan pendapatan 
+perseroan dan juga keberhasilan dalam menerapkan 
+efisiensi biaya.
+Revenue
+In general, the Company recorded a revenue increase of 
+49.67% in 2024, reaching IDR 478.32 billion, compared 
+to IDR 319.58 billion in the previous year. This significant 
+growth was primarily attributable to the increase in 
+revenue from managed services, specifically in the areas 
+of managed cloud and cybersecurity.
+Cost of Revenue
+In line with the increase in revenue, the Company’s cost 
+of revenue also increased by 47.37% to Rp362.86 billion 
+compared to Rp246.22 billion in 2023. The increase in cost 
+of revenue was in line with the growth in the Company’s 
+revenue in 2024.
+Gross Profit
+The Company’s gross profit until the end of 2024 was 
+recorded at Rp115.45 billion, an increase when compared 
+to gross profit in 2023 which amounted to Rp73.36 billion. 
+This increase was driven by the Company’s solid revenue 
+growth and successful implementation of cost efficiency 
+measures.
+Operating Expenses
+Operating expenses earned by the Company in 2024 were 
+recorded at Rp84.45 billion, an increase of 30.50% from 
+the previous year which was recorded at Rp64.72 billion. 
+This was primarily driven by an increase in depreciation, in 
+line with the addition of assets in 2024.
+Operating Profit
+The Company’s operating profit in 2024 was recorded at 
+Rp31.00 billion, an increase of 258.68% from the previous 
+year which was recorded at Rp8.64 billion. This increase 
+was attributed to the Company’s revenue growth as 
+well as the successful implementation of cost efficiency 
+initiatives.
+Profit before Tax Expense
+The realization of profit before tax expense in 2024 
+was recorded at Rp34.84 billion, an increase of 56.95% 
+compared to 2023. This increase was caused by 
+the Company’s revenue growth and the successful 
+implementation of cost efficiency strategies.
+Profit for the Year
+In 2024, the total profit for the year earned by the 
+Company was recorded at Rp25.87 billion, up 51.30% from 
+the previous year which was recorded at Rp17.10 billion. 
+This increase was in line with the Company’s revenue 
+growth and the successful implementation of cost 
+efficiency measures.
+126
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Laba Komprehensif Tahun Berjalan
+Tahun 2024, Perseroan membukukan laba komprehensif 
+tahun berjalan sebesar Rp25,26 miliar, meningkat dari 
+tahun sebelumnya di mana Perseroan membukukan 
+laba komprehensif sebesar Rp16,91 miliar. Hal tersebut 
+terutama disebabkan oleh Pertumbuhan pendapatan 
+perseroan dan juga keberhasilan dalam menerapkan 
+efisiensi biaya.
+Kas Neto yang Diperoleh dari Aktivitas Operasi 
+Kas neto yang diperoleh dari aktivitas operasi tahun 
+2024 tercatat sebesar Rp81,98 miliar, naik 648,98% dari 
+tahun sebelumnya sebesar Rp10,95 miliar. Hal tersebut 
+disebabkan oleh peningkatan pendapatan Perseroan yang 
+signifikan, yang diperkuat oleh efektivitas yang lebih baik 
+dalam penagihan piutang usaha sehingga mempercepat 
+konversi penjualan menjadi kas. Selain itu, adanya 
+pemasukan dari restitusi pajak juga memberikan kontribusi 
+positif terhadap peningkatan kas yang dihasilkan dari 
+aktivitas operasional perusahaan.
+Kas Neto Digunakan untuk Aktivitas Investasi
+Kas neto digunakan untuk aktivitas investasi tahun 
+2024 tercatat sebesar Rp48,98 miliar, turun 11,87% dari 
+tahun sebelumnya sebesar Rp55,57 miliar. Hal tersebut 
+disebabkan tingkat penambahan aset yang tidak sebesar 
+tahun 2023, mengindikasikan bahwa investasi dalam aset 
+jangka panjang seperti properti, pabrik, dan peralatan 
+tidak seintensif periode sebelumnya.
+Comprehensive Income for the Year
+In 2024, the Company booked a comprehensive profit for 
+the year of Rp25.26 billion, an increase from the previous 
+year where the Company booked a comprehensive profit of 
+Rp16.91 billion. This was primarily driven by the Company’s 
+revenue growth and the successful implementation of 
+cost efficiency measures.
+Net Cash Provided from Operating Activities 
+Net cash provided from operating activities in 2024 was 
+recorded at Rp81.98 billion, up 648.98% from the previous 
+year of Rp10.95 billion. This was driven by the significant 
+increase in the Company’s revenue, further supported 
+by improved effectiveness in the collection of trade 
+receivables, which accelerated the conversion of sales 
+into cash. In addition, the receipt of tax refunds also 
+contributed positively to the increase in cash generated 
+from the Company’s operating activities.
+Net Cash Used in Investing Activities
+Net cash used in investing activities in 2024 was recorded 
+at Rp48.98 billion, down 11.87% from the previous year 
+of Rp55.57 billion. This was due to a lower rate of asset 
+additions compared to 2023, indicating that investments 
+in long-term assets such as property, plant, and equipment 
+were not as intensive as in the previous period.
+Laporan Arus Kas Konsolidasian I Consolidated Statement of Cash Flow
+Kas Neto yang Diperoleh dari Aktivitas 
+Operasi I Net Cash Provided from 
+Operating Activities
+Kas Neto Digunakan untuk Aktivitas 
+Investasi I Net Cash Used in Investing 
+Activities
+Kenaikan (Penurunan) Neto Kas dan 
+Setara Kas I Net Increase (Decrease) in 
+Cash and Cash Equivalents
+Kas dan Bank Akhir Periode I Ending of 
+Period Cash and Bank
+(55.574)
+(48.976)
+6.598
+(11,87)
+21.562
+33.554
+11.992
+55,62
+10.946
+81.983
+71.037
+648,98
+Kas Neto Diperoleh dari Aktivitas 
+Pendanaan I Net Cash Provided from 
+Financing Activities
+Kas dan Bank Awal Periode I Beginning of 
+Period Cash and Bank 
+36.698
+(21.016)
+(57.714)
+(157,27)
+(4.930)
+11.992
+16.922
+(343,25)
+26.492
+21.562
+(4.930)
+(18,61)
+dalam jutaan Rupiah I In Million Rupiah
+2024
+2023
+Kenaikan (Penurunan) | 
+Increase (Decrease)
+Nominal
+(%)
+Uraian I  
+Description
+127
+Laporan Terintegrasi 2024 Integrated Report
+Perseroan senantiasa berkomitmen untuk memenuhi 
+hak-hak kreditur dengan melakukan pembayaran pokok 
+pinjaman dan bunganya secara tepat waktu. Kemampuan 
+Perseroan dalam memenuhi seluruh kewajiban baik 
+kewajiban jangka panjang maupun jangka pendek, diukur 
+melalui rasio likuiditas dan rasio solvabilitas.
+Likuiditas
+Rasio likuiditas digunakan untuk mengukur kemampuan 
+dalam melunasi utang. Perseroan membukukan rasio 
+kas dan rasio lancar masing-masing sebesar 30% dan 
+13,5% pada tahun 2024, lebih tinggi dari tahun lalu. Hal 
+ini mencerminkan kemampuan Perseroan dalam menjaga 
+tingkat likuiditasnya. 
+Solvabilitas
+Rasio solvabilitas mengukur kemampuan Perseroan dalam 
+menyelesaikan kewajiban jangka pendek dan jangka 
+panjang. Solvabilitas Perseroan tahun 2024 lebih tinggi 
+dari tahun sebelumnya yang ditunjukkan dari 2 (dua) 
+indikator yaitu rasio liabilitas terhadap aset sebesar 52% 
+dan rasio liabilitas terhadap ekuitas sebesar 108%. 
+Kemampuan Membayar Utang I Ability to Pay Debt
+The Company is always committed to fulfilling the rights 
+of creditors by making timely payments of loan principal 
+and interest. The Company’s ability to fulfill all obligations, 
+both long-term and short-term, is measured through 
+liquidity and solvency ratios.
+Liquidity
+Liquidity ratio is used to measure the ability to pay off 
+debts. The Company posted cash and current ratios of 
+30% and 13.5% respectively in 2024, higher than last year. 
+This reflects the Company’s ability to maintain its liquidity 
+level. 
+Solvency
+Solvency ratio measures the Company’s ability to settle 
+short-term and long-term liabilities. The Company’s 
+solvency in 2024 is higher than the previous year as 
+indicated by 2 (two) indicators, namely the ratio of 
+liabilities to assets of 52% and the ratio of liabilities to 
+equity of 108%. 
+KEMAMPUAN MEMBAYAR UTANG DAN TINGKAT KOLEKTIBILITAS PIUTANG I ABILITY TO PAY DEBT AND 
+COLLECTABILITY OF RECEIVABLES
+Rasio Kas | Cash Ratio
+Total Liabilitas terhadap Total Aset | Total Liabilities to Total 
+Assets 
+Rasio Lancar | Current Ratio
+Total Liabilitas terhadap Total Ekuitas I Total Liabilities to 
+Total Equity
+Rasio Likuiditas I Liquidity Ratio
+Rasio Solvabilitas I Solvability Ratio
+30
+135
+52
+108
+27
+147
+47
+90
+2024
+2023
+Uraian I Description
+dalam % I in %
+Net Cash Provided from Financing Activities 
+Net cash provided from financing activities at the end of 
+2024 was recorded at minus Rp21.02 billion, a decrease 
+of 157.27% compared to the previous year of Rp39.70 
+billion. The decrease was due to the additional investment 
+received from the Initial Public Offering (IPO) in 2023.
+Kas Neto Diperoleh dari Aktivitas Pendanaan 
+Kas neto diperoleh dari aktivitas pendanaan pada akhir 
+tahun 2024 tercatat sebesar minus Rp21,02 miliar, jumlah 
+tersebut mengalami penurunan 157,27% dibandingkan 
+tahun sebelumnya yang sebesar Rp39,70 miliar. Penurunan 
+tersebut disebabkan adanya tambahan investasi yang 
+diperoleh dari Penawaran Umum Perdana Saham (IPO) 
+pada tahun 2023.
+128
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Tingkat Kolektibilitas Piutang
+Di tahun 2024 terjadi kenaikan perputaran piutang dari 
+41 hari di tahun 2023 menjadi 53 hari pada tahun 2024. 
+Hal ini terkait dengan strategi perusahaan untuk menarik 
+pelanggan baru.
+Dasar 
+Penentuan 
+Kebijakan 
+Manajemen 
+atas 
+Struktur Modal
+Kebijakan terkait struktur permodalan bertujuan untuk 
+memastikan bahwa Perseroan memiliki modal yang kuat 
+untuk mendukung strategi pengembangan bisnis dan 
+ekspansi usaha serta mempertahankan kelangsungan 
+pengembangan bisnis di kemudian hari. Perseroan 
+memelihara dan mengelola struktur permodalan dengan 
+menyesuaikan besaran dividen bagi pemegang saham, 
+menerbitkan saham baru, melakukan penawaran umum, 
+membeli kembali saham yang beredar, mengusahakan 
+pendanaan melalui pinjaman, melakukan konversi hutang 
+ke modal saham ataupun menjual aset untuk mengurangi 
+pinjaman. Perseroan berupaya melakukan penyesuaian 
+terhadap struktur permodalan berdasarkan perubahan 
+kondisi ekonomi dan kebutuhan bisnis.
+Strategi Pemasaran
+Guna mencapai sasaran pemasaran di tahun 2024, 
+Perseroan berupaya menjalankan strategi pemasaran 
+yang efektif dengan mengoptimalkan berbagai kanal dan 
+pendekatan yang telah dirumuskan. Strategi pemasaran 
+yang diterapkan bertujuan untuk meningkatkan visibilitas 
+merek, memperluas jangkauan pasar, serta memperkuat 
+posisi Perseroan sebagai penyedia layanan teknologi 
+terkemuka.
+Strategi pemasaran yang dijalankan meliputi:
+1. Digital Marketing: Perseroan memanfaatkan berbagai 
+kanal 
+digital 
+untuk 
+meningkatkan 
+awareness 
+dan 
+engagement dengan calon pelanggan. Strategi digital 
+marketing yang diterapkan meliputi:
+a. 	 Email 
+Marketing: 
+Menggunakan 
+email 
+sebagai sarana komunikasi yang efektif untuk 
+menyampaikan informasi terkait produk, layanan, 
+Struktur Modal I Capital Structure
+Receivables Collectibility Rate 
+In 2024, the Company experienced an increase in accounts 
+receivable turnover from 41 days in 2023 to 53 days. This 
+was related to the Company’s strategy to attract new 
+customers.
+Basis for Determining Management Policy on Capital 
+Structure
+Policies related to capital structure aim to ensure that 
+the Company has strong capital to support business 
+development strategies and business expansion as well 
+as to maintain the continuity of business development 
+in the future. The Company maintains and manages its 
+capital structure by adjusting the amount of dividends 
+for shareholders, issuing new shares, conducting public 
+offerings, repurchasing outstanding shares, seeking 
+funding through loans, converting debt to share capital 
+or selling assets to reduce loans. The Company strives 
+to make adjustments to its capital structure based on 
+changes in economic conditions and business needs.
+Marketing Strategy
+To achieve its marketing goals in 2024, the Company 
+is implementing an effective marketing strategy by 
+optimizing various channels and approaches that have 
+been formulated. The marketing strategy aims to enhance 
+brand visibility, expand market reach, and strengthen 
+the Company’s position as a leading technology service 
+provider.
+The marketing strategies implemented include:
+1. Digital Marketing: The Company leverages various 
+digital channels to increase awareness and engagement 
+with potential customers. The digital marketing strategies 
+applied include:
+a. 	 	Email Marketing: Utilizing email as an effective 
+communication tool to share information about 
+products, services, and technology education with 
+STRUKTUR MODAL DAN KEBIJAKAN STRUKTUR MODAL I CAPITAL STRUCTURE AND CAPITAL STRUCTURE 
+POLICY
+ASPEK PEMASARAN I MARKETING ASPECT
+Total Ekuitas I Total Equity
+Rasio Liabilitas Terhadap Ekuitas (%) I Debt to Equity Ratio (%)
+Total Liabilitas I Total Liabilities
+119.879
+134.131
+90
+108
+107.893
+145.221
+2024
+2023
+Uraian I Description
+dalam jutaan Rupiah I In Million Rupiah
+129
+Laporan Terintegrasi 2024 Integrated Report
+dan edukasi teknologi kepada pelanggan dan 
+prospek. Kampanye email dilakukan secara berkala 
+dengan segmentasi yang tepat guna meningkatkan 
+keterlibatan dan konversi.
+b. 	 Search Engine Optimization (SEO): Mengoptimalkan 
+konten pada website Perseroan agar lebih mudah 
+ditemukan oleh calon pelanggan melalui mesin 
+pencari seperti Google. Strategi SEO mencakup 
+penggunaan kata kunci yang relevan, peningkatan 
+kualitas konten, serta optimalisasi teknis pada 
+website.
+c. 	 Website 
+Development: 
+Memastikan 
+website 
+Perseroan memiliki tampilan yang profesional, 
+responsif, 
+dan 
+mudah 
+diakses. 
+Website 
+dikembangkan sebagai pusat informasi utama 
+terkait layanan dan solusi yang ditawarkan, serta 
+dioptimalkan 
+untuk 
+meningkatkan 
+konversi 
+pengunjung menjadi pelanggan.
+d. 	 Social Media Marketing: Memanfaatkan platform 
+media sosial seperti LinkedIn, Instagram, Facebook, 
+dan Twitter untuk membangun brand awareness, 
+membagikan 
+konten 
+edukatif, 
+serta 
+menjalin 
+interaksi dengan audiens secara lebih personal.
+e. 	 Paid Advertising: Menggunakan strategi iklan 
+berbayar seperti Google Ads, LinkedIn Ads, dan 
+social media ads untuk menjangkau target audiens 
+secara lebih efektif. Kampanye iklan dirancang 
+berdasarkan 
+segmentasi 
+yang 
+spesifik 
+guna 
+meningkatkan efektivitas dalam menjaring prospek 
+berkualitas.
+2.  Account-Based Marketing (ABM): Strategi ini difokuskan 
+pada pendekatan yang lebih personal dan spesifik terhadap 
+klien potensial, terutama institusi pemerintah, perusahaan 
+skala besar, dan sektor finansial. Dengan ABM, Perseroan 
+dapat menyusun strategi komunikasi dan penawaran yang 
+lebih sesuai dengan kebutuhan masing-masing prospek, 
+sehingga meningkatkan peluang konversi.
+3. Kemitraan Strategis: Perseroan terus memperkuat 
+kemitraan dengan penyedia teknologi global seperti AWS 
+dan Google Cloud untuk meningkatkan kredibilitas serta 
+menawarkan solusi yang lebih inovatif kepada pelanggan.
+4. Focus Group Workshop/Seminar dengan Target 
+Customer: 
+Perseroan 
+aktif 
+mengadakan 
+workshop 
+dan seminar yang ditargetkan secara khusus untuk 
+pelanggan potensial. Melalui kegiatan ini, Perseroan dapat 
+memperkenalkan solusi unggulan secara lebih mendalam, 
+membangun hubungan yang lebih erat dengan calon 
+pelanggan, serta memahami kebutuhan pasar secara 
+langsung.
+customers and prospects. Email campaigns are 
+conducted periodically with precise segmentation 
+to enhance engagement and conversion rates.
+b. 	 Search Engine Optimization (SEO): Optimizing 
+website content to improve discoverability by 
+potential customers through search engines like 
+Google. SEO strategies include the use of relevant 
+keywords, improving content quality, and technical 
+website optimization.
+c. 	 Website Development: Ensuring the Company’s 
+website has a professional, responsive, and user-
+friendly design. The website serves as the primary 
+information hub for services and solutions offered 
+and is optimized to convert visitors into customers.
+d. 	 	Social Media Marketing: Utilizing platforms such 
+as LinkedIn, Instagram, Facebook, and Twitter to 
+build brand awareness, share educational content, 
+and interact with the audience on a more personal 
+level.
+e. 	 	Paid Advertising: Implementing paid advertising 
+strategies such as Google Ads, LinkedIn Ads, and 
+social media ads to reach target audiences more 
+effectively. Ad campaigns are designed with specific 
+segmentation to improve efficiency in acquiring 
+high-quality prospects.
+2. Account-Based Marketing (ABM): This strategy 
+focuses on a more personalized and targeted approach 
+for potential clients, particularly government institutions, 
+large-scale enterprises, and the financial sector. Through 
+ABM, the Company can develop tailored communication 
+strategies and offers that align with the specific needs 
+of 
+each 
+prospect, 
+thereby 
+increasing 
+conversion 
+opportunities.
+3. Strategic Partnerships: The Company continues to 
+strengthen partnerships with global technology providers 
+such as AWS and Google Cloud to enhance credibility and 
+offer more innovative solutions to customers.
+4. Targeted Focus Group Workshops/Seminars: The 
+Company actively organizes workshops and seminars 
+specifically targeted at potential customers. These 
+events provide an opportunity to introduce key solutions 
+in greater depth, build stronger relationships with 
+prospective clients, and gain direct insights into market 
+needs.
+130
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Pangsa Pasar
+Perseroan menargetkan berbagai segmen pasar yang 
+memiliki kebutuhan tinggi terhadap layanan teknologi 
+terkelola dan keamanan siber. Segmen pasar utama yang 
+menjadi fokus Perseroan pada tahun 2024 meliputi:
+1. Sektor Pemerintahan (Kementerian, Lembaga, dan 
+Pemerintah Daerah)
+Dengan meningkatnya kebutuhan akan solusi cloud 
+infrastructure, keamanan siber, dan kecerdasan buatan 
+(AI) di sektor pemerintahan, Perseroan menawarkan 
+layanan seperti Cloud Infrastructure, Managed Security 
+Services (EDR dan MDR), serta solusi berbasis AI untuk 
+meningkatkan efisiensi dan keamanan sistem digital 
+pemerintahan.
+2. Sektor Banking
+Perseroan 
+menyediakan 
+solusi 
+Cloud 
+Infrastructure, 
+Managed Security Services, dan AI untuk industri perbankan 
+guna memastikan keamanan data, kepatuhan terhadap 
+regulasi, serta mendukung transformasi digital dalam 
+layanan keuangan.
+3. Sektor Pendidikan
+Dengan pengalaman dalam mengembangkan solusi AI di 
+sektor pendidikan, seperti virtual counselor untuk SMA 
+di Jawa Barat, Perseroan berupaya memperluas layanan 
+berbasis teknologi ke lebih banyak institusi pendidikan 
+guna mendukung digitalisasi dan peningkatan kualitas 
+pembelajaran.
+4. Sektor Kesehatan
+Perseroan menargetkan rumah sakit, laboratorium, dan 
+institusi kesehatan lainnya yang membutuhkan solusi 
+Cloud Infrastructure, Managed Security Services, serta AI 
+untuk meningkatkan efisiensi operasional, keamanan 
+data pasien, dan optimalisasi layanan kesehatan berbasis 
+teknologi.
+Dengan strategi pemasaran yang terarah dan target pasar 
+yang jelas, Perseroan optimis dapat memperkuat posisi di 
+industri serta memberikan solusi yang relevan dan bernilai 
+bagi para pelanggan di tahun 2025.
+Perbandingan Target dan Realisasi Kinerja Tahun 
+2024
+Evaluasi terhadap pencapaian target kinerja operasional 
+merupakan salah satu bentuk upaya Perusahaan untuk 
+menentukan strategi di masa yang akan datang sehingga 
+pencapaian target yang akan datang dapat lebih maksimal. 
+Berikut adalah tabel perbandingan kinerja operasional 
+Perseroan terhadap target di tahun 2024 dan realisasinya.
+Market Share
+The Company targets various market segments with 
+high demand for managed technology services and 
+cybersecurity. The key market segments the Company is 
+focusing on in 2024 include:
+1. Government Sector (Ministries, Agencies, and 
+Local Governments)
+With the increasing need for cloud infrastructure 
+solutions, cybersecurity, and artificial intelligence (AI) 
+in the government sector, the Company offers services 
+such as Cloud Infrastructure, Managed Security Services 
+(EDR and MDR), and AI-based solutions to enhance the 
+efficiency and security of digital government systems.
+2. Banking Sector
+The Company provides Cloud Infrastructure, Managed 
+Security Services, and AI solutions for the banking 
+industry to ensure data security, regulatory compliance, 
+and support digital transformation in financial services.
+3. Education Sector
+Leveraging its experience in developing AI solutions for 
+education—such as virtual counselors for high schools in 
+West Java—the Company aims to expand its technology-
+based services to more educational institutions to support 
+digitalization and enhance learning quality.
+4. Healthcare Sector
+The Company targets hospitals, laboratories, and other 
+healthcare institutions that require Cloud Infrastructure, 
+Managed Security Services, and AI solutions to improve 
+operational efficiency, protect patient data, and optimize 
+technology-driven healthcare services.
+With a focused marketing strategy and clear target 
+markets, the Company is optimistic about strengthening 
+its position in the industry and delivering relevant and 
+valuable solutions to customers in 2025.
+Comparison  of  Target  and  Realization  of 
+Performance  Year  2024 
+Evaluation of the achievement of operational performance 
+targets is one of the Company’s efforts to determine future 
+strategies so that the achievement of future targets can 
+be maximized. The following table is a comparison of the 
+Company’s operational performance against the target in 
+2024 and its realization.
+131
+Laporan Terintegrasi 2024 Integrated Report
+Prospek Usaha
+Di tahun 2025 bisnis teknologi digital akan berkembang 
+dengan 
+kecepatan 
+yang 
+belum 
+pernah 
+terjadi 
+sebelumnya. Hal ini didorong oleh inovasi teknologi dan 
+perubahan perilaku konsumen. Tren dan ide baru yang 
+akan membentuk lanskap bisnis digital di tahun-tahun 
+mendatang akan terimplementasi dengan kecepatan yang 
+tidak terprediksi.
+Berikut beberapa ide dan tren menarik yang akan 
+menentukan lanskap arus bisnis digital di tahun 2025:
+1.	
+Penggunaan Kecerdasan Buatan (AI) yang Lebih 
+Kompleks
+Di tahun 2025, AI tidak lagi hanya dinilai sebagai alat 
+bantu, tetapi menjadi bagian integral dari strategi bisnis. AI 
+digunakan dalam berbagai fungsi seperti analitik prediktif, 
+personalisasi pengalaman pelanggan, hingga manajemen 
+risiko secara otomatis.
+2.	
+Adopsi Teknologi Blockchain Meluas
+Blockchain semakin diadopsi di luar sektor keuangan, 
+seperti dalam rantai pasok, layanan kesehatan, dan 
+administrasi pemerintahan. Teknologi ini digunakan untuk 
+Target dan Proyeksi Kinerja Tahun 2025
+Memasuki tahun 2025, Perseroan telah menetapkan 
+sejumlah target yang tertuang pada Rencana Kerja 
+Anggaran Perusahaan (RKAP) 2025. Adapun beberapa 
+target yang ditetapkan Perseroan pada tahun 2025 dapat 
+dilihat pada tabel berikut.
+Business Outlook 
+In 2025 the digital technology business will expand at 
+an unprecedented pace. This is driven by technological 
+innovation and changing consumer behavior. New trends 
+and ideas that will shape the digital business landscape in 
+the coming years will be implemented at an unpredictable 
+pace.
+Here are some interesting ideas and trends that will define 
+the current landscape of digital business in 2025:
+1.	
+More Complex Use of Artificial Intelligence (AI)
+In 2025, AI will no longer be considered just a tool, but an 
+integral part of business strategy. AI is used in functions 
+such as predictive analytics, customer experience 
+personalization, and automated risk management.
+2.	
+Blockchain Technology Adoption Expands
+Blockchain is increasingly being adopted outside the 
+financial sector, such as in supply chains, healthcare, 
+and government administration. This technology is used 
+Performance Target and Projection for 2025 
+Entering 2025, the Company has set a number of targets 
+as stated in the 2025 Corporate Budget Work Plan (RKAP). 
+Some of the targets set by the Company in 2025 can be 
+seen in the following table.
+Pendapatan atau Penjualan I Revenue or Sales
+Laba (Rugi) Tahun Berjalan| Profit (Loss) for the Year
+Total Ekuitas | Total Equity 
+Laba Kotor| Gross Profit
+Total Liabilitas | Total Liabilities 
+Total Aset | Total Assets
+Rasio Liabilitas  terhadap Ekuitas (%) | Debt to Equity 
+Ratio (%) 
+dalam miliar Rupiah, kecuali dinyatakan lain| in billion Rupiah, unless otherwise stated
+372
+478
+28,49
+112
+115
+2,68
+30
+26
+(13,33)
+333
+279
+(16,22)
+191
+145
+(24,08)
+141
+134
+(4,96)
+135
+108
+(20,12)
+Target 2024
+2024 Target
+Realisasi 2024
+2024 Realization
+Pencapaian Target 
+Target Achievement 
+(%)
+Uraian I Description
+Pendapatan atau Penjualan I Revenue or Sales
+Laba (Rugi) Tahun Berjalan| Profit (Loss) for the Year
+Total Ekuitas | Total Equity 
+Laba Kotor| Gross Profit
+Total Liabilitas | Total Liabilities 
+Total Aset | Total Assets
+Rasio Liabilitas terhadap Ekuitas (%) | Debt to Equity Ratio (%) 
+dalam miliar Rupiah, kecuali dinyatakan lain| in billion Rupiah, unless otherwise stated
+478
+478
+115
+115
+26
+26
+279
+279
+145
+145
+134
+134
+108
+108
+Realisasi 2024
+2024 Realization
+Proyeksi 2025
+2025 Projection
+Uraian I Description
+132
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+memastikan transparansi, keamanan, dan efisiensi dalam 
+pengelolaan data. Contoh penerapannya yaitu industri 
+logistik yang menggunakan blockchain untuk melacak 
+barang secara real-time dan memastikan keaslian produk.
+3.	
+Internet of Things (IoT) dengan Kemampuan 
+Lebih Baik
+Perangkat IoT semakin terintegrasi dengan teknologi 
+lainnya, menciptakan jaringan ekosistem cerdas. Di tahun 
+2025, IoT menjadi pusat dalam pengelolaan smart city, 
+rumah pintar, dan bahkan industri manufaktur.
+4.	
+Cloud Computing yang Semakin Dominan
+Cloud computing tidak hanya membantu perusahaan 
+menyimpan data, tetapi juga menyediakan platform 
+kolaborasi yang memungkinkan bisnis bekerja secara 
+lebih fleksibel. Hybrid cloud dan multi-cloud menjadi 
+pilihan utama untuk efisiensi dan keamanan data. Tren 
+transformasi digital di tahun 2025 ini akan disambut 
+hangat oleh berbagai industri, khususnya startup teknologi 
+yang memanfaatkannya untuk pengembangan aplikasi 
+tanpa harus membangun infrastruktur fisik.
+5.	
+Teknologi 
+5G 
+untuk 
+Konektivitas 
+Tanpa 
+Hambatan
+Dengan implementasi jaringan 5G yang semakin luas, 
+kecepatan dan stabilitas koneksi internet mendukung 
+adopsi teknologi seperti augmented reality (AR), virtual 
+reality (VR), dan IoT. 2024 menjadi pembuka tren ini, 
+terlebih tak sedikit industri hiburan menggunakan 5G 
+untuk menyediakan pengalaman AR/VR dalam konser 
+virtual.
+Dengan tren teknologi di atas, dipastikan di tahun 2025 
+nilai ekonomi digital di Indonesia diperkirakan akan 
+mencapai USD130 miliar pada 2025 dan tumbuh hingga 
+USD360 pada 2030 yang menandakan adanya potensi 
+besar untuk investasi di sektor ini. Tak hanya itu, ekonomi 
+digital Indonesia juga diperkirakan akan membuka 3,7 
+juta peluang pekerjaan tambahan pada 2025. Hal ini juga 
+didorong oleh perkembangan berbagai sektor industri, 
+terutama sektor e-commerce, transportasi dan makanan, 
+perjalanan online serta dan media online.
+Melihat kondisi tersebut, Perseroan optimis di tahun 2025 
+Perseroan masih mampu memanfaatkan peluang yang 
+ada untuk terus tumbuh berkelanjutan.
+Sumber:
+1.	
+https://industri.kontan.co.id/news/bersiap-ekonomi-digital-diramal-
+bakal-buka-37-juta-peluang-pekerjaan-di-2025
+2.	
+https://news.ahmaddahlan.ac.id/2024/07/perkiraan-arus-bisnis-
+digital-pada.html#:~:text=Arus%20bisnis%20digital%20di%20
+tahun,produk%20dan%20layanan%20eksklusif%20metaverse.
+3.	
+Kementerian Investasi dan Hilirisasi/BPKM melalui https://www.
+instagram.com/bkpm_id/reel/DEkh9Xrzsk6/
+to ensure transparency, security, and efficiency in data 
+management. An example of its application is the logistics 
+industry, which uses blockchain to track goods in real-
+time and ensure product authenticity.
+3.	
+Internet of Things (IoT) with Better Capabilities
+IoT devices are increasingly integrated with other 
+technologies, creating a network of intelligent ecosystems. 
+By 2025, IoT will be central to managing smart cities, smart 
+city, and even the manufacturing industry.
+4.	
+The Increasing Dominance of Cloud Computing
+Cloud computing not only helps companies store data, 
+but also provides a collaboration platform that allows 
+businesses to work more flexibly. Hybrid cloud and multi-
+cloud are the top choices for efficiency and data security. 
+This digital transformation trend in 2025 will be warmly 
+welcomed by various industries, especially technology 
+startups that utilize it for application development without 
+having to build physical infrastructure.
+5.	
+5G Technology for Seamless Connectivity
+With the widespread implementation of 5G networks, the 
+speed and stability of internet connections support the 
+adoption of technologies such as augmented reality (AR), 
+virtual reality (VR), and IoT. 2024 is the opening of this 
+trend, especially since many entertainment industries use 
+5G to provide AR/VR experiences in virtual concerts.
+With the above technology trends, it is certain that in 2025 
+the value of the digital economy in Indonesia is expected to 
+reach USD130 billion in 2025 and grow to USD360 in 2030, 
+indicating great potential for investment in this sector. 
+Not only that, Indonesia’s digital economy is also expected 
+to open 3.7 million additional job opportunities by 2025. 
+This is also driven by the development of various industry 
+sectors, especially the e-commerce, transportation and 
+food, online travel and online media sectors.
+In these circumstances, the company is optimistic that 
+opportunities for further sustainable growth will still be 
+available in 2025.
+Source:
+1.	
+https://industri.kontan.co.id/news/bersiap-ekonomi-digital-diramal-
+bakal-buka-37-juta-peluang-pekerjaan-di-2025
+2.	
+https://news.ahmaddahlan.ac.id/2024/07/perkiraan-arus-bisnis-
+digital-pada.html#:~:text=Arus%20bisnis%20digital%20di%20
+tahun,produk%20dan%20layanan%20eksklusif%20metaverse.
+3.	
+Kementerian Investasi dan Hilirisasi/BPKM melalui https://www.
+instagram.com/bkpm_id/reel/DEkh9Xrzsk6/
+133
+Laporan Terintegrasi 2024 Integrated Report
+Ikatan Material untuk Investasi Barang Modal
+Perseroan tidak melakukan pengikatan dengan pihak 
+manapun terkait investasi barang modal pada tahun 2024. 
+Oleh karena itu, Perseroan tidak menyajikan informasi 
+terkait tujuan dari ikatan tersebut, sumber dana yang 
+diharapkan untuk memenuhi ikatan tersebut, mata uang 
+yang menjadi denominasi, dan langkah yang direncanakan 
+untuk melindungi risiko dari posisi mata uang asing yang 
+terkait.
+Investasi Barang Modal
+Dalam rangka mendukung kegiatan operasional agar 
+berjalan optimal dan mencapai target kinerja, Perseroan 
+melakukan investasi barang modal di tahun 2024 sebesar 
+Rp15,99 miliar. Jumlah ini menurun 80,11% dari tahun 
+sebelumnya yang tercatat sebesar Rp80,40 miliar. Berikut 
+rincian investasi barang modal Perseroan dalam 2 tahun 
+terakhir.
+Material Ties for Capital Investment
+The Company has not entered into any tie-up with any 
+party in relation to investment in capital goods in 2024. 
+Therefore, the Company does not present information 
+related to the purpose of the bonds, the expected source 
+of funds to fulfill the bonds; the currency in which the 
+bonds are denominated; and the measures planned to 
+hedge the risk of the related foreign currency positions.
+Investment in Capital Goods
+In order to support operational activities to run optimally 
+and achieve performance targets, the Company invested 
+Rp15.99 billion in capital goods in 2024. This amount 
+decreased by 80.11% from the previous year which 
+amounted to Rp80.40 billion. The following are the details 
+of the Company’s investment in capital goods in the last 
+2 years.
+TINJAUAN KEUANGAN LAINNYA I OTHER FINANCIAL REVIEW
+Bangunan I Building
+Elivision
+Peralatan Elivision| Elivision Equipment
+Sipandu
+Lisensi Zahir| Zahir License
+ArcGIS
+Lisensi SaaS | SaaS License
+Peralatan Kantor | Office Equipment
+Elipedia
+Kendaraan | Vehicle
+Aset hak guna bangunan| Building use right assets
+Peralatan Data Center | Data Center Equipment
+Aset dalam Penyelesaian | Assets in Settlement
+Prisma Cloud Enterprise Edition
+Lisensi SAP | SAP License
+Gitlab
+Lain-lain I Others
+Aset Tetap I Current Assets
+Aset Tak Berwujud I Intangible Assets
+Perangkat Lunak I Software
+-
+-
+-
+-
+-
+-
+2.188
+2.081
+718
+-
+-
+-
+-
+-
+1.264
+544
+2.831
+-
+-
+-
+-
+71
+24.824
+8.691
+729
+958
+18.945
+3.647
+3.901
+-
+-
+-
+24.998
+-
+2024
+2023
+Uraian I Description
+Jumlah I Total
+80.398
+15.992
+dalam jutaan Rupiah I In Million Rupiah
+134
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Realisasi Penawaran Dana Hasil Penawaran Umum
+Pada tahun 2024, Perseroan tidak menerbitkan saham 
+ataupun efek lain. Aksi korporasi Perseroan telah 
+dilaksanakan pada 6 Januari 2023 terkait penawaran 
+umum perdana saham. Adapun laporan dana hasil 
+penawaran tersebut telah digunakan sepenuhnya sesuai 
+dengan rencana penggunaan dana pada prospektus, dan 
+telah dilaporkan kepada regulator pada tahun terkait. 
+Dengan demikian, Perseroan tidak memiliki informasi 
+kewajiban pelaporan penggunaan dana hasil penawaran 
+umum.
+Realization of Public Offering Proceeds
+In 2024, the Company did not issue any shares or other 
+securities. The Company’s corporate action was carried 
+out on January 6, 2023, in relation to its initial public 
+offering. The proceeds from the offering have been fully 
+utilized in accordance with the fund allocation plan stated 
+in the prospectus and have been reported to the regulator 
+in the relevant year. Accordingly, the Company has no 
+reporting obligations regarding the use of proceeds from 
+the public offering.
+Kebijakan Dividen
+Perseroan menetapkan kebijakan pembagian dividen 
+berpedoman pada Anggaran Dasar, yaitu pembayaran 
+dividen 
+dilakukan 
+atas 
+persetujuan 
+Rapat 
+Umum 
+Pemegang Saham (RUPS) dengan mempertimbangkan:
+1.	
+Nilai laba bersih Perseroan;
+2.	
+Memperhatikan kondisi keuangan Perseroan;
+3.	
+Rencana investasi serta pengembangan yang akan 
+dilakukan Perseroan.
+Sementara, besaran dividen yang dibayarkan kepada 
+Pemegang Saham ditetapkan sebesar 20-30% dari laba 
+bersih dikurangi pajak. Di tahun 2024, RUPS Tahunan 
+Perseroan yang dilaksanakan pada 26 Juni 2024 
+memutuskan pembagian dividen untuk tahun buku 2023 
+sebesar Rp10.158.215.285 atau 59,42% dari nilai laba bersih 
+Perseroan yang sebesar Rp17.095.918.870.
+Berikut pembagian dividen yang dilakukan Perseroan 
+dalam 2 tahun terakhir.
+The following are the dividend distributions made by the 
+Company in the last 2 years.
+Dividend Policy
+The Company determines the dividend distribution policy based 
+on the Articles of Association, namely dividend payments are 
+made with the approval of the General Meeting of Shareholders 
+(GMS) by considering:
+1.	
+The value of the Company’s net income;
+2.	
+Taking into account the Company’s financial condition;
+3.	
+Investment and development plans that will be carried 
+out by the Company.
+Meanwhile, the amount of dividends paid to shareholders 
+is set at 20-30% of net profit minus tax. In 2024, the 
+Company’s Annual GMS held on June 26, 2024 decided the 
+distribution of dividends for the fiscal year 2023 amounting 
+to Rp10,158,215,285 or 59.42% of the Company’s net profit 
+of Rp17,095,918,870.
+KEBIJAKAN DAN PEMBAGIAN DIVIDEN I DIVIDEND POLICY AND DISTRIBUTION
+Pembagian Dividen I Dividend Distribution  
+Laba Neto I Net Profit 
+Dividen per Saham Dasar I Dividend per 
+Basic Share
+Dividen yang dibagikan I Dividend 
+distributed
+Tanggal Pengumuman | Announcement 
+Date
+Tanggal Pembayaran Dividen | 
+Dividend Payment Date
+Dividend Payout Ratio
+17.095.918.870
+9.639.739.921
+Rp
+5
+3,5
+Rp
+10.158.215.285
+7.110.097.862
+Rp
+26 Juni 2024
+24 Mei 2023
+-
+25 Juli 2024
+23 Juni 2023
+-
+59,42
+73,76
+%
+  Tahun  Buku 2022 I 
+Fiscal Year 2022
+Tahun Buku 2023 I 
+Fiscal Year 2023
+Uraian I Description
+Satuan I Unit
+135
+Laporan Terintegrasi 2024 Integrated Report
+Rincian transaksi dengan pihak berelasi diungkapkan 
+dalam Catatan No. 29 Laporan Keuangan Konsolidasian 
+Perseroan.
+Details of transactions with related parties are disclosed 
+in Note No. 29 of the Company’s Consolidated Financial 
+Statements.
+Informasi Transaksi Material yang Mengandung 
+Benturan Kepentingan
+Sepanjang tahun 2024, Perseroan tidak melakukan 
+transaksi yang mengandung benturan kepentingan.
+Informasi dengan Pihak Afiliasi
+Sepanjang tahun 2024, Perseroan tidak melakukan 
+transaksi dengan pihak afiliasi sehubungan dengan 
+penutupan asuransi.
+Informasi Transaksi dengan Pihak Berelasi
+Informasi terkait transaksi dengan pihak-pihak berelasi, 
+sifat hubungan, serta  jenis transaksi yang dilakukan 
+Perseroan 
+dengan 
+pihak-pihak 
+berelasi 
+tersebut 
+diungkapkan pada tabel berikut.
+Transaksi 
+Pihak 
+Berelasi 
+yang 
+Menghasilkan 
+Pendapatan Usaha dan Dijalankan secara Rutin, 
+Berulang dan/atau Berkelanjutan
+Seluruh transaksi dengan pihak berelasi yang dijalankan 
+Perseroan sepanjang tahun 2024 bukan merupakan 
+kegiatan usaha yang dijalankan dalam rangka menghasilkan 
+pendapatan dan dijalankan secara rutin, berulang, dan/
+atau berkelanjutan.
+Kewajaran Transaksi
+Perseroan memastikan dalam setiap transaksi yang 
+dilakukan tidak memiliki tujuan yang berpotensi melanggar 
+ketentuan yang berlaku, termasuk tidak menimbulkan 
+benturan kepentingan bagi Perseroan maupun Pemegang 
+Saham mayoritas maupun minoritas.
+Seluruh transaksi Perseroan telah memenuhi Peraturan 
+Otoritas Jasa Keuangan No.17/POJK.04/2020 tentang 
+Transaksi Material dan Perubahan Kegiatan Usaha dan 
+Peraturan Otoritas Jasa Keuangan No. 42/POJK.04/2020 
+tentang Transaksi Afiliasi dan Transaksi Benturan 
+Kepentingan.
+Information on Material Transactions Containing 
+Conflict of Interest
+Throughout 2024, the Company did not conduct 
+transactions that contain conflicts of interest.
+Information with Affiliated Party
+Throughout 2024, the Company did not conduct 
+transactions with affiliated parties in connection with 
+insurance coverage.
+Information on Transactions with Related Party
+Information related to transactions with related parties, the 
+nature of the relationship, and the types of transactions 
+carried out by the Company with these related parties are 
+disclosed in the following table.
+Related Party Transactions that Generate Business 
+Income and are Conducted Routinely, Recurrently 
+and/or Sustainably
+All transactions with related parties carried out by the 
+Company throughout 2024 are not business activities 
+carried out in order to generate revenue and are carried 
+out routinely, repeatedly, and/or continuously.
+Fairness of Transaction
+The Company ensures that every transaction carried out 
+does not have objectives that have the potential to violate 
+applicable regulations, including not causing conflicts 
+of interest for the Company or the majority or minority 
+shareholders.
+All transactions of the Company have complied with 
+the Financial Services Authority Regulation No.17/
+POJK.04/2020 concerning Material Transactions and 
+Changes in Business Activities and Financial Services 
+Authority Regulation No. 42/POJK.04/2020 concerning 
+Affiliated 
+Transactions 
+and 
+Conflict 
+of 
+Interest 
+Transactions.
+INFORMASI MATERIAL TERKAIT INVESTASI, EKSPANSI, DIVESTASI, PENGGABUNGAN/PELEBURAN USAHA, 
+AKUISISI DAN RESTRUKTURISASI UTANG/MODAL I MATERIAL INFORMATION RELATED TO INVESTMENT, 
+EXPANSION, DIVESTMENT, BUSINESS MERGER/CONSOLIDATION, ACQUISITION AND DEBT/CAPITAL 
+RESTRUCTURING
+Kesamaan pemegang saham | 
+Shareholder commonality
+Piutang usaha dan pendapatan | 
+Accounts receivable and revenue
+PT Samala Serasi Unggul
+Pihak Berelasi I Related Party
+Sifat Hubungan I Nature of 
+Relationship
+Jenis Transaksi I Type of Transaction
+136
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Pernyataan Dewan Komisaris dan Direksi atas 
+Transaksi
+Dewan Komisaris, Direksi, dan Komite Audit telah 
+memastikan transaksi dengan pihak berelasi dilakukan 
+dengan wajar dan telah dilaksanakan sesuai dengan praktik 
+bisnis yang berlaku secara umum serta telah memenuhi 
+prinsip transaksi yang wajar (Arm’s Length Principle).
+Transaksi 
+Pihak 
+Berelasi 
+yang 
+Membutuhkan 
+Persetujuan dari Pemegang Saham Independen
+Tidak terdapat transaksi dengan pihak berelasi yang 
+dilakukan Perseroan yang membutuhkan persetujuan dari 
+Pemegang Saham Independen.
+Informasi Fakta Material Setelah Tanggal Laporan 
+Keuangan
+Tidak terdapat informasi material yang terjadi setelah
+tanggal Laporan Keuangan 2024.
+Perubahan Peraturan Perundang-undangan yang 
+Berdampak Signifikan terhadap Perusahaan
+Sepanjang tahun 2024, tidak terdapat perubahan 
+peraturan 
+perundang-undangan 
+yang 
+berpengaruh 
+signifikan terhadap kinerja Perseroan.
+Perubahan Kebijakan Akuntansi
+Terdapat beberapa amandemen dan penyesuaian PSAK, 
+PSAK dan ISAK yang baru akan berlaku efektif pada 1 
+Januari 2025. Perseroan saat ini masih mengevaluasi 
+dampak dari amandemen dan penyesuaian PSAK, PSAK 
+dan ISAK baru tersebut dan belum dapat menentukan 
+dampak yang timbul terkait dengan hal tersebut terhadap 
+Perseroan. Informasi selengkapnya mengenai amandemen 
+dan penyesuaian PSAK, PSAK dan ISAK baru dapat dilihat 
+dalam Catatan No. 35 Laporan Keuangan Konsolidasian 
+Perseroan.
+Statement of the Board of Commissioners and 
+Directors on Transactions 
+The Board of Commissioners, Board of Directors, and Audit 
+Committee have ensured that transactions with related 
+parties are carried out reasonably and have been carried 
+out in accordance with generally accepted business 
+practices and have fulfilled the arm’s length principle. 
+Related Party Transactions Requiring Approval from 
+Independent Shareholders 
+There are no transactions with related parties conducted 
+by the Company that require approval from Independent 
+Shareholders.
+Information on Material Facts After the Date of 
+Financial Statements
+Tidak terdapat informasi material yang terjadi setelah
+tanggal Laporan Keuangan 2024.
+ 
+Changes in Laws and Regulations that Have 
+Significant Impact on the Company
+Throughout 2024, there were no changes in laws and 
+regulations that significantly affected the Company’s 
+performance.
+Changes in Accounting Policies
+There are several amendments and adjustments to new 
+PSAK, PSAK and ISAK that will be effective on January 1, 
+2025. The Company is still evaluating the impact of the 
+amendments and adjustments to the new PSAK, PSAK 
+and ISAK and has not been able to determine the impact 
+on the Company. Complete information regarding the 
+amendments and adjustments to the new PSAK, PSAK 
+and ISAK can be seen in Note No. 35 of the Company’s 
+Consolidated Financial Statements.
+137
+Laporan Terintegrasi 2024 Integrated Report
+Komitmen dan Kebijakan Pengelolaan Teknologi 
+Informasi Perseroan
+Teknologi Informasi memiliki peran penting dalam 
+menunjang proses bisnis dan meningkatkan produktivitas 
+kerja. Oleh karena itu, perusahaan berkomitmen untuk 
+terus meningkatkan kapasitas Teknologi Informasi (TI) 
+serta mengikuti perkembangannya guna  memastikan 
+penerapan teknologi yang optimal dalam operasional 
+perusahaan. 
+Sebagai perusahaan yang bergerak di bidang Teknologi 
+Informasi, khususnya dalam teknologi pusat data dan 
+cloud computing, Perseroan menerapkan tata kelola TI 
+yang baik untuk memastikan efektivitas dan efisiensi 
+dalam penggunaannya. Dengan strategi ini, Perseroan 
+dapat meningkatkan daya saing di era industri 4.0.
+Untuk mencapai tujuan tersebut, evaluasi dan pengkajian 
+sistem TI dilakukan secara berkala, guna memastikan 
+peningkatan kinerja dan efektivitas sistem. Perseroan 
+memastikan bahwa seluruh aspek pengelolaan TI, mulai 
+dari infrastruktur, aplikasi, hingga data, dikelola dengan 
+standar tertinggi untuk efisiensi dan keamanan.
+Commitment 
+and 
+Policy 
+of 
+the 
+Company’s 
+Information Technology Management
+Information Technology plays an important role in 
+supporting business processes and increasing work 
+productivity. Therefore, the Company is committed 
+to continuously improve the capacity of Information 
+Technology (IT) and keep abreast of its development 
+to ensure the optimal application of technology in the 
+Company’s operations. 
+As a company engaged in Information Technology, 
+especially in data center technology and cloud computing, 
+the Company implements good IT governance to ensure 
+effectiveness and efficiency in its use. With this strategy, 
+the Company can increase competitiveness in the 
+industrial era 4.0.
+In order to achieve this goal, IT system evaluations and 
+reviews are conducted regularly, to ensure improved 
+system performance and effectiveness. The Company 
+ensures that all aspects of IT management, from 
+infrastructure, applications, to data, are managed to the 
+highest standards for efficiency and security.
+TEKNOLOGI INFORMASI I INFORMATION TECHNOLOGY
+Pihak Pengelola Teknologi Informasi Perseroan
+Perseroan memiliki Divisi IT Service Delivery, yang 
+bertanggung jawab atas seluruh aspek pengelolaan TI, 
+baik untuk operasional internal maupun eksternal.
+Divisi ini memiliki peran strategis dalam mengatur dan 
+memastikan efisiensi penggunaan TI di seluruh lini bisnis. 
+Divisi IT Service Delivery bertanggung jawab langsung 
+kepada Direktur Operasional, memastikan bahwa sistem 
+TI berjalan dengan lancar, aman, dan selaras dengan 
+kebutuhan bisnis.
+Dengan pendekatan yang terstruktur dan berorientasi 
+pada inovasi, Perseroan terus berupaya mengoptimalkan 
+teknologi guna menghadirkan solusi digital yang andal, 
+aman, dan mampu meningkatkan daya saing perusahaan 
+di era digitalisasi.
+Information Technology Management of the Company
+The Company has an IT Service Delivery Division, which 
+is responsible for all aspects of IT management, both for 
+internal and external operations.
+This division has a strategic role in managing and ensuring 
+the efficient use of IT across all lines of business. The IT 
+Service Delivery Division reports directly to the Operations 
+Director, ensuring that IT systems run smoothly, securely, 
+and are aligned with business needs.
+With a structured and innovation-oriented approach, 
+the Company continues to optimize technology to 
+deliver digital solutions that are reliable, secure, and 
+able to increase the company’s competitiveness in the 
+digitalization era.
+138
+Laporan Terintegrasi 2024 Integrated Report
+Analisis  dan  Pembahasan Manajemen
+Management Analysis and Discussion
+Program Kerja Divisi TI tahun 2024
+Dalam menjalankan operasionalnya, Divisi IT Service Delivery 
+memiliki program kerja yang dilaksanakan sesuai dengan 
+tugas dan tanggung jawabnya, Di tahun 2024, program 
+kerja Divisi IT Service Delivery dalam menerapkan dan 
+mengembangkan TI di Perseroan adalah sebagai berikut:
+Tugas dan Tanggung Jawab Fungsi TI
+Fungsi TI memiliki tugas dan tanggung jawab dalam 
+pengelolaan Teknologi informasi Perseroan, antara lain:
+1.	
+Layanan Jaringan & Internet
+2.	
+Layanan Software Back office
+3.	
+Layanan E-mail
+4.	
+Layanan Sistem ERP MySAP
+5.	
+Layanan Pengembangan Aplikasi
+6.	
+Layanan Sistem ITSM (Ticketing System)
+7.	
+Layanan Website Perusahaan
+8.	
+Layanan Sistem Keamanan Internal Perusahaan
+IT Division Work Program in 2024
+In performing its operations, the IT Service Delivery Division 
+has a work program that is carried out in accordance with 
+its duties and responsibilities. In 2024, the work program 
+of the IT Service Delivery Division in implementing and 
+developing IT in the Company is as follows:
+Duties and Responsibilities of IT Function
+The IT function has duties and responsibilities in managing 
+the Company’s information technology, among others:
+1.	
+Network & Internet Services
+2.	
+Back office software services
+3.	
+E-mail Service
+4.	
+MySAP ERP System Service
+5.	
+Application Development Service
+6.	
+ITSM System Service (Ticketing System)
+7.	
+Company Website Service
+8.	
+Company Internal Security System Service
+Direktur Operasional
+Director of Operations
+Technical Account
+Manager (TAM)
+Layanan Keamanan Siber
+Cyber Security Center
+Layanan Implementasi dan 
+Operasional Teknologi Cloud
+Cloud Operation Center
+Pusat Kegiatan
+IT Operasional
+IT Operation Center
+Pemutakhiran Sistem Manajemen 
+Layanan TI dan Ticketing System 
+ 
+Updating the IT Service Management 
+System and Ticketing System
+Implementasi Sistem Privileged Access 
+Management (PAM) 
+ 
+Implementation of Privileged Access 
+Management (PAM) System
+Pemutakhiran Sistem Pencatatan, 
+Dokumentasi, dan Knowledge Base 
+ 
+Updating the Recording System, 
+Documentation, and Knowledge Base
+Peningkatan 
+sistem 
+manajemen 
+layanan 
+TI 
+untuk 
+meningkatkan 
+efisiensi 
+pengelolaan 
+tiket 
+layanan, 
+responsivitas 
+tim, 
+dan 
+otomatisasi 
+proses 
+dalam 
+manajemen insiden, perubahan, serta permintaan layanan. 
+ 
+Upgrading the IT service management system to improve the 
+efficiency of service ticket management, team responsiveness, 
+and process automation in incident, change, and service request 
+management.
+Penerapan sistem PAM untuk mengelola dan mengamankan akses 
+ke akun dengan hak istimewa, mencegah akses tidak sah, serta 
+memastikan kepatuhan terhadap standar keamanan informasi. 
+ 
+Implementation of a PAM system to manage and secure access 
+to privileged accounts, prevent unauthorized access, and ensure 
+compliance with information security standards.
+Pengembangan sistem dokumentasi dan knowledge base guna 
+meningkatkan standarisasi pencatatan, aksesibilitas informasi, 
+serta efektivitas manajemen pengetahuan di perusahaan. 
+ 
+Development of a documentation system and knowledge base to 
+improve standardization of records, accessibility of information, 
+and effectiveness of knowledge management in the company.
+1.
+2.
+3.
+No.
+Inisiatif Strategis
+Strategic Initiative
+Penjelasan
+Explanation
+139
+Laporan Terintegrasi 2024 Integrated Report
+Rencana Pengembangan Teknologi Informasi Tahun 
+2025
+Dari hasil pengembangan TI di tahun 2024, terdapat 
+beberapa evaluasi yang selanjutnya akan dilakukan 
+perbaikan pada tahun mendatang. Di tahun 2025, 
+Perseroan telah menetapkan rencana pengembangan 
+Teknologi Informasi (TI) yang meliputi:
+	
+1.	
+Pengembangan lanjutan  Elivision as NVR dengan 
+enhancement fitur dan form factor pada Elibox.
+2.	
+Pengembangan lanjutan Elipedia as a Platform 
+dengan enhancement fitur dan performa.
+3.	
+Riset dan penggantian tools monitoring serta analisis 
+internal untuk mengoptimalkan biaya operasional dan 
+meningkatkan efisiensi pengelolaan layanan.
+4.	
+Riset 
+dan 
+pengadaan 
+tools 
+internal 
+guna 
+mengoptimalkan penggunaan alamat IP publik, 
+memastikan efisiensi dalam alokasi serta manajemen 
+sumber daya jaringan.
+INOVASI DAN PENGEMBANGAN PRODUK [F.26]
+Untuk dapat memenuhi kebutuhan dan harapan konsumen, 
+serta keberlangsungan usaha, Perseroan senantiasa 
+melakukan berbagai inovasi dan pengembangan, baik 
+produk dan layanan. Elitery memiliki komitmen yang 
+tinggi untuk mengembangkan dan menyediakan produk 
+berkualitas untuk memenuhi kepuasan pelanggan. 
+Pada tahun 2024, Perseroan memfokuskan inovasi pada 
+dua hal utama. Pertama, pengembangan aplikasi berbasis 
+Artificial Intelligence (AI) yang dirancang untuk mendukung 
+kebutuhan 
+internal 
+maupun 
+eksternal. 
+Aplikasi 
+ini 
+dikembangkan dengan mempertimbangkan proses bisnis 
+yang berjalan, tren industri terkini, serta ekspektasi 
+pelanggan. Tujuannya adalah menciptakan solusi yang 
+tidak hanya meningkatkan efisiensi operasional, tetapi 
+juga memungkinkan Elitery untuk tetap agile dalam 
+menghadapi dinamika pasar.
+Kedua, pengembangan produk-produk Elitery yang 
+digunakan secara luas di lingkungan internal maupun 
+sebagai solusi eksternal bagi pelanggan. Inisiatif ini 
+mencakup peningkatan sistem manajemen internal, 
+efisiensi operasional, serta peningkatan kualitas layanan 
+kepada pelanggan. Dengan langkah ini, Elitery mendukung 
+mitra bisnis untuk lebih fokus pada pengembangan inti 
+usahanya.
+Information Technology Development Plan for 2025
+From the results of IT development in 2024, there are 
+several evaluations that will be improved in the coming 
+year. In 2025, the Company has set an Information 
+Technology (IT) development plan which includes:
+1.	
+Sustainable development of Elivision as NVR with 
+feature enhancement and form factor on Elibox.
+2.	
+Further development of Elipedia as a Platform with 
+feature and performance enhancement.
+3.	
+Research and replacement of internal monitoring 
+and analysis tools to optimize operational costs and 
+improve service management efficiency.
+4.	
+Research and procurement of internal tools to 
+optimize the use of public IP addresses, ensuring 
+efficiency in network resource allocation and 
+management.
+INNOVATION AND PRODUCT DEVELOPMENT [F.26]
+To meet customer needs and expectations while ensuring 
+business sustainability, the Company continuously drives 
+innovation and development across both products and 
+services. Elitery is highly committed to developing and 
+delivering high-quality products to enhance customer 
+satisfaction.
+In 2024, the Company focused its innovation efforts 
+on two main areas. First, the development of Artificial 
+Intelligence (AI)-based applications designed to support 
+both internal and external needs. These applications were 
+developed with careful consideration of ongoing business 
+processes, current industry trends, and customer 
+expectations. The goal is to create solutions that not only 
+enhance operational efficiency but also enable Elitery to 
+remain agile in responding to market dynamics.
+Second, the advancement of Elitery’s proprietary 
+products, which are widely utilized within the organization 
+and offered as external solutions to clients. This initiative 
+includes improvements in internal management systems, 
+operational efficiency, and service quality. Through this 
+approach, Elitery empowers its business partners to 
+concentrate more on their core business development.

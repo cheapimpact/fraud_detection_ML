@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BSSR-att2.pdf",
+    "ticker": "BSSR_2024",
+    "mdma_start": "88",
+    "mdma_end": "109",
+    "Positive_Sum": 2254.0,
+    "Negative_Sum": 2140.0,
+    "Total_Matched_Words": 1448,
+    "Total_Word": 10355,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

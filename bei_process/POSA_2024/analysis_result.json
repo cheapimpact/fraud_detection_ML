@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-POSA-att1.pdf",
+    "ticker": "POSA_2024",
+    "mdma_start": "56",
+    "mdma_end": "78",
+    "Positive_Sum": 0.0,
+    "Negative_Sum": 0.0,
+    "Total_Matched_Words": 0,
+    "Total_Word": 0,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

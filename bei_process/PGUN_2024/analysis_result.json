@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PGUN-att1.pdf",
+    "ticker": "PGUN_2024",
+    "mdma_start": "47",
+    "mdma_end": "61",
+    "Positive_Sum": 943.0,
+    "Negative_Sum": 1064.0,
+    "Total_Matched_Words": 614,
+    "Total_Word": 4437,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

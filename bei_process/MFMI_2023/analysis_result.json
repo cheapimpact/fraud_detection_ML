@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MFMI-att1.pdf",
+    "ticker": "MFMI_2023",
+    "mdma_start": "60",
+    "mdma_end": "69",
+    "Positive_Sum": 925.0,
+    "Negative_Sum": 996.0,
+    "Total_Matched_Words": 594,
+    "Total_Word": 4372,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

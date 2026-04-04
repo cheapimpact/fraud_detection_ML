@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ANDI-att2.pdf",
+    "ticker": "ANDI_2024",
+    "mdma_start": "78",
+    "mdma_end": "99",
+    "Positive_Sum": 1609.0,
+    "Negative_Sum": 2094.0,
+    "Total_Matched_Words": 1187,
+    "Total_Word": 8491,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

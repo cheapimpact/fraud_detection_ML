@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CITA-att1.pdf",
+    "ticker": "CITA_2024",
+    "mdma_start": "80",
+    "mdma_end": "101",
+    "Positive_Sum": 1747.0,
+    "Negative_Sum": 1971.0,
+    "Total_Matched_Words": 1166,
+    "Total_Word": 7429,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,11 @@
+{
+    "target_file": "AnnualReport2024-ACRO-att2.pdf",
+    "ticker": "ACRO_2024",
+    "mdma_start": "148",
+    "mdma_end": "183",
+    "Positive_Sum": 3742.0,
+    "Negative_Sum": 3562.0,
+    "Total_Matched_Words": 2299,
+    "Total_Word": 14653,
+    "processed_at": "2026-02-24"
+}

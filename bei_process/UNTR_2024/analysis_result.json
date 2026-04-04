@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-UNTR-att1.pdf",
+    "ticker": "UNTR_2024",
+    "mdma_start": "150",
+    "mdma_end": "223",
+    "Positive_Sum": 8822.0,
+    "Negative_Sum": 7220.0,
+    "Total_Matched_Words": 5304,
+    "Total_Word": 34554,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-INPS-att4.pdf",
+    "ticker": "INPS_2023",
+    "mdma_start": "73",
+    "mdma_end": "96",
+    "Positive_Sum": 1831.0,
+    "Negative_Sum": 1657.0,
+    "Total_Matched_Words": 1092,
+    "Total_Word": 7534,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

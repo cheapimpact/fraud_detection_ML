@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KICI-att1.pdf",
+    "ticker": "KICI_2024",
+    "mdma_start": "20",
+    "mdma_end": "27",
+    "Positive_Sum": 0.0,
+    "Negative_Sum": 0.0,
+    "Total_Matched_Words": 0,
+    "Total_Word": 0,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-INCF-att2.pdf",
+    "ticker": "INCF_2023",
+    "mdma_start": "66",
+    "mdma_end": "79",
+    "Positive_Sum": 1706.0,
+    "Negative_Sum": 1774.0,
+    "Total_Matched_Words": 1145,
+    "Total_Word": 7058,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

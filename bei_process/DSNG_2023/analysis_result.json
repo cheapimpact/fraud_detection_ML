@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DSNG-att1.pdf",
+    "ticker": "DSNG_2023",
+    "mdma_start": "98",
+    "mdma_end": "117",
+    "Positive_Sum": 2241.0,
+    "Negative_Sum": 2364.0,
+    "Total_Matched_Words": 1498,
+    "Total_Word": 11001,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

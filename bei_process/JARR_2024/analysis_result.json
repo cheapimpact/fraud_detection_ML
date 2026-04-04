@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-JARR-att1.pdf",
+    "ticker": "JARR_2024",
+    "mdma_start": "79",
+    "mdma_end": "110",
+    "Positive_Sum": 2598.0,
+    "Negative_Sum": 1900.0,
+    "Total_Matched_Words": 1391,
+    "Total_Word": 11039,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

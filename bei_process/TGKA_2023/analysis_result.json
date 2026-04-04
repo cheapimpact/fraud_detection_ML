@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TGKA-att1.pdf",
+    "ticker": "TGKA_2023",
+    "mdma_start": "81",
+    "mdma_end": "123",
+    "Positive_Sum": 6063.0,
+    "Negative_Sum": 5911.0,
+    "Total_Matched_Words": 3811,
+    "Total_Word": 23307,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

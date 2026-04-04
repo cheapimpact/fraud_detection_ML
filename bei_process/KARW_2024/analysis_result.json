@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KARW-att1.pdf",
+    "ticker": "KARW_2024",
+    "mdma_start": "62",
+    "mdma_end": "77",
+    "Positive_Sum": 1801.0,
+    "Negative_Sum": 1857.0,
+    "Total_Matched_Words": 1128,
+    "Total_Word": 6754,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

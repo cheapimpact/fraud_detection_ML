@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-NANO-att1.pdf",
+    "ticker": "NANO_2024",
+    "mdma_start": "96",
+    "mdma_end": "120",
+    "Positive_Sum": 5213.0,
+    "Negative_Sum": 4075.0,
+    "Total_Matched_Words": 2981,
+    "Total_Word": 18101,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

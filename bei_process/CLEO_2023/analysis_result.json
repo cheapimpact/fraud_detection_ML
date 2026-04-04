@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CLEO-att1.pdf",
+    "ticker": "CLEO_2023",
+    "mdma_start": "75",
+    "mdma_end": "94",
+    "Positive_Sum": 2440.0,
+    "Negative_Sum": 2135.0,
+    "Total_Matched_Words": 1517,
+    "Total_Word": 9848,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

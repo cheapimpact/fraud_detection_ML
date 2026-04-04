@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SINI-att2.pdf",
+    "ticker": "SINI_2024",
+    "mdma_start": "59",
+    "mdma_end": "83",
+    "Positive_Sum": 2503.0,
+    "Negative_Sum": 2131.0,
+    "Total_Matched_Words": 1551,
+    "Total_Word": 10548,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

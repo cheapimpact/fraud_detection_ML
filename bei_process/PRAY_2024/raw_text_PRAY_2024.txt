@@ -1,0 +1,2591 @@
+92
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Tinjauan Perekonomian dan Industri 
+Economic and Industry Overview
+Tahun 2024 merupakan periode yang penuh dinamika bagi 
+perekonomian global dan nasional, yang turut mempengaruhi 
+perkembangan berbagai sektor industri, termasuk layanan 
+kesehatan. Dalam kondisi ketidakpastian global yang 
+berlanjut, Indonesia mampu mempertahankan pertumbuhan 
+ekonominya di tengah tantangan eksternal dan domestik. 
+Stabilitas makroekonomi, komitmen pemerintah dalam 
+memperkuat sektor kesehatan, serta akselerasi adopsi 
+teknologi menjadi faktor-faktor penting yang membentuk 
+lanskap industri layanan kesehatan nasional.
+ANALISIS EKONOMI GLOBAL
+Perkembangan ekonomi global tahun 2024 diwarnai oleh 
+perlambatan pertumbuhan di beberapa negara maju dan 
+pemulihan bertahap di negara berkembang. Menurut laporan 
+World Economic Outlook (WEO) IMF edisi Oktober 2024, 
+pertumbuhan ekonomi global diperkirakan mencapai 3,2%. 
+Angka ini relatif stabil dibandingkan tahun sebelumnya, 
+namun menunjukkan adanya ketidakpastian akibat 
+ketegangan geopolitik, fragmentasi perdagangan, dan 
+penyesuaian kebijakan moneter global.
+Dari sisi inflasi, meskipun terjadi tren penurunan, tekanan 
+harga masih cukup tinggi di beberapa kawasan. IMF mencatat 
+bahwa inflasi global diperkirakan berada pada kisaran 5,9% 
+pada tahun 2024, turun dari puncaknya di tahun 2022, namun 
+masih di atas target pra-pandemi. Kondisi ini mendorong 
+bank sentral di berbagai negara mempertahankan suku 
+bunga tinggi dalam waktu yang lebih lama (higher for longer), 
+yang berimplikasi pada penurunan investasi sektor riil, 
+termasuk sektor kesehatan.
+Teknologi kesehatan menjadi salah satu sektor yang tetap 
+resilient di tengah ketidakpastian ekonomi. Menurut laporan 
+World Bank Global Economic Prospects dan data dari OECD 
+Health Statistics 2024, terdapat percepatan adopsi teknologi 
+digital dalam layanan kesehatan, seperti penggunaan 
+telemedicine, AI-based diagnostics, dan remote patient 
+monitoring, yang diprediksi terus bertumbuh lebih dari 14% 
+CAGR hingga 2028.
+Perubahan demografi juga menjadi faktor pendorong 
+utama. Penuaan populasi di negara maju, dengan proporsi 
+penduduk usia di atas 65 tahun mencapai lebih dari 20%, 
+serta urbanisasi pesat di negara berkembang mendorong 
+peningkatan permintaan layanan kesehatan jangka panjang, 
+manajemen penyakit kronis, dan kebutuhan layanan 
+kesehatan berbasis komunitas.
+The year 2024 was a dynamic period for both the global 
+and national economies, significantly influencing the 
+development of various industrial sectors, including 
+healthcare services. Amid ongoing global uncertainties, 
+Indonesia successfully maintained its economic growth 
+despite facing external and domestic challenges.
+Macroeconomic stability, the government’s commitment to 
+strengthening the healthcare sector, and the acceleration 
+of technology adoption have become key factors shaping 
+the landscape of the national healthcare services industry.
+GLOBAL ECONOMIC ANALYSIS
+The global economy in 2024 was characterized by a slowdown 
+in growth among several developed countries and a gradual 
+recovery in emerging markets. According to the International 
+Monetary Fund’s (IMF) World Economic Outlook (WEO) 
+October 2024 edition, global economic growth was projected 
+at 3.2%. While relatively stable compared to the previous 
+year, this figure reflects prevailing uncertainties driven by 
+geopolitical tensions, trade fragmentation, and adjustments 
+to global monetary policies.
+In terms of inflation, although a downward trend was 
+observed, price pressures remained high in several regions. 
+The IMF estimated global inflation at approximately 5.9% 
+in 2024, down from its peak in 2022, yet still above pre-
+pandemic targets. This situation led central banks across 
+the globe to maintain high-interest rates for a longer period 
+(higher for longer), which impacted real sector investments, 
+including healthcare.
+Healthcare technology emerged as one of the resilient 
+sectors amidst economic uncertainty. Reports from the 
+World Bank Global Economic Prospects and OECD Health 
+Statistics 2024 highlighted a rapid adoption of digital 
+technologies in healthcare services, such as telemedicine, 
+AI-based diagnostics, and remote patient monitoring, which 
+are projected to grow at a compound annual growth rate 
+(CAGR) exceeding 14% through 2028.
+Demographic shifts also remained a major driving factor. 
+Aging populations in developed countries—with over 20% 
+of their population aged over 65—combined with rapid 
+urbanization in developing countries, spurred increased 
+demand for long-term healthcare services, chronic disease 
+management, and community-based healthcare solutions.
+93
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Selain itu, pandemi COVID-19 meninggalkan warisan penting 
+dalam bentuk kesadaran kolektif terhadap pentingnya 
+ketahanan sistem kesehatan global. Investasi pada sistem 
+pencegahan penyakit, penguatan layanan primer, dan 
+pengembangan respons terhadap outbreak menjadi prioritas 
+banyak negara dan organisasi internasional seperti WHO dan 
+World Bank Pandemic Fund.
+Secara keseluruhan, sektor layanan kesehatan tetap menjadi 
+area pertumbuhan strategis di tengah tantangan global, 
+ditopang oleh:
+•	
+Demand yang struktural (demografi dan kesadaran 
+kesehatan)
+•	
+Teknologi yang disruptif (digital health, bioteknologi)
+•	
+Kebijakan pemerintah (peningkatan anggaran kesehatan, 
+inisiatif ESG)
+•	
+Investasi swasta (healthcare private equity, venture 
+capital di health tech)
+ANALISIS EKONOMI NASIONAL 
+Berdasarkan data Badan Pusat Statistik (BPS), pertumbuhan 
+ekonomi Indonesia tercatat sebesar 5,03% (c-to-c), sedikit 
+melambat dibandingkan pertumbuhan tahun 2023 sebesar 
+5,05%. Meskipun demikian, capaian ini menunjukkan 
+ketahanan ekonomi nasional di tengah ketidakpastian global 
+yang masih berlangsung (BPS, Februari 2025). Pertumbuhan 
+tersebut terutama ditopang oleh konsumsi rumah tangga 
+yang tumbuh sebesar 4,98% dan pembentukan modal tetap 
+bruto (PMTB) yang meningkat 5,03%. Sementara itu, ekspor 
+barang dan jasa hanya tumbuh 1,33%, mencerminkan dampak 
+melemahnya permintaan global.
+Stabilitas makroekonomi turut tercermin dari tingkat inflasi 
+yang tetap terkendali. Sepanjang tahun 2024, inflasi tahunan 
+tercatat sebesar 1,57% pada Desember 2024, berada dalam 
+rentang target Bank Indonesia sebesar 1,5%–3,5% (Bank 
+Indonesia, Januari 2025). Kendati demikian, tekanan terhadap 
+nilai tukar tetap menjadi perhatian. Sepanjang tahun 2024, 
+rupiah mengalami depresiasi lebih dari 4% terhadap dolar AS, 
+dengan nilai tukar mencapai sekitar Rp16.860 per USD pada 
+April 2025. Untuk menjaga stabilitas moneter, Bank Indonesia 
+mempertahankan suku bunga acuan di level 5,75% (Reuters, 
+April 2025). Fluktuasi nilai tukar ini berpotensi meningkatkan 
+biaya impor alat kesehatan, bahan farmasi, dan teknologi 
+medis, sehingga berdampak pada struktur biaya industri 
+layanan kesehatan di dalam negeri.
+Dari sisi fiskal, pemerintah menunjukkan komitmen kuat 
+dalam mendukung sektor kesehatan. Alokasi anggaran 
+kesehatan dalam APBN 2024 ditetapkan sebesar Rp187,5 
+triliun, atau sekitar 5,6% dari total belanja negara, meningkat 
+dibandingkan Rp185,5 triliun pada tahun sebelumnya 
+(Kementerian Keuangan, 2024). Hingga akhir November 
+2024, realisasi anggaran kesehatan mencapai Rp164,3 triliun, 
+mencerminkan percepatan pelaksanaan berbagai program 
+Furthermore, the COVID-19 pandemic left a lasting legacy of 
+heightened global awareness regarding the importance of 
+resilient health systems. Investments in disease prevention 
+systems, the strengthening of primary healthcare, and the 
+development of outbreak response mechanisms have 
+become priorities for many countries and international 
+organizations such as WHO and the World Bank Pandemic 
+Fund.
+Overall, healthcare services continue to represent a strategic 
+growth area amid global challenges, driven by:
+•	
+Structural demand (demographic changes and health 
+awareness),
+•	
+Disruptive technologies (digital health, biotechnology),
+•	
+Government policies (increased healthcare budgets, 
+ESG initiatives), and
+•	
+Private sector investments (healthcare private equity, 
+venture capital in health tech).
+NATIONAL ECONOMIC ANALYSIS
+According to data from the Central Statistics Agency (BPS), 
+Indonesia’s economy grew by 5.03% (c-to-c) in 2024, slightly 
+lower than the 5.05% growth recorded in 2023. Nevertheless, 
+this achievement reflects the resilience of the national 
+economy amid ongoing global uncertainties (BPS, February 
+2025). The growth was primarily supported by household 
+consumption, which grew by 4.98%, and gross fixed capital 
+formation (GFCF) which rose by 5.03%, although exports 
+of goods and services only increased by 1.33%, reflecting 
+weakening global demand.
+Macroeconomic stability was further evidenced by controlled 
+inflation rates. Throughout 2024, annual inflation was 
+recorded at 1.57% in December 2024, remaining within 
+Bank Indonesia’s target range of 1.5%–3.5% (Bank Indonesia, 
+January 2025). However, pressures on the exchange rate 
+persisted. The rupiah depreciated by more than 4% against 
+the US dollar during 2024, reaching around IDR 16,860/USD 
+by April 2025. To maintain monetary stability, Bank Indonesia 
+kept its benchmark interest rate at 5.75% (Reuters, April 
+2025). Exchange rate fluctuations could potentially increase 
+the costs of importing medical equipment, pharmaceutical 
+raw materials, and medical technologies, thereby impacting 
+the cost structure of domestic healthcare service industries.
+On the fiscal side, the government demonstrated strong 
+commitment to supporting the healthcare sector. The 
+healthcare budget allocation in the 2024 State Budget (APBN) 
+was set at IDR 187.5 trillion, representing approximately 
+5.6% of total government spending, up from IDR 185.5 
+trillion in the previous year (Ministry of Finance, 2024). By 
+the end of November 2024, the realization of healthcare 
+spending had reached IDR 164.3 trillion, reflecting 
+94
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+prioritas, termasuk penguatan layanan primer, percepatan 
+vaksinasi, dan penanganan penyakit menular serta tidak 
+menular.
+Dalam upaya memperluas akses layanan kesehatan, 
+pemerintah secara aktif membangun dan merevitalisasi 
+infrastruktur kesehatan di berbagai daerah. Proyek 
+pembangunan seperti Rumah Sakit Wilayah Selatan di 
+Bojonegoro, pembangunan Puskesmas Binong di Tangerang, 
+serta revitalisasi Puskesmas Kraton dan Pakualaman 
+di Yogyakarta menjadi contoh konkret dari upaya ini 
+(Kementerian Kesehatan, 2024). Selain itu, Kementerian 
+Kesehatan juga mengembangkan rumah sakit vertikal baru 
+yang difokuskan pada layanan ibu dan anak di lima provinsi 
+strategis.
+Dari sisi regulasi, tahun 2023 menjadi tonggak penting 
+dengan disahkannya Undang-Undang Nomor 17 Tahun 2023 
+tentang Kesehatan, yang menggunakan pendekatan omnibus 
+law untuk menyederhanakan dan mengintegrasikan berbagai 
+regulasi di sektor kesehatan (Kementerian Kesehatan RI, 
+2023). UU ini menegaskan pentingnya integrasi layanan 
+promotif, preventif, kuratif, dan rehabilitatif dalam sistem 
+kesehatan nasional. Sejalan dengan perkembangan teknologi, 
+regulasi telemedicine juga diperkuat untuk memperluas 
+jangkauan layanan kesehatan digital, mempercepat akses 
+masyarakat terhadap layanan kesehatan berkualitas, serta 
+memperbaiki sistem akreditasi rumah sakit untuk menjamin 
+standar pelayanan.
+Secara keseluruhan, kondisi makroekonomi Indonesia yang 
+relatif stabil, peningkatan alokasi anggaran kesehatan, 
+pembangunan infrastruktur kesehatan yang masif, serta 
+pembaruan kebijakan regulasi menjadi faktor fundamental 
+yang memperkuat landasan pertumbuhan industri layanan 
+kesehatan nasional di tengah tantangan global yang dinamis.
+ANALISIS INDUSTRI LAYANAN 
+KESEHATAN
+Industri layanan kesehatan di Indonesia sepanjang tahun 
+2024 menunjukkan dinamika yang positif di tengah tantangan 
+global dan domestik. Sejalan dengan pertumbuhan ekonomi 
+nasional, sektor ini mengalami percepatan transformasi, 
+terutama melalui adopsi teknologi digital, peningkatan 
+kesadaran kesehatan masyarakat, dan dukungan kebijakan 
+pemerintah.
+Salah satu tren utama adalah percepatan digitalisasi 
+layanan kesehatan. Pandemi COVID-19 mempercepat 
+adopsi teknologi seperti telemedicine, electronic health 
+records (EHR), dan remote patient monitoring. Menurut 
+laporan Kementerian Kesehatan RI, penggunaan layanan 
+telemedicine meningkat lebih dari 60% dibandingkan masa 
+sebelum pandemi, dengan pemain utama seperti Halodoc, 
+accelerated implementation of priority programs, including 
+strengthening primary healthcare services, expediting 
+vaccination programs, and managing both communicable 
+and non-communicable diseases.
+Efforts to expand healthcare access were actively pursued 
+through the construction and revitalization of healthcare 
+infrastructure across various regions. Key projects include 
+the development of the Southern Regional Hospital in 
+Bojonegoro, the construction of the Binong Community 
+Health Center in Tangerang, and the revitalization of 
+the Kraton and Pakualaman Community Health Centers 
+in Yogyakarta (Ministry of Health, 2024). Furthermore, 
+the Ministry of Health developed new vertical hospitals 
+specializing in maternal and child healthcare across five 
+strategic provinces.
+In terms of regulation, 2023 marked a pivotal year with the 
+enactment of Law No. 17/2023 on Health, which adopted 
+an omnibus law approach to streamline and integrate 
+healthcare regulations (Ministry of Health RI, 2023). This 
+law emphasizes the integration of promotive, preventive, 
+curative, and rehabilitative healthcare services within the 
+national healthcare system. Concurrently, telemedicine 
+regulations were strengthened to expand access to 
+quality digital healthcare services and improve hospital 
+accreditation standards to ensure service quality.
+Overall, Indonesia’s relatively stable macroeconomic 
+conditions, increased healthcare budget allocations, massive 
+healthcare infrastructure development, and regulatory 
+reforms serve as fundamental factors strengthening the 
+foundation for the healthcare services industry’s growth 
+amid dynamic global challenges.
+HEALTHCARE INDUSTRY ANALYSIS
+Indonesia’s healthcare services industry demonstrated 
+positive dynamics throughout 2024, amid global and 
+domestic challenges. In line with national economic 
+growth, the sector experienced accelerated transformation, 
+particularly through the adoption of digital technologies, 
+rising public health awareness, and strong policy support.
+One of the key trends was the acceleration of healthcare 
+service digitalization. The COVID-19 pandemic spurred the 
+adoption of technologies such as telemedicine, electronic 
+health records (EHRs), and remote patient monitoring. 
+According to the Ministry of Health of Indonesia, the use 
+of telemedicine services surged by over 60% compared to 
+pre-pandemic levels, with major players such as Halodoc, 
+95
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Alodokter, dan layanan telemedicine rumah sakit terus 
+memperluas jangkauan layanannya (Kementerian Kesehatan 
+RI, 2024).
+Pertumbuhan jumlah fasilitas kesehatan juga menjadi 
+indikator penting. Data Kementerian Kesehatan menunjukkan 
+bahwa hingga akhir 2024, jumlah rumah sakit di Indonesia 
+mencapai lebih dari 3.200 unit, meningkat sekitar 4,5% 
+dibandingkan tahun sebelumnya. Selain itu, terjadi 
+peningkatan jumlah klinik dan fasilitas layanan kesehatan 
+primer di daerah-daerah terpencil, mendukung tujuan 
+pemerataan akses layanan kesehatan nasional.
+Dalam aspek inovasi layanan dan teknologi, rumah sakit 
+dan klinik di Indonesia mulai mengintegrasikan penggunaan 
+Artificial Intelligence (AI) untuk mendukung diagnosis, 
+manajemen rekam medis, serta pelayanan berbasis aplikasi 
+mobile untuk pemantauan kesehatan pasien. Data dari PwC 
+Indonesia memperkirakan bahwa adopsi teknologi kesehatan 
+berbasis AI di Indonesia akan tumbuh rata-rata 18% per tahun 
+hingga 2028, didorong oleh kebutuhan layanan yang lebih 
+cepat, akurat, dan efisien.
+Preferensi pasien juga mengalami perubahan signifikan. 
+Pasien kini lebih memilih layanan yang mengutamakan 
+kenyamanan, personalisasi, dan pengalaman digital, 
+mendorong rumah sakit untuk meningkatkan layanan 
+premium, layanan berbasis appointment, serta fasilitas 
+one-stop service untuk rawat jalan dan rawat inap.
+Dari sisi kompetisi, industri layanan kesehatan semakin 
+kompetitif dengan masuknya investasi dari sektor swasta, 
+termasuk private equity dan venture capital. Menurut laporan 
+Bain & Company, aktivitas merger dan akuisisi di sektor 
+kesehatan Indonesia meningkat sekitar 15% pada 2024 
+dibandingkan tahun sebelumnya, terutama di segmen rumah 
+sakit spesialis dan jaringan klinik premium.
+Pemerintah juga memainkan peran penting dalam 
+mengarahkan industri, melalui berbagai program dan 
+regulasi. Program Transformasi Sistem Kesehatan Indonesia 
+2021–2024 terus berlanjut, berfokus pada penguatan layanan 
+primer, pembaruan sistem rujukan, peningkatan kapasitas 
+SDM kesehatan, dan digitalisasi sistem informasi kesehatan 
+nasional (Kementerian Kesehatan RI, 2024).
+Namun, tantangan tetap ada. Keterbatasan jumlah tenaga 
+kesehatan, ketimpangan distribusi layanan antara kota besar 
+dan daerah terpencil, serta beban pembiayaan Jaminan 
+Kesehatan Nasional (JKN) melalui BPJS Kesehatan masih 
+menjadi isu utama yang harus diatasi untuk menciptakan 
+sistem layanan kesehatan yang lebih inklusif dan 
+berkelanjutan.
+Alodokter, and hospital-based telemedicine platforms 
+expanding their service outreach (Ministry of Health RI, 
+2024).
+Growth in the number of healthcare facilities also served as 
+a critical indicator. Ministry of Health data show that by the 
+end of 2024, the number of hospitals in Indonesia exceeded 
+3,200 units, an increase of approximately 4.5% compared 
+to the previous year. In addition, there was an expansion in 
+the number of clinics and primary healthcare facilities in 
+remote areas, supporting the goal of equitable healthcare 
+access nationwide.
+In the area of service and technology innovation, hospitals 
+and clinics in Indonesia increasingly integrated Artificial 
+Intelligence (AI) to support diagnostics, medical record 
+management, and mobile health applications for patient 
+monitoring. According to PwC Indonesia, AI-based healthcare 
+technology adoption in Indonesia is expected to grow at an 
+average rate of 18% annually through 2028, driven by the 
+need for faster, more accurate, and more efficient services.
+Patient preferences also shifted significantly. Patients 
+increasingly favor healthcare services that emphasize 
+convenience, personalization, and digital experience, 
+prompting hospitals to enhance premium services, 
+appointment-based systems, and one-stop service facilities 
+for outpatient and inpatient care.
+The healthcare services sector has also become more 
+competitive with increased investments from the private 
+sector, including private equity and venture capital firms. 
+According to Bain & Company, merger and acquisition activity 
+in Indonesia’s healthcare sector rose by around 15% in 2024 
+compared to the previous year, particularly in specialized 
+hospital networks and premium clinic segments.
+The government continues to play a pivotal role in steering 
+the industry through various programs and regulations. 
+The Indonesian Health System Transformation Program 
+2021–2024 has been ongoing, focusing on strengthening 
+primary care, reforming the referral system, enhancing 
+healthcare human resources, and digitalizing the national 
+health information system (Ministry of Health RI, 2024).
+Nonetheless, challenges remain. Shortages of healthcare 
+workers, disparities in healthcare service distribution 
+between major cities and remote areas, and the financial 
+burden on the National Health Insurance (JKN) system 
+administered by BPJS Kesehatan remain key issues 
+that must be addressed to achieve a more inclusive and 
+sustainable healthcare system.
+96
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Sumber Referensi:
+Ekonomi Global 
+•	
+IMF, World Economic Outlook Update Oktober 2024
+•	
+World Bank, Global Economic Prospects Januari 2024
+•	
+OECD, Health Statistics 2024
+•	
+WHO, World Health Statistics 2024
+Ekonomi Nasional
+•	
+Badan Pusat Statistik (BPS), Berita Resmi Statistik PDB 
+Indonesia, Februari 2025.
+•	
+Bank Indonesia, Statistik Inflasi dan Kebijakan Moneter, 
+Januari 2025.
+•	
+Kementerian Keuangan RI, APBN KITA edisi Desember 
+2024.
+•	
+Kementerian Kesehatan RI, Sehat Negeriku, 2024.
+•	
+Reuters, Indonesia Central Bank Holds Policy Rates, 
+April 2025.
+•	
+Kementerian Kesehatan RI, UU Nomor 17 Tahun 2023 
+tentang Kesehatan.
+Industri Layanan Kesehatan
+•	
+Kementerian Kesehatan RI, Laporan Tahunan 
+Transformasi Kesehatan Indonesia 2024.
+•	
+PwC Indonesia, The Future of Health in Indonesia, 2024.
+•	
+Bain & Company, Asia-Pacific Healthcare Private Equity 
+Report 2025.
+•	
+BPS, Statistik Kesehatan Indonesia 2024. 
+References:
+Global Economy
+•	
+IMF, World Economic Outlook Update, October 2024.
+•	
+World Bank, Global Economic Prospects, January 2024.
+•	
+OECD, Health Statistics 2024.
+•	
+WHO, World Health Statistics 2024.
+National Economy
+•	
+Central Statistics Agency (BPS), Indonesia GDP Official 
+Release, February 2025.
+•	
+Bank Indonesia, Inflation Statistics and Monetary Policy, 
+January 2025.
+•	
+Ministry of Finance RI, APBN KITA, December 2024.
+•	
+Ministry of Health RI, Sehat Negeriku, 2024.
+•	
+Reuters, Indonesia Central Bank Holds Policy Rates, 
+April 2025.
+•	
+Ministry of Health RI, Law No. 17/2023 on Health.
+Healthcare Industry
+•	
+Ministry of Health RI, Annual Report on Indonesian Health 
+System Transformation 2024.
+•	
+PwC Indonesia, The Future of Health in Indonesia, 2024.
+•	
+Bain & Company, Asia-Pacific Healthcare Private Equity 
+Report 2025.
+•	
+BPS, Indonesia Health Statistics 2024.
+97
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Tinjauan Operasional 
+Operational Overview
+STRATEGI PERSEROAN DALAM 
+MENCAPAI TARGET
+Primaya Hospital Group dan Entitas Anak memiliki 
+serangkaian strategi usaha untuk mencapai pertumbuhan 
+sekaligus untuk mendukung Perseroan menghadapi 
+persaingan usaha, diantaranya:
+1.	 Memberikan pelayanan kesehatan yang prima, 
+terjangkau yang dapat diakses oleh masyarakat
+Grup Primaya Hospital berfokus untuk mempertahankan 
+kualitas pelayanan Kesehatan pada seluruh jaringan 
+rumah sakit dengan menerapkan standard operating 
+procedure (SOP) dan kebijakan yang memenuhi standar 
+JCI yang tinggi. Grup Primaya Hospital akan selalu 
+berusaha mengembangkan pelayanan Kesehatan 
+berdasarkan pertumbuhan dari permintaan pasien. 
+Implementasi internal audit dan survei dilakukan 
+secara periodik untuk memastikan seluruh rumah sakit 
+memenuhi SOP dan kebijakan tersebut.
+2.	 Penerapan standar operasional yang berkualitas demi 
+menjaga pelayanan yang prima
+Penerapan standar operasional yang berkualitas dapat 
+memastikan pelayanan yang konsisten, pemasaran 
+yang efisien dan ekspansi yang efektif. Grup Primaya 
+Hospital berencana untuk memanfaatkan teknologi 
+terbaru untuk memberikan pelayanan kesehatan yang 
+lebih efisien. Grup Primaya Hospital juga berencana 
+untuk selalu memantau indikator kinerja utama dan 
+operasional dengan ketat untuk mempertahankan 
+pelayanan kesehatan yang berkualitas.
+3.	 Memanfaatkan strategi klaster dan merk “Primaya 
+Hospital” untuk membangun rumah sakit baru dan/atau 
+mengembangkan rumah sakit yang ada, menarik pasien, 
+merekrut dokter, perawat, dan strategi penentuan 
+harga yang kompetitif
+Saat ini kegiatan operasional Grup Primaya Hospital 
+terbagi ke dalam 4 (empat) klaster yaitu klaster 
+Tangerang, klaster Jakarta, klaster Bekasi, dan klaster 
+Makassar. Secara umum, Grup Primaya Hospital 
+menawarkan berbagai layanan kesehatan spesialis yang 
+saling berkaitan kemudian dikembangkan lebih lanjut 
+menjadi layanan kesehatan subspesialis yang disesuaikan 
+dengan kebutuhan pasien pada klaster regional. Selain 
+THE COMPANY’S STRATEGY IN 
+ACHIEVING THE TARGET
+Primaya Hospital Group and its Subsidiaries have a series of 
+business strategies to achieve growth as well as to support 
+the Company in facing business competition, including:
+1.	 Providing excellent, affordable health services that 
+are accessible to the public
+The Primaya Hospital Group focuses on maintaining the 
+quality of health services in the entire hospital network 
+by implementing standard operating procedures (SOPs) 
+and policies that meet JCI’s high standards. The Primaya 
+Hospital Group will always strive to develop health 
+services based on the growth of patient demand. The 
+implementation of internal audits and surveys is carried 
+out periodically to ensure that all hospitals meet the 
+SOPs and policies.
+2.	 Implementation of quality operational standards to 
+maintain excellent service 
+The implementation of quality operational standards 
+can ensure consistent service, efficient marketing and 
+effective expansion. The Primaya Hospital Group plans 
+to utilize the latest technology to provide more efficient 
+health services. The Primaya Hospital Group also plans 
+to closely monitor key performance and operational 
+indicators to maintain quality health services.
+3.	 Utilizing the “Primaya Hospital” cluster and brand 
+strategy to build new hospitals and/or develop existing 
+hospitals, attract patients, recruit doctors, nurses, and 
+competitive pricing strategies 
+Currently, the operational activities of the Primaya 
+Hospital Group are divided into 4 (four) clusters, namely 
+the Tangerang cluster, the Jakarta cluster, the Bekasi 
+cluster, and the Makassar cluster. In general, the 
+Primaya Hospital Group offers a variety of interrelated 
+specialist health services and then further developed 
+into subspecialist health services tailored to the 
+needs of patients in regional clusters. In addition, this 
+98
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+itu, strategi ini juga menargetkan dokter-dokter yang 
+berdomisili di area sekitar untuk dapat bekerja pada 
+rumah sakit Grup Primaya Hospital sekaligus untuk dapat 
+mengikuti pasien yang reguler berobat pada rumah 
+sakit Grup Primaya Hospital. Grup Primaya Hospital 
+berencana untuk meningkatkan kesadaran merek untuk 
+mempermudah ekspansi yang optimal. Grup Primaya 
+Hospital juga akan selalu mengutamakan economies 
+of scale dengan memanfaatkan ekosistem dan jaringan 
+rumah sakit dan layanan penunjang kesehatan Perseroan 
+dengan baik. Selanjutnya Grup Primaya Hospital juga 
+memanfaatkan cross-referrals yang diperoleh dari 
+jaringan rumah sakit dan/atau layanan penunjang 
+kesehatan Grup Primaya Hospital dalam suatu klaster.
+4.	 Memperkuat hubungan dengan seluruh pemangku 
+kepentingan
+Grup Primaya Hospital senantiasa untuk selalu membina 
+dan membangun hubungan baik dengan seluruh 
+pemangku kepentingan di antaranya dengan pasien, 
+pembayar, dan dokter. Grup Primaya Hospital berencana 
+untuk memperluas dan memperkuat hubungannya 
+terutama dengan kelompok pembayar seperti institusi, 
+perusahaan asuransi, dan juga pemerintah sehingga 
+dapat memperoleh penentuan harga yang transparan 
+dan juga terjangkau.
+5.	 Pertumbuhan Grup Primaya Hospital yang dijalankan 
+secara berkesinambungan
+Grup Primaya Hospital akan terus berupaya meningkatkan 
+kinerja operasional secara organik. Grup Primaya 
+Hospital juga akan mengimplementasi blueprint yang 
+akurat untuk membangun rumah sakit baru dan / atau 
+mengakuisisi rumah sakit yang memiliki potensi. Dengan 
+membuat rencana kerja yang telah dipertimbangkan 
+secara matang, Grup Primaya Hospital dapat membangun 
+rumah sakit dengan biaya yang kompetitif dan waktu 
+relatif cepat dibandingkan dengan pesaingnya. Selain itu 
+reputasi dari pendiri Grup Primaya Hospital yang telah 
+membangun lebih dari 30 rumah sakit di Indonesia, 
+didukung oleh tim manajemen proyek, tim medis, tim 
+perawat, tim keuangan dan tim sumber daya manusia 
+menjadikan rencana pengembangan kegiatan usaha Grup 
+Primaya Hospital lebih komprehensif, disesuaikan dengan 
+kebutuhan wilayah regional di mana rumah sakit akan 
+dibangun dan/atau dikembangkan, dan pada akhirnya 
+dapat memberikan pelayanan kesehatan yang berkualitas 
+dalam rangka meningkatkan kesembuhan pasiennya. 
+Sampai dengan Prospektus ini diterbitkan, Grup Primaya 
+Hospital memiliki 16 rumah sakit yang telah beroperasi 
+dan layanan penunjang kesehatan seperti laboratorium 
+klinik, homecare, dan layanan lain seperti telemedicine 
+yang telah dijalankan secara berkesinambungan.
+strategy also targets doctors who are domiciled in the 
+surrounding area to be able to work at the Primaya 
+Hospital Group hospital as well as to be able to follow 
+patients who regularly receive treatment at the Primaya 
+Hospital Group hospital. The Primaya Hospital Group 
+plans to increase brand awareness to facilitate optimal 
+expansion. The Primaya Hospital Group will also always 
+prioritize economies of scale by making good use of 
+the Company’s ecosystem and network of hospitals 
+and health support services. Furthermore, the Primaya 
+Hospital Group also utilizes cross-referrals obtained from 
+the Primaya Hospital Group’s network of hospitals and/
+or health support services in a cluster.
+4.	 Strengthen relationships with all stakeholders 
+The Primaya Hospital Group always fosters and builds 
+good relationships with all stakeholders, including 
+patients, payers, and doctors. The Primaya Hospital 
+Group plans to expand and strengthen its relationships, 
+especially with payer groups such as institutions, 
+insurance companies, and also the government so that 
+it can obtain transparent and affordable pricing.
+5.	 Growth of the Primaya Hospital Group which is carried 
+out on a continuous basis 
+The Primaya Hospital Group will continue to strive to 
+improve operational performance organically. The 
+Primaya Hospital Group will also implement an accurate 
+blueprint to build new hospitals and/or acquire hospitals 
+that have potential. By making a carefully considered 
+work plan, the Primaya Hospital Group can build a 
+hospital at a competitive cost and a relatively fast time 
+compared to its competitors. In addition, the reputation 
+of the founder of the Primaya Hospital Group who has 
+built more than 30 hospitals in Indonesia, supported by 
+the project management team, medical team, nursing 
+team, finance team and human resources team makes 
+the business activity development plan of the Primaya 
+Hospital Group more comprehensive, adjusted to the 
+needs of the regional area where the hospital will be 
+built and/or developed, and ultimately can provide quality 
+health services in order to improve the recovery of their 
+patients. Until this prospectus is issued, the Primaya 
+Hospital Group has 16 hospitals that have been operating 
+and health support services such as clinical laboratories, 
+homecare, and other services such as telemedicine have 
+been carried out continuously.
+99
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+6.	 Mempertahankan sumber daya utama yakni dokter, 
+perawat, dan tenaga medis lainnya melalui lingkungan 
+dan budaya yang positif dan berkualitas serta model 
+bisnis yang berorientasi pada volume yang tinggi
+Secara umum, ekosistem rumah sakit yang baik dan 
+saling berkesinambungan, bisnis model yang berorientasi 
+pada volume yang tinggi, serta lingkungan dan budaya 
+perusahaan yang positif dan berkualitas merupakan 
+salah satu faktor utama dalam mempertahankan sumber 
+daya utama rumah sakit yakni dokter, perawat, dan 
+tenaga medis lainnya. Grup Primaya Hospital mampu 
+mempertahankan nilai-nilai tersebut dan merekrut 
+dokter hingga kini memiliki lebih dari 1000 spesialis yang 
+telah bergabung.
+6.	 Maintain key resources of doctors, nurses, and 
+other medical personnel through a positive, quality 
+environment and culture, and a high-volume oriented 
+business model 
+In general, a good and mutually sustainable hospital 
+ecosystem, a high-volume oriented business model, 
+and a positive, quality corporate environment and 
+culture are among the main factors in maintaining the 
+hospital’s key resources, namely doctors, nurses, and 
+other medical personnel. The Primaya Hospital Group 
+has successfully maintained these values and recruited 
+doctors, and currently, it has more than 1,000 specialists 
+who have joined.
+Aspek Pemasaran
+Marketing Aspect
+STRATEGI PEMASARAN 
+DAN PANGSA PASAR
+Dalam pelaksanaan aktivitas operasional usahanya, 
+Perseroan melakukan pemasaran layanan jasa yang 
+dimiliki dengan berfokus pada pasien-pasien yang percaya 
+dan berpotensi akan menggunakan kembali jasa Primaya 
+baik dalam segmen rumah sakit maupun segmen bisnis 
+pendukung lainnya. Perseroan juga menyediakan layanan 
+Kesehatan yang komprehensif yang menargetkan segmen 
+menengah ke atas. Perseroan meningkatkan kerjasama 
+COB (Coordination of Benefit) dengan berbagai perusahaan 
+dan asuransi. Pada segmen asuransi, Perseroan juga fokus 
+untuk menambahkan kerjasama dengan asuransi dan terus 
+mengembangkan bridging sistem seperti dengan Garda 
+Medika, Asuransi PLN, Mandiri InHealth dan Yakes Pertamina 
+pada tahun 2024.
+Selain itu, Perseroan juga memanfaatkan media sosial 
+seperti Instagram, Facebook, Tiktok, linkedin hingga 
+website untuk menjalankan aspek pemasarannya. Perseroan 
+membuat berbagai konten kreatif untuk membangun 
+kesadaran dan memberikan edukasi serta meningkatkan 
+loyalitas terhadap merek Primaya Hospital. Perusahaan 
+juga melakukan pemasaran melalui platform Youtube dan 
+Google, serta media digital pihak ketiga seperti Halodoc, 
+e-Benefit, GrabHealth, Dokter Siaga, Aplikasi Mobile BNI 
+Life, Medcare dan lain sebagainya. Perusahaan menerapkan 
+strategi komunikasi terpadu melalui publikasi artikel, siaran 
+radio, televisi baik secara advertorial maupun editorial 
+dengan tujuan meningkatkan kesadaran akan merek Primaya 
+Hospital sekaligus mengedukasi seputar dunia Kesehatan.
+MARKETING STRATEGY 
+AND MARKET SHARE
+In carrying out its business operational activities, the 
+Company markets its services by focusing on patients who 
+believe in and have the potential to reuse Primaya’s services, 
+both in the hospital segment and other supporting business 
+segments. The Company also provides comprehensive 
+healthcare services targeting the middle to upper segments. 
+The Company is increasing COB (Coordination of Benefits) 
+cooperation with various companies and insurance 
+providers. In the insurance segment, the Company also 
+focuses on adding partnerships with insurance companies 
+and continuing to develop bridging systems, such as with 
+Garda Medika, PLN Insurance, Mandiri InHealth, and Yakes 
+Pertamina in 2024.
+In addition, the Company also utilizes social media such as 
+Instagram, Facebook, TikTok, LinkedIn, and websites to carry 
+out its marketing aspects. The Company creates various 
+creative content to build awareness, provide education, 
+and increase loyalty to the Primaya Hospital brand. The 
+Company also conducts marketing through the YouTube 
+and Google platforms, as well as third-party digital media 
+such as Halodoc, e-Benefit, GrabHealth, Doctor Siaga, BNI 
+Life Mobile Application, Medcare, and so on. The company 
+implements an integrated communication strategy through 
+the publication of articles, radio broadcasts, and television, 
+both advertorially and editorially, with the aim of increasing 
+awareness of the Primaya Hospital brand as well as educating 
+the world of health.
+100
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Dalam menjalankan operasi dan usahanya, Perseroan 
+memberikan beberapa produk dan layanan jasa yang 
+berkontribusi terhadap Pendapatan Neto, yaitu penunjang 
+medis rawat inap, pelayanan pasien rawat inap, penunjang 
+medis rawat jalan, laboratorium, pelayanan pasien poliklinik 
+dan pendapatan lainnya. Laporan Keuangan yang telah 
+diaudit oleh Kantor Akuntan Publik juga menjelaskan 
+bahwa untuk kepentingan manajemen, segmen usaha 
+Grup Primaya Hospital dikelola dan dikelompokkan dalam 
+unit usaha berdasarkan lokasi geografis dan memiliki tiga 
+segmen pelaporan yaitu Jawa, Kalimantan dan Sulawesi, 
+dan Sumatera.
+PENJELASAN DAN PRODUKTIVITAS 
+SEGMEN USAHA
+Segmen Rumah Sakit
+Hingga akhir tahun 2024, Perseroan telah mengelola 16 rumah 
+sakit yang tergabung di Grup Primaya Hospital yang tersebar 
+di seluruh Indonesia. Perseroan berkeyakinan bahwa masih 
+terdapat berbagai peluang di sektor Kesehatan di Indonesia 
+seiring berkembangnya pelayanan Kesehatan di Indonesia. 
+Adapun pertumbuhan pelayanan Kesehatan di Indonesia 
+erat kaitannya dengan peningkatan populasi penduduk 
+umur produktif, peningkatan pendapatan, penduduk kelas 
+menengah, peningkatan konsumsi Kesehatan masyarakat, 
+hingga adanya penyelenggaraan program Jaminan Kesehatan 
+Nasional (JKN) yang merata dan menyeluruh bagi seluruh 
+masyarakat Indonesia. Oleh sebab itu, rumah sakit menjadi 
+salah satu bisnis utama yang mendukung operasional bisnis 
+Perseroan.
+Sepanjang tahun 2024, industri layanan kesehatan di 
+Indonesia menunjukkan pertumbuhan yang lebih solid 
+dibandingkan tahun-tahun sebelumnya. Mengacu pada 
+laporan resmi dari Badan Pusat Statistik (BPS) dan 
+Kementerian Kesehatan RI, permintaan terhadap layanan 
+kesehatan terus meningkat sejalan dengan percepatan 
+transformasi digital, peningkatan kesadaran masyarakat 
+terhadap kesehatan, dan perbaikan sistem layanan primer. 
+Peningkatan jumlah fasilitas kesehatan, termasuk rumah 
+sakit dan klinik, serta adopsi teknologi seperti telemedicine 
+dan electronic health records (EHR) semakin memperkuat 
+ekosistem layanan kesehatan nasional. Selain itu, industri 
+alat kesehatan nasional juga mencatatkan kinerja yang 
+positif, memperkuat kapasitas domestik dalam memenuhi 
+kebutuhan pasar dalam negeri maupun ekspor.
+Tinjauan Operasi Per Segmen Usaha
+Operational Overview Per Business Segment
+In conducting its operations and business activities, the 
+Company provides several products and services that 
+contribute to Net Revenue, including inpatient medical 
+support, inpatient services, outpatient medical support, 
+laboratory services, clinic patient services, and other 
+income. The audited Financial Statements by the Public 
+Accounting Firm also explain that, for management purposes, 
+the business segments of the Primaya Hospital Group are 
+managed and categorized into business units based on 
+geographical location, with three reporting segments, 
+namely Java, Kalimantan and Sulawesi, and Sumatra.
+EXPLANATION AND PRODUCTIVITY 
+OF BUSINESS SEGMENTS
+Hospital Segment
+Until the end of 2024, the Company has managed 16 hospitals 
+that are members of the Primaya Hospital Group spread 
+throughout Indonesia. The Company believes that there are 
+still various opportunities in the health sector in Indonesia as 
+Health services in Indonesia develop. The growth of health 
+services in Indonesia is closely related to the increase in the 
+productive age population, an increase in income, a middle-
+class population, an increase in public health consumption, 
+and the implementation of the National Health Insurance 
+(JKN) program that is equitable and comprehensive for all 
+Indonesian people. Therefore, hospitals are one of the main 
+businesses that support the Company’s business operations.
+Throughout 2024, Indonesia’s healthcare services industry 
+demonstrated stronger growth compared to previous years. 
+Referring to official reports from the Central Statistics 
+Agency (BPS) and the Ministry of Health of the Republic of 
+Indonesia, demand for healthcare services continued to 
+increase, driven by the acceleration of digital transformation, 
+greater public health awareness, and improvements in 
+primary healthcare systems. The expansion of healthcare 
+facilities, including hospitals and clinics, along with the 
+adoption of technologies such as telemedicine and 
+electronic health records (EHRs), has further strengthened 
+the national healthcare ecosystem. In addition, the domestic 
+medical device industry also recorded positive performance, 
+enhancing the country’s capacity to meet both domestic 
+and export market demands.
+101
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Supported by these industry growth trends, by the end 
+of 2024, the hospital’s production has managed to record 
+403,801 days of hospitalization and handled 1,720,492 
+outpatient visits spread across all of the Company’s 
+hospitals. Meanwhile, in the field of Hospital revenue, in 
+2024 the Company recorded Rp1,892.8 billion, an increase 
+of 15% compared to 2023 which was recorded at Rp1,644.4 
+billion. This revenue growth mainly came from the Outpatient 
+side which grew by more than 22% compared to 2023, which 
+was caused by a growth in the number of visits by 23%. This 
+can be attributed to the improvement of clinical quality and 
+services provided by all hospitals in the Primaya group.
+Thus, for 2025 the Company continues to be optimistic in 
+turning every existing challenge into a business opportunity 
+to improve. The Company has plans to open 2 new hospitals 
+in 2025 which will be located in Kelapa Gading and BSD.
+Laboratorium Segment
+Through Westerindo’s subsidiary unit, the Company 
+has laboratory business units that have a significant 
+contribution to the Company’s overall performance and 
+still have extraordinary potential for growth. Westerindo 
+as the health service manager for the Primaya Group in the 
+field of laboratories both inside and outside the hospital, 
+with excellent services in the field of Medical Check Up 
+and In-house Clinic. In addition, through Westerindo, the 
+Company also offers other services such as homecare 
+examinations and referral examinations. Until the end of 
+2024, the Company through Westerindo has managed 10 
+clinical laboratory branches and more than 20 In-House 
+Clinic branches spread throughout Indonesia.
+Throughout 2024, Laboratory production has managed 
+to record a testing volume of 2,505 thousand tests, an 
+increase compared to 2023 with a total of 2,361 thousand 
+tests. Meanwhile, in terms of revenue, the Company recorded 
+IDR 187.1 billion in 2024, an increase of 5.5% compared to 
+2023 which was recorded at Rp177.4 billion.
+The Company believes that along with the growth of the 
+hospital segment, the laboratory segment also still has 
+various opportunities in the Health sector in Indonesia in 
+line with the development of health services in Indonesia.
+Didukung oleh tren pertumbuhan industri tersebut, hingga 
+akhir tahun 2024, produksi Rumah Sakit telah berhasil 
+mencatatkan hari rawat inap sebesar 403.801 hari dan 
+menangani 1.720.492 kunjungan rawat jalan yang tersebar 
+di seluruh rumah sakit milik Perseroan. Sementara di 
+bidang pendapatan Rumah Sakit, tahun 2024 Perseroan 
+mencatatkan sebesar Rp1.892,8 miliar, meningkat 15% 
+dibandingkan dengan tahun 2023 yang tercatat sebesar 
+Rp1.644,4 miliar. Pertumbuhan pendapatan ini terutama 
+datang dari sisi Rawat Jalan yang tumbuh lebih dari 22% 
+dibandingkan dengan tahun 2023, yang disebabkan dari 
+pertumbuhan jumlah kunjungan sebesar 23%. Hal ini bisa 
+diatribusikan kepada peningkatan mutu klinis dan layanan 
+yang disediakan seluruh rumah sakit di grup Primaya.
+Dengan demikian, untuk tahun 2025 Perseroan terus optimis 
+dalam mengubah setiap tantangan yang ada menjadi 
+kesempatan bisnis untuk lebih meningkat. Perseroan 
+memiliki rencana pembukaan 2 rumah sakit baru di tahun 
+2025 yang akan berlokasi di Kelapa Gading dan BSD.
+Segmen Laboratorium
+Melalui unit anak usaha Westerindo, Perseroan memiliki 
+unit bisnis laboratorium yang memiliki kontribusi signifikan 
+terhadap performa Perseroan secara keseluruhan dan 
+masih memiliki potensi luar biasa untuk berkembang. 
+Westerindo selaku pengelola pelayanan kesehatan untuk 
+Grup Primaya dalam bidang laboratorium baik di dalam 
+rumah sakit maupun di luar rumah sakit, dengan layanan 
+unggulan di bidang Medical Check Up dan In-house Clinic. 
+Selain itu, melalui Westerindo Perseroan juga menawarkan 
+layanan-layanan lainnya seperti pemeriksaan homecare dan 
+pemeriksaan rujukan. Hingga akhir tahun 2024, Perseroan 
+melalui Westerindo telah mengelola 10 cabang laboratorium 
+klinik dan lebih dari 20 cabang In-House Clinic yang tersebar 
+di seluruh Indonesia. 
+Sepanjang tahun 2024, produksi Laboratorium telah berhasil 
+mencatatkan volume pengujian sebesar 2.505 ribu tes, 
+meningkat dibandingkan tahun 2023 dengan jumlah 2.361 ribu 
+tes. Sedangkan dari sisi pendapatan, Perseroan mencatatkan 
+sebesar Rp187.1 miliar pada tahun 2024, meningkat 5.5% 
+dibandingkan dengan tahun 2023 yang tercatat sebesar 
+Rp177.4 miliar.
+Perseroan yakin bahwa seiring dengan pertumbuhan segmen 
+rumah sakit, segmen laboratorium juga masih memiliki 
+berbagai peluang di sektor Kesehatan di Indonesia seiring 
+dengan berkembangnya pelayanan Kesehatan di Indonesia. 
+102
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Segmen Lainnya
+Selain dari laboratorium, Perseroan juga memiliki kegiatan 
+usaha di bidang lainnya untuk mendukung pelayanan 
+kesehatan di Rumah Sakit, seperti pada bidang telemedicine 
+dan telekonsultasi yang dikenal dengan LinkSehat, homecare 
+melalui Kava Care serta teknologi reproduksi berbantu 
+melalui Primaya IVF dan Smart Fertility Clinic.
+Di akhir tahun 2024, Perseroan juga telah memperluas lini 
+bisnis Grup Primaya Hospital melalui pembukaan klinik mata 
+yang dikenal dengan EyeQu LASIK & Eye Center yang memiliki 
+spesialisasi dalam menangani masalah penglihatan dan 
+meningkatkan kesehatan mata yang didukung oleh dokter-
+dokter subspesialis yang berkualitas.
+Sepanjang tahun 2024, Perseroan mencatatkan pendapatan 
+sebesar Rp 23.2 miliar melalui segmen lainnya, meningkat 
+sebesar 32% dibandingkan dengan pendapatan tahun 2023, 
+dimana pertumbuhan terutama datang dari peningkatan 
+performa unit usaha IVF dan Smart Fertility Clinic.
+Pada tahun 2025, Perseroan memiliki sejumlah prospek 
+usaha di antaranya untuk mendirikan perusahaan jual beli alat 
+kesehatan yang perencanaan bisnisnya saat ini telah dimulai.
+Others Segment
+In addition to its laboratory services, the Company 
+also engages in other business activities that support 
+healthcare services in hospitals, such as telemedicine and 
+teleconsultation services through LinkSehat, homecare 
+services through Kava Care, and assisted reproductive 
+technology through Primaya IVF and Smart Fertility Clinic.
+At the end of 2024, the Company expanded the business lines 
+of the Primaya Hospital Group through the establishment 
+of an eye clinic known as EyeQu LASIK & Eye Center, which 
+specializes in treating vision problems and improving eye 
+health, supported by a team of highly qualified subspecialist 
+doctors.
+Throughout 2024, the Company recorded revenue of IDR 
+23.2 billion from its other business segments, representing 
+a 32% increase compared to revenue in 2023. This growth 
+was primarily driven by the improved performance of the 
+IVF and Smart Fertility Clinic units.
+In 2025, the Company has several business prospects, 
+including the planned establishment of a medical equipment 
+trading company, which is currently in the early stages of 
+business planning.
+103
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Tinjauan Keuangan
+Financial Overview
+Tinjauan keuangan yang diuraikan berikut mengacu kepada 
+Laporan Keuangan untuk tahun yang berakhir tanggal 31 
+Desember 2024 yang menjadi lampiran dalam Laporan 
+Tahunan ini. Laporan Keuangan telah diaudit oleh Kantor 
+Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, 
+Palilingan & Rekan dengan hasil audit bahwa laporan 
+keuangan konsolidasian menyajikan secara wajar, dalam 
+semua hal yang material. Posisi keuangan konsolidasian PT 
+Famon Awal Bros Sedaya Tbk dan entitas anaknya  Tanggal 
+31 Desember 2024, termasuk kinerja keuangan dan arus kas 
+konsolidasian, disajikan  sesuai dengan Standar Akuntansi 
+Keuangan di Indonesia.
+LAPORAN POSISI KEUANGAN 
+KONSOLIDASIAN
+Tabel Laporan Posisi Keuangan Konsolidasian
+Consolidated Financial Position Statement Table
+(Dalam juta Rupiah, kecuali dinyatakan lain)
+(In million Rupiah, unless otherwise stated)
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Rp
+%
+Aset
+Assets
+Aset lancar
+Current assets
+1.704.992
+1.681.961
+23.031
+1.4%
+Aset tidak lancar
+Non-current assets
+3.367.598
+3.022.072
+345.526
+11.4%
+Jumlah aset
+Total assets
+5.072.590
+4.704.033
+368.557
+7.8%
+Liabilitas
+Liabilities
+Liabilitas jangka pendek
+Current liabilities
+543.772
+469.656
+74.118
+15.8%
+Liabilitas jangka panjang
+Non-current liabilities
+1.394.681
+1.299.800
+94.881
+7.3%
+Jumlah liabilitas
+Total liabilities
+1.938.453
+1.769.456
+168.999
+9.6%
+Ekuitas
+Equity
+Jumlah ekuitas
+Total equity
+3.134.137
+2.934.577
+199.559
+6.8%
+Jumlah liabilitas dan ekuitas
+Total liabilities and equity
+5.072.590
+4.704.033
+368.558
+7.8%
+The financial overview outlined below refers to the Financial 
+Statements for the year ended December 31, 2024, which are 
+attached to this Annual Report. The Financial Statements 
+were audited by the Public Accounting Firm Paul Hadiwinata, 
+Hidajat, Arsono, Retno, Palilingan & Rekan, with the audit 
+result stating that the consolidated financial statements 
+present fairly, in all material respects, the consolidated 
+financial position of PT Famon Awal Bros Sedaya Tbk and 
+its subsidiaries as of December 31, 2024. This includes the 
+consolidated financial performance and cash flows, which 
+are presented in accordance with Indonesian Financial 
+Accounting St andards.
+CONSOLIDATED STATEMENT 
+OF FINANCIAL POSITION
+104
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+ASET
+Aset tahun 2024 mencapai Rp5.072.590 juta, meningkat 7.8% 
+dibandingkan tahun 2023 yang mencapai Rp4.704.033 juta. 
+Peningkatan tersebut terutama disebabkan oleh peningkatan 
+Aset Tidak Lancar sebesar 11.4% menjadi Rp3.367.598 juta.
+Aset Lancar
+Aset lancar tahun 2024 mencapai Rp1.704.992 juta, 
+meningkat 1.4% dibandingkan tahun 2023 yang mencapai 
+Rp1.681.961 juta. Peningkatan tersebut terutama dikarenakan 
+pertumbuhan piutang usaha dari pihak ketiga sebesar 9.7% 
+atau Rp43.494 juta.
+Aset Tidak Lancar
+Aset tidak lancar tahun 2024 mencapai Rp3.367.598 juta, 
+meningkat 11.4% dibandingkan tahun 2023 yang mencapai 
+Rp3.022.072 juta. Peningkatan ini terutama dipengaruhi oleh 
+penambahan aset tetap yang digunakan untuk pembangunan 
+rumah sakit baru dan pengembangan gedung dan layanan 
+rumah sakit yang sudah beroperasi, serta pengadaan alat-
+alat medis untuk rumah sakit baru maupun yang sudah 
+beroperasi.
+LIABILITAS
+Liabilitas tahun 2024 mencapai Rp1.938.453 juta, meningkat 
+9.6% dibandingkan tahun 2023 yang mencapai Rp1.769.456 
+juta. Peningkatan tersebut terutama pada sisi Liabilitas 
+Jangka Pendek yang meningkat 15.8% atau Rp74.118 juta.
+Liabilitas Jangka Pendek
+Liabilitas jangka pendek tahun 2024 mencapai Rp543.772 juta, 
+meningkat 15.8% dibandingkan tahun 2023 yang mencapai 
+Rp469.656 juta. Peningkatan tersebut terutama disebabkan 
+oleh peningkatan Utang Lain-Lain sebesar 34.7% atau Rp44.865 
+juta kepada Pihak Ketiga dan Utang Bank yang akan Jatuh 
+Tempo dalam 1 Tahun sebesar 121.7% atau Rp48.498 juta.
+Liabilitas Jangka Panjang
+Liabilitas jangka panjang tahun 2024 mencapai Rp1.394.681 
+juta, meningkat 7.3% dibandingkan tahun 2023 yang 
+mencapai Rp1.299.800 juta. Peningkatan tersebut terutama 
+disebabkan peningkatan hutang bank jangka panjang sebesar 
+13.2% atau Rp104.459 juta.
+EKUITAS
+Jumlah ekuitas yang berhasil dibukukan Perseroan pada 
+tahun 2024 adalah sebesar Rp3.134.137 juta. Jumlah ini 
+mengalami peningkatan sebesar Rp199.560 atau 6.8% dari 
+posisi tahun 2022 sebesar Rp2.934.577 juta.
+ASSETS
+Assets in 2024 reached Rp5,072,590 million, increasing by 
+7.8% compared to 2023 which reached Rp4,704,033 million. 
+The increase was mainly driven by an increase in Non-current 
+Assets by 11.4%, reaching Rp3,367,598 million. 
+Current Assets
+Current assets in 2024 reached Rp1,704,992 million, 
+increasing 1.4% compared to 2023 which reached Rp1,681,961 
+million. The increase was mainly due to growth in third party 
+receivables by 9.7% or Rp43,494 million.
+Non-Current Assets
+Non-current assets in 2024 reached Rp3,367,598 million, 
+increasing by 11.4% compared to 2023 which reached 
+Rp3,022,072 million. The increase was influenced by addition 
+of fixed assets used for the construction of new hospitals 
+and the development of buildings and services of operating 
+hospitals, as well as the procurement of medical equipment 
+for new and operating hospitals.
+LIABILITIES
+Liabilities in 2024 reached IDR 1,938,453 million, increasing 
+by 9.6% compared to 2023 which reached Rp1,769,456 
+million. The increase was mainly from Current Liabilities 
+which increased by 15.8% or Rp74,118 millions
+Current Liabilities
+Current liabilities in 2024 reached IDR 543,772 million, 
+increasing by 15.8% compared to 2023 which reached 
+Rp469,656 million. The increase was mainly due to increases 
+in other payables by 34.7% or Rp44,865 million and bank loans 
+due within one year by 121.7% or Rp48,498 million 
+Non-current Liabilities
+Long-term liabilities in 2024 reached Rp1,394,681 million, 
+an increase of 7.3% compared to 2023 which reached 
+Rp1,299,800 million. The increase was mainly due to an 
+increase in long-term bank debt of 13.2% or Rp104,459 
+million.
+EQUITY
+The amount of equity that the Company managed to book 
+in 2024 is Rp3,134,137 million. This amount has increased by 
+Rp199,560 or 6.8% from the 2022 position of Rp2,934,577 
+million.
+105
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+LAPORAN LABA RUGI DAN 
+PENGHASILAN KOMPREHENSIF 
+LAIN KONSOLIDASIAN
+Tabel Laporan Laba Rugi dan Penghasilan Komprehensif Lain Konsolidasian
+Table of Consolidated Statements of Profit or Loss and Other Comprehensive Income
+(Dalam juta Rupiah, kecuali dinyatakan lain)
+(In million Rupiah, unless otherwise stated)
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Rp
+%
+Pendapatan neto
+Net revenue
+2.103.055
+1.839.233
+263.823
+14.3%
+Beban pokok pendapatan
+Cost of revenue
+(1.503.762)
+(1.319.778)
+(183.94)
+13.9%
+Laba bruto
+Gross profit
+599.293
+519.455
+79.839
+15.4%
+Beban usaha
+Operating expenses
+(339.311)
+(315.036)
+(24.273)
+7.7%
+Laba usaha
+Operating profit
+259.982
+204.419
+55.566
+27.2%
+Laba sebelum pajak penghasilan
+Profit before income tax
+262.160
+267.578
+(5.418)
+(2.0%)
+Pajak penghasilan
+income tax
+(68.659)
+(43.549)
+(25.109)
+57.7%
+Laba tahun berjalan
+Profit for the year
+193.501
+224.029
+(30.527)
+(13.6%)
+Jumlah laba komprehensif tahun 
+berjalan
+Total comprehensive income for the 
+year
+202.581
+218.173
+(15.591)
+(7.1)
+Laba tahun berjalan yang diatribusikan kepada:
+Profit for the year attributable to:
+Pemilik entitas induk
+Owners of the parent entity
+201.442
+216.972
+(15.530)
+(7.2%)
+Kepentingan non-pengendali
+Non-controlling interests
+(7.941)
+7.056
+(14.997)
+(212.5%)
+Jumlah laba komprehensif tahun berjalan yang dapat diatribusikan kepada:
+Total comprehensive income for the year attributable to:
+Pemilik entitas induk
+Owners of the parent entity
+208.736
+210.402
+(1.666)
+(0.8%)
+Kepentingan non-pengendali
+Non-controlling interests
+(6.155)
+7.770
+(13.925)
+(179.2%)
+CONSOLIDATED STATEMENT OF 
+PROFIT OR LOSS AND OTHER 
+COMPREHENSIVE INCOME
+106
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+PENDAPATAN
+Pendapatan tahun 2024 mencapai Rp2.103.055 juta, 
+meningkat 14.3% dibandingkan tahun 2023 yang mencapai 
+Rp1.839.233 juta. Peningkatan tersebut terutama disebabkan 
+oleh meningkatnya jumlah hari rawat inap sebesar 23% dan 
+kunjungan rawat jalan sebesar 10%.
+Beban Pokok Pendapatan
+Beban pokok pendapatan tahun 2024 mencapai Rp1.503.762 
+juta, meningkat 13.9% dibandingkan tahun 2023 yang 
+mencapai Rp1.319.778 juta. Peningkatan tersebut didominasi 
+oleh kenaikan biaya farmasi 20%, gaji dan tunjangan 12% 
+dan penyusutan aset tetap 21%, seiring dengan perluasan 
+dan pengembangan kapasitas pelayanan Perseroan. Secara 
+rasio terhadap pendapatan, beban pokok masih di level 72%, 
+sama seperti tahun 2023.
+Laba Bruto
+Laba bruto tahun 2024 tercatat sebesar Rp599.293 juta, 
+meningkat 15.4% dibandingkan tahun 2023 yang mencapai 
+Rp519.455 juta. Peningkatan tersebut sejalan dengan 
+peningkatan pendapatan.
+Beban Usaha
+Beban tahun 2024 tercatat sebesar Rp339.311 juta, meningkat 
+7.7% dibandingkan tahun 2023 yang mencapai Rp315.036 juta. 
+Peningkatan pada beban usaha tahun 2024 dikarenakan 
+kenaikan biaya pemasaran dan humas 47% dan gaji dan 
+tunjangan 10% sejalan dengan pertumbuhan bisnis. Secara 
+rasio terhadap pendapatan terdapat penurunan dari 17% di 
+2023 menjadi 16% di 2023.
+Laba Tahun Berjalan
+Laba tahun berjalan tahun 2024 mencapai sebesar Rp193.501 
+juta, menurun 13.6% dibandingkan tahun 2023 yang mencapai 
+Rp224.029 juta. Penurunan tersebut terutama disebabkan 
+kerugian penurunan nilai piutang usaha.
+Laba Komprehensif Tahun Berjalan
+Laba komprehensif tahun berjalan tahun 2024 tercatat 
+sebesar Rp202.581 juta, menurun 7% dibandingkan tahun 
+2023 yang mencapai Rp218.173 juta. Penurunan tersebut 
+sejalan dengan penurunan Laba Tahun Berjalan.
+REVENUE
+Revenue in 2024 reached Rp2,103,055 million, an increase of 
+14.3% compared to 2023 which reached Rp1,839,233 million. 
+The increase was mainly due to an increase in the number 
+of hospitalized days by 23% and outpatient visits by 10%.
+Cost of Revenue
+Cost of revenue in 2024 reached Rp1,503,762 million, 
+an increase of 13.9% compared to 2023 which reached 
+Rp1,319,778 million. The increase was dominated by an 
+increase in pharmaceutical costs 20%, salaries and 
+allowances 12% and depreciation of fixed assets 21%, in 
+line with the expansion and development of the Company’s 
+service capacity. In terms of ratio to revenue, the cost of 
+goods is still at the level of 72%, the same as in 2023.
+Gross Profit
+Gross profit in 2024 was recorded at Rp599,293 million, 
+an increase of 15.4% compared to 2023 which reached 
+Rp519,455 million. The increase is in line with the increase 
+in revenue.
+Operating Expenses
+Expenses in 2024 were recorded at Rp339,311 million, an 
+increase of 7.7% compared to 2023 which reached Rp315,036 
+million. The increase in operating expenses in 2024 was due 
+to an increase in marketing and public relations costs 47% 
+and salaries and benefits 10% in line with business growth. 
+In terms of ratio to revenue, there was a decrease from 17% 
+in 2023 to 16% in 2023.
+Profit for the Year
+Profit for the current year in 2024 reached Rp193,501 million, 
+a decrease of 13.6% compared to 2023 which reached 
+Rp224,029 million. The decline was mainly due to losses in 
+the decrease in the value of accounts receivable.
+Comprehensive Income for the Year
+Comprehensive profit for the current year 2024 was recorded 
+at Rp202,581 million, a decrease of 7% compared to 2023 
+which reached Rp218,173 million. The decline is in line with 
+the decline in Profit for the Current Year.
+107
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+LAPORAN ARUS KAS KONSOLIDASIAN
+Tabel Laporan Arus Kas Konsolidasian
+Table of Consolidated Cash Flow Statement 
+(Dalam juta Rupiah, kecuali dinyatakan lain)
+(In million Rupiah, unless otherwise stated)
+Uraian
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Rp
+%
+Arus kas dari aktivitas operasi
+Cash flows from operating activities
+495.262
+265.997
+229.265
+86.2%
+Arus kas dari aktivitas investasi
+Cash flows from investing activities
+(495.655)
+(509.506)
+(13.851)
+(2.7%)
+Arus kas dari aktivitas pendanaan
+Cash flows from financing activities
+146.294
+289.446
+(143.152)
+49.5%
+Kenaikan (Penurunan) kas dan setara kas
+Increase (Decrease) in cash and cash 
+equivalents
+50.692
+45.937
+4.755
+10.4%
+Kas dan setara kas pada awal periode
+Cash and cash equivalents at the 
+beginning of the period
+1.025.602
+979.665
+45.937
+4.7%
+Kas dan setara kas pada akhir periode
+Cash and cash equivalents at the end of 
+the period
+1.076.294
+1.025.602
+50.692
+4.9%
+Arus Kas dari Aktivitas Operasi
+Arus kas dari aktivitas operasi tahun 2024 tercatat sebesar 
+Rp400.053 juta, meningkat 6.2% dibandingkan tahun 2023 
+yang mencapai Rp265.997 juta. Peningkatan tersebut 
+terutama disebabkan oleh penerimaan kas dari pasien.
+Arus Kas dari Aktivitas Investasi 
+Arus kas yang digunakan untuk aktivitas investasi tahun 
+2024 tercatat sebesar Rp495.655 juta, menurun 2.7% 
+dibandingkan tahun 2023 yang mencapai Rp509.506 juta.
+Arus Kas dari Aktivitas Pendanaan
+Arus kas dari aktivitas pendaan di tahun 2024 mencapai 
+Rp146.294 juta, menurun 49.5% dibandingkan tahun 2023 
+yang mencapai Rp289.446 juta. Penurunan tersebut terutama 
+disebabkan dari pengurangan penerimaan pinjaman bank 
+jangka panjang.
+CONSOLIDATED CASH FLOW STATEMENT
+Cash Flows from Operating Activities
+Cash flow from operating activities in 2024 was recorded at 
+Rp400,053 million, an increase of 6.2% compared to 2023 
+which reached Rp265,997 million. The increase is mainly 
+due to cash receipts from patients.
+Cash Flows from Investing Activities
+Cash flow used for investment activities in 2024 was recorded 
+at Rp495,655 million, a decrease of 2.7% compared to 2023 
+which reached Rp509,506 million.
+Cash Flows from Financing Activities
+Cash flow from funding activities in 2024 reached Rp146,294 
+million, a decrease of 49.5% compared to 2023 which 
+reached Rp289,446 million. The decline was mainly due to 
+a reduction in long-term bank loan receipts.
+108
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Kemampuan Membayar Utang
+Kemampuan membayar utang dapat dilihat melalui 
+pemenuhan Perseroan dalam memenuhi utang jangka 
+pendeknya maupun jangka panjang. Pengukuran kemampuan 
+membayar utang menggunakan rasio likuiditas dan rasio 
+solvabilitas.
+Kemampuan Membayar Utang Jangka Pendek 
+(Likuiditas)
+Rasio likuiditas mencerminkan kemampuan Perseroan untuk 
+memenuhi kewajibannya, terutama kewajiban dalam jangka 
+pendek. Tingkat likuiditas Perseroan dapat dilihat dari rasio 
+kas dan rasio lancar.
+Tabel Likuiditas
+Liquidity Table
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Selisih
+Difference
+Difference
+%
+Cash Ratio (%)
+1,6
+2,2
+0,6
+-24.6%
+Current Ratio (%)
+3,1
+3,6
+0,5
+-12.4%
+Kemampuan Membayar Utang Jangka Panjang 
+(Solvabilitas)
+Rasio Solvabilitas merupakan ukuran untuk menilai 
+kemampuan Perseroan untuk melunasi seluruh utang yang 
+dimilikinya menggunakan seluruh aset atau modal Perseroan. 
+Pengukuran solvabilitas menggunakan menggunakan Rasio 
+Liabilitas terhadap Aset, Rasio Liabilitas terhadap Ekuitas 
+dan Rasio Liabilitas Jangka Panjang terhadap Ekuitas.
+Tabel Solvabilitas
+Solvency Table
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Selisih
+Difference
+Difference
+%
+Rasio Liabilitas terhadap Aset (DAR) (%)
+Liability to Asset Ratio (DAR) (%)
+38%
+38%
+-
+-
+Rasio Liabilitas terhadap Ekuitas (DER) (%)
+Liability to Equity Ratio (DER) (%)
+62%
+60%
+3
+3,33%
+Rasio Liabilitas Jangka Panjang terhadap Ekuitas (%)
+Long Term Liabilities to Equity Ratio (%)
+44%
+44%
+-
+-
+Debt Repayment Ability  
+The ability to repay debt can be assessed through the 
+Company’s capacity to meet both its short-term and long-
+term obligations. The measurement of debt repayment ability 
+utilizes liquidity ratios and solvency ratios.  
+Ability to Pay Short-Term Debt (Liquidity)  
+The liquidity ratio reflects the Company’s ability to meet its 
+obligations, particularly short-term liabilities. The Company’s 
+level of liquidity can be measured using the cash ratio and 
+current ratio. 
+Ability to Pay Long-Term Debt (Solvency) 
+The solvency ratio is a measure used to assess the Company’s 
+ability to repay all its debts using its total assets or equity. 
+Solvency is measured using the Debt to Assets Ratio (DAR), 
+Debt to Equity Ratio (DER), and Non-Current Liabilities to 
+Equity Ratio.   
+Kemampuan Membayar Utang dan 
+Kolektibilitas Piutang Usaha
+Ability to Pay Debts and Collectability of Trade Receivables
+109
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Kolektibilitas Piutang
+Tingkat kolektibilitas piutang merupakan tingkat 
+kemungkinan diterimanya kembali dana yang merupakan 
+hak Perseroan yang berasal dari aktivitas bisnis maupun 
+dana yang ditanamkan dalam surat-surat berharga atau 
+penanaman lainnya, atau dengan kata lain kemampuan 
+Perseroan dalam menagih piutang (collecting period).
+Tabel Kolektibilitas Piutang
+Receivables Collectibility Table
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Selisih
+Difference
+Difference
+%
+Kolektabilitas piutang (hari)
+Receivables Collectibility (days)
+90
+96
+6 hari
+-6.4
+Receivables Collectibility
+The level of receivables collectibility refers to the likelihood 
+of receiving back funds that are the Company’s rights, 
+originating from business activities or funds invested in 
+securities or other investments. In other words, it represents 
+the Company’s ability to collect receivables (collecting 
+period).
+Struktur Modal dan Kebijakan Struktur Modal
+Capital Structure and Capital Structure Policy
+Rincian Struktur Modal
+Tabel Rincian Struktur Modal
+Table of Capital Structure Details
+Uraian
+Description
+Description
+2024
+2023
+Kenaikan (Penurunan)
+Increase (Decrease)
+Increase (Decrease)
+Rp Juta
+Rp Million
+Rp Million
+Komposisi
+Composition
+Composition
+(%)
+Rp Juta
+Rp Million
+Rp Million
+Komposisi
+Composition
+Composition
+(%)
+Rp Juta
+Rp Million
+Rp Million
+%
+Liabilitas
+Liabilities
+1.938.455
+38
+1.769.456
+38
+168.999
+10
+Ekuitas
+Equity
+3.134.136
+62
+2.934.577
+62
+199.559
+7
+Jumlah Liabilitas dan Ekuitas
+Total Liabilities and Equity
+5.072.591
+100
+4.704.033
+100
+36.558
+8
+Kebijakan Struktur Modal
+Pengelolaan modal Perseroan dilakukan dengan tujuan utama 
+untuk memastikan pemeliharaan rasio modal yang sehat 
+guna mendukung bisnis Perseroan serta mengoptimalkan 
+nilai bagi pemegang saham.
+Perseroan melakukan pengelolaan permodalan dengan 
+senantiasa mempertimbangkan hal-hal seperti kebutuhan 
+modal masa depan dan efisiensi modal Perseroan; profitabilitas 
+masa sekarang dan masa mendatang; proyeksi arus kas operasi; 
+proyeksi belanja modal; dan proyeksi peluang investasi yang 
+strategis. Kebijakan Perseroan adalah mempertahankan 
+struktur permodalan yang sehat untuk mengamankan akses 
+terhadap pendanaan pada biaya yang wajar.
+Details of Capital Structure
+Capital Structure Policy
+The management of the Company’s capital is carried out 
+with the primary objective of ensuring the maintenance of 
+a healthy capital ratio to support the Company’s business 
+and optimize value for shareholders.
+The Company manages its capital by continuously considering 
+factors such as future capital needs and capital efficiency; 
+current and future profitability; projected operating cash 
+flows; projected capital expenditures; and projections of 
+strategic investment opportunities. The Company’s policy 
+is to maintain a healthy capital structure to secure access 
+to funding at reasonable costs.
+110
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Selama tahun 2024, Perseroan memiliki ikatan yang sifatnya 
+material dengan PT Karya Sukses Mandiri sebagai entitas 
+asosiasi berkaitan dengan investasi barang modal.
+During 2024, the Company has a material bond with PT Karya 
+Sukses Mandiri as an associate entity related to capital goods 
+investment.
+Ikatan yang Material untuk Investasi 
+Barang Modal
+Material Commitment for Capital Goods Investment
+Investasi Barang Modal
+Capital Goods Investment
+Hingga akhir tahun 2024, Perseroan melakukan investasi 
+barang modal. Belanja modal Perseroan terutama terdiri 
+dari investasi pada rumah sakit baru, pembelian tanah untuk 
+rumah sakit yang akan datang, perluasan dan biaya renovasi 
+rumah sakit, pengadaan peralatan medis dan peralatan 
+lainnya serta biaya pemeliharaan atas rumah sakit yang ada.
+Total belanja modal mencapai Rp571 miliar di tahun 2024, 
+terutama berasal dari kas yang dihasilkan dari kegiatan 
+operasi dan pinjaman bank.
+Until the end of 2024, the Company will invest in capital 
+goods. The Company’s capital expenditure mainly consists 
+of investments in new hospitals, land purchases for future 
+hospitals, expansion and renovation costs of hospitals, 
+procurement of medical equipment and other equipment 
+as well as maintenance costs for existing hospitals.
+Total capital expenditure reaches Rp571 billion in 2024, 
+mainly from cash generated from bank operations and loans.
+As of December 31, 2024, there are no material significant 
+events experienced by the Company after the date of the 
+accountant’s report that have a significant impact on the 
+presentation of the Company’s financial statements.
+Informasi dan Fakta Material yang Terjadi 
+Setelah Tanggal Laporan Akuntan
+Information and Material Facts Subsequent to the Date of the Accountant’s Report
+Sampai 31 Desember 2024, tidak terdapat peristiwa penting 
+bersifat material yang dialami oleh Perseroan setelah tanggal 
+laporan akuntan yang berpengaruh signifikan terhadap 
+penyajian laporan keuangan Perseroan.
+111
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Industri layanan kesehatan di Indonesia menunjukkan 
+prospek cerah untuk berkembang, didorong oleh 
+transformasi digital, peningkatan investasi infrastruktur, 
+dan kesadaran masyarakat terhadap kesehatan. Sejalan 
+dengan tren tersebut, Grup Primaya Hospital berkomitmen 
+untuk terus menghadirkan layanan kesehatan yang inovatif 
+dan berkualitas tinggi guna memenuhi kebutuhan masyarakat 
+yang semakin kompleks. (L&G Broker Asuransi Indonesia)
+Sebagai bagian dari strategi pertumbuhan, Grup Primaya 
+Hospital berencana menambah dua rumah sakit baru pada 
+tahun 2025, serta mengembangkan Center of Excellence 
+baru yang akan menghadirkan pengobatan nuklir. Langkah 
+ini diharapkan dapat meningkatkan aksesibilitas dan kualitas 
+layanan medis bagi masyarakat Indonesia.
+Teknologi memegang peranan penting dalam operasional 
+Grup Primaya Hospital. Upaya digitalisasi seperti 
+implementasi Rekam Medis Digital dan Pendaftaran Online 
+telah meningkatkan efisiensi dan kenyamanan pasien. Selain 
+itu, aplikasi Primaya memungkinkan pasien untuk mendaftar 
+dan mengakses layanan kesehatan secara lebih mudah dan 
+cepat.
+Dalam aspek keberlanjutan atau Environmental, Social, and 
+Governance (ESG), Grup Primaya Hospital berkomitmen 
+untuk mengembangkan program-program yang sejalan 
+dengan operasional perusahaan. Fokus utama kami meliputi 
+digitalisasi layanan, penghematan energi, dan pengolahan 
+limbah, yang tidak hanya memberikan dampak positif bagi 
+perusahaan tetapi juga bagi para pemangku kepentingan 
+dan lingkungan sekitar.
+The healthcare industry in Indonesia shows bright prospects 
+for growth, driven by digital transformation, increased 
+infrastructure investment, and public awareness of health. In 
+line with this trend, the Primaya Hospital Group is committed 
+to continuing to provide innovative and high-quality health 
+services to meet the increasingly complex needs of society. 
+(L&G Insurance Broker Indonesia)
+As part of its growth strategy, the Primaya Hospital Group 
+plans to add two new hospitals by 2025, as well as develop a 
+new Center of Excellence that will provide nuclear medicine. 
+This step is expected to improve the accessibility and quality 
+of medical services for the Indonesian people.
+Technology plays an important role in the operations of 
+the Primaya Hospital Group. Digitalization efforts such 
+as the implementation of Digital Medical Records and 
+Online Registration have increased patient efficiency and 
+convenience. In addition, the Primaya application allows 
+patients to register and access health services more easily 
+and quickly.
+In terms of sustainability or Environmental, Social, and 
+Governance (ESG), the Primaya Hospital Group is committed 
+to developing programs that are in line with the company’s 
+operations. Our main focus includes the digitalization of 
+services, energy saving and waste treatment, which not 
+only has a positive impact on the company but also on our 
+stakeholders and the surrounding environment.
+Prospek Usaha
+Business Prospects
+112
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perbandingan Target dan Realisasi 
+Tahun 2024
+Comparison of Target and Realization in 2024
+Tabel Perbandingan Target dan Realiasi Tahun 2024
+Table of Comparison of Target and Realiation in 2024
+(Dalam juta Rupiah, kecuali dinyatakan lain)(In million Rupiah, unless otherwise stated)
+Uraian
+Description
+Description
+Realisasi
+Realization
+Realization
+(1)
+Target 2024
+Target 2024
+Target 2024
+(2)
+Pencapaian (%)
+Achievement (%)
+Achievement (%)
+(3)=2/3
+Pertumbuhan Pendapatan Bersih
+Net Revenue Growth
+14.3%
+20%
+72%
+Margin EBITDA
+EBITDA Margin
+24.3%
+25%
+97%
+Rasio Liabilitas terhadap Aset
+Debt to Asset Ratio
+0.4
+<1.0
+Rasio Liabilitas terhadap Ekuitas
+Debt to Equity Ratio
+0.6
+<1.0
+Tabel Proyeksi Tahun 2025
+Table of Projection for 2025
+(Dalam juta Rupiah, kecuali dinyatakan lain)(In million Rupiah, unless otherwise stated)
+Uraian
+Description
+Description
+Proyeksi 2025
+2025 Projection
+2025 Projection
+Pertumbuhan Pendapatan Bersih
+Net Revenue Growth
+15-20%
+Pertumbuhan EBITDA
+EBITDA Growth
+20-25%
+Rasio Liabilitas terhadap Aset
+Debt to Asset Ratio
+<1.0
+Rasio Liabilitas terhadap Ekuitas
+Debt to Equity Ratio
+<1.0
+Proyeksi Tahun 2025
+Projection for 2025
+113
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Kebijakan Dividen
+Dividend Policy
+Seluruh pemegang saham Perseroan memiliki hak-hak 
+yang sama dan sederajat, termasuk di dalamnya hak untuk 
+menerima dividen. Mengacu pada Undang-Undang No. 40 
+Tahun 2007 tentang Perseroan terbatas, pembagian dividen 
+dilakukan berdasarkan keputusan Rapat Umum Pemegang 
+Saham Tahunan (RUPS Tahunan).
+Sesuai dengan peraturan perundang-undangan Indonesia, 
+khususnya UUPT, keputusan pembayaran dividen mengacu 
+pada ketentuan-ketentuan yang terdapat pada anggaran 
+dasar Perseroan dan persetujuan pemegang saham 
+pada RUPS berdasarkan rekomendasi Direksi Perseroan. 
+Pembayaran dividen hanya dapat dilakukan apabila Perseroan 
+mencatatkan laba bersih yang positif. Anggaran dasar 
+Perseroan memperbolehkan pembagian dividen interim 
+dengan ketentuan pembagian tersebut tidak menyebabkan 
+kekayaan bersih Perseroan lebih kecil dari modal ditempatkan 
+dan disetor ditambah cadangan wajib. Pembagian dividen 
+interim tersebut tidak boleh mengganggu atau menyebabkan 
+Perseroan tidak dapat memenuhi kewajibannya pada kreditor 
+atau mengganggu kegiatan Perseroan. Pembagian atas 
+dividen interim ditetapkan berdasarkan keputusan Direksi 
+Perseroan setelah mendapatkan persetujuan dari Dewan 
+Komisaris Perseroan. Jika pada akhir tahun keuangan 
+Perseroan mengalami kerugian, dividen interim yang telah 
+dibagikan harus dikembalikan oleh para pemegang saham 
+kepada Perseroan. Dalam hal pemegang saham tidak dapat 
+mengembalikan dividen interim, maka Direksi dan Dewan 
+Komisaris Perseroan akan bertanggung jawab secara 
+tanggung renteng atas kerugian Perseroan.
+Sesuai dengan prospektus bisnis Primaya, Perseroan 
+bermaksud membayarkan dividen kas dalam jumlah 
+sebanyak-banyaknya 25% (dua puluh lima persen) dari laba 
+tahun berjalan mulai tahun 2023 berdasarkan laba tahun 
+berjalan tahun buku 2022, setelah melakukan pencadangan 
+laba bersih sesuai ketentuan yang berlaku. Penentuan jumlah 
+dan pembayaran dividen akan mempertimbangkan arus kas 
+dan rencana investasi Perseroan, serta pembatasan hukum. 
+Penentuan waktu, jumlah, dan bentuk pembayaran dividen 
+tersebut, akan bergantung pada rekomendasi dari Direksi 
+Perseroan. Keputusan Direksi Perseroan dalam memberikan 
+rekomendasi pembayaran dividen tergantung pada:
+1.	 Hasil kegiatan usaha dan arus kas Perseroan;
+2.	 Perkiraan kinerja keuangan dan kebutuhan modal kerja 
+Perseroan;
+3.	 Prospek usaha Perseroan di masa mendatang;
+4.	 Belanja modal dan rencana investasi Perseroan lainnya;
+5.	 Perencanaan investasi dan pertumbuhan lainnya; 
+6.	 Atas laba yang diperoleh Perseroan pada tahun buku 
+2022 dan tahun buku 2023, tidak terdapat pembagian 
+dividen kepada Para Pemegang saham.
+7.	 Kondisi ekonomi dan usaha secara umum dan faktor-
+faktor lainnya yang dianggap relevan oleh Direksi 
+All shareholders of the Company have the same and equal 
+rights, including the right to receive dividends. Referring to 
+Law No. 40 of 2007 concerning Limited Liability Companies, 
+dividend distribution is carried out based on the decision of 
+the Annual General Meeting of Shareholders (Annual General 
+Meeting of Shareholders).
+In accordance with Indonesian laws and regulations, 
+especially the relevant laws, the dividend payment decision 
+refers to the provisions contained in the Company’s articles 
+of association and the approval of shareholders at the GMS 
+based on the recommendations of the Company’s Board 
+of Directors. Dividend payments can only be made if the 
+Company records a positive net profit. The Company’s 
+articles of association allow for the distribution of interim 
+dividends, provided that the distribution does not cause 
+the Company’s net worth to be less than the issued and 
+paid-up capital plus mandatory reserves. The distribution 
+of the interim dividend shall not interfere with or cause the 
+Company to be unable to fulfill its obligations to creditors 
+or impede the Company’s activities. The distribution of 
+interim dividends is determined based on the decision of 
+the Company’s Board of Directors after obtaining approval 
+from the Company’s Board of Commissioners. If at the end 
+of the financial year the Company suffers a loss, the interim 
+dividend that has been distributed must be returned by 
+the shareholders to the Company. In the event that the 
+shareholders are unable to return the interim dividend, the 
+Company’s Board of Directors and Board of Commissioners 
+will be jointly and severally liable for the Company’s losses.
+In accordance with Primaya’s business prospectus, the 
+Company intends to pay cash dividends of a maximum of 25% 
+(twenty-five percent) of the current year’s profit starting in 2023, 
+based on the current year’s profit for the 2022 financial year, 
+after making a net profit reserve in accordance with applicable 
+regulations. The determination of the amount and payment of 
+dividends will take into account the Company’s cash flow and 
+investment plan, as well as legal restrictions. The determination 
+of the timing, amount, and form of dividend payment will depend 
+on the recommendation of the Company’s Board of Directors. 
+The decision of the Board of Directors of the Company regarding 
+dividend payment recommendations depends on:
+1.	
+Results of the Company’s business activities and cash flow;
+2.	 Estimated financial performance and working capital 
+requirements of the Company;
+3.	 The Company’s future business prospects;
+4.	 Capital expenditure and other investment plans of the 
+Company; 
+5.	 Investment and other growth planning; 
+6.	 For the profits earned by the Company in the financial 
+year 2022 and financial year 2023, there is no dividend 
+distribution to the Shareholders. 
+7.	 Economic and business conditions in general and other 
+factors deemed relevant by the Company’s Board of 
+114
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perseroan serta ketentuan pembatasan mengenai 
+pembayaran dividen berdasarkan perjanjian terkait.
+Direksi Perseroan dapat melakukan perubahan kebijakan 
+dividen setiap waktu, yang tunduk pada persetujuan oleh 
+pemegang saham pada saat RUPS.
+Apabila keputusan telah dibuat untuk membayar dividen, 
+dividen tersebut akan dibayar dalam Rupiah. Pemegang 
+saham Perseroan pada suatu tanggal tertentu akan berhak 
+menerima dividen kas sejumlah yang telah disetujui secara 
+penuh yang akan dipotong pajak penghasilan sesuai 
+ketentuan yang berlaku.
+Atas laba yang diperoleh Perseroan pada tahun buku 2022 
+dan tahun buku 2023, tidak terdapat pembagian dividen 
+kepada Para Pemegang saham.
+Directors as well as the provisions of restrictions regarding 
+dividend payments based on related agreements.
+The Company’s Board of Directors may make changes to 
+the dividend policy at any time, subject to approval by the 
+shareholders at the time of the GMS.
+When a decision has been made to pay dividends, the 
+dividend will be paid in Rupiah. The Company’s shareholders 
+on a certain date will be entitled to receive cash dividends in 
+an amount that has been fully approved, which will be subject 
+to income tax in accordance with applicable regulations.
+For the profits earned by the Company in the financial year 
+2022 and financial year 2023, there is no dividend distribution 
+to the Shareholders.
+Tabel Realisasi Penggunaan Dana Hasil Penawaran Umum per 31 Desember 2024
+Table of Realization of Use of Proceeds from Public Offering as of December 31, 2024
+(Dalam juta Rupiah, kecuali dinyatakan lain)(In million Rupiah, unless otherwise stated)
+Jenis Penawaran Umum
+Types of Public Offerings
+Types of Public Offerings
+Penawaran Umum Perdana Saham
+Initial Public Offering of Shares
+Initial Public Offering of Shares
+Tanggal Efektif/Effective Date
+28 Oktober 2022
+Jumlah Hasil Penawaran Umum
+Total Public Offering Proceeds
+272,000,070,000
+Biaya Penawaran Umum/Public Offering Fees
+6,003,712,229
+Hasil Bersih/Net Result
+265,996,357,771
+Rencana Penggunaan Dana Menurut Prospektus dan RUPS
+Planned Use of Funds According to Prospectus and GMS
+Tambahan Perolehan Tanah untuk Pembangunan RS baru
+Additional Land Acquisition for the Construction of a new hospital
+132,998,178,885
+Pengembangan Gedung dan Layanan RS yang sudah ada
+Development of existing hospital buildings and services
+66,499,089,443
+Pembangunan Gedung RS baru
+Construction of a new hospital building
+66,499,089,443
+Total
+265,996,357,771
+Realiasi Penggunaan Dana
+Realization of Fund Usage
+Tambahan Perolehan Tanah untuk Pembangunan RS baru
+Additional Land Acquisition for the Construction of a new hospital
+132,998,178,885
+Pengembangan Gedung dan Layanan RS yang sudah ada
+Development of existing hospital buildings and services
+53,199,271,554
+Pembangunan Gedung RS baru
+Construction of a new hospital building
+47,214,353,504
+Total
+223,411,803,944
+Sisa Dana/Fund Balance
+32,54,553,827
+Realisasi Penggunaan Dana Hasil 
+Penawaran Umum
+Realization of The Use of Proceeds from The Public Offering
+115
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Di tahun 2024, Perseroan tidak melakukan transaksi material 
+mengenai investasi, ekspansi, divestasi, merger/konsolidasi 
+bisnis, akuisisi, maupun restrukturisasi utang/modal, 
+transaksi material, dan transaksi benturan kepentingan. 
+Dengan demikian, tidak terdapat informasi yang berkaitan 
+dengan hal-hal tersebut di atas.
+Informasi dan Fakta Material Mengenai Investasi, 
+Ekspansi, Divestasi, Merger/Konsolidasi Bisnis, 
+Akuisisi, Restrukturisasi Utang/Modal
+Information and Material Facts Regarding Investment, Expansion, Divestment, 
+Business Merger/Consolidation, Acquisition, Debt/Capital Restructuring
+In 2024, the Company will not conduct any material 
+transactions related to investments, expansions, 
+divestitures, business mergers/consolidations, acquisitions, 
+or debt/capital restructuring, material transactions, 
+and conflicts of interest transactions. Thus, there is no 
+information related to the above.
+TRANSAKSI MATERIAL
+Transaksi Material adalah setiap transaksi yang dilakukan 
+oleh perusahaan terbuka atau perusahaan terkendali yang 
+memenuhi batasan nilai transaksi sama dengan 20% (dua 
+puluh persen) atau lebih dari ekuitas Perusahaan Terbuka 
+berdasarkan Peraturan Otoritas Jasa Keuangan Nomor 17/
+POJK.04/2020 Tentang Transaksi Material dan Perubahan 
+Kegiatan Usaha.
+Dalam hal transaksi sebagaimana dimaksud dilakukan oleh 
+Perusahaan Terbuka yang mempunyai ekuitas negatif, 
+transaksi dikategorikan sebagai Transaksi Material apabila 
+nilai transaksi sama dengan 10% (sepuluh persen) atau lebih 
+dari total aset Perusahaan Terbuka.
+TRANSAKSI BENTURAN KEPENTINGAN
+Sesuai ketentuan dalam Peraturan Otoritas Jasa Keuangan 
+Nomor 42/POJK.04/2020 Tentang Transaksi Afiliasi dan 
+Transaksi Benturan Kepentingan, Benturan Kepentingan 
+adalah perbedaan antara kepentingan ekonomis Perusahaan 
+Terbuka dengan kepentingan ekonomis pribadi Anggota 
+Direksi, Anggota Dewan Komisaris, Pemegang Saham Utama, 
+atau Pengendali yang dapat merugikan perusahaan terbuka 
+dimaksud.
+Informasi Transaksi Material, Transaksi Afiliasi, 
+dan Transaksi Benturan Kepentingan
+Information on Material Transactions, Affiliated Transactions, and 
+Conflict of Interest Transactions
+MATERIAL TRANSACTIONS
+Material Transaction is any transaction carried out by a public 
+company or a controlled company that meets the transaction 
+value limit equal to 20% (twenty percent) or more of the 
+equity of the Public Company based on the Financial Services 
+Authority Regulation Number 17/POJK.04/2020 concerning 
+Material Transactions and Changes in Business Activities.
+In the event that the transaction as intended is carried out by 
+a Public Company that has negative equity, the transaction 
+is categorized as a Material Transaction if the transaction 
+value is equal to 10% (ten percent) or more of the total assets 
+of the Public Company.
+CONFLICT OF INTEREST 
+TRANSACTIONS
+In accordance with the provisions of the Financial Services 
+Authority Regulation Number 42/POJK.04/2020 concerning 
+Affiliate Transactions and Conflict of Interest Transactions, 
+Conflict of Interest is the difference between the economic 
+interests of Public Companies and the Members’ personal 
+economic interests The Board of Directors, Members of the 
+Board of Commissioners, Major Shareholders, or Controllers 
+that may be detrimental to the public company in question.
+116
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Sampai dengan akhir tahun 2024, tidak terdapat transaksi 
+yang memenuhi kategori benturan kepentingan.
+TRANSAKSI AFILIASI
+Berdasarkan ketentuan Peraturan Otoritas Jasa Keuangan 
+Nomor 42/POJK.04/2020 Tentang Transaksi Afiliasi dan 
+Transaksi Benturan Kepentingan, transaksi afiliasi adalah 
+setiap aktivitas dan/atau transaksi yang dilakukan oleh 
+perusahaan terbuka atau perusahaan terkendali dengan 
+Afiliasi dari perusahaan terbuka atau Afiliasi dari Anggota 
+Direksi, Anggota Dewan Komisaris, Pemegang Saham 
+Utama, atau Pengendali, termasuk setiap aktivitas dan/
+atau transaksi yang dilakukan oleh Perusahaan Terbuka 
+atau Perusahaan Terkendali untuk kepentingan Afiliasi 
+dari Perusahaan Terbuka atau Afiliasi dari anggota Direksi, 
+Anggota Dewan Komisaris, Pemegang Saham Utama, atau 
+Pengendali.
+Adapun pihak yang dikategorikan afiliasi adalah:
+1.	 Hubungan keluarga karena perkawinan dan keturunan 
+sampai derajat kedua, baik secara horizontal maupun 
+vertikal;
+2.	 Hubungan antara pihak dengan Pegawai, Direktur, atau 
+Komisaris dari pihak tersebut;
+3.	 Hubungan antara 2 (dua) Perusahaan di mana terdapat 1 
+(satu) atau lebih anggota Direksi atau Dewan Komisaris 
+yang sama;
+4.	 Hubungan antara Perusahaan dan Pihak, baik langsung 
+maupun tidak langsung, mengendalikan atau dikendalikan 
+oleh perusahaan tersebut;
+5.	 Hubungan antara 2 (dua) perusahaan yang dikendalikan, 
+baik langsung maupun tidak langsung, oleh pihak yang 
+sama; atau
+6.	 Hubungan antara Perusahaan dan Pemegang Saham 
+Utama.
+Sepanjang Tahun 2024, Perseroan melakukan beberapa 
+Transaksi Afiliasi sebagai berikut:
+Tanggal 
+Transaksi
+Transaction Date
+Transaction Date
+Nama Pihak 
+yang Melakukan 
+Transaksi
+Name of the 
+Name of the 
+Transaction Party
+Transaction Party
+Sifat Hubungan Afiliasi
+Nature of Affiliate Relationships
+Nature of Affiliate Relationships
+Penjelasan mengenai Kewajaran 
+Transaksi
+Description Fairness of Transactions
+Description Fairness of Transactions
+27 Juni 2024
+June 27, 2024
+ 
+PT Makassar Global 
+Awal Bros
+Kepemilikan Saham
+Share Ownership
+Transaksi Peningkatan Modal
+Capital Increase Transaction
+PT Awal Bros 
+Medical Centre
+Kepemilikan Saham
+Share Ownership
+1 Juli 2024
+July 1, 2024
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+Peningkatan Kepemilikan Saham
+Increased Shareholding
+PT Fortuna Prima 
+Sentosa
+1.	
+Kepemilikan Saham
+2.	 Terdapat kesamaan Manajemen
+1.	
+Stock Ownership 
+2.	 There is a similarity in Management
+Until the end of 2024, there will be no transactions that meet 
+the category of conflict of interest.
+AFFILIATE TRANSACTIONS
+Based on the provisions of the Financial Services Authority 
+Regulation Number 42/POJK.04/2020 concerning Affiliate 
+Transactions and Conflicts of Interest Transactions, an 
+affiliate transaction is any activity and/or transaction carried 
+out by a public company or a controlled company with an 
+Affiliate of a public company or an Affiliate of a Member of the 
+Board of Directors, Members of the Board of Commissioners, 
+Major Shareholders, or Controllers, including any activity 
+and/or transaction carried out by a Public Company or 
+A Controlled Company for the benefit of Affiliates of a 
+Public Company or Affiliates of members of the Board of 
+Directors, Members of the Board of Commissioners, Major 
+Shareholders, or Controllers.
+The parties categorized as affiliates are:
+1.	 Family relations due to marriage and descent up to the 
+second degree, both horizontally and vertically;
+2.	 The relationship between the parties and the Employees, 
+Directors, or Commissioners of such parties;
+3.	 Relationship between 2 (two) Companies where there are 
+1 (one) or more members of the same Board of Directors 
+or Board of Commissioners;
+4.	 The relationship between the Company and the Party, 
+whether directly or indirectly, controlled or controlled 
+by such company;
+5.	 The relationship between 2 (two) companies that are 
+controlled, either directly or indirectly, by the same 
+party; or
+6.	 Relationship between the Company and Major 
+Shareholders.
+Throughout 2024, the Company conducts several Affiliate 
+Transactions as follows:
+117
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Tanggal 
+Transaksi
+Transaction Date
+Transaction Date
+Nama Pihak 
+yang Melakukan 
+Transaksi
+Name of the 
+Name of the 
+Transaction Party
+Transaction Party
+Sifat Hubungan Afiliasi
+Nature of Affiliate Relationships
+Nature of Affiliate Relationships
+Penjelasan mengenai Kewajaran 
+Transaksi
+Description Fairness of Transactions
+Description Fairness of Transactions
+1 Juli 2024
+July 1, 2024
+ 
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+Peningkatan Kepemilikan Saham
+Increased Shareholding
+PT Famon Medika 
+Pangkal Pinang
+1.	
+Kepemilikan Saham
+2.	 Terdapat kesamaan Manajemen
+1.	
+Share Ownership 
+2.	 There is a similarity in Management
+2 Juli 2024
+July 2, 2024
+ 
+PT Awal Bros 
+Medical Centre
+Kepemilikan Saham
+Share Ownership
+Transaksi Peningkatan Modal
+Capital Increase Transaction
+PT Makassar Global 
+Awal Bros
+Kepemilikan Saham
+Share Ownership
+12 Januari 2024
+January 12, 2024
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+1.	
+Perjanjian Sewa Menyewa
+2.	 Mewujudkan sinergi antara 
+Perseroan dan Sentralisasi Kantor 
+Primaya Hospital Grup
+1.	
+Lease Agreement
+2.	 Realizing synergy between the 
+Company and the Centralization of 
+the Primaya Hospital Group Office
+PT Link Medis 
+Sehat
+1.	
+Kepemilikan Saham
+2.	 Terdapat kesamaan Manajemen
+1.	
+Share Ownership 
+2.	 There is a similarity in Management
+12 Januari 2024
+Januari 12, 2024 
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+Perjanjian Sewa Menyewa
+Lease Agreement
+PT Anugerah 
+Bangsa Indonesia
+Terdapat kesamaan Manajemen
+There are similarities in Management
+ 
+12 Juli 2024
+July 12, 2024
+PT Sistem Integrasi 
+Media
+Kepemilikan Saham
+Share Ownership
+Transaksi Peningkatan Modal
+Upgrade Transactions Capital
+PT Sadhana 
+Abiyasa Sampoerna
+Terdapat Kesamaan Manajemen
+There are management similarities
+15 Juli 2024
+July 15, 2024
+PT Sadhana 
+Abiyasa Sampoerna
+Kepemilikan Saham
+Share Ownership
+Transaksi Peningkatan Modal
+Upgrade Transactions Capital
+PT Kalibrasi Medika 
+Indonesia
+Terdapat Kesamaan Manajemen
+There are management similarities
+2 Agustus 2024
+August 2, 2024
+PT Mata Sehat 
+Indonesia
+Kepemilikan Saham
+Share Ownership
+Transaksi Penjaminan Aset
+Asset Guarantee Transactions
+PT Famon Global 
+Awal Bros
+Terdapat kesamaan Anggota Direksi dan 
+Dewan Komisaris
+There are similarities between the Members 
+of the Board of Directors and the Board of 
+Commissioners
+23 Agustus 2024
+August 23, 2024
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+Transaksi Peningkatan Modal
+Upgrade Transactions Capital
+PT Fortuna Sentosa 
+Sejahtera
+1.	
+Kepemilikan Saham
+2.	 Terdapat Anggota Direksi dan Dewan 
+Komisaris yang menjabat sebagai Direksi 
+dan Dewan Komisaris PT Fortuna Sentosa 
+Sejahtera
+1.	
+Stock Ownership
+2.	 There are Members of the Board of 
+Directors and Board of Commissioners 
+who serve as the Board of Directors and 
+Board of Commissioners of PT Fortuna 
+Sentosa Sejahtera
+118
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+Tanggal 
+Transaksi
+Transaction Date
+Transaction Date
+Nama Pihak 
+yang Melakukan 
+Transaksi
+Name of the 
+Name of the 
+Transaction Party
+Transaction Party
+Sifat Hubungan Afiliasi
+Nature of Affiliate Relationships
+Nature of Affiliate Relationships
+Penjelasan mengenai Kewajaran 
+Transaksi
+Description Fairness of Transactions
+Description Fairness of Transactions
+10 Desember 
+2024
+December 10, 
+2024
+PT Famon Awal 
+Bros Sedaya Tbk
+Pemegang Saham
+Shareholder
+Transaksi Peningkatan Modal
+Upgrade Transactions Capital
+PT Fortuna Maju 
+Medika
+1.	
+Kepemilikan Saham
+2.	 Terdapat Anggota Direksi dan Dewan 
+Komisaris yang menjabat sebagai Direksi 
+dan Dewan Komisaris PT Fortuna Maju 
+Madika
+1.	
+Stock Ownership 
+2.	 There are Members of the Board of 
+Directors and the Board of Commissioners 
+who serve as the Board of Directors and 
+Board of Commissioners of PT Fortuna 
+Maju Madika
+Pernyataan bahwa Transaksi melalui 
+Prosedur yang Memadai
+Direksi menyatakan bahwa seluruh transaksi yang terdapat 
+hubungan afiliasi telah melalui prosedur yang memadai untuk 
+memastikan bahwa Transaksi Afiliasi telah dilaksanakan 
+sesuai dengan pemenuhan prinsip transaksi yang wajar 
+(arm’s-length principle). Dewan Komisaris serta Komite 
+Audit juga turut serta dalam pelaksanaan prosedur untuk 
+memastikan Transaksi Afiliasi telah dilaksanakan sesuai 
+dengan praktik bisnis yang berlaku umum dan memenuhi 
+prinsip transaksi yang wajar.
+A statement that the Transaction 
+went through Adequate Procedures
+The Board of Directors declares that all transactions 
+involving affiliate relationships have gone through adequate 
+procedures to ensure that the Affiliate Transaction has 
+been carried out in accordance with the fulfillment of the 
+reasonable transaction principle (arm’s-length principle). 
+The Board of Commissioners and the Audit Committee 
+also participate in the implementation of procedures to 
+ensure that the Affiliate Transaction has been executed in 
+accordance with generally applicable business practices 
+and meets reasonable transaction principles.
+Perubahan Peraturan Perundangundangan 
+yang Berpengaruh Terhadap Perseroan
+Changes in Laws and Regulations that Affect the Company
+Sepanjang tahun 2024, tidak terdapat perubahan peraturan 
+perundang-undangan yang berpengaruh terhadap Perseroan. 
+Throughout 2024, there will be no changes in laws and 
+regulations that affect the Company.
+Perubahan Kebijakan Akuntansi
+Changes in Accounting Policies
+Sepanjang tahun 2024, tidak terdapat perubahan kebijakan 
+akuntansi yang berpengaruh signifikan terhadap kinerja 
+operasional Perseroan.
+Throughout 2024, there will be no changes in accounting 
+policies that have a significant impact on the Company’s 
+operational performance.
+119
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+Informasi Kelangsungan Usaha
+Business Continuity Information
+Perseroan telah mengevaluasi kapasitas dan kapabilitas 
+Perseroan dalam menciptakan kelangsungan usaha dan 
+memiliki keyakinan bahwa Perseroan telah didukung 
+sumber daya yang optimal untuk melanjutkan bisnisnya di 
+tahun-tahun mendatang. Di samping itu, Perseroan juga 
+telah melaksanakan mitigasi atas potensi-potensi risiko 
+yang dapat terjadi dan memiliki pengaruh pada kinerja 
+Perseroan secara keseluruhan. Mitigasi ini bertujuan 
+untuk mengantisipasi ketidakpastian material yang dapat 
+mendatangkan keraguan pada keberlangsungan bisnisnya. 
+Mitigasi risiko yang dilakukan antara lain sebagai berikut:
+The Company has evaluated the Company’s capacity 
+and capabilities in creating business continuity and is 
+confident that the Company has been supported by optimal 
+resources to continue its business in the coming years. In 
+addition, the Company has also carried out mitigation of 
+potential risks that may occur and have an influence on 
+the Company’s overall performance. This mitigation aims 
+to anticipate material uncertainties that can cast doubt on 
+the sustainability of its business. The risk mitigation carried 
+out includes the following:
+120
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Analisis Dan Pembahasan Manajemen
+Management Discussion and Analysis
+No
+Risiko
+Risk
+Risk
+Pencegahan Risiko
+Risk Prevention
+Risk Prevention
+1
+Risiko sebagai Perusahaan 
+Induk 
+Risks as a Holding Company
+Perseroan sebelum memutuskan berinvestasi dalam bentuk penyertaan dalam perusahaan 
+lain, selalu melakukan proses yang rasional, dengan pertimbangan visi, misi, dan strategi 
+usaha Perseroan
+Before deciding to invest in the form of participation in other companies, the Company always 
+carries out a rational process, taking into consideration the Company's vision, mission, and 
+business strategy
+2
+Risiko nilai tukar mata uang 
+asing
+Foreign exchange rate risk
+Dengan melakukan hedging nilai tukar Rupiah terhadap mata uang USD dan EUR melalui 
+fasilitas forward dari bank
+By hedging the exchange rate of the Rupiah against the USD and EUR currencies through a 
+forward facility from the bank
+3
+Risiko persaingan usaha
+Business competition risks
+Senantiasa meningkatkan mutu dan inovasi layanan jasa, seperti dengan menawarkan paket 
+layanan jasa baru
+Always improve the quality and innovation of service services, such as by offering new service 
+packages
+4
+Risiko Kegagalan Memenuhi 
+Peraturan Perundang-
+undangan yang Berlaku
+Risk of Failure to Comply 
+with Applicable Laws and 
+Regulations
+Perseroan dan Entitas Anak senantiasa berusaha memahami dan melaksanakan semua 
+peraturan perundang-undangan yang berlaku yang relevan dengan kegiatan usaha yang 
+dijalankan
+The Company and its Subsidiaries always try to understand and implement all applicable laws 
+and regulations that are relevant to the business activities carried out
+5
+Risiko Kondisi Perekonomian 
+secara Makro
+Macro-Economic Condition 
+Risks
+Mengkaji dan mempertimbangkan setiap investasi dengan baik supaya tidak terjadi investasi 
+yang berlebihan. Mendiversifikasi layanan jasa ke beberapa jenis industri
+Examine and consider each investment properly so that there is no excessive investment. 
+Diversify services into several types of industries
+6
+Risiko tuntutan / gugatan 
+umum
+Risk of general lawsuits / 
+lawsuits
+Setiap transaksi yang menurut Perseroan akan berdampak material selalu dibuat Perjanjian 
+atau Kontrak dan berusaha untuk memenuhi semua apa yang telah dituangkan dalam 
+Perjanjian atau Kontrak tersebut
+Any transaction that the Company thinks will have a material impact is always made an 
+Agreement or Contract and strives to fulfill all that has been stated in the Agreement or 
+Contract
+7
+Risiko Kredit
+Credit Risk
+Perseroan hanya melakukan transaksi hanya dengan pihak ketiga yang memiliki reputasi dan 
+kredibilitas yang baik. Kebijakan Perseroan dalam mengelola risiko kredit dari pelanggan 
+adalah dengan menetapkan batasan jumlah risiko yang dapat diterima untuk masing-masing 
+pelanggan. Selain itu, saldo piutang dipantau secara terus menerus dengan tujuan bahwa 
+eksposur Perseroan terhadap piutang tak tertagih tidak signifikan. Selain itu, Kas dan setara 
+kas juga ditempatkan pada lembaga keuangan yang memiliki reputasi dan kredibilitas yang 
+baik
+The Company only conducts transactions with third parties who have a good reputation and 
+credibility. The Company's policy in managing credit risk from customers is to set a limit 
+on the amount of risk that can be accepted for each customer. In addition, the balance of 
+receivables is monitored continuously with the aim of ensuring that the Company's exposure 
+to uncollectible receivables is not significant. Furthermore, cash and cash equivalents are 
+also placed in financial institutions that have a good reputation and credibility.
+8
+Risiko Likuiditas
+Liquidity Risk
+Perseroan memonitor kebutuhan likuiditas dengan memonitor jadwal pembayaran utang atas 
+liabilitas keuangan, terutama utang pihak berelasi dan memonitor arus kas keluar sehubungan 
+dengan aktivitas operasional setiap hari. Selain itu, Manajemen Perseroan juga secara 
+terus-menerus menilai kondisi pasar keuangan untuk melihat peluang mendapatkan sumber 
+pendanaan yang optimal
+The Company monitors liquidity needs by overseeing the schedule of debt repayment for 
+financial liabilities, especially related debts, and monitoring cash outflows in connection 
+with daily operational activities. In addition, the Company's Management also continuously 
+assesses financial market conditions to identify opportunities for obtaining optimal 
+funding sources.
+9
+Risiko Permodalan
+Capital Risk
+Sebagaimana praktik yang berlaku umum, Grup mengevaluasi struktur permodalan melalui 
+rasio utang terhadap modal (gearing ratio) yang dihitung melalui pembagian antara utang neto 
+dengan modal
+As is generally practiced, the Group evaluates its capital structure through a gearing ratio 
+calculated by dividing net debt by capital.
+121
+Laporan Tahunan & Laporan Keberlanjutan 2024
+PT Famon Awal Bros Sedaya Tbk
+122
+Annual Report & Sustainability Report 2024
+PT Famon Awal Bros Sedaya Tbk
+Tata Kelola Perusahaan
+Corporate Governance

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ANJT-att3.pdf",
+    "ticker": "ANJT_2023",
+    "mdma_start": "108",
+    "mdma_end": "135",
+    "Positive_Sum": 5152.0,
+    "Negative_Sum": 6681.0,
+    "Total_Matched_Words": 3851,
+    "Total_Word": 13701,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

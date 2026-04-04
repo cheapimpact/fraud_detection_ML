@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TBLA-att1.pdf",
+    "ticker": "TBLA_2024",
+    "mdma_start": "61",
+    "mdma_end": "116",
+    "Positive_Sum": 5725.0,
+    "Negative_Sum": 6161.0,
+    "Total_Matched_Words": 3780,
+    "Total_Word": 25618,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

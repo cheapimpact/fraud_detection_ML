@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DWGL-att1.pdf",
+    "ticker": "DWGL_2024",
+    "mdma_start": "28",
+    "mdma_end": "34",
+    "Positive_Sum": 688.0,
+    "Negative_Sum": 928.0,
+    "Total_Matched_Words": 496,
+    "Total_Word": 3480,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

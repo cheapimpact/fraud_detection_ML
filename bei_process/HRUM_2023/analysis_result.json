@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HRUM-att1.pdf",
+    "ticker": "HRUM_2023",
+    "mdma_start": "90",
+    "mdma_end": "127",
+    "Positive_Sum": 5663.0,
+    "Negative_Sum": 4942.0,
+    "Total_Matched_Words": 3406,
+    "Total_Word": 20787,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

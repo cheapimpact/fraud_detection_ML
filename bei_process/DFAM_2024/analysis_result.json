@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DFAM-att1.pdf",
+    "ticker": "DFAM_2024",
+    "mdma_start": "108",
+    "mdma_end": "131",
+    "Positive_Sum": 2726.0,
+    "Negative_Sum": 2453.0,
+    "Total_Matched_Words": 1691,
+    "Total_Word": 10921,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

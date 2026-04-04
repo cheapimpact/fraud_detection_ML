@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-GTBO-att2.pdf",
+    "ticker": "GTBO_2023",
+    "mdma_start": "28",
+    "mdma_end": "33",
+    "Positive_Sum": 772.0,
+    "Negative_Sum": 685.0,
+    "Total_Matched_Words": 463,
+    "Total_Word": 3555,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

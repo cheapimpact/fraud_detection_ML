@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-RMKO-att2.pdf",
+    "ticker": "RMKO_2024",
+    "mdma_start": "74",
+    "mdma_end": "106",
+    "Positive_Sum": 4399.0,
+    "Negative_Sum": 3882.0,
+    "Total_Matched_Words": 2566,
+    "Total_Word": 17200,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

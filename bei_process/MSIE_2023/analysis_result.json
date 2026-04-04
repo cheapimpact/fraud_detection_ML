@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MSIE-att1.pdf",
+    "ticker": "MSIE_2023",
+    "mdma_start": "61",
+    "mdma_end": "86",
+    "Positive_Sum": 2266.0,
+    "Negative_Sum": 1935.0,
+    "Total_Matched_Words": 1348,
+    "Total_Word": 9284,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

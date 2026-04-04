@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BYAN-att2.pdf",
+    "ticker": "BYAN_2024",
+    "mdma_start": "67",
+    "mdma_end": "94",
+    "Positive_Sum": 3963.0,
+    "Negative_Sum": 4920.0,
+    "Total_Matched_Words": 2844,
+    "Total_Word": 20188,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

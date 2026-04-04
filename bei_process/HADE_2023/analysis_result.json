@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HADE-att1.pdf",
+    "ticker": "HADE_2023",
+    "mdma_start": "63",
+    "mdma_end": "79",
+    "Positive_Sum": 1164.0,
+    "Negative_Sum": 1602.0,
+    "Total_Matched_Words": 867,
+    "Total_Word": 5886,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

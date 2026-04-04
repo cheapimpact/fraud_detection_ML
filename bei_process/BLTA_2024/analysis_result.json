@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BLTA-att1.pdf",
+    "ticker": "BLTA_2024",
+    "mdma_start": "50",
+    "mdma_end": "69",
+    "Positive_Sum": 2014.0,
+    "Negative_Sum": 3074.0,
+    "Total_Matched_Words": 1592,
+    "Total_Word": 10339,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TLDN-att1.pdf",
+    "ticker": "TLDN_2024",
+    "mdma_start": "82",
+    "mdma_end": "117",
+    "Positive_Sum": 3639.0,
+    "Negative_Sum": 2928.0,
+    "Total_Matched_Words": 2108,
+    "Total_Word": 15352,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

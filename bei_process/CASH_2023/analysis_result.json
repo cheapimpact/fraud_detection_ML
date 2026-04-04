@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CASH-att2.pdf",
+    "ticker": "CASH_2023",
+    "mdma_start": "73",
+    "mdma_end": "94",
+    "Positive_Sum": 2569.0,
+    "Negative_Sum": 2434.0,
+    "Total_Matched_Words": 1579,
+    "Total_Word": 10900,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

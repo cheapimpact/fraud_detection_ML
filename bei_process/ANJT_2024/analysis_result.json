@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ANJT-att4.pdf",
+    "ticker": "ANJT_2024",
+    "mdma_start": "108",
+    "mdma_end": "135",
+    "Positive_Sum": 4895.0,
+    "Negative_Sum": 6422.0,
+    "Total_Matched_Words": 3674,
+    "Total_Word": 13527,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CFIN-att2.pdf",
+    "ticker": "CFIN_2023",
+    "mdma_start": "98",
+    "mdma_end": "121",
+    "Positive_Sum": 2364.0,
+    "Negative_Sum": 2740.0,
+    "Total_Matched_Words": 1635,
+    "Total_Word": 12189,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

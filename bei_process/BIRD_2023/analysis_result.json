@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BIRD-att2.pdf",
+    "ticker": "BIRD_2023",
+    "mdma_start": "102",
+    "mdma_end": "137",
+    "Positive_Sum": 3516.0,
+    "Negative_Sum": 3712.0,
+    "Total_Matched_Words": 2281,
+    "Total_Word": 14462,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

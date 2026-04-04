@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BSML-att1.pdf",
+    "ticker": "BSML_2024",
+    "mdma_start": "64",
+    "mdma_end": "95",
+    "Positive_Sum": 2959.0,
+    "Negative_Sum": 3394.0,
+    "Total_Matched_Words": 2008,
+    "Total_Word": 12301,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

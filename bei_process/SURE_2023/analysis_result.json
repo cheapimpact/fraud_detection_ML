@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SURE-att2.pdf",
+    "ticker": "SURE_2023",
+    "mdma_start": "48",
+    "mdma_end": "62",
+    "Positive_Sum": 1702.0,
+    "Negative_Sum": 1966.0,
+    "Total_Matched_Words": 1179,
+    "Total_Word": 8694,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

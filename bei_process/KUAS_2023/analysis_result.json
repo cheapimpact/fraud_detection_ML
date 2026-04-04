@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-KUAS-att2.pdf",
+    "ticker": "KUAS_2023",
+    "mdma_start": "84",
+    "mdma_end": "105",
+    "Positive_Sum": 2501.0,
+    "Negative_Sum": 2328.0,
+    "Total_Matched_Words": 1509,
+    "Total_Word": 10905,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

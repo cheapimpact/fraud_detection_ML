@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-JTPE-att2.pdf",
+    "ticker": "JTPE_2024",
+    "mdma_start": "116",
+    "mdma_end": "139",
+    "Positive_Sum": 4313.0,
+    "Negative_Sum": 3188.0,
+    "Total_Matched_Words": 2316,
+    "Total_Word": 12138,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-FWCT-att2.pdf",
+    "ticker": "FWCT_2023",
+    "mdma_start": "71",
+    "mdma_end": "90",
+    "Positive_Sum": 1699.0,
+    "Negative_Sum": 1774.0,
+    "Total_Matched_Words": 1094,
+    "Total_Word": 8906,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

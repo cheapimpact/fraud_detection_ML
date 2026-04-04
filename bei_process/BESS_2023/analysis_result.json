@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BESS-att1.pdf",
+    "ticker": "BESS_2023",
+    "mdma_start": "40",
+    "mdma_end": "51",
+    "Positive_Sum": 1304.0,
+    "Negative_Sum": 1713.0,
+    "Total_Matched_Words": 955,
+    "Total_Word": 6851,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

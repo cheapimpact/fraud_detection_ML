@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-LOPI-att1.pdf",
+    "ticker": "LOPI_2024",
+    "mdma_start": "60",
+    "mdma_end": "85",
+    "Positive_Sum": 2527.0,
+    "Negative_Sum": 2668.0,
+    "Total_Matched_Words": 1654,
+    "Total_Word": 12220,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

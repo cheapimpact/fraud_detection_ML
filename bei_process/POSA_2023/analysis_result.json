@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-POSA-att1.pdf",
+    "ticker": "POSA_2023",
+    "mdma_start": "65",
+    "mdma_end": "94",
+    "Positive_Sum": 2982.0,
+    "Negative_Sum": 3535.0,
+    "Total_Matched_Words": 2141,
+    "Total_Word": 15445,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

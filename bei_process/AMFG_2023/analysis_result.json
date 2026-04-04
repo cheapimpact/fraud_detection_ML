@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-AMFG-att1.pdf",
+    "ticker": "AMFG_2023",
+    "mdma_start": "54",
+    "mdma_end": "77",
+    "Positive_Sum": 3007.0,
+    "Negative_Sum": 3054.0,
+    "Total_Matched_Words": 1911,
+    "Total_Word": 14039,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

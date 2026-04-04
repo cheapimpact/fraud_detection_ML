@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ESIP-att1.pdf",
+    "ticker": "ESIP_2024",
+    "mdma_start": "80",
+    "mdma_end": "101",
+    "Positive_Sum": 2925.0,
+    "Negative_Sum": 2810.0,
+    "Total_Matched_Words": 1792,
+    "Total_Word": 10201,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

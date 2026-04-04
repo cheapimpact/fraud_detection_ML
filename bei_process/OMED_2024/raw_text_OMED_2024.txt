@@ -1,0 +1,1911 @@
+ASET
+Total aset Perseroan per 31 Desember 2024 mengalami 
+peningkatan sebesar 9,0% atau Rp241 miliar, dari Rp2,5 triliun 
+pada tahun 2023 menjadi Rp2,83 triliun pada tahun 2024. 
+Peningkatan ini terutama disebabkan oleh kenaikan aset lancar 
+sebesar 10% atau Rp213 miliar, dari Rp2,0 triliun pada tahun 
+2023 menjadi Rp2,2 triliun pada tahun 2024.
+Pertumbuhan aset lancar pada tahun 2024 didorong oleh: Kas 
+dan setara kas yang meningkat sebesar Rp104 miliar atau 9%; 
+Piutang usaha yang meningkat sebesar Rp57 miliar atau 27%; 
+Investasi jangka pendek yang meningkat sebesar Rp26 miliar 
+atau 41%. Sementara itu, aset tidak lancar juga mengalami 
+peningkatan sebesar 5% atau Rp27 miliar, dari Rp536 miliar 
+pada tahun 2023 menjadi Rp564 miliar pada tahun 2024. 
+Peningkatan ini terutama disebabkan oleh bertambahnya aset 
+tetap, meskipun sebagian diimbangi oleh penurunan klaim 
+restitusi pajak sebesar 86% atau Rp57 miliar.
+ASSETS
+The Company’s total assets as of December 31, 2024 
+increased by 9.0% or Rp241 billion. Total assets increased 
+from Rp2.5 trillion in 2023 to Rp2.83 trillion in 2024 reflecting 
+higher current  assets by 10 % or Rp213 billion. Current assets 
+increased from Rp2.0 triilion in 2023 to Rp2.2 trillion in 2024.
+The growth in current assets in 2024 was driven by Cash & 
+Cash equivalent which increased by Rp104 billion or 9%, 
+Accounts Receivable which increased by Rp57 billion or 27% 
+and short term investment which  increased by Rp26 billion or 
+41%. On the other hand, non current assets increased by 5% 
+or Rp27 billion. Non current assets rose from Rp536 billion in 
+2023 to Rp564 billion in 2024.This was driven by higher fixed 
+assets, partially offset by tax claim refund by 86% or Rp57 
+billion.  
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Aset Tidak Lancar | Non-Current Assets
+Uang Muka Pembelian Aset Tetap
+Advance for Purchases of Fixed Assets
+4.103
+38.138
+(34.035)
+(89,2)
+Investasi Jangka Panjang
+Long-term Investments
+76.365
+45.497
+30.867
+67,8
+Aset Tetap – Neto
+Fixed Assets – Net
+433.859
+339.861
+93.997
+27,7
+Aset Takberwujud
+Intangible Assets
+111
+167
+(56)
+(33,5)
+Aset Hak Guna – Neto
+Right-Of-Use Assets – Net
+35.178
+39.911
+(4.734)
+(11,9)
+Aset Pajak Tangguhan – Neto
+Deferred Tax Assets – Net
+5.494
+6.715
+(1.221)
+(18,2)
+Tagihan Restitusi Pajak
+Claim for Tax Refunds
+9.021
+66.124
+(57.104)
+(86,4)
+Aset Tidak Lancar Lainnya
+Other Non-Current Assets
+84
+40
+44
+110
+Total Aset Tidak Lancar
+Total Non-Current Assets
+564.215
+536.456
+27.759
+5,2
+Total Aset
+Total Assets
+2.825.331
+2.583.723
+241.608
+9,4
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+80
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Liabilitas Jangka Pendek | Current Liabilities
+Utang Usaha | Trade Payables
+Utang Berelasi
+Related Parties
+5.041
+15.500
+(10.460)
+(67,5)
+Utang Ketiga
+Third Parties
+85.553
+79.668
+5.885
+7,4
+Utang Non-Usaha | Non-trade Payables
+Utang Berelasi
+Related Parties
+16
+6.039
+(6.024)
+(99,7)
+Utang Ketiga
+Third Parties
+3.877
+2.438
+1.439
+59,0
+Uang Muka dari Pelanggan
+Advances from Customers
+1.343
+710
+632
+88,9
+Beban Masih Harus Dibayar
+Accrued expenses
+8.890
+8.539
+350
+4,1
+Utang Pajak
+Taxes payable
+18.694
+9.615
+9.078
+94,4
+Liabilitas Jangka Panjang yang akan Jatuh Tempo Dalam Satu 
+Tahun:
+Current Maturities of Long-Term Liabilities:
+Liabilitas Sewa
+Lease Liabilities
+11.927
+13.621
+(1.694)
+(12,4)
+Surat utang jangka menengah
+Medium-term note
+159.917
+-
+159.917
+100,0
+Total Liabilitas Jangka Pendek
+Total Current Liabilities
+295.257
+136.134
+159.123
+116,9
+Liabilitas Jangka Panjang | Non-Current Liabilities
+Liabilitas Jangka Panjang, setelah Dikurangi Jatuh Tempo Dalam Satu Tahun:
+Long-Term Liabilities, net of current maturities:
+Liabilitas Sewa
+Lease Liabilities
+13.683
+15.876
+(2.194)
+(13,8)
+Surat Utang Jangka Menengah
+Medium-term Note
+-
+159.730
+(159.730)
+(100,0)
+Liabilitas diestimasi imbalan pasca-kerja
+Estimated Liabilities for Post-Employment Benefits
+18.730
+24.333
+(5.604)
+(23,0)
+Liabilitas pajak tangguhan
+Deferred tax liabilities*
+1.972
+2.241
+(269)
+(12,0)
+Total Liabilitas Jangka Panjang
+Total Non-Current Liabilities
+34.386
+202.181
+(167.795)
+(83,0)
+Total Liabilitas
+Total Liabilities
+329.643
+338.315
+(8.672)
+(2,6)
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Liabilitas
+Liabilities
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+81
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Ekuitas yang Dapat Didistribusikan Kepada Pemilik Entitas Induk
+Total Equity Attributeable to Owners of the Parent Company
+Modal Saham
+Shares Capital
+676.471
+676.471
+-
+0,00
+Tambahan Modal Disetor
+Additional Paid-in Capital
+223.188
+223.188
+-
+0,00
+Akumulasi Rugi Aktuarial Atas Imbalan Pasca-Kerja
+Accumulated Actuarial Loss on Post-Employment Benefit 
+Liabilites
+(17.342)
+(16.715)
+(627)
+3,8
+Saldo Laba | Retained Earning
+Telah Ditentukan Penggunanya
+Appropriated
+120.000
+120.000
+-
+0,00
+Belum Ditentukan Penggunanya
+Unappropriated
+1.459.019
+1.215.274
+243.744
+20,1
+Total Ekuitas yang Diatribusikan Kepada Pemilik Entitas Induk
+Total Equity Attributeable to Owners of The Parent Company
+2.461.336
+2.218.219
+243.117
+11,0
+Kepentingan nonpengendali
+Non-Controlling Interest
+34.352
+27.188
+7.163
+26,4
+Total Ekuitas | Total Equity
+2.495.689
+2.245.407
+250.281
+11,2
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Ekuitas
+Equity
+Total Liabilitas
+Total liabilitas per 31 Desember 2024 mengalami penurunan 
+sebesar 
+2,6% 
+atau 
+Rp8,6 
+miliar 
+dibandingkan 
+tahun 
+sebelumnya. Penurunan ini terutama disebabkan oleh turunnya 
+liabilitas jangka panjang sebesar 83% atau Rp167 miliar, di 
+mana saldo total menurun dari Rp202 miliar pada tahun 2023 
+menjadi Rp34 miliar pada tahun 2024.
+Liabilitas jangka panjang mengalami penurunan sebesar 
+Rp167 miliar pada tahun 2024, yang terutama didorong oleh 
+penurunan kewajiban imbalan kerja sebesar Rp5 miliar atau 
+23%, dan sebagian diimbangi oleh reklasfikasi mid-term notes 
+ke liabilitas jangka pendek yang pelunasannya jatuh tempo 
+pada 28 Mei 2025. Penurunan ini sebagian diimbangi oleh 
+kenaikan liabilitas jangka pendek sebesar 117% atau Rp159 
+miliar. Namun, tidak terdapat perubahan signifikan dalam 
+liabilitas jangka pendek dibandingkan dengan tahun 2023.
+Total Liabilities
+As compared to last year, Total liabilities as of December 31, 
+2024 decreased by 2,6% or Rp8.6 billion.  This was mainly 
+due to the decrease in non current liabilities by 83% or Rp167 
+billion. The total balance decreased from Rp202 billion in 2023 
+to Rp34 billion in 2024. 
+Non current liabilities decreased by Rp167 billion in 2024. 
+This was driven by the decrease in employee benefit liabilities 
+which fell by Rp5 billion or 23% and the partial offsetting of mid 
+term notes due to reclassification to current liabilities which 
+payment due date on 12 May 2025. This was partially offset 
+by current liabilities by 117% or Rp159 billion. There were no 
+significant changes in current liabilities compared to 2023. 
+Ekuitas per 31 Desember 2024 meningkat sebesar 11% dari 
+Rp2,24 triliun menjadi Rp2,49 triliun, terutama disebabkan oleh 
+peningkatan laba ditahan. 
+Equity as of December 31, 2024 increased by 11% from Rp2.24 
+trillion to Rp2.49 trillion in 2024,  mainly reflecting the increase 
+of retained earnings.
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+82
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Penjualan Neto
+Net Sales
+1.885.822
+1.736.989
+148.832
+8,57
+Beban Pokok Penjualan
+Cost of Goods Sold
+(1.261.846)
+(1.184.989)
+(76.856)
+6,49
+Laba Bruto
+Gross Profit
+623.976
+551.999
+71.976
+13,04
+Beban Penjualan dan Pemasaran
+Selling and Marketing Expenses
+(149.926)
+(132.714)
+(17.211)
+12,97
+Beban Umum dan Administrasi
+General and Administrative Expenses
+(125.576)
+(117.286)
+(8.289)
+7,07
+(Beban) Pendapatan Operasi Lain-Lain
+Other Operating (Expenses) Income
+8.774
+(152)
+8.926
+100,00
+Laba Dari Operasi
+Profit From Operations
+357.247
+301.846
+55.401
+18,35
+Pendapatan Keuangan Beban Keuangan
+Finance Income
+57.008
+43.519
+13.488
+30,99
+Beban Keuangan
+Finance Expenses
+(20.229)
+(19.921)
+(307)
+(1,54)
+Laba Sebelum Pajak
+Profit Before Tax
+394.026
+326.162
+68.582
+21,07
+Beban Pajak | Tax Expenses
+Kini
+Current
+(68.940)
+(64.374)
+(4.566)
+(7,09)
+Tangguhan
+Deffered
+(1.133)
+(88)
+(1.045)
+(92,28)
+Penyesuaian Terhadap Beban Pajak Tahun Sebelumnya
+Adjustment to Prior Year’s Tax Expenses
+-
+-
+-
+-
+Beban Pajak – Neto
+Income Tax Expenses – Net
+(70.074)
+(64.462)
+(5.612)
+(8,71)
+Laba Tahun Berjalan
+Profit for The Year
+323.952
+260.981
+62.970
+24,13
+Penghasilan Komprehensif Lain:
+Other Comprehensive Income:
+Pengukuran Kembali Atas Liabilitas Imbalan Paska-Kerja
+Remeasurement of Post-Employment Benefit Obligations
+(823)
+520
+(1.343)
+(100.00)
+Pajak Penghasilan Terkait
+Related Income Tax
+181
+(243)
+424
+(100.00)
+Penghasilan Komprehensif Lain
+Other Comprehensive Income
+(642)
+277
+(919)
+(100.00)
+Total Laba Komprehensif Tahun Berjalan
+Total Comprehensive Income for The Year
+323.310
+261.259
+62.051
+23.75
+Laba Tahun Berjalan yang Dapat Diatribusikan kepada:
+Profit for The Year Attributable to:
+Pemilik Entitas Induk
+Owners of The Parent Entity
+321.673
+259.359
+62.313
+24,03
+Kepentingan Non Pengendali
+Non-Controling Interests
+2.279
+1.622
+657
+40,51
+Jumlah
+Total
+323.952
+260.981
+62.971
+24,13
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Laporan Laba Rugi dan Penghasilan Komprehensif Lain Konsolidasian
+Consolidated Statements of Profit or Loss and Other Comprehensive Income
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+83
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Jumlah Laba Komprehensif Tahun yang Dapat Diatribusikan kepada:
+Total Comprehensive Income Attributable to:
+Pemilik Entitas
+Owners of The Parent Entity
+321.047
+259.628
+61.419
+23,66
+Kepentingan Non Pengendali
+Non-Controling Interests
+2.264
+1.631
+633
+38,81
+Jumlah
+Total
+323.310
+261.259
+62.051
+23,75
+Dasar Laba Per Saham
+Bacis Earnings Per Shares
+11,9
+9,59
+2,31
+24,09
+Penjualan Neto
+Total penjualan bersih Perseroan di tahun 2024 meningkat 
+sebesar 8,5% menjadi Rp1,8 triliun dibandingkan tahun 2023, 
+didorong oleh kenaikan volume penjualan. Dari sudut pandang 
+kategori, empat kategori utama—Disposable & Medical 
+Consumables, Wound Care, Diagnostic & Equipment, serta 
+Antiseptic & Dialysis Fluid—berkontribusi signifikan terhadap 
+pertumbuhan penjualan bersih, dengan total mencapai Rp151 
+miliar.
+Dari perspektif kategori, penjualan Disposable & Medical 
+Consumables dan Wound Care meningkat sebesar 8%, 
+mencapai Rp93 miliar. Peningkatan ini terutama didorong oleh 
+permintaan pasar yang lebih tinggi terhadap Syringe & Needle 
+serta Kasa. Kenaikan penjualan syringe dan needle disebabkan 
+oleh perluasan jangkauan pasar di kelompok konsumen 
+rumah sakit dan ritel, sementara pertumbuhan penjualan kasa 
+memperkuat posisi pasar Perseroan di tahun 2024.
+Di sisi lain, penjualan Diagnostic & Equipment serta Antiseptic 
+& Dialysis meningkat sebesar 14%, mencapai Rp58 miliar pada 
+tahun 2024. Ekspansi produk Perseroan, termasuk peluncuran 
+Ventilator serta Tensimeter Digital & Manual, turut mendorong 
+pertumbuhan ini. Selain itu, peningkatan penjualan di segmen 
+Antiseptic & Dialysis didorong oleh peningkatan volume 
+penjualan Ecodine, yang mencerminkan kenaikan permintaan 
+pasar serta inisiatif strategis bisnis.
+Beban Pokok Penjualan
+Harga pokok penjualan meningkat 6,5% atau Rp76 miliar 
+dibandingkan tahun 2023, terutama didorong oleh kenaikan 
+biaya produksi yang mencerminkan tekanan inflasi bahan 
+baku dan biaya overhead yang signifikan ditambah dengan 
+pertumbuhan kategori disposable & medical consumable. Hal 
+ini relevan dengan peningkatan volume penjualan di tahun 
+2024.
+Net Sales
+The Company’s 2024 total net revenues increased by 8,5% 
+to Rp1.8 trillionversus 2023 from favorable sales volume. 
+Particularly 
+four 
+categories: 
+Disposable 
+and 
+medical 
+consumables, Wound care, Diagnostic & equipment and 
+Antiseptic and dialysis fluid contributed significantly to net 
+sales growth amounting to Rp151 billion. 
+From a category perspective, sales in Disposable & Medical 
+Consumables and Wound Care increased by 8% to Rp93 
+billion. This was primarily driven by higher market demand for 
+Syringes & Needles and Gauze. The increase in syringe and 
+needle sales resulted from expanding market reach in both 
+hospital and retail consumer groups, while the growth in gauze 
+sales strengthened the Company's market position in 2024.
+On the other hand, sales in the Diagnostic & Equipment and 
+Antiseptic & Dialysis categories grew by 14%, reaching Rp58 
+billion in 2024. The Company’s product expansion, including 
+the introduction of Ventilators and Digital & Manual Blood 
+Pressure Monitors contributed to this growth. Furthermore, 
+sales growth in the Antiseptic & Dialysis segment was driven 
+by a higher sales volume of Ecodine, reflecting increased 
+market demand and strategic business initiatives.
+Cost of Goods Sold
+The cost of goods sold increased by 6,5% or Rp76 billion 
+compared to 2023, mainly driven by higher manufacturing cost 
+primarily reflecting significant inflationary pressure on raw 
+material and overhead cost coupled with growing Disposable & 
+medical consumable category. This is aligned with increasing 
+sales volume in 2024.
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+84
+Laba Bruto
+Laba bruto Perseroan periode tahun 2024 sebesar Rp623 
+miliar, meningkat sebesar 13% atau  Rp71 miliar dari laba 
+bruto periode 2023 sebesar Rp551 miliar. Hal ini didorong oleh 
+peningkatan penjualan dan mencerminkan kemampuan dalam 
+meningkatkan efisiensi Perseroan.
+Beban Usaha
+Biaya operasional yang merupakan beban Penjualan dan 
+Umum & Administrasi meningkat 10,2% dari tahun sebelumnya 
+menjadi Rp275 miliar. Hal ini terutama disebabkan oleh 
+kenaikan biaya marketing untuk  mendukung peningkatan 
+penjualan serta gaji, upah dan tunjangan karyawan yang lebih 
+tinggi.
+Penghasilan / (Beban) Keuangan
+Total penghasilan keuangan bersih meningkat sebesar Rp13 
+miliar dibandingkan tahun 2023 karena kenaikan saldo kas 
+dan setara kas di tahun 2024. Penghasilan keuangan terutama 
+merepresentasikan penghasilan bunga yang dihasilkan dari 
+penempatan deposito berjangka.
+Pendapatan / (Beban) Lain-lain
+Total pendapatan (beban) lain-lain bersih meningkat sebesar 
+Rp8,9 miliar dibandingkan tahun 2023 karena nilai tukar Rupiah 
+terdepresiasi terhadap USD dengan perubahan nilai tukar dari 
+Rp15.150 di Januari 2023 menjadi Rp16.162 di Desember 2024 
+yang menyebabkan peningkatan saldo kas dan setara kas 
+dalam mata uang asing. hal ini disebabkan oleh trend global 
+makro ekonomi dan perubahan sentiment market.
+Beban Pajak Penghasilan
+Total pajak penghasilan meningkat sebesar Rp5,6 miliar 
+dibandingkan tahun 2023 karena peningkatan laba usaha.
+Laba Tahun Berjalan
+Laba bersih Perseroan pada tahun 2024 mencapai Rp323 miliar 
+atau meningkat 24,0% dibanding tahun sebelumnya, kenaikan 
+volume penjualan dan manajemen biaya di mana secara 
+keseluruhan sejalan dengan efisiensi biaya, dan sebagian 
+diimbangi oleh harga jual yang rendah. Hal ini juga berdampak 
+pada peningkatan laba per saham tahun 2024 sebesar Rp11,9 
+per saham dibandingkan Rp9,6 per saham pada tahun 2023. 
+Gross Profit
+The Company’s gross profit for 2024 was Rp623 billion, which 
+increased by 13% or Rp71 billion compared to gross profit in 
+2023 amounted to Rp551 billion. This was driven by increasing 
+sales volume and strong ability to improve overall Company's 
+operational efficiencies.
+Operating Expenses
+The operating expense, which represents Selling and General 
+& Administrative expenses, increased by 10.2% from prior year 
+to Rp275 billion. It was due mainly to higher marketing cost 
+to support sales volume increased and higher salaries, wages 
+and employee benefits.
+Finance Income / (Expense)
+Total net finance income increased by Rp13 billion compared 
+to 2023 driven by higher balance of cash & equivalent cash in 
+2024. The finance income mainly represents interest income 
+generated from the Company’s time deposit placement.
+Other Income / (Expense)
+Total net Other Income (Expense) increased by Rp8.9 billion 
+compared to 2023 driven by depreciated of  Rupiah against US 
+Dollar (USD) with the exchange rate from Rp15,150 in January 
+2023 to Rp16,162 in December 2024 which driven higher 
+balance of cash and cash equivalent in foreign currencies. This 
+was driven by macro economic global trend and shift of market 
+sentiment.
+Income Tax Expense
+Total income tax increased by Rp5.6 billion compared to 2023 
+due to an increase in operating profit.
+Profit for the Year
+The Company’s net profit in 2024 was Rp323 billion or 24.0% 
+higher than prior year, with increasing sales volume and cost 
+management with overall expenses inline with operational 
+eficiencies, partially offset by lower selling price. This also 
+resulted to higher earnings per share in 2024 of  Rp11.9 per 
+share versus Rp9.6 in 2023.
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+85
+Total Penghasilan Komprehensif Tahun Berjalan
+Pada tahun 2024, laba komprehensif lain tidak menguntungkan 
+mencerminkan kerugian akibat pengukuran kembali imbalan 
+pasca kerja berdasarkan penilaian aktuaria independen 
+tahunan.
+Perseroan 
+membukukan 
+peningkatan 
+arus 
+kas 
+bebas 
+sebesar 9% atau Rp 104 miliar. Hal ini mencerminkan kas 
+yang lebih tinggi dari aktivitas operasi akibat penerimaan 
+kas dari pelanggan yang lebih tinggi karena peningkatan 
+permintaan pelanggan, penerimaan pajak atas lebih bayar 
+tahun sebelumnya setelah dikurangi dengan koreksi pajak 
+yang diterima, serta sebagian diimbangi dengan pengeluaran 
+kas yang lebih rendah kepada pemasok dan uang muka atas 
+akuisisi aset tetap yang lebih rendah. Penurunan kas bersih 
+yang dihasilkan dari aktivitas investasi terutama disebabkan 
+oleh peningkatan dana yang digunakan untuk investasi jangka 
+panjang dan investasi jangk pendek setelah dikurangi dengan 
+kas yang diterima. Penurunan kas bersih yang digunakan 
+untuk aktivitas pendanaan dibandingkan periode sebelumnya 
+mencerminkan lebih rendahnya pembayaran dividen pada 
+tahun 2024.
+The Company recorded 9% higher free cash flow of Rp104 
+billion. This reflected higher cash from operating activities 
+driven by higher cash received from customer derived from 
+higher customers' demand, higher tax refund claims due to 
+overpayments in prior years after adjusted in tax assessment, 
+and partially offset by lower cash payment to suppliers coupled 
+with lower cash advance for acquisition of fixed asset. Lower 
+net cash generated from investing activities was mainly driven 
+by higher cash used in short and long term investment, net of 
+cash proceed. The lower net cash used in financing activities 
+compared to the previous period reflects the lower dividend 
+paid in 2024.
+Total Comprehensive Income for the Year
+The Company has unfavorable other comprehensive income 
+in 2024 reflected loss due to the re-measurement of post-
+employment benefit based on annual independent actuarial 
+valuation.
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Kas Neto yang Diperoleh dari Aktivitas Operasi
+Net Cash Provided by Operating Activities
+351.568
+134.543
+217.114
+100,0
+Kas Neto yang Diperoleh (Digunakan) dari Aktivitas Investasi
+Net Cash Provided (Used) by Investing Activities
+(164.151)
+264.593
+(428.745)
+(100,0)
+Kas Neto yang diperoleh (digunakan) dari Aktivitas Pendanaan
+Net cash provided (used) by financing activities
+(95.195)
+(110.578)
+15.383
+(13,9)
+Pengaruh Neto Perubahan Nilai Tukar Kas dan Setara Kas
+Net Effect of Changes in Exchange Rates Cash and Cash 
+Equivalents
+11.911
+1.654
+10.257
+100
+Kas dan Setara Kas Awal Tahun
+Cash and Cash Equivalents at Beginning of Year
+1.120.572
+830.549
+290.023
+34,9
+Kas dan Setara Kas Akhir Tahun
+Cash and Cash Equivalents at End of Year
+1.224.706
+1.120.572
+104.134
+9,3
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Laporan Arus Kas Konsolidasian
+Consolidated Statement of Cash Flows
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+86
+Kemampuan Membayar Utang
+Solvency
+Perseroan memiliki Surat Utang Jangka Menengah sebesar 
+Rp159 miliar yang jatuh tempo pada 12 Mei 2025. Di luar utang 
+tersebut, kewajiban perseroan adalah utang yang timbul atas 
+pembelian bahan baku dan keperluan produksi dengan total 
+sebesar Rp90 miliar. Manajemen Perseroan berkeyakinan 
+bahwa tidak akan ada kesulitan untuk memenuhi kewajiban 
+tersebut pada saat jatuh tempo, karena Perseroan masih 
+memiliki aset lancar yang cukup untuk memenuhi kewajiban 
+pada saat jatuh tempo.
+Tingkat likuiditas Perseroan dengan perolehan rasio lancar 
+pada 31 Desember 2024 yaitu sebesar 7,66 mengalami 
+penurunan dibandingkan tahun 2023 yaitu sebesar 15,04 
+disebabkan oleh reklasifikasi Surat Utang Jangka Menengah ke 
+keajiban lancar di tahun 2024. Dalam hal rasio solvabilitas, total 
+liabilitas terhadap total aset dan total ekuitas per 31 Desember 
+2024 adalah sebesar 11,67 dan 13,21. Rendahnya rasio Total 
+Liabilitas terhadap Total Aset dan rasio Hutang terhadap 
+Ekuitas mencerminkan kuatnya kemampuan Perseroan untuk 
+membiayai operasi secara keseluruhan dengan sumber daya 
+internal.
+The Company has Medium-Term Loan of Rp159 billion which 
+will be due on 12 May 2025. On the other hand, the Company’s 
+liabilities are loans for the purchase of raw materials and 
+production needs with a total of Rp90 billion. The Company’s 
+management believes that there will be no challenge to fulfill 
+these obligations, because the Company still has sufficient 
+current assets to fulfill obligations when the payment is due.
+The Company's liquidity level, as reflected in the current ratio 
+as of December 31, 2024, generated at 7.66, marking a decline 
+to 15.04 compared to 2023 derived from reclassification of 
+Medium Term Noted Liabilities to Current liabilities in 2024. In 
+terms of solvency ratios, the total liabilities to total assets and 
+total liabilities to total equity ratios as of December 31, 2024, 
+were 11.67 and 13.21, respectively. The low Total Liabilities to 
+Total Assets ratio and Total liabilities to Equity ratio reflects the 
+Company’s strong ability to finance its overall operations with 
+internal resources.
+Uraian
+Description
+2024
+2023
+2022
+Rasio Lancar
+Current Ratio
+7,66x
+15,04x
+9,15x
+Rasio Total Liabilitas Terhadap Total Aset
+Ratio of Total Liabilities to Total Assets
+0,12x
+0,13x
+0,17x
+Rasio Total Liabilitas Terhadap Total Ekuitas
+Total Liabilities to Total Equity Ratio
+0,13x
+0,14x
+0,21x
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+87
+Uraian
+Description
+2024
+2023
+Pertumbuhan
+Growth
+(Rp)
+(%)
+Belum Jatuh Tempo
+Not Yet Due
+209.102
+174.993
+34.109
+19,5
+Jatuh Tempo
+Overdue
+1-30 Hari
+1-30 Days
+43.804
+26.757
+17.046
+63,7
+31-60 Hari
+31-60 Days
+7.468
+5.301
+2.166
+40,9
+61-90 Hari
+61-90 Days
+3.812
+2.575
+1.237
+48,0
+91-120 Hari
+91-120 Days
+2.479
+1.517
+962
+63,4
+Lebih dari 120 Hari
+More than 120 Days
+3.976
+2.992
+1.053
+36,0
+Cadangan Penurunan Nilai Piutang
+Allowance for Impairment of Receivables
+5.449
+5.960
+(512)
+(8,6)
+Jumlah
+Total
+270.641
+214.068
+56.573
+26,4
+Tingkat Kolektibilitas Perseroan
+Receivables Collectability
+Analisis Berdasarkan Umur Piutang Usaha
+Analysis Based On Age Of Trade Receivables
+Perseroan memiliki rata-rata waktu penagihan piutang usaha 
+selama 51 hari pada tahun 2024, hampir sama dibandingkan 
+tahun 2023. Manajemen telah mengkaji kolektibilitas piutang 
+usaha secara berkala dan meyakini bahwa penyisihan untuk 
+penurunan nilai piutang usaha sebesar Rp5,4 miliar pada 
+tanggal 31 Desember 2024 cukup untuk menutup potensi 
+kerugian akibat tidak tertagihnya piutang usaha.
+The Company has average collection days of 51 days in 2024 
+was almost flat compared to 2023. Management has reviewed 
+the collectability of trade receivables periodically and believes 
+that the provision for impairment of trade receivables amounting 
+to Rp5.4 billion as of December 31, 2024 is adequate to cover 
+potential losses arising from uncollectible trade receivables.
+Struktur Modal
+Capital Structure
+Dana yang dihimpun melalui hasil penawaran umum, belum 
+sepenuhnya terealisasi, sehingga Perseroan tidak memerlukan 
+tambahan struktur permodalan. Struktur permodalan Perseroan 
+tahun 2024 terlihat di dalam rasio liabilitas terhadap jumlah 
+asset sebesar 11,7%. Kebijakan manajemen terhadap struktur 
+permodalan adalah mempertahankan rasio liabilitas terhadap 
+ekuitas kurang dari 300%.
+The funds raised through the public offering have not been fully 
+realized, so the Company does not require additional capital 
+structure. The Company's capital structure in 2024 is shown 
+in the ratio of liabilities to total assets of 11,7%. Management's 
+policy on capital structure is to maintain the ratio of liabilities to 
+equity at less than 300%.
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+88
+Ikatan Material dan Realisasi 
+Investasi Barang Modal
+Material Commitment and Capital Goods 
+Investment Realization
+Tidak terdapat informasi dan fakta material setelah tanggal 
+laporan keuangan audit hingga tanggal laporan ini diterbitkan.
+There is no material information and facts after the date of the 
+audit financial statements until the date of this report.
+Prospek Usaha
+Business Prospects
+Dengan pertumbuhan ekonomi dan peningkatan kesadaran 
+kesehatan, permintaan akan layanan dan produk kesehatan 
+berkualitas 
+diperkirakan 
+akan 
+terus 
+meningkat. 
+Upaya 
+strategis Kementerian Kesehatan dalam meningkatkan derajat 
+kesehatan dan kualitas hidup masyarakat turut memperkuat hal 
+ini. Memasuki tahun 2025, bisnis di sektor kesehatan secara 
+keseluruhan diperkirakan akan memiliki prospek yang baik. 
+Hal ini terutama didorong oleh dukungan anggaran pemerintah 
+untuk bidang kesehatan yang mencapai angka Rp218,5 triliun, 
+yang menunjukkan peningkatan sebesar 16,5% dibandingkan 
+alokasi tahun sebelumnya.
+Implementasi 
+program 
+skrining 
+kesehatan 
+gratis 
+oleh 
+pemerintah, yang ditujukan bagi masyarakat pada hari ulang 
+tahun mereka, menghadirkan peluang strategis bagi Perseroan 
+untuk berkontribusi dalam penyediaan perangkat medis 
+melalui kemitraan dengan institusi kesehatan atau rumah sakit. 
+Mempertimbangkan prospek yang ada, Perseroan secara 
+berkelanjutan akan fokus pada peningkatan keunggulan 
+kompetitif produk serta memperkukuh sinergi bisnis. Hal 
+ini dilakukan dalam rangka mendukung transformasi sistem 
+kesehatan dan menyediakan perangkat medis yang lebih 
+optimal bagi masyarakat, yang secara bersamaan diharapkan 
+dapat meningkatkan profitabilitas dan mempertahankan tren 
+pertumbuhan usaha Perseroan.
+With economic growth and increased health awareness, the 
+demand for quality health services and products is expected 
+to continue to rise. The Ministry of Health's strategic efforts 
+to improve the health status and quality of life of the people 
+also reinforce this. Entering 2025, businesses in the healthcare 
+sector as a whole are expected to have good prospects. This 
+is mainly driven by the government's budget support for the 
+health sector which reached Rp218.5 trillion, representing an 
+increase of 16.5% compared to the previous year's allocation.
+The implementation of a free health screening program by the 
+government, aimed at the public on their birthdays, presents 
+a strategic opportunity for the Company to contribute in the 
+provision of medical devices through partnerships with health 
+institutions or hospitals. Considering the prospects, the 
+Company will continuously focus on improving the competitive 
+advantage of its products and strengthening business 
+synergy. This is done in order to support the transformation 
+of the healthcare system and provide more optimal medical 
+devices for the community, which is simultaneously expected 
+to increase profitability and maintain the Company's business 
+growth trend.
+Informasi dan Fakta Material yang Terjadi 
+Setelah Tanggal Laporan Akuntan
+Material Information and Facts that Occurred After the 
+Date of the Accountant's Report
+Tidak ada informasi dan fakta material yang terjadi setelah 
+tanggal laporan akuntan.
+There is no material information and facts that occurred after 
+the date of the accountant's report.
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+89
+Target/Proyeksi Tahun 2025
+Target/Projection In 2025
+Manajemen menetapkan target kenaikan penjualan berkisar 
+12% atau sekitar Rp2,1 triliun untuk tahun 2025. Dari aspek 
+profitabilitas atau laba, Perseroan tetap akan mempertahankan 
+margin melalui upaya pertumbuhan dan efisiensi operasional. 
+Perseroan menetapkan target profitabilitas berkisar 17% atau 
+sekitar Rp360 miliar. Dari aspek struktur modal, sepanjang 
+tahun 2024, Perseroan tetap akan beroperasi dengan 
+bertumpu pada pada modal sendiri, atau dengan kata lain 
+tanpa modal pinjaman. Sedangkan dari aspek dividen, 
+Perseroan akan tetap mempertahankan kebijakan dividen, 
+yaitu akan mendistribusikan minimal 25% dari laba bersih 
+sebagai dividen.
+Management has set a sales increase target of around 12% 
+or around Rp2.1 trillion for 2025. In terms of profitability, 
+the Company will maintain its margin through growth and 
+operational efficiency. The Company sets a profitability target 
+of around 17% or around Rp360 billion. From the aspect of 
+capital structure, throughout 2024, the Company will continue 
+to operate by relying on its own capital, or in other words 
+without loan capital. In terms of dividends, the Company will 
+maintain its dividend policy, which is to distribute at least 25% 
+of net profit as dividends.
+Seiring 
+dengan 
+meningkatnya 
+pemahaman 
+masyarakat 
+mengenai pentingnya kesehatan dan tindakan preventif, 
+permintaan terhadap produk dan layanan kesehatan yang 
+berfokus pada pencegahan juga mengalami peningkatan. Akan 
+tetapi, isu ketidakmerataan akses terhadap layanan kesehatan, 
+terutama antara wilayah perkotaan dan pedesaan, memerlukan 
+perhatian dan solusi yang efektif. Menyikapi hal tersebut, 
+Perseroan secara proaktif melakukan ekspansi jaringan 
+distribusi melalui pembukaan kantor cabang baru beserta 
+retail, dengan tujuan untuk mengoptimalkan jangkauan produk 
+dan penetrasi pasar. Perseroan yakin bahwa dedikasi terhadap 
+pertumbuhan akan mengantarkan keberhasilan Perseroan di 
+tahun-tahun mendatang. Dengan menggabungkan ekspansi 
+yang strategis serta mengutamakan keterjangkauan dan 
+keberlanjutan, OneMed memiliki posisi yang kuat untuk 
+memanfaatkan potensi pertumbuhan di masa depan.
+As the public's understanding of the significance of health and 
+preventive measures increases, the demand for prevention-
+focused health products and services has also increased. 
+However, the issue of unequal access to healthcare, especially 
+between urban and rural areas, requires attention and effective 
+solutions. In response, the Company is proactively expanding 
+its distribution network through the opening of new branches 
+and retail offices, with the aim of optimizing product reach and 
+market penetration. The Company believes that dedication to 
+growth will lead to significant success in the coming years. By 
+combining strategic expansion and prioritizing affordability 
+and sustainability, OneMed is well positioned to capitalize on 
+future growth potential.
+Target dan Realisasi Keuangan Tahun 2024  
+Financial Target And Realization In 2024
+Target penjualan Manajemen untuk tahun 2024 adalah Rp 
+2.000.000 juta, sementara realisasi penjualan adalah sebesar 
+Rp 1.885.822 Juta atau 94,3% dari target. Sebagaimana 
+diuraikan pada tabel berikut:
+Management's sales target for 2024 is Rp 2,000,000 million, 
+while sales realization is Rp 1.885.822 Million or 94,3% of the 
+target. As outlined in the following table:
+Uraian 
+Description
+Target 2024
+Realisasi 2024
+2024 Realization
+Persentase Pencapaian
+Percentage of Achievement
+Penjualan Neto
+Net Sales
+2.000.000
+1.885.822
+94,3%
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+90
+Aspek Pemasaran
+Marketing Aspect
+Pemasaran 
+memegang 
+peranan 
+krusial 
+dalam 
+strategi 
+Perseroan. Perseroan secara konsisten memperluas pangsa 
+pasar melalui penjualan langsung di gerai ritel yang tersebar 
+di seluruh Indonesia. OneMed memiliki sistem distribusi yang 
+komprehensif dan terintegrasi secara luas, yang mencakup 
+jaringan kantor cabang, gudang penyimpanan, serta pusat 
+distribusi berskala nasional. OneMed juga menerapkan 
+strategi penjualan langsung seperti kepada rumah sakit (baik 
+pemerintah maupun swasta), klinik, dan laboratorium.
+OneMed mengimplementasikan strategi penjualan dual-
+channel, di mana distributor yang memiliki otorisasi e-Katalog 
+diperuntukkan untuk penjualan kepada entitas pemerintah, 
+sementara distributor yang tidak memiliki otorisasi tersebut 
+berfokus pada penyediaan produk kepada institusi swasta. 
+Distribusi produk dilakukan secara langsung melalui entitas 
+anak perusahaan, IHSG, atau secara tidak langsung melalui 
+jaringan distributor di wilayah yang belum terlayani oleh anak 
+Perusahaan, IHSG.
+Di sisi lain, untuk memperluas jangkauan ke wilayah-wilayah 
+yang belum tercover oleh kantor cabang, OneMed juga 
+memanfaatkan teknologi digital dengan mengembangkan 
+platform dan modul daring yang memudahkan pelanggan 
+untuk 
+melakukan 
+pembelian 
+produk 
+secara 
+langsung. 
+Upaya Perseroan dalam memperkuat aktivitas pemasaran 
+juga 
+ditopang 
+oleh 
+strategi 
+brand 
+awareness 
+yang 
+diimplementasikan melalui komunikasi aktif di platform 
+media sosial serta penyediaan konten dan tips relevan terkait 
+kesehatan secara berkesinambungan.
+Dalam upaya merealisasikan tujuan pemasaran yang telah 
+ditetapkan, perusahaan memiliki beberapa opsi tindakan 
+strategis. Di antaranya adalah optimalisasi penjualan langsung 
+melalui infrastruktur pemasaran yang ada, segmentasi pasar 
+berdasarkan karakteristik konsumen, penetapan target pasar 
+yang terukur, implementasi kegiatan periklanan, penjualan, 
+distribusi, dan logistik produk yang efektif, serta penyusunan 
+rencana pemasaran yang komprehensif dan terstruktur.
+Marketing plays a crucial role in the Company's strategy. 
+The Company consistently expands its market share through 
+direct sales at retail outlets across Indonesia. OneMed has a 
+comprehensive and widely integrated distribution system, 
+which includes a nationwide network of branch offices, 
+warehouses, and distribution centers. OneMed also implements 
+direct sales strategies such as to hospitals (both government 
+and private), clinics, and laboratories.
+OneMed implements a dual-channel sales strategy, where 
+distributors who have e-Catalog authorization are reserved 
+for sales to government entities, while distributors who do not 
+have such authorization focus on providing products to private 
+institutions. Product distribution is done directly through the 
+subsidiary, IHSG, or indirectly through a network of distributors 
+in areas not yet served by the subsidiary, IHSG.
+On the other hand, to expand its reach to areas not yet covered 
+by branch offices, OneMed also utilizes digital technology by 
+developing online platforms and modules that make it easier 
+for customers to purchase products directly. The Company's 
+efforts in strengthening marketing activities are also supported 
+by a brand awareness strategy implemented through active 
+communication on social media platforms as well as continuous 
+provision of relevant health-related content and tips.
+In an effort to realize the marketing objectives that have 
+been set, the company has several strategic action options. 
+These include optimizing direct sales through existing 
+marketing infrastructure, market segmentation based on 
+consumer characteristics, setting measurable target markets, 
+implementing effective advertising, sales, distribution, and 
+product logistics activities, and preparing comprehensive and 
+structured marketing plans.
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+91
+Kebijakan dan Pembagian Dividen
+Dividend Policy and Distribution
+Penetapan kebijakan dividen Perseroan mengacu pada 
+ketentuan yang tertuang dalam Anggaran Dasar dan 
+memperoleh persetujuan dalam Rapat Umum Pemegang 
+Saham (RUPS). Besarnya dividen yang akan dibayarkan 
+bergantung pada arus kas dan rencana investasi Perseroan, 
+hukum dan peraturan Indonesia serta persyaratan lainnya. 
+Penentuan jumlah dan pembayaran dividen diputuskan dengan 
+mempertimbangkan rekomendasi Direksi serta faktor-faktor 
+lain, diantaranya pendapatan, hasil operasional & keuangan, 
+kondisi likuiditas, rencana belanja modal, peluang akuisisi, 
+prospek bisnis masa depan, kepatuhan terhadap peraturan 
+dan perundang-undangan yang berlaku dan faktor lain yang 
+dianggap relevan.
+The determination of the Company's dividend policy refers 
+to the provisions contained in the Articles of Association and 
+obtained approval at the General Meeting of Shareholders 
+(GMS). The amount of dividends to be paid depends on the 
+Company's cash flow and investment plans, Indonesian laws 
+and regulations and other requirements. The determination of 
+the amount and payment of dividends is decided by considering 
+the recommendations of the Board of Directors as well as 
+other factors, including income, operational & financial results, 
+liquidity conditions, capital expenditure plans, acquisition 
+opportunities, future business prospects, compliance with 
+applicable laws and regulations and other factors deemed 
+relevant.
+Kebijakan Dividen
+Dividend Policy
+Berdasarkan Keputusan RUPS Tahunan tanggal 07 Juni 2024, 
+Pemegang Saham menyetujui untuk membagikan dividen final 
+untuk tahun buku 2023 sebesar Rp 2,88,- per lembar saham 
+atau sejumlah Rp 77.929.488.000,- atau sekitar 30% dari laba 
+bersih yang dibayarkan pada tanggal 10 Juli 2024.
+Informasi mengenai pembagian dividen yang dilakukan 
+Perseroan selama 2 tahun terakhir diuraikan sebagai berikut:
+Based on the Resolution of the Annual General Meeting of 
+Shareholders dated June 07, 2024, the Shareholders approved 
+to distribute final dividend for the fiscal year 2023 in the 
+amount of Rp 2.88 per share or a total of Rp 77,929,488,000, 
+or approximately 30% of net profit which was paid on July 10, 
+2024.
+Information regarding dividend distribution made by the 
+Company for the last 2 years is described below:
+Pembagian Dividen
+Dividend Distribution
+Tahun Buku
+Fiscal Year
+Jumlah Dividen yang 
+Dibagikan
+Total Shared Dividend
+Jumlah Dividen Tunai Per 
+Saham (Rp)
+Total Cash Dividend Per 
+Share (Rp)
+Tanggal Pembayaran Dividen
+Dividend Payment Date
+2024
+Rp 77.929.488.000
+2,88
+10 Juli 2024 | July
+2023
+Rp 85.776.554.500
+3,17
+27 Juni 2023 | June
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+92
+Realisasi Penggunaan Dana
+Hasil Penawaran Umum
+Actual of Use of Proceeds from Public Offering
+Laporan realisasi penggunaan dana hasil penawaran umum 
+Perseroan per Desember 2024 diuraikan sebagai berikut:
+The report on the realization of the use of proceeds from the 
+Company's public offering as of December 2024 is described 
+as follows:
+Tahun
+Year
+Uraian
+Description
+Tanggal 
+Penerbitan
+Issuance Date
+Jumlah Hasil 
+Penawaran 
+Umum
+Amount of 
+Public Offering
+Biaya 
+Penawaran 
+Umum
+Public Offering 
+Fee
+Hasil Bersih
+Net Amount
+Rencana 
+Penggunaan 
+Dana Menurut 
+Prospektus 
+(Pembangunan 
+Gedung, 
+Penambahan 
+Mesin 
+Produksi, 
+Modal Kerja) 
+Proposed 
+Use of Funds 
+According to 
+Prospectus 
+(Construction 
+of Buildings, 
+Addition of 
+Production 
+Machinery, 
+Working 
+Capital)
+Realisasi 
+Penggunaan 
+Dana Menurut 
+Prospektus 
+(Pembangunan 
+Gedung, 
+Penambahan 
+Mesin 
+Produksi, 
+Modal Kerja)
+Realization of 
+Use of Funds 
+According to 
+Prospectus 
+(Construction 
+of Buildings, 
+Addition of 
+Production 
+Machinery, 
+Working 
+Capital)
+Sisa Hasil Dana
+Remaining 
+Fund
+2022
+Semester 2
+2nd Semester
+Penawaran 
+Umum 
+Perdana 
+Saham
+Initial Public 
+Offering
+31 Oktober 
+2022
+31 October 
+2022
+828.005
+47.426
+780.578
+780.578
+45.544
+735.034
+2023
+Semester 1
+1st Semester
+Penawaran 
+Umum 
+Perdana 
+Saham
+Initial Public 
+Offering
+31 Oktober 
+2022
+31 October 
+2022
+828.005
+47.426
+780.578
+780.578
+134.738
+645.839
+Semester 2
+2nd Semester
+Penawaran 
+Umum 
+Perdana 
+Saham
+Initial Public 
+Offering
+31 Oktober 
+2022
+31 October 
+2022
+828.005
+47.426
+780.578
+780.578
+218.286
+562.292
+2024
+Semester 1
+1st Semester
+Penawaran 
+Umum 
+Perdana 
+Saham
+Initial Public 
+Offering
+31 Oktober 
+2022
+31 October 
+2022
+828.005
+47.426
+780.578
+780.578
+288.679
+491.899
+Semester 2
+2nd Semester
+Penawaran 
+Umum 
+Perdana 
+Saham
+Initial Public 
+Offering
+31 Oktober 
+2022
+31 October 
+2022
+828.005
+47.426
+780.578
+780.578
+381.677
+398.900
+Dalam jutaan Rupiah, kecuali dinyatakan lain
+In million, unless otherwise stated
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+93
+Informasi Material Terkait Investasi, Ekspansi, 
+Divestasi, Penggabungan/Peleburan Usaha, 
+Akuisisi, dan/atau Restrukturisasi 
+Utang/Modal
+Material Information Related to Investment, Expansion, 
+Divestment, Business Merger/Consolidation, Acquisition, 
+and/or Debt/Capital Restructuring
+Seluruh aktivitas investasi Perseroan pada tahun buku 2024 
+telah dinilai wajar dan sesuai dengan harga pasar yang berlaku. 
+Tidak terdapat transaksi material yang signifikan yang belum 
+diungkapkan dalam laporan keuangan Perseroan.
+All investment activities of the Company in the financial year 
+2024 have been valued fairly and in accordance with prevailing 
+market prices. There are no significant material transactions 
+that have not been disclosed in the Company's financial 
+statements.
+Informasi Material Mengenai Transaksi Afiliasi
+Material Information About Affiliated Transactions
+Informasi lengkap mengenai seluruh transaksi afiliasi Perseroan 
+yang bersifat berkelanjutan telah disajikan secara rinci pada 
+Catatan 35 Laporan Keuangan Tahunan 2024.
+Complete information regarding all of the Company's affiliated 
+transactions that are ongoing has been presented in detail in 
+Note 35 of the 2024 Financial Statements.
+Perubahan Peraturan Perundang-Undangan 
+Yang Berpengaruh Signifikan
+Terhadap Perseroan
+Changes in Laws and Regulations With Significant Impact 
+on the Company
+Tidak terdapat perubahan peraturan perundang-undangan 
+yang berpengaruh sigsnifikan terhadap Perseroan.
+There are no changes in laws and regulations that significantly 
+affect the Company.
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+94
+Perubahan Kebijakan Akuntansi
+Change in Accounting Policy
+Laporan keuangan konsolidasian telah disusun sesuai dengan 
+Standar Akuntansi Keuangan di Indonesia dan peraturan 
+yang diberlakukan oleh Otoritas Jasa Keuangan (OJK) 
+(sebelumnya dikenal sebagai Badan Pengawas Pasar Modal 
+dan Lembaga Keuangan (BAPEPAM - LK)) tentang Penyajian 
+dan Pengungkapan Laporan Keuangan Perseroan.
+Seluruh perincian dari kebijakan - kebijakan Akuntansi ini 
+dapat dilihat secara terperinci dalam catatan laporan keuangan 
+Perseroan.
+The consolidated financial statements have been prepared in 
+accordance with Indonesian Financial Accounting Standards 
+and the regulations imposed by Indonesian Financial Services 
+Authority (OJK) (previously known as Capital Market and 
+Financial Institution Supervisory Agency (BAPEPAM - LK)) on 
+Presentation and Disclosure of Financial Statements of the 
+Companies. 
+All details of these accounting policies can be seen in the notes 
+to the Company’s financial statements.
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+95
+Tata Kelola Perusahaan
+Good Corporate Governance
+05
+96
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+97
+Tata Kelola Perusahaan
+Corporate Governance
+Sebagai bagian dari komitmen Perseroan untuk menciptakan 
+lingkungan bisnis dan membangun iklim usaha yang sehat 
+serta berkelanjutan, Perseroan secara tegas menerapkan Tata 
+Kelola Perusahaan yang Baik (GCG) sebagai landasan dalam 
+menjalankan seluruh aktivitas bisnisnya. GCG mendorong 
+terciptanya budaya kerja yang berintegritas dan bertanggung 
+jawab melalui mekanisme pengawasan dan pengendalian yang 
+efektif.
+As part of the Company's commitment to create a business 
+environment and build a healthy and sustainable business 
+climate, the Company strictly implements Good Corporate 
+Governance (GCG) as the foundation in carrying out all 
+its business activities. GCG encourages the creation of a 
+work culture of integrity and responsibility through effective 
+monitoring and control mechanisms.
+Dasar-Dasar Penerapan Tata Kelola Perusahaan
+Basis of Corporate Governance Implementation
+Penerapan GCG di lingkungan Perseroan mengacu pada 
+ketentuan-ketentuan berikut antara lain:
+1.	 Undang-Undang Dasar Negara Republik Indonesia tahun 
+1945;
+2.	 	Undang-Undang No. 8 tahun 1995 tentang Pasar Modal;
+3.	 	Undang-Undang No. 40 tahun 2007 tentang Perseroan 
+Terbatas;
+4.	 	Peraturan-Peraturan Otoritas Jasa Keuangan (“OJK”);
+5.	 	Peraturan-Peraturan Bursa Efek Indonesia;
+6.	 	Surat Edaran OJK No. 32/SEOJK.04/2015 tentang Pedoman 
+Tata Kelola Perusahaan Terbuka;
+7.	 	Anggaran Dasar Perseroan;
+8.	 	Pedoman dan kebijakan Perseroan lainnya.
+The implementation of GCG within the Company refers to the 
+following provisions among others:
+1.	 The 1945 Constitution of the Republic of Indonesia;
+	
+2.	 Law No. 8 of 1995 concerning the Capital Market;
+3.	 	Law No. 40 of 2007 concerning Limited Liability Companies;
+4.	 	Regulations of the Financial Services Authority (“OJK”);
+5.	 	Regulations of the Indonesia Stock Exchange;
+6.	 	OJK Circular Letter No. 32/SEOJK.04/2015 regarding 
+Corporate Governance Guidelines for Public Company;
+7.	 	Articles of Association of the Company;
+8.	 	Other Company guidelines and policies.
+Prinsip-Prinsip Tata Kelola Perusahaan
+Principles of Corporate Governance
+Dengan menerapkan prinsip-prinsip GCG dan praktik-
+praktik terbaik, Perseroan berupaya menjaga relevansi dan 
+keberlanjutan bisnis di tengah persaingan yang semakin 
+ketat akibat perkembangan teknologi dan munculnya peluang 
+bisnis baru sesuai dengan kondisi Perseroan dan peraturan 
+perundang-undangan yang berlaku. Prinsip-Prinsip tersebut 
+diuraikan sebagai berikut:
+1.	 Transparansi
+Perseroan 
+secara 
+konsisten 
+menerapkan 
+prinsip 
+transparansi dalam setiap tindakan korporasi, termasuk 
+dalam proses pengambilan keputusan dan penyampaian 
+informasi material kepada seluruh pemangku kepentingan. 
+Sebagai bentuk perwujudan prinsip transparansi, perseroan 
+senantiasa memastikan ketersediaan informasi yang 
+akurat dan mudah diakses oleh pemegang saham, kreditur, 
+dan pihak-pihak terkait lainnya, yang memungkinkan 
+pengambilan keputusan yang lebih tepat dan berdasarkan 
+data yang valid.
+By applying GCG principles and best practices, the Company 
+strives to maintain business relevance and sustainability 
+amidst increasingly fierce competition due to technological 
+developments 
+and 
+the 
+emergence 
+of 
+new 
+business 
+opportunities in accordance with the Company's conditions 
+and applicable laws and regulations. The principles are 
+described as follows:
+1.	 Transparency
+The Company consistently applies the principle of 
+transparency in every corporate action, including in the 
+decision-making process and the delivery of material 
+information to all stakeholders. As a manifestation of the 
+principle of transparency, the Company always ensures the 
+availability of accurate and easily accessible information 
+for shareholders, creditors, and other related parties, 
+which enables more informed decision making based on 
+valid data.
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+98
+Komitmen Pelaksanaan Good Company Governance
+Commitment to the Implementation of Good Corporate Governance 
+Perseroan senantiasa berkomitmen untuk menjalankan bisnis 
+sesuai dengan prinsip-prinsip Tata Kelola Perusahaan yang 
+Baik, dengan mengedepankan nilai-nilai integritas, transparansi, 
+akuntabilitas, dan tanggung jawab sosial serta lingkungan. 
+Perseroan akan terus meningkatkan kualitas penerapan GCG 
+melalui berbagai upaya perbaikan dan penyempurnaan, serta 
+program sosialisasi dan internalisasi yang intensif kepada 
+seluruh karyawan sehingga nilai-nilai GCG terintegrasi secara 
+menyeluruh ke dalam budaya perusahaan dan menjadi acuan 
+dalam setiap aktivitas bisnis.
+The Company is always committed to conducting business in 
+accordance with the principles of Good Corporate Governance, 
+by 
+prioritizing 
+the 
+values 
+of 
+integrity, 
+transparency, 
+accountability, 
+as 
+well 
+as 
+social 
+and 
+environmental 
+responsibility. The Company will continue to improve the 
+quality of GCG implementation through various improvement 
+and refinement efforts, as well as intensive socialization and 
+internalization programs to all employees so that GCG values 
+are thoroughly integrated into the corporate culture and 
+become a reference in every business activity.
+2.	 Akuntabilitas
+Prinsip 
+akuntabilitas 
+diterapkan 
+untuk 
+membangun 
+kepercayaan publik melalui pelaksanaan bisnis yang 
+profesional serta menjamin bahwa seluruh aktivitas 
+perusahaan 
+dilakukan 
+dalam 
+koridor 
+hukum 
+yang 
+berlaku. Pengelolaan Perusahaan selalu memperhatikan 
+kepentingan 
+perusahaan 
+dan 
+seluruh 
+pemangku 
+kepentingan, 
+serta 
+senantiasa 
+mematuhi 
+peraturan 
+perundang-undangan yang berlaku.
+3.	 Tanggung Jawab
+Penerapan 
+prinsip 
+ini 
+dalam 
+setiap 
+pengambilan 
+keputusan merupakan bentuk komitmen perusahaan 
+untuk menjalankan bisnis secara bertanggung jawab dan 
+berkelanjutan. Seluruh anggota manajemen bertanggung 
+jawab untuk memastikan bahwa kebijakan yang ditetapkan 
+selaras dengan prinsip ini dan berkontribusi pada 
+keberlangsungan perusahaan jangka panjang.
+4.	 	Independensi
+Prinsip ini menegaskan pentingnya menjaga independensi 
+masing-masing 
+organ 
+perusahaan, 
+sehingga 
+dapat 
+menjamin terciptanya sistem pengendalian internal yang 
+efektif dan mencegah terjadinya konflik kepentingan. 
+Prinsip ini bertujuan untuk memastikan bahwa setiap 
+organ perusahaan dapat menjalankan tugasnya secara 
+objektif dan profesional, tanpa adanya intervensi dari pihak 
+manapun.
+5.	 	Kewajaran dan Kesetaraan
+Dalam menjalankan usahanya, perusahaan harus selalu 
+mengedepankan prinsip kewajaran dan kesetaraan dalam 
+memenuhi hak-hak seluruh pemangku kepentingan, 
+termasuk pemegang saham, karyawan, pemasok, dan 
+masyarakat.
+2.	 Accountability
+The principle of Accountability is applied to build public trust 
+through professional business conduct and ensure that all 
+company activities are carried out within the corridors of 
+applicable law. The management of the Company always 
+pays attention to the interests of the company and all 
+stakeholders, and always complies with applicable laws 
+and regulations.
+3.	 Responsibility
+The application of this principle in every decision making is 
+a form of the company's commitment to conduct business 
+responsibly and sustainably. All members of management 
+are responsible for ensuring that the established policies 
+are aligned with this principle and contribute to the long-
+term sustainability of the company.
+4.	 Independence
+This principle emphasizes the importance of maintaining 
+the independence of each organ of the company, so 
+as to ensure the creation of an effective internal control 
+system and prevent conflicts of interest. This principle 
+aims to ensure that each organ of the company can carry 
+out its duties objectively and professionally, without any 
+intervention from any party.
+5.	 Fairness and Equality
+In conducting its business, the company must consistently 
+uphold the principles of fairness and equality in fulfilling 
+the rights of all stakeholders, including shareholders, 
+employees, suppliers, and the community.
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+99
+Struktur Tata Kelola Perusahaan
+Corporate Governance Structure 
+Sebagai bentuk implementasi GCG yang berjalan sistematis, 
+Perseroan membentuk struktur GCG berdasarkan Undang-
+Undang No. 40 tahun 2007 tentang Perseroan Terbatas terdiri 
+dari:
+As a form of GCG implementation that runs systematically, 
+the Company formed a GCG structure based on Law No. 40 
+of 2007 concerning Limited Liability Companies consisting of:
+Dalam struktur tata kelola perusahaan, RUPS menempati posisi 
+paling tinggi dan memiliki kewenangan yang lebih luas serta 
+mempunyai hak yang tidak dimiliki oleh Dewan Komisaris 
+dan Direksi. Sebagai badan eksekutif tertinggi Perseroan, 
+Direksi bertanggung jawab secara kolektif dalam mengelola 
+Perseroan, termasuk dalam membuat keputusan strategis, 
+dan memastikan perusahaan beroperasi dengan baik terhadap 
+risiko perekonomian, lingkungan, dan sosial. Sebagai badan 
+pengawas, Dewan Komisaris berwenang untuk mengawasi 
+pelaksanaan tugas Direksi dalam mengelola Perseroan. 
+In the corporate governance structure, the GMS occupies 
+the highest position and has broader authority and rights that 
+exceed the Board of Commissioners and Board of Directors. 
+As the highest executive body of the Company, the Board of 
+Directors is collectively responsible for managing the Company, 
+including in making strategic decisions, and ensuring the 
+company operates well against economic, environmental 
+and social risks. As the supervisory body, the Board of 
+Commissioners is authorized to oversee the implementation of 
+the duties of the Board of Directors in managing the Company. 
+[GRI 2-9, 2-11, 2-14] [POJK E.1]
+RUPS
+GMS
+Dewan Komisaris
+Board of Commissioners
+Direksi
+Board of Directors
+Komite Audit
+Audit Committee
+Komite Nominasi
+& Remunerasi
+Nomination & Remuneration 
+Committee
+Unit Audit Internal
+Internal Audit Unit
+Sekretaris Perusahaan & 
+Hubungan Investor
+Corporate Secretary & 
+Investor Relation
+Ikhtisar Kinerja
+Performance Overview
+Laporan Manajemen
+Management Report
+Profil Perusahaan
+Company Profile
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+100
+Rapat Umum Pemegang Saham (RUPS)
+General Meeting of Shareholders (GMS)
+Sebagai organ tertinggi Perseroan, Rapat Umum Pemegang 
+Saham (RUPS) memiliki wewenang mutlak dalam pengambilan 
+keputusan strategis Perseroan yang tidak dapat didelegasikan 
+kepada Dewan Komisaris atau Direksi, sehingga memastikan 
+bahwa kepentingan seluruh pemegang saham terwakili.
+Pelaksanaan Rapat Umum Pemegang Saham dilakukan 
+Perseroan secara berkala dengan mengacu pada ketentuan 
+Undang-Undang No. 40 tahun 2007, Peraturan OJK No. 15/
+POJK.04/2020 tentang Rencana dan Penyelenggaraan Rapat 
+Umum Pemegang Saham Perusahaan Terbuka, Peraturan 
+OJK No. 16/POJK.04/2020 tentang Pelaksanaan Rapat Umum 
+Pemegang Saham Perusahaan Terbuka Secara Elektronik, dan 
+Anggaran Dasar Perseroan.
+As the highest organ of the Company, the General Meeting 
+of Shareholders (GMS) has absolute authority in making 
+strategic decisions of the Company that cannot be delegated 
+to the Board of Commissioners or the Board of Directors, thus 
+ensuring that the interests of all shareholders are represented.
+The implementation of the General Meeting of Shareholders 
+is carried out by the Company on a regular basis by referring 
+to the provisions of Law No.40 of 2007, OJK Regulation No. 
+15/POJK.04/2020 concerning the Plan and Implementation 
+of General Meeting of Shareholders of Public Companies, 
+OJK 
+Regulation 
+No. 
+16/POJK.04/2020 
+concerning 
+the 
+Implementation of Electronic General Meeting of Shareholders 
+of Public Companies, and the Company's Articles of 
+Association.
+Mekanisme Pemungutan Suara
+Voting Mechanism
+•	
+Pemungutan Suara Secara Fisik
+Sebelum memasuki ruang Rapat, setiap pemegang saham 
+yang hadir secara fisik akan diberikan kartu suara sebagai 
+sarana untuk memberikan hak suaranya. Bagi pemegang 
+saham yang hadir secara fisik dan memilih untuk abstain 
+atau tidak setuju, dapat menentukan pilihannya dengan 
+mengangkat tangan dan menyerahkan kartu suara kepada 
+petugas.
+•	
+Pemungutan Suara Secara Elektronik
+Pemegang saham yang berpartisipasi secara elektronik 
+dapat mendelegasikan hak suaranya melalui sistem 
+e-Proxy pada aplikasi eASY.KSEI untuk memberikan suara 
+dalam RUPS. Proses pemungutan suara bagi peserta rapat 
+secara elektronik akan dilakukan melalui fitur "e-voting 
+eASY.KSEI" yang dapat diakses pada menu "E-Meeting 
+Hall", sub-menu "Live Broadcasting" dalam aplikasi eASY.
+KSEI.
+Setelah waktu pemungutan suara untuk Agenda Rapat 
+ditutup, seluruh suara yang diberikan peserta Rapat, baik 
+melalui e-Proxy eASY.KSEI dan e-Voting eASY.KSEI, akan 
+dihitung oleh Biro Administrasi Efek dan hasil perhitungan 
+suara tersebut akan diverifikasi oleh Notaris dan kemudian, 
+Notaris akan membacakan hasil penghitungan suara 
+kepada seluruh peserta rapat.
+•	
+Physical Voting
+Before entering the Meeting room, each shareholder who 
+is physically present will be given a voting card as a means 
+to cast their voting rights. Shareholders who are physically 
+present and choose to abstain or disagree, can indicate 
+their choice by raising their hands and handing over the 
+voting card to the officer.
+•	
+Electronic Voting
+Shareholders who participate electronically can delegate 
+their voting rights through the e-Proxy system in the eASY.
+KSEI application to vote at the GMS. The voting process 
+for electronic meeting participants will be carried out 
+through the “e-voting eASY.KSEI” feature which can be 
+accessed on the “E-Meeting Hall” menu, sub-menu “Live 
+Broadcasting” in the eASY.KSEI application.
+After the voting time for the Meeting Agenda is closed, 
+all votes cast by the Meeting participants, both through 
+e-Proxy eASY.KSEI and e-Voting eASY.KSEI, will be 
+counted by the Share Registrar. The vote count results 
+will then be verified by the Notary, who will subsequently 
+announce the results to all meeting participant. 
+Tata Kelola Perusahaan
+Good Corporate Governance
+Laporan Keberlanjutan
+Sustainability Report
+Laporan Tahunan Terintegrasi | Integrated Annual Report
+101

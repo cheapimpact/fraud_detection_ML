@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PTMP-att1.pdf",
+    "ticker": "PTMP_2023",
+    "mdma_start": "56",
+    "mdma_end": "79",
+    "Positive_Sum": 2706.0,
+    "Negative_Sum": 2534.0,
+    "Total_Matched_Words": 1703,
+    "Total_Word": 11164,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

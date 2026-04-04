@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BIPI-att1.pdf",
+    "ticker": "BIPI_2024",
+    "mdma_start": "103",
+    "mdma_end": "130",
+    "Positive_Sum": 2514.0,
+    "Negative_Sum": 2200.0,
+    "Total_Matched_Words": 1591,
+    "Total_Word": 10754,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

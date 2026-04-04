@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SQMI-att1.pdf",
+    "ticker": "SQMI_2023",
+    "mdma_start": "44",
+    "mdma_end": "75",
+    "Positive_Sum": 3224.0,
+    "Negative_Sum": 3703.0,
+    "Total_Matched_Words": 2210,
+    "Total_Word": 14097,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

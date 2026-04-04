@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DOID-att2.pdf",
+    "ticker": "DOID_2024",
+    "mdma_start": "114",
+    "mdma_end": "167",
+    "Positive_Sum": 6267.0,
+    "Negative_Sum": 5994.0,
+    "Total_Matched_Words": 3976,
+    "Total_Word": 24951,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

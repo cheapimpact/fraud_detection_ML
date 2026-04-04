@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-INDR-att2.pdf",
+    "ticker": "INDR_2024",
+    "mdma_start": "28",
+    "mdma_end": "36",
+    "Positive_Sum": 1324.0,
+    "Negative_Sum": 1681.0,
+    "Total_Matched_Words": 952,
+    "Total_Word": 5082,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-HOMI-att1.pdf",
+    "ticker": "HOMI_2024",
+    "mdma_start": "64",
+    "mdma_end": "80",
+    "Positive_Sum": 1592.0,
+    "Negative_Sum": 2095.0,
+    "Total_Matched_Words": 1141,
+    "Total_Word": 8036,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

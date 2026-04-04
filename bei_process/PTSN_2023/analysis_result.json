@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PTSN-att2.pdf",
+    "ticker": "PTSN_2023",
+    "mdma_start": "72",
+    "mdma_end": "91",
+    "Positive_Sum": 2208.0,
+    "Negative_Sum": 2517.0,
+    "Total_Matched_Words": 1493,
+    "Total_Word": 10006,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

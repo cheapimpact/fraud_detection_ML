@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CANI-att1.pdf",
+    "ticker": "CANI_2023",
+    "mdma_start": "80",
+    "mdma_end": "103",
+    "Positive_Sum": 2871.0,
+    "Negative_Sum": 3861.0,
+    "Total_Matched_Words": 2090,
+    "Total_Word": 12648,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

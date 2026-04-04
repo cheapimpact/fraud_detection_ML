@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CSRA-att3.pdf",
+    "ticker": "CSRA_2024",
+    "mdma_start": "94",
+    "mdma_end": "127",
+    "Positive_Sum": 3949.0,
+    "Negative_Sum": 4334.0,
+    "Total_Matched_Words": 2711,
+    "Total_Word": 18481,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

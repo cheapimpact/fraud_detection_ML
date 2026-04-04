@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GULA-att2.pdf",
+    "ticker": "GULA_2024",
+    "mdma_start": "31",
+    "mdma_end": "52",
+    "Positive_Sum": 2096.0,
+    "Negative_Sum": 2505.0,
+    "Total_Matched_Words": 1421,
+    "Total_Word": 9785,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

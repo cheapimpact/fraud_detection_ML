@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-RDTX-att1.pdf",
+    "ticker": "RDTX_2024",
+    "mdma_start": "54",
+    "mdma_end": "68",
+    "Positive_Sum": 1492.0,
+    "Negative_Sum": 1815.0,
+    "Total_Matched_Words": 1050,
+    "Total_Word": 6147,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

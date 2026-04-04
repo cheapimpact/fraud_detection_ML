@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KMTR-att1.pdf",
+    "ticker": "KMTR_2024",
+    "mdma_start": "66",
+    "mdma_end": "85",
+    "Positive_Sum": 2454.0,
+    "Negative_Sum": 2426.0,
+    "Total_Matched_Words": 1564,
+    "Total_Word": 9561,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TARA-att2.pdf",
+    "ticker": "TARA_2023",
+    "mdma_start": "66",
+    "mdma_end": "79",
+    "Positive_Sum": 1318.0,
+    "Negative_Sum": 1260.0,
+    "Total_Matched_Words": 815,
+    "Total_Word": 5943,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

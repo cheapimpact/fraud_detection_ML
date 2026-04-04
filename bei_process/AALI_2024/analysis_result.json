@@ -1,0 +1,11 @@
+{
+    "target_file": "AnnualReport2024-AALI-att1.pdf",
+    "ticker": "AALI_2024",
+    "mdma_start": "94",
+    "mdma_end": "117",
+    "Positive_Sum": 3537.0,
+    "Negative_Sum": 3294.0,
+    "Total_Matched_Words": 2147,
+    "Total_Word": 14682,
+    "processed_at": "2026-02-08"
+}

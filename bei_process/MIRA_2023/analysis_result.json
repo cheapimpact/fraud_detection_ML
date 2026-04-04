@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MIRA-att2.pdf",
+    "ticker": "MIRA_2023",
+    "mdma_start": "63",
+    "mdma_end": "75",
+    "Positive_Sum": 887.0,
+    "Negative_Sum": 1518.0,
+    "Total_Matched_Words": 717,
+    "Total_Word": 4777,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

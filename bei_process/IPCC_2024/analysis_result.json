@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-IPCC-att1.pdf",
+    "ticker": "IPCC_2024",
+    "mdma_start": "196",
+    "mdma_end": "275",
+    "Positive_Sum": 9089.0,
+    "Negative_Sum": 9006.0,
+    "Total_Matched_Words": 5898,
+    "Total_Word": 36441,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

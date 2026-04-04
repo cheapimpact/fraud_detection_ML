@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DGIK-att2.pdf",
+    "ticker": "DGIK_2023",
+    "mdma_start": "117",
+    "mdma_end": "139",
+    "Positive_Sum": 2564.0,
+    "Negative_Sum": 2114.0,
+    "Total_Matched_Words": 1517,
+    "Total_Word": 9690,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

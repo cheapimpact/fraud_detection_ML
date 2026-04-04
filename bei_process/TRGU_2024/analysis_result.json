@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TRGU-att2.pdf",
+    "ticker": "TRGU_2024",
+    "mdma_start": "53",
+    "mdma_end": "63",
+    "Positive_Sum": 1638.0,
+    "Negative_Sum": 1595.0,
+    "Total_Matched_Words": 1028,
+    "Total_Word": 6607,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

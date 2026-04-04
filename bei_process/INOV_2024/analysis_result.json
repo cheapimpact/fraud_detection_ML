@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-INOV-att1.pdf",
+    "ticker": "INOV_2024",
+    "mdma_start": "69",
+    "mdma_end": "82",
+    "Positive_Sum": 1514.0,
+    "Negative_Sum": 1432.0,
+    "Total_Matched_Words": 970,
+    "Total_Word": 7097,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ROCK-att1.pdf",
+    "ticker": "ROCK_2023",
+    "mdma_start": "46",
+    "mdma_end": "61",
+    "Positive_Sum": 1627.0,
+    "Negative_Sum": 1600.0,
+    "Total_Matched_Words": 1056,
+    "Total_Word": 6765,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

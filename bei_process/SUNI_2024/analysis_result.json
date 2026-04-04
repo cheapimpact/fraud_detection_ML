@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SUNI-att2.pdf",
+    "ticker": "SUNI_2024",
+    "mdma_start": "72",
+    "mdma_end": "90",
+    "Positive_Sum": 2648.0,
+    "Negative_Sum": 2313.0,
+    "Total_Matched_Words": 1569,
+    "Total_Word": 10314,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DART-att2.pdf",
+    "ticker": "DART_2023",
+    "mdma_start": "50",
+    "mdma_end": "77",
+    "Positive_Sum": 3357.0,
+    "Negative_Sum": 4207.0,
+    "Total_Matched_Words": 2491,
+    "Total_Word": 18717,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

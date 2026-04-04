@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ARII-att1.pdf",
+    "ticker": "ARII_2024",
+    "mdma_start": "72",
+    "mdma_end": "89",
+    "Positive_Sum": 2198.0,
+    "Negative_Sum": 1912.0,
+    "Total_Matched_Words": 1326,
+    "Total_Word": 8175,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

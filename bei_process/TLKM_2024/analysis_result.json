@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TLKM-att4.pdf",
+    "ticker": "TLKM_2024",
+    "mdma_start": "112",
+    "mdma_end": "178",
+    "Positive_Sum": 10965.0,
+    "Negative_Sum": 9987.0,
+    "Total_Matched_Words": 6726,
+    "Total_Word": 24027,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

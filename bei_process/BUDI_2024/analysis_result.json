@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BUDI-att3.pdf",
+    "ticker": "BUDI_2024",
+    "mdma_start": "58",
+    "mdma_end": "76",
+    "Positive_Sum": 1843.0,
+    "Negative_Sum": 2144.0,
+    "Total_Matched_Words": 1295,
+    "Total_Word": 8088,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

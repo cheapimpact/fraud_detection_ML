@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CNTX-att1.pdf",
+    "ticker": "CNTX_2024",
+    "mdma_start": "54",
+    "mdma_end": "76",
+    "Positive_Sum": 2800.0,
+    "Negative_Sum": 3352.0,
+    "Total_Matched_Words": 1943,
+    "Total_Word": 14224,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

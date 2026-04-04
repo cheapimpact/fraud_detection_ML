@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MSIN-att1.pdf",
+    "ticker": "MSIN_2023",
+    "mdma_start": "124",
+    "mdma_end": "136",
+    "Positive_Sum": 1098.0,
+    "Negative_Sum": 1093.0,
+    "Total_Matched_Words": 718,
+    "Total_Word": 5610,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

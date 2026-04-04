@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BRNA-att1.pdf",
+    "ticker": "BRNA_2023",
+    "mdma_start": "67",
+    "mdma_end": "88",
+    "Positive_Sum": 2220.0,
+    "Negative_Sum": 2658.0,
+    "Total_Matched_Words": 1534,
+    "Total_Word": 9981,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

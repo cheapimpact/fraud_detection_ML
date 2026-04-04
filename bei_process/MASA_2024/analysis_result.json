@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MASA-att2.pdf",
+    "ticker": "MASA_2024",
+    "mdma_start": "49",
+    "mdma_end": "61",
+    "Positive_Sum": 1677.0,
+    "Negative_Sum": 2063.0,
+    "Total_Matched_Words": 1182,
+    "Total_Word": 7166,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

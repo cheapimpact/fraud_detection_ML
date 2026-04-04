@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-NCKL-att2.pdf",
+    "ticker": "NCKL_2023",
+    "mdma_start": "97",
+    "mdma_end": "131",
+    "Positive_Sum": 4145.0,
+    "Negative_Sum": 4233.0,
+    "Total_Matched_Words": 2785,
+    "Total_Word": 19836,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

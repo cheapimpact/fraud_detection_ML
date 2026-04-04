@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SMBR-att2.pdf",
+    "ticker": "SMBR_2024",
+    "mdma_start": "292",
+    "mdma_end": "367",
+    "Positive_Sum": 10486.0,
+    "Negative_Sum": 7617.0,
+    "Total_Matched_Words": 5739,
+    "Total_Word": 35874,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

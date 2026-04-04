@@ -1,0 +1,2917 @@
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+86
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+TINJAUAN MAKROEKONOMI  
+Macroeconomics Overview
+Tahun 2024 menjadi periode penuh dinamika bagi 
+perekonomian global, yang terus dihadapkan pada 
+ketidakpastian 
+akibat 
+meningkatnya 
+ketegangan 
+geopolitik, kebijakan moneter ketat di negara maju, serta 
+volatilitas harga komoditas yang mengganggu rantai 
+pasok dunia. Tekanan terhadap pertumbuhan ekonomi 
+semakin terasa, sebagaimana tercermin dalam laporan 
+yang dirilis oleh International Monetary Fund (IMF). IMF 
+memperkirakan pertumbuhan ekonomi global tahun 
+2024 sebesar 3,30%, lebih rendah dibandingkan rata-
+rata historis 3,70% pada periode 2000-2019l[1].
+Di 
+tengah 
+ketidakpastian 
+global, 
+perekonomian 
+Indonesia tetap mampu menunjukkan ketahanan yang 
+cukup baik. Berdasarkan data Badan Pusat Statistik 
+(BPS), pertumbuhan ekonomi nasional tahun 2024 
+tercatat sebesar 5,03% secara tahunan (C-to-C).
+Dalam sektor perdagangan internasional, Indonesia 
+mencatat surplus perdagangan sebesar 31,04 miliar 
+dolar AS, yang merupakan angka terendah dalam empat 
+tahun terakhir. Penurunan ini dipicu oleh meningkatnya 
+impor bahan baku 5,29% dan barang modal sebesar 
+5,34%, mengindikasikan tingginya permintaan industri 
+domestik. Sementara itu, pelemahan ekspor di sektor 
+pertambangan akibat fluktuasi harga komoditas global 
+turut berkontribusi terhadap menurunnya surplus. 
+Meskipun ekspor tetap tumbuh sebesar 2,29%, 
+percepatan pertumbuhan impor mengindikasikan bahwa 
+aktivitas industri dalam negeri masih terjaga, sekaligus 
+mencerminkan daya beli masyarakat yang tetap kuat [3].
+Inflasi pada tahun 2024 berada pada tingkat yang relatif 
+terkendali di angka 1,57%, meskipun terdapat disparitas 
+antarwilayah. Kenaikan harga barang kebutuhan pokok, 
+khususnya makanan dan minuman, serta lonjakan biaya 
+jasa seperti perawatan pribadi yang meningkat hingga 
+7,02%, menjadi faktor utama yang mendorong inflasi. 
+Pemerintah menanggapi kondisi ini dengan menerapkan 
+kebijakan 
+ekonomi 
+yang 
+lebih 
+fleksibel, 
+seperti 
+penyesuaian subsidi energi di daerah dengan inflasi 
+tinggi serta penguatan program bantuan sosial guna 
+menjaga daya beli masyarakat yang paling terdampak. 
+[4].
+2024 has been a dynamic period for the global 
+economy, which continues to face uncertainty due to 
+rising geopolitical tensions, tight monetary policies in 
+developed countries, and commodity price volatility 
+disrupting global supply chains. The pressure on 
+economic growth is becoming more evident, as reflected 
+in the World Economic Outlook report released by the 
+International Monetary Fund (IMF). The IMF forecasts 
+global economic growth 2024 at 3.30%, lower than the 
+historical average of 3.70% from 2000 to 2019[1].
+Amid global uncertainty, Indonesia’s economy has 
+managed to demonstrate a strong level of resilience. 
+According to data from the Central Statistics Agency 
+(BPS), national economic growth 2024 is recorded at 
+5.03% year-on-year (C-to-C). 
+In the international trade sector, Indonesia recorded 
+a trade surplus of USD 31.04 billion, the lowest figure 
+in the last four years. This decline was driven by a 
+5.29% increase in raw material imports and a 5.34% 
+rise in capital goods imports, reflecting high demand 
+in the domestic industry. Meanwhile, weaker mining 
+exports due to global commodity price fluctuations also 
+contributed to the reduced surplus. While exports still 
+grew by 2.29%, the faster growth of imports indicates that 
+domestic industrial activity remains healthy, reflecting 
+the continued purchasing power of the public [3].
+In 2024, inflation remained relatively under control at 
+1.57%, despite regional disparities. The rise in the prices 
+of basic goods, particularly food and beverages, and a 
+sharp increase in service costs, such as personal care, 
+which rose by 7.02%, were the main factors driving 
+inflation. The government responded by implementing 
+more flexible economic policies, such as adjusting energy 
+subsidies in regions with high inflation and strengthening 
+social assistance programs to maintain the purchasing 
+power of the most affected communities. [4].
+Management Discussion and Analysis
+87
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Fluktuasi nilai tukar Rupiah menjadi tantangan utama 
+dalam menjaga stabilitas ekonomi nasional. Sepanjang 
+tahun, Rupiah mengalami pergerakan yang cukup 
+signifikan, dengan posisi tertinggi sebesar Rp15.516,19 
+per dolar AS pada 2 Januari 2024 dan posisi terendah 
+Rp16.517,17 per dolar AS pada 27 Juni 2024. Rata-rata 
+nilai tukar tahunan tercatat pada Rp16.092,06 untuk kurs 
+jual dan Rp15.931,94 untuk kurs beli [5], yang lebih lemah 
+dibandingkan asumsi dasar ekonomi makro dalam APBN 
+2024 yang memperkirakan Rp15.000 per dolar AS [6]. 
+Pelemahan Rupiah ini dipengaruhi oleh kebijakan suku 
+bunga The Fed serta intervensi Bank Indonesia dalam 
+menjaga stabilitas pasar valuta asing.
+Secara keseluruhan, perekonomian Indonesia pada 
+tahun 2024 tetap tumbuh stabil meskipun dihadapkan 
+pada berbagai tantangan eksternal dan domestik. Sektor 
+pertambangan, manufaktur, dan ekspor komoditas 
+menjadi yang paling terdampak oleh ketidakpastian 
+global, terutama akibat fluktuasi harga bahan baku 
+serta perubahan kebijakan perdagangan internasional. 
+Kendati demikian, kombinasi kebijakan moneter yang 
+adaptif serta strategi fiskal yang pro-pertumbuhan 
+memungkinkan 
+Indonesia 
+untuk 
+mempertahankan 
+momentum pemulihan ekonomi serta memperkuat 
+fundamentalnya dalam menghadapi tantangan di tahun 
+2025.
+Tinjauan Industri Nikel
+Industri nikel global pada tahun 2024 mengalami 
+perubahan yang signifikan, dipengaruhi oleh kebijakan 
+pemerintah, tren harga, serta dinamika permintaan dan 
+produksi di tingkat domestik maupun internasional. 
+Indonesia, sebagai produsen nikel terbesar dunia, 
+memiliki peran strategis dalam menentukan arah 
+industri ini. Sepanjang 2024, harga nikel di London 
+Metal Exchange (LME) mengalami fluktuasi yang cukup 
+signifikan dan akhirnya ditutup pada titik terendah 
+dalam beberapa tahun terakhir. Pada Desember 2024, 
+pemerintah 
+Indonesia 
+juga 
+mulai 
+mengumumkan 
+rencana 
+penyesuaian 
+kuota 
+produksi 
+guna 
+menyeimbangkan pasokan dan permintaan internasional. 
+ 
+Secara 
+keseluruhan, 
+industri 
+nikel 
+pada 
+2024 
+menghadapi tantangan kompleks dan meski hilirisasi 
+dan investasi terus berkembang, keberlanjutan industri 
+ini sangat bergantung pada keseimbangan antara 
+pertumbuhan ekonomi, stabilitas pasar, dan konservasi 
+lingkungan.
+The fluctuation of the Rupiah exchange rate has been 
+a primary challenge in maintaining national economic 
+stability. Throughout the year, the Rupiah experienced 
+significant 
+movement, 
+reaching 
+its 
+highest 
+at 
+Rp15,516.19 per USD on January 2, 2024, and its lowest 
+at Rp16,517.17 per USD on June 27, 2024. The average 
+annual exchange rate was recorded at Rp16,092.06 for 
+the selling rate and Rp15,931.94 for the buying rate [5], 
+which is weaker than the macroeconomic assumption in 
+the 2024 State Budget, forecasted an exchange rate of 
+Rp15,000 per USD [6]. The depreciation of the Rupiah 
+was influenced by the Federal Reserve’s interest rate 
+policies and Bank Indonesia’s interventions to maintain 
+foreign exchange market stability.
+Overall, Indonesia’s economy in 2024 continued to 
+grow steadily despite facing various external and 
+domestic challenges. The mining, manufacturing, and 
+commodity export sectors were the most affected by 
+global uncertainty, particularly due to fluctuations in 
+raw material prices and changes in international trade 
+policies. Nevertheless, adaptive monetary policies and 
+pro-growth fiscal strategies allowed Indonesia to maintain 
+its economic recovery momentum and strengthen its 
+fundamentals to face challenges in 2025.
+ 
+NIckel Industry Overview
+The global nickel industry underwent significant changes 
+in 2024, driven by government policies, price trends, 
+and demand and production dynamics domestically 
+and internationally. As the world’s largest nickel 
+producer, Indonesia plays a strategic role in shaping 
+this industry path. Throughout 2024, nickel prices 
+on the London Metal Exchange (LME) experienced 
+significant fluctuations and eventually closed at their 
+lowest level in several years. Further, the Indonesian 
+government announced a plan for production quota 
+adjustment to balance global supply and demand. 
+ 
+Overall, the nickel industry in 2024 faced complex 
+challenges and despite the increasing investment and 
+downstreaming agenda, this industry’s sustainability 
+depends largely on balancing economic growth, market 
+stability, and environmental conservation.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+88
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+TINJAUAN OPERASI PER SEGMEN USAHA  
+Review of Operations by Business Segment
+Perseroan berkomitmen untuk terus mengembangkan 
+dan mengoptimalkan kegiatan operasionalnya, dengan 
+fokus utama pada segmen pertambangan nikel serta 
+kontribusi dari aktivitas non-pertambangan sebagai 
+bagian dari strategi diversifikasi usaha. Dengan wilayah 
+eksplorasi dan eksploitasi yang mencakup 1.975 hektar 
+di Kabupaten Konawe Utara, Sulawesi Tenggara, 
+Perseroan mengoperasikan kegiatan penambangan 
+berdasarkan Izin Usaha Pertambangan Operasi Produksi 
+(IUP OP) yang berlaku hingga Desember 2030​.
+Tahun 2024 menjadi periode yang penuh tantangan 
+dan peluang bagi Perseroan, dengan fokus utama 
+pada peningkatan efisiensi produksi, optimalisasi rantai 
+pasok, dan peningkatan kualitas produk untuk memenuhi 
+permintaan 
+smelter 
+domestik. 
+Perseroan 
+telah 
+menetapkan strategi bisnis yang berkelanjutan guna 
+memastikan pertumbuhan yang stabil dan meningkatkan 
+profitabilitas dalam jangka panjang.
+Dengan menerapkan standar industri yang ketat, 
+termasuk kepatuhan terhadap regulasi dan penerapan 
+teknologi mutakhir, Perseroan berupaya untuk tetap 
+menjadi pemain utama di industri nikel Indonesia. Kinerja 
+operasional Perseroan tercermin dalam aspek produksi, 
+pendapatan, dan profitabilitas yang akan dijabarkan 
+dalam tinjauan segmen usaha berikut.
+PRODUKSI
+Proyek Penambangan:
+Proyek 
+penambangan 
+sepenuhnya 
+dimiliki 
+dan 
+dioperasikan oleh Perseroan, mencakup dua area 
+utama, yaitu Blok A dan Blok B, dengan luas konsesi 
+keseluruhan mencapai 1.975 hektar. Perseroan telah 
+memperoleh sertifikat Clean and Clear yang menjamin 
+tidak adanya tumpang tindih dengan izin pertambangan 
+lainnya serta telah mengantongi izin terminal khusus 
+untuk kegiatan pengapalan yang diberikan oleh 
+Kementerian Perhubungan.
+The Company remains committed to continuously 
+developing and optimizing its operations, with a primary 
+focus on the nickel mining segment, complemented by 
+contributions from non-mining activities as part of its 
+business diversification strategy. With an exploration 
+and exploitation area covering 1,975 hectares in North 
+Konawe Regency, Southeast Sulawesi, the Company 
+conducts mining activities under a Mining Business 
+License for Production Operations (IUP OP), which is 
+valid until December 2030.
+The year 2024 presents both challenges and opportunities 
+for the Company, with a primary focus on improving 
+production efficiency, optimizing the supply chain, and 
+enhancing product quality to meet domestic smelter 
+demand. The Company has established a sustainable 
+business strategy to ensure stable growth and long-term 
+profitability.
+By adhering to strict industry standards, including 
+regulatory compliance and the application of advanced 
+technology, the Company strives to remain a leading 
+player in Indonesia’s nickel industry. The Company’s 
+operational performance is reflected in production, 
+revenue, and profitability, which will be detailed in the 
+following business segment review.
+PRODUCTION
+Mining Project:
+The mining project is fully owned and operated by the 
+Company, covering two main areas, Block A and Block 
+B, with a total concession area of 1,975 hectares. The 
+Company has obtained a Clean and Clear certificate, 
+ensuring that there are no overlaps with other mining 
+permits. Additionally, the Company has secured a special 
+terminal permit for shipping activities from the Ministry of 
+Transportation.
+Management Discussion and Analysis
+89
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Pada tahun 2014, operasi penambangan sempat 
+terhenti akibat regulasi yang melarang ekspor bijih 
+mentah. Namun, setelah regulasi diperbarui, kegiatan 
+penambangan kembali berlanjut pada tahun 2017, 
+dimulai dari deposit di Blok B dan kemudian di Blok A. 
+Bijih nikel yang diekstraksi oleh Perseroan merupakan 
+direct shipping ore (DSO), yang dipasok ke smelter 
+domestik di wilayah Sulawesi Tenggara dan Sulawesi 
+Tengah guna memenuhi kebutuhan industri pengolahan 
+nikel dalam negeri.
+Wilayah konsesi Perseroan dibagi menjadi tiga blok 
+utama:
+Blok 
+Block
+Luas
+(Ha)
+Keterangan
+Description 
+A
+1.216,95
+Terletak di sebelah barat Sungai Langgikima, fokus utama produksi
+Located to the west of the Langgikima River, the main focus of production.
+B
+728,04
+Terletak di sebelah timur Sungai Langgikima, dikembangkan untuk meningkatkan 
+kapasitas
+Located to the east of the Langgikima River, it is being developed to increase capacity.
+C
+30,01
+Digunakan untuk fasilitas pendukung seperti kantor, perkemahan, dan laboratorium
+Used for supporting facilities such as offices, camps, and laboratories.
+Hasil pemetaan geologi menunjukkan bahwa wilayah 
+konsesi Perseroan terdiri dari dua satuan litologi utama:
+•	
+Batuan ultramafik
+Terdiri dari peridotit-serpentinit yang mencakup 
+sekitar 1.898,44 ha dan terdapat di seluruh area.
+•	
+Batuan sedimen
+Berupa konglomerat yang mencakup sekitar 45,49 
+ha di bagian timur konsesi Perseroan.
+In 2014, mining operations were temporarily halted due 
+to regulations prohibiting the export of raw ore. However, 
+after regulatory adjustments, mining activities resumed 
+in 2017, starting with deposits in Block B, followed by 
+Block A. The nickel ore extracted by the Company is 
+Direct Shipping Ore (DSO), which is supplied to domestic 
+smelters in Southeast Sulawesi and Central Sulawesi to 
+meet the needs of the local nickel processing industry.
+The Company’s concession area is divided into three 
+main blocks:
+Geological mapping results indicate that the Company’s 
+concession area consists of two main lithological units:
+•	
+Ultramafic rock
+Composed 
+of 
+peridotite-serpentinite, 
+covering 
+approximately 
+1,898.44 
+hectares 
+and 
+found 
+throughout the entire area.
+•	
+Sedimentary rock
+Consisting of a conglomerate, covering approximately 
+45.49 hectares in the eastern part of the Company’s 
+concession.
+EXPLORATION
+PRODUCTION
+QA & QC
+SHIPMENT
+MINE
+ENGINEERING
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+90
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Proses Produksi:
+1.	
+Exploration
+Proses eksplorasi merupakan tahap awal yang 
+krusial dalam operasi, di mana fokus utama adalah 
+identifikasi dan penelitian potensi sumber daya nikel 
+di lokasi yang telah ditentukan. Perseroan mematuhi 
+standar JORC dengan ketat dan mengandalkan 
+metode bor tradisional untuk mendapatkan informasi 
+kualitas bijih nikel. Data geologi, geofisika, dan geo-
+kimia dikumpulkan secara cermat untuk menilai 
+potensi tambang.
+2.	
+Mine Engineering
+Setelah eksplorasi, Perseroan merancang tambang 
+berdasarkan 
+hasil 
+eksplorasi, 
+menentukan 
+metode penambangan yang paling efisien, serta 
+membangun infrastruktur pertambangan seperti 
+jalan dan instalasi operasional. Perseroan juga 
+menerapkan sistem manajemen keselamatan kerja 
+dan lingkungan yang ketat.
+3.	
+Production
+Perseroan 
+mengoperasikan 
+tambang 
+terbuka 
+dengan pendekatan sistematis yang efisien. Setelah 
+ekstraksi, sampel bijih dikirim ke laboratorium 
+untuk analisis kualitas sebelum penyimpanan dan 
+pengiriman.
+4.	
+QA & QC (Quality Assurance & Quality Control)
+Laboratorium Perseroan yang dilengkapi dengan 
+tiga mesin XRF memastikan data kandungan mineral 
+yang akurat. Ini memungkinkan pengelolaan stok 
+bijih yang efektif dan kepastian kualitas sebelum 
+pengiriman.
+5.	
+Shipment
+Setelah melalui tahap QA & QC, bijih nikel 
+dikemas dan dipersiapkan untuk pengiriman. 
+Perseroan bekerja sama dengan pihak logistik 
+untuk mengkoordinasikan transportasi bijih nikel ke 
+pelanggan atau pasar tujuan, dengan memastikan 
+pemenuhan regulasi ekspor dan lingkungan.
+Seiring dengan optimalisasi operasi di Blok A dan Blok 
+B, kapasitas produksi terus meningkat. Perseroan 
+juga 
+berencana 
+melakukan 
+pembaruan 
+teknologi 
+pertambangan serta memperluas eksplorasi guna 
+memastikan ketersediaan sumber daya nikel untuk 
+jangka panjang.
+Production Process:
+1.	
+Exploration
+The exploration process is a crucial initial stage in 
+operations, where the primary focus is on identifying 
+and researching potential nickel resources in 
+predetermined locations. The Company strictly 
+adheres to JORC standards and relies on traditional 
+drilling methods to obtain information on the 
+quality of nickel ore. Geological, geophysical, and 
+geochemical data are carefully collected to assess 
+the mining potential in the area.
+2.	
+Mine Engineering
+Following the exploration phase, the Company 
+designs the mine based on exploration results, 
+determines the most efficient mining method, and 
+develops mining infrastructure, including road 
+construction and operational facility installations. The 
+Company also implements a strict and integrated 
+work safety and environmental management system 
+to ensure that mining operations run safely and with 
+minimal impact on the surrounding environment.
+3.	
+Production
+The Company operates open-pit mining with 
+a systematic and efficient approach. After the 
+extraction process, ore samples are sent to the 
+laboratory for quality analysis before being stored 
+and shipped.
+4.	
+QA & QC (Quality Assurance & Quality Control)
+The Company’s laboratory is equipped with three 
+XRF machines, ensuring accurate mineral content 
+data. This system allows for effective ore stock 
+management and guarantees that the ore prepared 
+for shipment meets strict quality standards.
+5.	
+Shipment
+After passing the QA & QC process, nickel ore is 
+packaged and prepared for shipment. The Company 
+works closely with logistics partners to coordinate 
+the transportation of nickel ore to customers or 
+designated markets, ensuring full compliance with 
+export and environmental regulations.
+As the Company continues optimizing operations in 
+Block A and Block B, production capacity continues to 
+increase. Additionally, the Company plans to implement 
+mining technology upgrades and expand exploration to 
+secure long-term nickel resource availability.
+Management Discussion and Analysis
+91
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Kapasitas
+Jenis Produk
+Type of Product
+Satuan
+Unit
+2024%
+Jumlah Produksi
+Production Volume
+Volume Penjualan 
+Sales Volume
+Nilai Penjualan (Rp) 
+Total Sales (Rp)
+Nikel
+Nickel
+Metrik Ton (MT)
+Metric Ton (MT)
+1.833.869
+1.748.825
+694.306.977.057
+Jenis Produk
+Type of Product
+Satuan
+Unit
+2023
+Jumlah Produksi
+Production Volume
+Volume Penjualan 
+Sales Volume
+Nilai Penjualan (Rp) 
+Total Sales (Rp)
+Nikel
+Nickel
+Metrik Ton (MT)
+Metric Ton (MT)
+2.010.362
+1.989.455
+900.346.820.086
+Jenis Produk
+Type of Product
+Satuan
+Unit
+2022
+Jumlah Produksi
+Production Volume
+Volume Penjualan 
+Sales Volume
+Nilai Penjualan (Rp) 
+Total Sales (Rp)
+Nikel
+Nickel
+Metrik Ton (MT)
+Metric Ton (MT)
+1.489.294
+1.465.827
+867.842.629.537
+PENDAPATAN/PENJUALAN
+Pada tahun 2024, Perseroan mencatat total pendapatan 
+sebesar Rp616,01 miliar, yang berasal dari dua segmen 
+utama:
+1.	
+Segmen Pertambangan Nikel, dengan kontribusi 
+sebesar Rp591,46 miliar, berasal dari penjualan 
+bijih nikel ke smelter domestik di Sulawesi 
+Tenggara dan Sulawesi Tengah. Seluruh penjualan 
+ini dilakukan kepada entitas berelasi dan telah 
+disesuaikan dengan biaya pemasaran. Pendekatan 
+ini 
+mencerminkan 
+strategi 
+Perseroan 
+dalam 
+memperkuat sinergi antar entitas dalam Grup serta 
+meningkatkan efisiensi distribusi dan hubungan 
+jangka panjang dengan mitra strategis.
+2.	
+Segmen Lainnya, yang mencakup jasa dermaga 
+dan pendapatan operasional non-pertambangan 
+lainnya, menyumbang Rp24,55 miliar terhadap 
+total 
+pendapatan. 
+Kinerja 
+ini 
+mencerminkan 
+stabilitas kontribusi dari aktivitas pendukung dan 
+potensi diversifikasi pendapatan di luar aktivitas inti 
+pertambangan.
+Dengan tetap menjaga kualitas produk dan memperluas 
+jaringan pelanggan, Perseroan terus fokus dalam 
+mengoptimalkan kontribusi masing-masing segmen 
+guna memperkuat ketahanan dan daya saing bisnis 
+secara berkelanjutan.
+Capacity
+REVENUE/SALES
+In 2024, the Company recorded total revenue of 
+Rp616.01 billion, contributed by two main segments:
+1.	
+Nickel Mining Segment, which contributed Rp591.46 
+billion, derived from the sale of nickel ore to domestic 
+smelters located in Southeast and Central Sulawesi. 
+All sales were conducted with related parties and 
+have been adjusted for marketing fees. This reflects 
+the Company’s strategy to strengthen intra-group 
+synergies, improve distribution efficiency, and foster 
+long-term relationships with strategic partners.
+2.	
+Other Segment, which includes jetty services and 
+other non-mining operational income, contributed 
+Rp24.55 billion to total revenue. This performance 
+highlights the stable contribution from supporting 
+activities and the potential for income diversification 
+beyond the core mining operations.
+By maintaining product quality and expanding its 
+customer network, the Company remains focused on 
+optimizing each segment’s contribution to ensure long-
+term business resilience and competitiveness.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+92
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Profitabilitas Segmen Pertambangan Nikel
+Meskipun 
+terjadi 
+penyesuaian 
+pada 
+pendapatan, 
+segmen pertambangan nikel tetap menunjukkan kinerja 
+yang positif dari sisi profitabilitas. Perusahaan berhasil 
+menekan beban pokok penjualan hingga 36,09%, 
+mencerminkan efisiensi operasional yang semakin baik 
+dan pengelolaan biaya yang disiplin.
+Sebagai hasilnya, segmen ini mencatatkan laba kotor 
+sebesar Rp80,74 miliar dan laba bersih sebesar Rp12,65 
+miliar pada tahun 2024. Capaian ini mencerminkan 
+kontribusi berkelanjutan dari segmen pertambangan 
+terhadap kinerja konsolidasi Perusahaan, di tengah 
+tantangan eksternal dan fluktuasi harga komoditas.
+Uraian Pertambangan Nikel
+Description Nickel Mining
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Penjualan Bersih
+Net sales
+591.457.275.064
+900.346.820.086
+(34,31)
+Beban Pokok Penjualan
+Cost of goods sold
+(510.713.064.663)
+(799.173.592.455)
+(36,09)
+Laba Kotor
+Gross profit
+80.744.210.401
+101.173.227.631
+(20,19)
+Laba Bersih
+Net Profit
+12.652.647.822
+34.361.838.777
+(63,18)
+Profitabilitas Segmen Lainnya
+Segmen Lainnya, yang mencakup jasa dermaga 
+dan 
+pendapatan 
+operasional 
+non-pertambangan 
+lainnya, memberikan kontribusi stabil terhadap total 
+pendapatan Perusahaan. Pada tahun 2024, segmen ini 
+membukukan penjualan bersih sebesar Rp24,55 miliar. 
+Dengan pengelolaan operasional yang efisien, segmen 
+ini menghasilkan laba kotor sebesar Rp21,30 miliar dan 
+laba bersih sebesar Rp21,23 miliar.
+Kontribusi dari Segmen Lainnya ini menunjukkan potensi 
+diversifikasi sumber pendapatan dan ketahanan model 
+bisnis Perusahaan, terutama dalam menjaga profitabilitas 
+di tengah tantangan eksternal sektor komoditas.
+Uraian Pertambangan Nikel
+Description Nickel Mining
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Penjualan Bersih
+Net sales
+24.550.105.032
+27.595.113.123
+(11,03)
+Beban Pokok Penjualan
+Cost of goods sold
+3.249.116.576
+0
+100,00
+Laba Kotor
+Gross profit
+21.300.988.456
+27.595.113.123
+(22,81)
+Laba Bersih
+Net Profit
+21.234.910.945
+27.235.665.309
+(22,03)
+Profitability Nickel Mining Segment
+Despite an adjustment in revenue, the nickel mining 
+segment continued to deliver a solid profitability 
+performance. The Company successfully reduced 
+the cost of goods sold by 36.09%, reflecting improved 
+operational efficiency and disciplined cost management.
+As a result, the segment recorded a gross profit of 
+Rp80.74 billion and a net profit of Rp12.65 billion in 
+2024. This achievement demonstrates the continued 
+contribution of the mining segment to the Company’s 
+consolidated performance amid external challenges and 
+commodity price fluctuations.
+Profitability Others Segment
+The Other Segments, which include jetty services and 
+other non-mining operating revenues, provided a stable 
+contribution to the Company’s total revenues. In 2024, 
+this segment recorded net sales of Rp24.55 billion. 
+Through efficient operational management, the segment 
+generated a gross profit of Rp21.30 billion and a net 
+profit of Rp21.23 billion.
+The contribution from Other Segments highlights the 
+Company’s potential for revenue diversification and the 
+resilience of its business model, particularly in sustaining 
+profitability amid external challenges in the commodity 
+sector.
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+Management Discussion and Analysis
+93
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+TINJAUAN KEUANGAN  
+Financial Reviews
+Perseroan menyajikan Laporan Kinerja Keuangan untuk 
+tahun buku yang berakhir tanggal 31 Desember 2024 
+berdasarkan Laporan Keuangan yang telah diaudit oleh 
+Kantor Akuntan Publik Liana Ramon Xenia & Rekan, 
+anggota firma Deloitte Southeast Asia Limited, dengan 
+opini wajar, dalam semua hal material, dengan laporan 
+auditor independen pada pada 26 Maret 2025 dengan 
+Nomor 00109/2.1460/AU.1/02/0565-1/1/III/2025 yang 
+ditandatangani oleh Akuntan Publik Muhammad Irfan, 
+CPA.
+LAPORAN KEUANGAN KONSOLIDASIAN
+Sepanjang tahun 2024, Perseroan mencatat kinerja 
+keuangan yang solid, meskipun menghadapi berbagai 
+tantangan eksternal. Pertumbuhan aset, pengelolaan 
+liabilitas yang optimal, serta peningkatan ekuitas 
+mencerminkan strategi bisnis yang terencana dan 
+berkelanjutan.
+Secara keseluruhan, pencapaian ini menunjukkan 
+fondasi keuangan yang semakin kuat, didukung oleh 
+strategi investasi yang tepat, pengelolaan modal kerja 
+yang efisien, serta pengendalian liabilitas yang optimal. 
+Dengan kondisi keuangan yang semakin solid, Perseroan 
+optimis untuk terus bertumbuh secara berkelanjutan dan 
+meningkatkan daya saing di industri pertambangan nikel.
+Laporan Keuangan Konsolidasi
+Consolidated Statements Of Financial Position
+Uraian
+Description
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Aset Lancar
+Current Assets
+149.387.445.761
+208.858.248.790
+(28,47)
+Aset Tidak Lancar
+Non Current Assets
+259.623.158.732
+124.374.718.893
+108,74
+Total Aset
+Total Assets
+409.010.604.493
+333.232.967.683
+22,74
+Liabilitas Jangka Pendek
+Short-term Liabilities
+195.228.534.814
+144.896.118.838
+34,74
+Liabilitas Jangka Panjang
+Long-term Liabilities
+39.110.490.531
+47.617.886.325
+(17,87)
+Total Liabilitas
+Total Liabilities
+234.339.025.345
+192.514.005.163
+21,73
+Ekuitas
+Equity
+174.671.579.148
+140.718.962.520
+24,13
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+The Company presented its Financial Performance 
+Report for the fiscal year ended December 31, 2024, 
+based on the Financial Statements audited by the 
+Public Accounting Firm Liana Ramon Xenia & Partners, 
+a member of Deloitte Southeast Asia Limited, with an 
+unqualified opinion in all material respects, as stated 
+in the independent auditor’s report dated March 26, 
+2025, Number 00109/2.1460/AU.1/02/0565-1/1/III/2025, 
+signed by Public Accountant Muhammad Irfan, CPA.
+CONSOLIDATED FINANCIAL STATEMENTS
+Throughout 2024, the Company recorded solid financial 
+performance despite facing various external challenges. 
+The growth in assets, optimal liability management, and 
+increased equity reflect a well-planned and sustainable 
+business strategy.
+Overall, these achievements demonstrate a stronger 
+financial foundation, supported by sound investment 
+strategies, efficient working capital management, and 
+effective liability control. With a more solid financial 
+condition, the Company remains optimistic about 
+achieving sustainable growth and enhancing its 
+competitiveness in the nickel mining industry.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+94
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+ASSETS
+Throughout 
+2024, 
+the 
+Company 
+continued 
+to 
+demonstrate financial resilience with significant asset 
+growth, reflecting a sustainable expansion strategy and 
+optimal financial management. Total assets increased by 
+22.%, from Rp333.23 billion in 2023 to Rp409.01 billion 
+in 2024.
+Current Assets
+Current assets decreased by 28.47%, from Rp208.86 
+billion to Rp149.39 billion. This decline was primarily 
+due to a significant reduction in trade receivables, 
+from Rp129.39 billion to Rp36.25 billion. This indicates 
+improved effectiveness in credit management policies 
+and accelerated cash collections, contributing to 
+enhanced liquidity and a stronger financial position for 
+the Company.
+Non- Current Assets
+Conversely, non-current assets grew significantly by 
+108.74%, from Rp124.37 billion in 2023 to Rp259.62 
+billion in 2024. This increase reflects strategic 
+investments made by the Company, particularly in the 
+form of enhancements to mining properties and fixed 
+assets, aimed at strengthening future production capacity 
+and operational efficiency.
+ASET
+Selama tahun 2024, Perseroan terus menunjukkan 
+ketahanan finansial dengan pertumbuhan aset yang 
+signifikan, 
+mencerminkan 
+strategi 
+ekspansi 
+yang 
+berkelanjutan dan pengelolaan keuangan yang optimal. 
+Total aset meningkat sebesar 22,74%, dari Rp333,23 
+miliar pada tahun 2023 menjadi Rp409,01 miliar di tahun 
+2024.
+Aset Lancar
+Aset lancar mengalami penurunan sebesar 28,47%, dari 
+Rp208,86 miliar menjadi Rp149,39 miliar. Penurunan 
+ini terutama disebabkan oleh turunnya piutang usaha 
+secara signifikan, dari Rp129,39 miliar menjadi Rp36,25 
+miliar. Hal ini mengindikasikan adanya peningkatan 
+efektivitas dalam kebijakan manajemen kredit dan 
+percepatan penerimaan kas, yang berkontribusi pada 
+peningkatan likuiditas dan penguatan posisi keuangan 
+Perseroan.
+Aset Tidak Lancar
+Sebaliknya, aset tidak lancar mengalami pertumbuhan 
+signifikan sebesar 108,74%, dari Rp124,37 miliar pada 
+tahun 2023 menjadi Rp259,62 miliar di tahun 2024. 
+Peningkatan ini mencerminkan investasi strategis 
+yang dilakukan Perseroan, terutama dalam bentuk 
+peningkatan properti pertambangan dan aset tetap, 
+guna memperkuat kapasitas produksi dan efisiensi 
+operasional di masa mendatang.
+63,5%
+36,5%
+Komposisi Aset 2024
+Asset Composition 2024
+Grafik Pertumbuhan Aset
+Asset Growth Chart
+Aset Tidak Lancar
+Non-Current Assets
+Aset Lancar
+Current Assets
+409.010.604.493
+2024
+2023
+100.000.000.000
+200.000.000.000
+300.000.000.000
+400.000.000.000
+500.000.000.000
+333.232.957.683
+(dalam Rupiah Penuh, kecuali dinyatakan lain)
+(in Full Rupiah, unless otherwise stated)
+Management Discussion and Analysis
+95
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+LIABILITAS
+Liabilitas Perseroan mengalami pertumbuhan sebesar 
+21,73%, dari Rp192,51 miliar pada tahun 2023 menjadi 
+Rp234,34 miliar di tahun 2024. Peningkatan ini terutama 
+terjadi pada utang usaha, yang naik dari Rp67,56 miliar 
+menjadi Rp103,95 miliar, serta munculnya pinjaman 
+jangka pendek sebesar Rp46,14 miliar, yang sebelumnya 
+tidak ada. 
+Peningkatan ini mencerminkan strategi pendanaan yang 
+lebih fleksibel guna mendukung ekspansi bisnis dan 
+kebutuhan operasional Perseroan.
+Liabilitas Jangka Pendek
+Liabilitas jangka pendek meningkat sebesar 34,74%, dari 
+Rp144,90 miliar menjadi Rp195,23 miliar. Peningkatan 
+ini terutama disebabkan oleh naiknya utang usaha dan 
+munculnya pinjaman jangka pendek sebesar Rp46,14 
+miliar, yang sebelumnya tidak ada. Hal ini menunjukkan 
+adanya strategi pendanaan jangka pendek yang lebih 
+fleksibel untuk mendukung ekspansi operasional dan 
+kebutuhan belanja modal Perseroan.
+83,31%
+16,69%
+Komposisi Liabilitas 2024
+Liability Composition 2024
+Grafik Pertumbuhan Liabilitas 
+Liabilities Growth Chart
+Liabilitas Jangka Pendek
+Current Liabilities
+Liabilitas Jangka Panjang
+Non-Current Liabilities
+LIABILITY
+The Company’s liabilities increased by 21.73%, from 
+Rp192.51 billion in 2023 to Rp234.34 billion in 2024. This 
+increase was mainly driven by a rise in trade payables, 
+from Rp67.56 billion to Rp103.95 billion, as well as the 
+emergence of short-term loans amounting to Rp46.14 
+billion, which had not existed previously.
+This growth reflects a more flexible funding strategy 
+to support the Company’s business expansion and 
+operational needs.
+Short-Term Liabilities
+Short-term liabilities increased by 34.74%, from 
+Rp144.90 billion to Rp195.23 billion. This increase was 
+primarily due to higher trade payables and the addition 
+of short-term loans of Rp46.14 billion. This indicates 
+a more flexible short-term funding strategy to support 
+the Company’s operational expansion and capital 
+expenditure.
+dalam rupiah | in rupiah
+234.339.025.345
+2024
+2023
+50.000.000.000
+100.000.000.000
+150.000.000.000
+200.000.000.000
+192.514.005.163
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+96
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Liabilitas Jangka Panjang
+Liabilitas jangka panjang mengalami penurunan sebesar 
+17,87%, dari Rp47,62 miliar menjadi Rp39,11 miliar. 
+Penurunan ini terutama disebabkan oleh penyesuaian 
+estimasi liabilitas imbalan pascakerja dan pembayaran 
+liabilitas sewa. Meskipun demikian, Perseroan tetap 
+menjaga keseimbangan struktur permodalan jangka 
+panjang secara berkelanjutan.
+EKUITAS
+Dari sisi ekuitas, Perseroan mencatat pertumbuhan yang 
+kuat, dengan total ekuitas meningkat sebesar 24,13%, dari 
+Rp140,72 miliar menjadi Rp174,67 miliar. Peningkatan 
+ini terutama berasal dari kenaikan saldo laba belum 
+dicadangkan, yang tumbuh dari Rp65,27 miliar menjadi 
+Rp99,22 miliar. Kenaikan ini mencerminkan keberhasilan 
+Perseroan dalam menghasilkan laba dan meningkatkan 
+nilai perusahaan bagi para pemegang saham. Struktur 
+ekuitas yang semakin kuat menjadi pondasi penting bagi 
+strategi pertumbuhan jangka panjang.
+Dengan struktur permodalan yang semakin solid, 
+Perseroan berada pada posisi yang kuat untuk 
+memperluas operasionalnya dan menciptakan nilai 
+jangka panjang bagi pemegang saham. Kombinasi 
+pertumbuhan ekuitas yang sehat dan strategi investasi 
+yang disiplin menempatkan Perseroan pada jalur 
+pertumbuhan 
+yang 
+berkelanjutan 
+di 
+tahun-tahun 
+mendatang.
+Grafik Pertumbuhan Ekuitas
+Equity Growth Chart
+174.671.579.148
+2024
+2023
+50.000.000.000
+100.000.000.000
+150.000.000.000
+200.000.000.000
+140.718.962.520
+Long-Term Liabilities
+Long-term liabilities decreased by 17.87%, from Rp47.62 
+billion to Rp39.11 billion. This decline was mainly due 
+to adjustments in post-employment benefit obligations 
+and lease liability payments. Nevertheless, the Company 
+continues to maintain a balanced long-term capital 
+structure in a sustainable manner.
+EQUITY
+In terms of equity, the Company recorded strong growth, 
+with total equity increasing by 24.13%, from Rp140.72 
+billion to Rp174.67 billion. This increase was mainly 
+driven by a rise in retained earnings, which grew from 
+Rp65.27 billion to Rp99.22 billion. The increase reflects 
+the Company’s success in generating profits and 
+enhancing shareholder value. A stronger equity structure 
+forms a vital foundation for long-term growth strategies.
+With a more solid capital structure, the Company is well-
+positioned to expand its operations and create long-term 
+value for shareholders. The combination of healthy equity 
+growth and disciplined investment strategies places the 
+Company on a sustainable growth trajectory in the years 
+to come.
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+Management Discussion and Analysis
+97
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+LAPORAN LABA (RUGI) DAN PENGHASILAN KOMPREHENSIF 
+LAIN KONSOLIDASI  
+Consolidated Statements of Profit (Loss) and Other Comprehensive Income
+Sepanjang tahun 2024, AKP berhasil menunjukkan 
+ketahanan operasional di tengah dinamika industri dan 
+tantangan eksternal. Meskipun terjadi penyesuaian 
+signifikan dalam pendapatan dan profitabilitas, Perseroan 
+tetap berfokus pada efisiensi biaya dan keberlanjutan 
+kinerja jangka panjang. Rincian kinerja keuangan dapat 
+dilihat pada tabel berikut:
+Uraian
+Description
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Pendapatan Bersih
+Net Revenues
+616.007.380.096
+927.941.933.209
+(33,62)
+Beban Pokok Pendapatan
+Cost of Revenues
+(513.962.181.239)
+(799.173.592.455)
+(35,69)
+Laba Kotor 
+Gross Profit
+102.045.198.857
+128.768.340.754
+(20,75)
+Beban umum dan administrasi 
+General and administrative expenses
+(48.319.107.602)
+(49.416.600.136)
+(2,22)
+Pendapatan (beban) lain-lain neto 
+Other incomes ,net
+(470.798.701)
+2.601.419.914
+(118,10)
+Laba sebelum Pajak 
+Profit Before Tax
+53.255.292.554
+81.953.160.532
+(35,02)
+Beban pajak penghasilan 
+Income Tax Expenses
+(19.302.675.926)
+(19.999.840.148)
+(3,49)
+Laba Tahun Berjalan sebelum Proforma Laba Entitas 
+Anak 
+Profit for the Year Before Proforma of Subidiary Profit
+33.952.616.628
+61.953.320.384
+(45,20)
+Proforma laba entitas anak 
+Proforma of subsidiary profit
+-
+37.412
+(100,00)
+Laba Bersih Tahun Berjalan 
+Net Profit for the Year
+33.952.616.628
+61.953.357.796
+(45,20)
+RUGI KOMPREHENSIF LAIN 
+OTHER COMPREHENSIVE LOSS
+-
+-
+Pos yang tidak akan direklasifikasi ke laba rugi 
+periode berikutnya: 
+Item not to be reclassified to profit or loss in subsequent 
+period:
+Kerugian aktuaria 
+Actuarial Loss
+-
+(635.928.000)
+(100,00)
+Pajak tangguhan terkait 
+Related deferred tax
+-
+139.904.160
+(100,00)
+Jumlah 
+Total
+(496.023.840)
+(100,00)
+JUMLAH LABA KOMPREHENSIF TAHUN 
+BERJALAN 
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+33.952.616.628
+61.457.333.956
+(44,75)
+Throughout 2024, AKP successfully demonstrated 
+operational resilience amid industry dynamics and 
+external challenges. Despite significant adjustments 
+in revenue and profitability, the Company remained 
+focused on cost efficiency and long-term performance 
+sustainability. The details of the financial performance 
+are presented in the following table:
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+98
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Uraian
+Description
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Laba (Rugi) Periode Berjalan yang  Dapat 
+Diatribusikan Kepada: 
+Income (Loss) for the Period  Attributable to:
+Pemilik entitas induk 
+Owners of the parent entity
+33.953.277.403
+61.956.951.900
+(45,20)
+Kepentingan non pengendali   
+Non-controlling interest"
+(660.775)
+(3.594.104)
+(81,62)
+Jumlah 
+Total
+33.952.616.628
+61.953.357.796
+(45,20)
+Jumlah Penghasilan (Rugi) Komprehensif yang 
+Dapat Diatribusikan Kepada: 
+Total Comprehensive Income (Loss) Attributable to:
+Pemilik entitas induk 
+Owners of the parent entity"
+33.953.277.403
+61.460.928.060
+(44,76)
+Kepentingan non pengendali 
+Non-controlling interest
+(660.775)
+(3.594.104)
+(81,62)
+Jumlah  
+Total
+33.952.616.628
+61.457.333.956
+(44,75)
+LABA PER SAHAM DASAR 
+BASIC EARNINGS PER SHARE
+5,58
+10,19
+(45,24)
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+Pendapatan Bersih
+Pendapatan bersih perusahaan pada tahun 2024 tercatat 
+sebesar Rp616,01 miliar, mengalami penurunan dari 
+Rp927,94 miliar pada tahun sebelumnya. Perubahan ini 
+terutama dipengaruhi oleh penurunan volume penjualan 
+nikel yang seluruhnya dijual kepada PT Energy Metal 
+Indonesia (EMI), pihak berelasi. Selain itu, biaya 
+pemasaran kepada EMI sebesar Rp102,85 miliar turut 
+mempengaruhi angka pendapatan. Perusahaan terus 
+melakukan evaluasi terhadap strategi pemasaran dan 
+ekspansi pasar guna memperkuat pertumbuhan di masa 
+mendatang.
+Beban Pokok Pendapatan
+Beban 
+pokok 
+pendapatan 
+mengalami 
+penurunan 
+sebesar 35,69%, dari Rp799,17 miliar pada tahun 2023 
+menjadi Rp513,96 miliar pada tahun 2024. Penurunan 
+ini lebih besar dibandingkan dengan perubahan pada 
+pendapatan, yang mengindikasikan adanya peningkatan 
+efisiensi dalam struktur biaya produksi. Faktor utama yang 
+berkontribusi dalam efisiensi ini meliputi optimalisasi biaya 
+jasa transportasi dan penambangan bijih nikel. Ke depan, 
+perusahaan akan terus berupaya meningkatkan efisiensi 
+operasional guna menjaga margin laba yang kompetitif.
+Net Revenues
+The Company’s net revenue in 2024 was recorded 
+at Rp616.01 billion, down from Rp927.94 billion in the 
+previous year. This change was mainly influenced by a 
+decrease in nickel sales volume which was entirely sold 
+to PT Energy Metal Indonesia (EMI), a related party. In 
+addition, marketing costs to EMI amounting to Rp102.85 
+billion also affected the revenue figure. The Company 
+continues to evaluate its marketing strategy and market 
+expansion to strengthen future growth.
+Cost of Revenues
+The cost of revenues decreased by 35.69%, from 
+Rp799.17 billion in 2023 to Rp513.96 billion in 2024. This 
+decrease outpaced the decline in revenue, indicating 
+improved efficiency in the Company’s production cost 
+structure. Key contributors to this efficiency include 
+optimization of transportation services, and mining 
+activities for nickel ore. Moving forward, the Company 
+remains committed to enhancing operational efficiency 
+to maintain competitive profit margins.
+Management Discussion and Analysis
+99
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Beban Umum dan Administrasi
+Beban umum dan administrasi menunjukkan stabilitas 
+dengan sedikit penurunan sebesar 2,22%, dari Rp49,42 
+miliar menjadi Rp48,32 miliar. Perusahaan terus menjaga 
+keseimbangan dalam pengelolaan biaya tetap, termasuk 
+pengelolaan gaji dan tunjangan, serta optimalisasi biaya 
+operasional lainnya. 
+Laba Bersih Tahun Berjalan
+Laba bersih tahun berjalan tercatat sebesar Rp33,95 
+miliar, menurun dari Rp61,95 miliar pada tahun 
+sebelumnya. Penurunan ini terutama dipengaruhi oleh 
+turunnya pendapatan, serta adanya fluktuasi pada pos 
+pendapatan/beban lain-lain. Namun demikian, strategi 
+efisiensi dan pengelolaan pajak yang lebih optimal 
+membantu mempertahankan profitabilitas.
+Penghasilan Komprehensif Tahun Berjalan
+Total penghasilan komprehensif tahun berjalan mencapai 
+Rp33,95 miliar, mengalami penurunan dari Rp61,46 miliar 
+pada tahun sebelumnya. Tidak adanya rugi aktuaria di 
+tahun berjalan serta kontribusi dari efisiensi biaya menjadi 
+faktor pendorong stabilitas laba komprehensif. Perseroan 
+terus memperkuat struktur keuangan untuk menjaga 
+kinerja berkelanjutan.
+General and Administrative Expenses
+General and administrative expenses showed stability 
+with a slight decrease of 2.22%, from Rp49.42 billion to 
+Rp48.32 billion. The Company maintains a disciplined 
+approach in managing fixed costs, including salaries and 
+employee benefits, while continuing to optimize other 
+operating expenses.
+Net Profit for the Year
+Net profit for the year amounted to Rp33.95 billion, 
+down from Rp61.95 billion in the previous year. This 
+decline was mainly driven by the reduction in revenue 
+as well as fluctuations in other income and expenses. 
+Nevertheless, efficiency strategies and more optimal tax 
+management contributed to sustaining the Company’s 
+overall profitability.
+Total Comprehensive Income for the Year
+Total comprehensive income for the year reached 
+Rp33.95 billion, marking a decrease from Rp61.46 billion 
+in the previous year. The absence of actuarial losses 
+in 2024, combined with cost efficiencies, contributed to 
+the stability of comprehensive income. The Company 
+continues to strengthen its financial structure to support 
+long-term sustainable performance.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+100
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+LAPORAN ARUS KAS  
+Cash Flow Statement
+Uraian
+Description
+2024
+2023
+Kenaikan/Penurunan
+Increase/Decrease
+(%)
+Arus Kas Bersih dari Aktivitas Operasi
+Net Cash Flow Provided by Operating Activities
+103.343.472.247
+82.339.001.863
+25,51
+Arus Kas Bersih untuk Aktivitas Investasi
+Net Cash Flow Used for Investing Activities
+(143.725.811.207)
+(44.218.940.254)
+225,03
+Arus Kas Bersih untuk Aktivitas Pendanaan
+Net Cash Used for Financing Activities
+42.666.297.061
+(21.172.310.299)
+301,52
+Kenaikan Bersih Kas dan Setara Kas
+Net Increase in Cash and Cash Equivalents
+2.283.958.101
+16.947.751.310
+(86,52)
+Kas dan Setara Kas Pada Awal Tahun
+Cash and Cash Equivalents Beginning of the Year
+48.880.857.437
+31.933.106.127
+53,07
+Kas dan Setara Kas Pada Akhir Tahun
+Cash and Cash Equivalents End of the Year
+51.164.815.538
+48.880.857.437
+4,67
+(dalam Rupiah Penuh, kecuali dinyatakan lain) | (in Full Rupiah, unless otherwise stated)
+Management Discussion and Analysis
+101
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Kinerja arus kas PT Adhi Kartiko Pratama Tbk pada 
+tahun 2024 menunjukkan pertumbuhan positif dalam 
+aktivitas operasi dan pendanaan, serta peningkatan 
+saldo kas dan setara kas.
+Per 31 Desember 2024, kas dan setara kas Perseroan 
+tercatat sebesar Rp51,16 miliar, meningkat sebesar 
+4,67% dibandingkan dengan Rp48,88 miliar pada akhir 
+tahun 2023. Perubahan ini dipengaruhi oleh kinerja arus 
+kas dari berbagai aktivitas sebagai berikut:
+Arus Kas Bersih dari Aktivitas Operasi
+Arus kas bersih dari aktivitas operasi meningkat 25,51%, 
+dari Rp82,34 miliar pada tahun 2023 menjadi Rp103,34 
+miliar pada tahun 2024. Peningkatan ini didukung oleh 
+penerimaan kas dari pelanggan sebesar Rp748,09 
+miliar, serta pengelolaan efisien terhadap pembayaran 
+kepada pemasok dan karyawan. Meskipun ada kenaikan 
+pembayaran pajak, penerimaan bunga turut membantu 
+menyeimbangkan arus kas operasi.
+Arus Kas Bersih untuk Aktivitas Investasi
+Pengeluaran untuk investasi meningkat 225,03%, dari 
+Rp44,22 miliar pada tahun 2023 menjadi Rp143,73 
+miliar pada tahun 2024. Investasi ini terutama digunakan 
+untuk perolehan properti pertambangan, aset tetap, serta 
+penempatan deposito berjangka dan aset tak berwujud. 
+Langkah ini mencerminkan komitmen perusahaan dalam 
+memperkuat kapasitas bisnis di masa depan.
+Arus Kas Bersih untuk Aktivitas Pendanaan
+Arus kas dari aktivitas pendanaan berubah dari negatif 
+Rp21,17 miliar pada tahun 2023 menjadi positif Rp42,67 
+miliar pada tahun 2024, mencerminkan peningkatan 
+sebesar 301,52%. Peningkatan ini terutama berasal dari 
+penerimaan pinjaman jangka pendek sebesar Rp44,99 
+miliar. Tidak adanya pembayaran dividen selama tahun 
+berjalan turut berkontribusi dalam menjaga saldo kas 
+dari aktivitas pendanaan.
+Secara keseluruhan, pengelolaan arus kas yang sehat 
+pada tahun 2024 mendukung strategi investasi dan 
+ekspansi Perseroan, serta memperkuat posisi keuangan 
+untuk menghadapi tantangan dan peluang di masa 
+mendatang.
+The cash flow performance of PT Adhi Kartiko Pratama Tbk 
+in 2024 demonstrated positive growth in operating and 
+financing activities, along with an increase in cash and 
+cash equivalents.
+As of December 31, 2024, the Company recorded cash 
+and cash equivalents of Rp51.16 billion, an increase of 
+4.67% compared to Rp48.88 billion at the end of 2023. 
+This change was driven by the cash flows from the 
+following activities:
+Net Cash Flow from Operating Activities
+Net cash flow from operating activities increased by 
+25.51%, from Rp82.34 billion in 2023 to Rp103.34 billion 
+in 2024. This growth was supported by cash receipts 
+from customers amounting to Rp748.09 billion, as well 
+as efficient management of payments to suppliers and 
+employees. Despite a rise in tax payments, interest 
+income contributed to maintaining a healthy operating 
+cash flow.
+Net Cash Flow Used in Investing Activities
+Cash used in investing activities increased significantly 
+by 225.03%, from Rp44.22 billion in 2023 to Rp143.73 
+billion in 2024. This increase was mainly attributable 
+to investments in mining properties, acquisitions of 
+property, plant, and equipment, placements of restricted 
+time deposits, and intangible assets. These investments 
+reflect the Company’s commitment to strengthening its 
+business capacity for future growth.
+Net Cash Flow from Financing Activities
+Net cash flow from financing activities improved from a 
+negative Rp21.17 billion in 2023 to a positive Rp42.67 
+billion in 2024, representing an increase of 301.52%. 
+This was primarily driven by short-term loan proceeds 
+of Rp44.99 billion. Additionally, the absence of dividend 
+payments during the year contributed positively to the 
+financing cash position.
+Overall, the Company’s strong cash flow management in 
+2024 supported its investment and expansion strategy, 
+while reinforcing its financial position to navigate future 
+challenges and seize potential opportunities.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+102
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+KEMAMPUAN MEMBAYAR UTANG  
+Ability To Pay Debts
+Jenis Rasio
+Type of Ratio
+2024
+2023
+Rasio Lancar
+Current Ratio
+0,77
+1,44
+Rasio Cepat
+Quick Ratio
+0,60
+1,27
+Rasio Kas
+Cash Ratio
+0,26
+0,34
+Rasio Utang Terhadap Ekuitas
+Debt To Equity Ratio
+1,34
+1,37
+Rasio Utang Terhadap Aset
+Debt To Asset Ratio
+0,57
+0,58
+(dalam x (kali) | in x (times))
+Penurunan rasio likuiditas pada tahun 2024 dibandingkan 
+tahun sebelumnya mencerminkan strategi ekspansi dan 
+investasi yang meningkatkan pemanfaatan aset likuid. 
+Meski demikian, Perseroan tetap menjaga keseimbangan 
+antara aset dan liabilitas untuk memastikan stabilitas 
+keuangan jangka panjang.
+Sementara itu, rasio solvabilitas menunjukkan stabilitas 
+yang baik, dengan Debt to Equity Ratio sebesar 1,34 
+pada tahun 2024, sedikit lebih rendah dibandingkan 1,37 
+pada tahun 2023. Debt to Asset Ratio juga tetap stabil 
+di kisaran 0,57. Hal ini mengindikasikan bahwa struktur 
+pendanaan Perseroan masih berada dalam batas yang 
+sehat dan terkendali.
+Secara keseluruhan, Perseroan terus berkomitmen 
+menjaga 
+keseimbangan 
+keuangan 
+agar 
+mampu 
+memenuhi kewajiban jangka pendek maupun jangka 
+panjang 
+secara 
+optimal, 
+sekaligus 
+mendukung 
+pertumbuhan yang berkelanjutan.
+The decline in liquidity ratios in 2024 compared to the 
+previous year reflects the Company’s expansion and 
+investment strategies, which have led to increased 
+utilization of liquid assets. Nevertheless, the Company 
+continues to maintain a balanced approach between 
+assets and liabilities to ensure long-term financial 
+stability.
+Meanwhile, solvency ratios remained stable, with a Debt 
+to Equity Ratio of 1.34 in 2024, slightly lower than 1.37 
+in 2023. The Debt to Asset Ratio also remained steady 
+at around 0.57, indicating that the Company’s capital 
+structure remains within a healthy and controlled range.
+Overall, the Company remains committed to maintaining 
+financial balance to ensure its ability to meet both 
+short- and long-term obligations effectively, while also 
+supporting sustainable growth.
+Management Discussion and Analysis
+103
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+TINGKAT KOLEKTIBILITAS PIUTANG  
+Collectibility Rate of Receivables
+Dalam rangka menjaga likuiditas Perseroan, AKP 
+terus mengoptimalkan manajemen piutang usaha 
+guna memastikan kelancaran arus kas. Perusahaan 
+mengimplementasikan sistem pengelolaan piutang yang 
+efektif, termasuk penerapan metode pembayaran yang 
+fleksibel dan pemantauan ketat terhadap jatuh tempo 
+pembayaran oleh pelanggan.
+Pada tahun 2024, piutang usaha tercatat sebesar Rp36,25 
+miliar, mengalami penurunan signifikan dibandingkan tahun 
+2023 yang sebesar Rp129,39 miliar. Hal ini mencerminkan 
+peningkatan efisiensi dalam penagihan, yang juga tercermin 
+dari rasio perputaran piutang yang meningkat dari 7,17 
+kali pada tahun 2023 menjadi 17,00 kali pada tahun 2024. 
+Sementara itu, rata-rata hari penagihan (Days Sales 
+Outstanding/DSO) juga menurun dari sekitar 51 hari menjadi 
+hanya 21 hari. Penurunan DSO ini menunjukkan bahwa 
+perusahaan mampu menagih piutangnya dengan lebih 
+cepat dan efisien.
+Selain itu, perusahaan menerapkan pendekatan kerugian 
+kredit ekspektasian (Expected Credit Loss/ECL) dalam 
+menilai risiko kredit piutang usaha. Berdasarkan evaluasi 
+perusahaan, seluruh piutang usaha pada tahun 2024 dinilai 
+dapat tertagih, sehingga tidak diperlukan pencadangan 
+kerugian kredit tambahan​.
+Tahun
+Year
+Piutang Usaha (Rp)
+Accounts receivable (Rp)
+Pendapatan Bersih (Rp)
+Net Revenues (Rp)
+Perputaran Piutang
+receivables turnover (x)
+Hari Rata-rata Penagihan (DSO)
+Average Collection Period
+2024
+36.246.222.262
+616.007.380.096
+17,00
+21
+2023
+129.390.599.154
+927.941.933.209
+7,17
+51
+In order to maintain the Company’s liquidity, AKP 
+continues 
+to 
+optimize 
+its 
+accounts 
+receivable 
+management to ensure smooth cash flow. The Company 
+has implemented an effective receivables management 
+system, including flexible payment methods and strict 
+monitoring of customers’ payment due dates.
+In 2024, the Company’s accounts receivable stood at 
+Rp36.25 billion, a significant decrease from Rp129.39 
+billion in 2023. This reflects improved efficiency in 
+collection processes, which is also evidenced by an 
+increase in the receivables turnover ratio from 7.17 
+times in 2023 to 17.00 times in 2024. Meanwhile, the 
+average collection period (Days Sales Outstanding/
+DSO) declined from approximately 51 days to just 21 
+days. This decrease in DSO indicates the Company’s 
+enhanced ability to collect receivables in a faster and 
+more efficient manner.
+In addition, the Company applies the Expected Credit 
+Loss (ECL) approach in assessing credit risk related 
+to accounts receivable. Based on the Company’s 
+evaluation, all accounts receivable in 2024 are deemed 
+collectible, and therefore no additional credit loss 
+provision is required.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+104
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+STRUKTUR MODAL DAN KEBIJAKAN MANAJEMEN MENGENAI 
+STRUKTUR MODAL   
+Capital Structure and Management Policy Of Capital Structure
+Tujuan utama pengelolaan modal Grup adalah untuk 
+memastikan pemeliharaan rasio permodalan yang 
+sehat guna mendukung kelangsungan usaha serta 
+memaksimalkan imbal hasil bagi pemegang saham. 
+Struktur permodalan Perseroan terdiri atas liabilitas dan 
+ekuitas.
+Struktur Modal
+Capital Structure
+2024
+2023
+Pertumbuhan (%)
+Growth (%)
+Rp
+Komposisi (%)
+Composition (%)
+Rp
+Komposisi (%)
+Composition (%)
+Jumlah Liabilitas
+Total Liabilities
+234.339.025.345
+57,29
+192.514.005.163
+57,77
+21,73
+Jumlah Ekuitas
+Total Equity
+174.671.579.148
+42,71
+140.718.962.520
+42,23
+24,13
+Jumlah 
+Liabilitas 
+dan 
+Ekuitas
+Total Liabilities and Equity
+409.010.604.493
+100,00
+333.232.967.683
+100,00
+22,74
+Perseroan senantiasa berkomitmen untuk mengelola 
+struktur modal secara optimal guna memastikan 
+stabilitas keuangan serta mendukung strategi ekspansi 
+usaha yang berkelanjutan. Pada tahun 2024, jumlah 
+liabilitas Perseroan mengalami peningkatan sebesar 
+21,73% dibandingkan tahun sebelumnya. Peningkatan 
+ini mencerminkan adanya strategi ekspansi yang didanai 
+melalui utang untuk memperkuat pertumbuhan usaha.
+Di sisi lain, ekuitas Perseroan juga mengalami kenaikan 
+signifikan 
+sebesar 
+24,13%, 
+yang 
+mencerminkan 
+keberhasilan dalam memperkuat permodalan melalui 
+akumulasi laba ditahan serta potensi investasi tambahan 
+dari pemegang saham. Dengan demikian, komposisi 
+antara liabilitas dan ekuitas tetap berada dalam batas 
+yang 
+sehat, 
+memungkinkan 
+Perseroan 
+menjaga 
+keseimbangan struktur modal secara berkelanjutan.
+The primary objective of the Group’s capital management 
+is to maintain a healthy capital ratio in order to support 
+business operations and maximize shareholder value. 
+The Company’s capital structure consists of liabilities 
+and equity.
+The Company remains committed to managing its capital 
+structure optimally to ensure financial stability and to 
+support a sustainable business expansion strategy. In 
+2024, the Company’s total liabilities increased by 21.73% 
+compared to the previous year, reflecting an expansion 
+strategy funded through debt to strengthen business 
+growth.
+On the other hand, the Company’s equity also recorded a 
+significant increase of 24.13%, which indicates success 
+in strengthening capital through retained earnings 
+accumulation and the potential for additional shareholder 
+investments. As a result, the proportion between liabilities 
+and equity remains within a healthy range, allowing the 
+Company to maintain a well-balanced capital structure.
+Management Discussion and Analysis
+105
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+IKATAN MATERIAL UNTUK INVESTASI BARANG MODAL  
+Material Commitments for Capital Goods Investment
+Pada tahun 2024 tidak terdapat ikatan material untuk 
+investasi barang modal yang dilakukan oleh Perseroan.
+In 2024, there were no material commitments for capital 
+goods investment made by the Company.
+INVESTASI BARANG MODAL YANG DIREALISASIKAN DALAM 
+TAHUN BUKU TERAKHIR  
+Capital Goods Investment Realized in the Last Fiscal Year
+Pada tahun 2024, Perseroan terus berinvestasi dalam 
+pengembangan aset dan infrastruktur guna mendukung 
+pertumbuhan 
+bisnis 
+dan 
+meningkatkan 
+efisiensi 
+operasional. Total investasi barang modal yang telah 
+direalisasikan selama tahun buku 2024 mencapai 
+Rp100,16 miliar, meningkat signifikan dibandingkan 
+tahun sebelumnya​.
+Investasi ini terutama dialokasikan untuk:
+1.	
+Perolehan Aset Tetap: Termasuk pengadaan 
+peralatan tambang, kendaraan operasional, dan 
+infrastruktur pendukung.
+2.	
+Pengembangan Properti Pertambangan: Meliputi 
+proyek ekspansi dan optimalisasi area produksi.
+3.	
+Aset dalam Penyelesaian: Terdiri dari pekerjaan 
+bangunan, pembelian mesin, dan peralatan, dengan 
+tingkat penyelesaian proyek mencapai 50%-90%, 
+yang diproyeksikan selesai pada tahun 2025​.
+Untuk memastikan perlindungan terhadap aset yang 
+diperoleh, seluruh peralatan utama telah diasuransikan 
+dengan nilai pertanggungan sebesar Rp3 miliar melalui 
+PT Lippo General Insurance Tbk​.
+Investasi 
+strategis 
+ini 
+mencerminkan 
+komitmen 
+Perseroan dalam meningkatkan daya saing dan 
+kapabilitas operasional guna mencapai pertumbuhan 
+jangka panjang yang berkelanjutan.
+In 2024, the Company continued to invest in asset and 
+infrastructure development to support business growth 
+and enhance operational efficiency. The total capital 
+goods investment realized during the 2024 fiscal year 
+amounted to Rp100.16 billion, marking a significant 
+increase compared to the previous year.
+These investments were primarily allocated to:
+1.	
+Acquisition 
+of 
+Fixed 
+Assets: 
+Including 
+the 
+procurement of mining equipment, operational 
+vehicles, and supporting infrastructure.
+2.	
+Development 
+of 
+Mining 
+Properties: 
+Covering 
+expansion 
+projects 
+and 
+the 
+optimization 
+of 
+production areas.
+3.	
+Assets Under Construction: Consisting of building 
+works, machinery purchases, and equipment, with 
+project completion levels ranging from 50% to 90%, 
+and projected to be completed in 2025.
+To ensure protection of the acquired assets, all major 
+equipment has been insured with a coverage value of 
+Rp3 billion through PT Lippo General Insurance Tbk.
+This strategic investment reflects the Company’s 
+commitment 
+to 
+enhancing 
+competitiveness 
+and 
+operational capability in pursuit of long-term sustainable 
+growth.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+106
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+PROSPEK USAHA
+Business Prospect
+Untuk 
+mendukung 
+permintaan 
+di 
+dalam 
+negeri, 
+Indonesia kini sedang meningkatkan hilirisasi. Banyak 
+fasilitas pengolahan dan pemurnian (smelter) kini 
+tengah dibangun di dalam negeri. Akibatnya, konsumsi 
+bijih nikel di dalam negeri akan semakin meningkat 
+pada tahun-tahun mendatang. Perkiraan konsumsi 
+bijih 
+nikel 
+ini 
+akan 
+meningkat 
+di 
+tahun 
+2025 
+sebesar 400 juta ton. Besarnya konsumsi nikel 
+di Indonesia, terus membuka peluang bisnis bagi 
+Perseroan 
+dalam 
+keberlangsungan 
+usahanya. 
+ 
+Peningkatan 
+permintaan 
+nikel 
+yang 
+diakibatkan 
+oleh popularitas Electric Vehicles (EV) juga terjadi di 
+dalam negeri. Respon Pemerintah Indonesia sebagai 
+produsen nikel terbesar di dunia untuk mendorong 
+pengembangan industri kendaraan listrik dalam negeri. 
+Pelaksanaan Peraturan Presiden No. 55 Tahun 2019 
+mengamanatkan pengembangan industri kendaraan 
+listrik 
+dalam 
+negeri 
+sebagai 
+prioritas 
+nasional. 
+Kementerian ESDM juga memperkirakan pada tahun 
+2040 permintaan nikel untuk baja sebesar 1,9 juta 
+ton, meningkat dibanding 1,65 juta ton pada 2019 dan 
+Permintaan dari sektor baterai akan meningkat dari 163 
+ribu ton menjadi 1,22 juta ton.
+To support domestic demand, Indonesia is currently 
+accelerating downstream processing. Many processing 
+and refining facilities (smelters) have been being 
+built within the country. As a result, domestic nickel 
+ore consumption is expected to rise in the coming 
+years. This figure is expected to increase to 400 
+million tons in 2025. The growing demand for 
+nickel in Indonesia continues to create business 
+opportunities for the Company to sustain its operations. 
+ 
+The growing demand for nickel, driven by the popularity 
+of electric vehicles (EVs), is also occurring domestically. 
+The Indonesian government, as the world’s largest 
+nickel producer, is promoting the development of the 
+domestic electric vehicle industry. The implementation 
+of Presidential Regulation No. 55 of 2019 mandates the 
+development of the domestic electric vehicle industry as 
+a national priority. The Ministry of Energy and Mineral 
+Resources (ESDM) estimates that by 2040, the demand 
+for nickel in steel production will reach 1.9 million tons, 
+an increase from 1.65 million tons in 2019. Additionally, 
+demand from the battery sector is expected to rise from 
+163,000 tons to 1.22 million tons.
+INFORMASI DAN FAKTA MATERIAL YANG TERJADI SETELAH 
+TANGGAL LAPORAN AKUNTAN   
+Material Information And Facts Post-Accounting Date
+Sampai dengan tanggal penerbitan laporan ini, tidak 
+terdapat informasi atau kejadian material yang terjadi 
+setelah tanggal laporan keuangan konsolidasian per 31 
+Desember 2024 yang perlu diungkapkan.
+As of the issuance date of this report, there were no 
+material events or information occurring after the date 
+of the consolidated financial statements as of December 
+31, 2024, that require disclosure.
+Management Discussion and Analysis
+107
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+108
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+PERBANDINGAN ANTARA TARGET DAN REALISASINYA DI 
+TAHUN 2024 DAN PROYEKSI UNTUK TAHUN 2025   
+Comparison Between Target And Realizations In 2024 And The Projections For 2025
+Sepanjang tahun 2024, Perseroan mencatatkan kinerja 
+yang solid meskipun berada dalam tekanan eksternal. 
+Penjualan tercatat sebesar Rp694,31 miliar, atau setara 
+dengan 92,61% dari target pendapatan tahun 2024 
+yang sebesar Rp749,74 miliar. Hal ini mencerminkan 
+dampak nyata dari volatilitas harga nikel terhadap sisi 
+pendapatan.
+Sementara itu, dari sisi produksi, Perseroan justru 
+berhasil melampaui target. Produksi tahun 2024 tercatat 
+sebesar 1.833.869 WMT, sedikit melebihi target yang 
+ditetapkan sebesar 1.800.000 WMT, atau mencapai 
+101,89% dari target. Hal ini menunjukkan efektivitas 
+strategi operasional dan efisiensi proses produksi yang 
+dijalankan oleh Perseroan sepanjang tahun.
+Untuk tahun 2025, Perseroan menetapkan target 
+produksi sebesar 2.500.000 WMT.  Penetapan target 
+ini  sesuai dengan Rencana Kerja  Anggaran dan 
+Biaya (RKAB) Perusahaan yang telah disetujui oleh 
+Kementerian Energi dan Sumber Daya Mineral (ESDM 
+dan mempertimbangkan prospek pemulihan harga nikel, 
+potensi peningkatan permintaan pasar, serta kesiapan 
+operasional Perseroan dalam mengoptimalkan kapasitas 
+produksi secara bertahap.
+Peningkatan produktivitas melalui penerapan teknologi, 
+digitalisasi proses, dan pengembangan kapabilitas 
+sumber daya manusia yang adaptif terhadap perubahan. 
+Inisiatif ini diharapkan mampu memperkuat daya tahan 
+bisnis serta menciptakan fondasi yang kokoh dalam 
+menghadapi dinamika industri di masa mendatang.
+Uraian
+Description
+Target 2024
+Targets for 2024
+Realisasi Tahun 2024
+Realizations in 2024
+Pencapaian Target 2024
+Achievement of 2024
+Targets (%)
+Penjualan (Rp)
+Sales (Rp)
+749.739.509.775
+694.306.977.057
+92,61
+Produksi (Ribuan WMT)
+Production (Thousand WMT)
+1.800
+1.834
+101,89
+Throughout 2024, the Company recorded a solid 
+performance in the midst of external pressure. A sales 
+recorded Rp694.31 billion, or equivalent to 92.61% from 
+the 2024 target was Rp749.74 billion. This was caused 
+by volatility of nickel price to the revenues. 
+From the production side, the Company was success 
+to higher the target.  2024 production recorded 
+1,833,869 WMT, slightly over the target of 1,800,000 
+WMT or reaching 101.89% from the target. This show 
+the Company’s operational strategy effectiveness and 
+production efficiency process applied by the Company 
+during the year. 
+For 2025, the Company has set a production target of 
+2,500,000 WMT. This target aligns with the Company’s 
+approved Work Plan and Budget (RKAB) by the Ministry 
+of Energy and Mineral Resources (ESDM), and considers 
+the projected recovery of nickel prices, potential market 
+demand growth, and the Company’s operational 
+readiness to gradually optimize its production capacity.
+The Company continues to promote productivity 
+improvements through the implementation of technology, 
+process digitalization, and human capital development 
+that is adaptable to change. These initiatives are expected 
+to strengthen business resilience and establish a solid 
+foundation for navigating future industry dynamics.
+Management Discussion and Analysis
+109
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+ASPEK PEMASARAN 
+Marketing Aspect
+AKP telah memasuki fase baru dalam pengelolaan 
+bisnisnya setelah resmi menjadi perusahaan terbuka 
+melalui pencatatan saham perdana pada Januari 
+2024. Sebagai perusahaan yang bergerak di industri 
+pertambangan nikel, AKP menyadari bahwa strategi 
+pemasaran yang ideal tidak hanya bertumpu pada 
+peningkatan volume produksi, tetapi juga pada efisiensi 
+operasional, optimasi distribusi, dan penguatan daya 
+saing di pasar domestik.
+Sejalan dengan fokus strategis Perseroan pada tahun 
+2024, AKP terus memperkuat posisinya sebagai 
+penyedia bijih nikel berkualitas tinggi untuk pasar 
+dalam negeri. AKP berkomitmen untuk meningkatkan 
+produktivitas dan memastikan kelancaran distribusi 
+produk kepada pelanggan utama melalui kontrak 
+eksklusif dan kerja sama strategis, yang didukung oleh 
+penguatan infrastruktur serta optimalisasi operasional.
+STRATEGI PEMASARAN
+Dalam menghadapi dinamika industri pertambangan 
+nikel, AKP menempatkan efisiensi operasional dan 
+keandalan pasokan sebagai keunggulan kompetitifnya 
+dalam industri nikel nasional. Berikut adalah strategi 
+pemasaran AKP mengedepankan tiga pilar utama, 
+penguatan pasar domestik dan kemitraan strategis, 
+efisiensi 
+distribusi 
+dan 
+keunggulan 
+logistik, 
+dan 
+diferensiasi 
+produk 
+dan 
+penerapan 
+keberlanjutan 
+sebagai nilai tambah.
+1.	 Penguatan Pasar Domestik dan Kemitraan Strategis
+a.	 Memaksimalkan 
+output 
+produksi 
+dengan 
+pendekatan operasional yang lebih efisien.
+b.	 Peningkatan infrastruktur penunjang untuk 
+mendukung distribusi dalam negeri.
+c.	
+Penyesuaian strategi pengiriman dan logistik 
+guna memastikan stabilitas pasokan bagi 
+pelanggan.
+2.	 Efisiensi Operasional dan Fleksibilitas Harga
+a.	 Menjaga 
+efisiensi 
+operasional 
+untuk 
+meningkatkan daya saing di pasar domestik.
+b.	 Menyesuaikan strategi harga berdasarkan tren 
+pasar dalam negeri.
+c.	
+Diversifikasi pelanggan dalam negeri untuk 
+memperluas jangkauan bisnis.
+AKP has entered a new phase in its business management 
+after officially becoming a public company through 
+its initial public offering (IPO) in January 2024. As a 
+company in the nickel mining industry, AKP understands 
+that an ideal marketing strategy relies on increasing 
+production volume and operational efficiency, optimizing 
+distribution, and strengthening competitiveness in the 
+domestic market.
+Aligned with the Company’s strategic focus in 2024, 
+AKP continues to strengthen its position as a provider 
+of high-quality nickel ore for the domestic market. AKP 
+is committed to enhancing productivity and ensuring 
+smooth product distribution to key customers through 
+exclusive contracts and strategic partnerships, supported 
+by strengthened infrastructure and optimized operations. 
+MARKETING STRATEGY
+In response to the dynamics of the nickel mining industry, 
+AKP positions operational efficiency and supply reliability 
+as its competitive advantages in the national nickel 
+industry. AKP’s marketing strategy focuses on three 
+main pillars: strengthening the domestic market and 
+strategic partnerships, enhancing distribution efficiency 
+and logistics excellence, and product differentiation with 
+sustainability as added value.
+1.	 Strengthening the domestic Market and Strategic 
+Partnerships
+a.	 Maximizing production output through a more 
+efficient operational approach.
+b.	 Improving supporting infrastructure to enhance 
+domestic distribution.
+c.	
+Adjusting delivery and logistics strategies to 
+ensure a stable supply for customers.
+2.	 Operational Efficiency and Price Flexibility
+a.	 Maintaining operational efficiency to enhance 
+competitiveness in the domestic market.
+b.	 Adjusting pricing strategies based on domestic 
+market trends.
+c.	
+Diversifying domestic customers to expand 
+business reach.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+110
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+3.	 Penguatan Hubungan dengan Pelanggan Strategis
+a.	 Menjalin kontrak jangka panjang dengan 
+pelanggan utama.
+b.	 Meningkatkan 
+komunikasi 
+dan 
+pelayanan 
+pelanggan.
+c.	
+Menegaskan 
+komitmen 
+terhadap 
+standar 
+kualitas dan keberlanjutan sebagai nilai tambah 
+dalam pemasaran.
+AKP optimis dapat mempertahankan posisinya sebagai 
+penyedia bijih nikel yang kompetitif di pasar dalam negeri, 
+termasuk dengan mengintegrasikan strategi produksi 
+yang efisien, optimalisasi distribusi, fleksibilitas dalam 
+menghadapi dinamika harga serta penguatan hubungan 
+dengan pelanggan domestik. Melalui pendekatan yang 
+adaptif dan berbasis keberlanjutan, AKP siap untuk 
+menghadapi tantangan industri nikel di tahun 2024 serta 
+menciptakan nilai tambah bagi pemangku kepentingan 
+dalam jangka panjang.
+PANGSA PASAR
+AKP merupakan salah satu perusahaan tambang nikel 
+yang beroperasi di Kabupaten Konawe Utara, Sulawesi 
+Tenggara. Saat ini, AKP berfokus pada peningkatan 
+kapasitas produksi dan optimalisasi distribusi untuk 
+memenuhi permintaan pasar domestik.
+Meskipun belum tersedia data spesifik mengenai total 
+produksi industri nikel di wilayah tersebut, AKP terus 
+berupaya memperkuat daya saingnya dalam ekosistem 
+industri nikel nasional. Strategi efisiensi operasional dan 
+peningkatan infrastruktur menjadi landasan bagi AKP 
+dalam menjaga pasokan bijih nikel untuk mendukung 
+kebutuhan dalam negeri.
+Seiring meningkatnya kontribusi industri nikel terhadap 
+Produk Domestik Regional Bruto (PDRB) Sulawesi 
+Tenggara, AKP berpotensi memperluas kemitraan 
+dengan berbagai pelaku industri nikel di Indonesia. 
+Strategi 
+yang 
+berbasis 
+pada 
+produktivitas 
+dan 
+keberlanjutan menjadi dasar optimisme AKP untuk terus 
+memperkuat eksistensinya dalam rantai pasok industri 
+nikel domestik.
+3.	 Strengthening 
+Relationships 
+with 
+Strategic 
+Customers
+a.	 Establishing long-term contracts with key 
+customers.
+b.	 Improving communication and customer service.
+c.	
+Reaffirming commitment to quality standards 
+and sustainability as added value in marketing.
+AKP is confident in its ability to maintain its position 
+as a competitive nickel ore supplier in the domestic 
+market by integrating efficient production strategies, 
+optimizing distribution, maintaining flexibility in response 
+to price fluctuations, and strengthening relationships with 
+domestic customers. With an adaptive and sustainability-
+driven approach, AKP is prepared to face the challenges 
+of the nickel industry in 2024 and create long-term value 
+for stakeholders.
+MARKET SHARE
+AKP is a nickel mining company in North Konawe, 
+Southeast Sulawesi. AKP is focused on increasing 
+production capacity and optimizing distribution to meet 
+domestic market demand.
+Although specific data on the total nickel production in 
+the region is not yet available, AKP continues to work 
+on strengthening its competitiveness within the national 
+nickel industry ecosystem. Operational efficiency and 
+infrastructure improvement strategies are the foundation 
+for AKP in maintaining a reliable supply of nickel ore to 
+support domestic needs.
+As the nickel industry’s contributions to Gross Regional 
+Domestic Product (GRDP) in Southeast Sulawesi 
+increases, AKP potentially expands partnerships with 
+various nickel industry players in Indonesia. A strategy 
+focused on productivity and sustainability forms the 
+basis of AKP’s optimism in continuously strengthening 
+its presence within the domestic nickel industry supply 
+chain.
+Management Discussion and Analysis
+111
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+KEBIJAKAN DIVIDEN 
+Dividend Policy
+Sesuai dengan UU Perseroan terbatas, pembayaran 
+dividen harus mendapat persetujuan dari pemegang 
+saham dalam RUPS Tahunan berdasarkan usulan dari 
+Direksi. Anggaran dasar Perseroan dalam Pasal 24 Ayat 
+(3) menyatakan bahwa dividen hanya dapat dibayarkan 
+sesuai dengan kemampuan keuangan Perseroan 
+berdasarkan keputusan yang diambil dalam RUPS 
+setelah mempertimbangkan faktor-faktor antara lain 
+rencana pengembangan usaha dan kebutuhan belanja 
+modal. Direksi dapat mengubah kebijakan dividen 
+sewaktu-waktu sepanjang mendapat persetujuan dari 
+RUPS.
+Selain 
+itu, 
+pembayaran 
+dividen 
+Perseroan 
+juga 
+memperhatikan arus kas dan rencana investasi 
+Perseroan, hukum dan peraturan Indonesia, dan 
+persyaratan lainnya. Berikut adalah keterangan riwayat 
+pembagian dividen yang telah dilakukan oleh Perseroan: 
+Tahun
+Year
+Dasar Hukum 
+Legal Basis
+Jumlah Dividen (Rp) 
+Total Dividen (Rp)
+2024
+Keputusan Rapat Umum Pemegang Saham tanggal 20 Juni 2024
+Resolution of the General Meeting of Shareholders dated June 20, 2024
+Tidak Membagikan Dividen
+No Dividend Paid
+2023
+Keputusan Sirkuler Para Pemegang Saham pada tanggal 31 Mei 2023 
+Shareholder Circular Decision on May 31, 2023
+8.865.233.355
+Keputusan Sirkuler Para Pemegang Saham pada tanggal 8 Maret 2023 
+Shareholder Circular Decision on March 8, 2023
+20.000.000.000
+Keputusan Sirkuler Para Pemegang Saham pada tanggal 28 Februari 
+2023 
+Shareholder Circular Decision on February 28, 2023
+10.000.000.000
+Berdasarkan Rapat Umum Pemegang Saham (RUPS) 
+tanggal 20 Juni 2024, Perseroan memutuskan untuk 
+tidak membagikan dividen kepada para Pemegang 
+Saham. Laba Bersih Perseroan ditetapkan sebagai laba 
+ditahan yang akan digunakan untuk pengembangan 
+Perseroan.
+In accordance with the Limited Liability Company 
+Law, dividend payments must receive approval from 
+shareholders at the Annual GMS based on proposals 
+from the Board of Directors. The Company’s articles 
+of association in Article 24 Paragraph (3) state that 
+dividends can only be paid in accordance with the 
+Company’s financial capabilities based on decisions 
+taken at the GMS after considering factors including 
+business development plans and capital expenditure 
+needs. The Board of Directors can change the dividend 
+policy at any time as long as it gets approval from the 
+GMS.
+In addition, the Company’s dividend payments also take 
+into account the Company’s cash flow and investment 
+plans, Indonesian laws and regulations, and other 
+requirements. The following is a description of the history 
+of dividend distribution that has been carried out by the 
+Company:
+Based on the General Meeting of Shareholders held on 
+June 20, 2024, the Company decided not to distribute 
+dividends to shareholders. The net profit for the year 
+was allocated as retained earnings to support business 
+development and long-term expansion.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+112
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+INFORMASI MATERIAL (INVESTASI, EKSPANSI, DIVESTASI, PENGGABUNGAN/
+PELEBURAN USAHA, AKUISISI, RESTRUKTURISASI UTANG/MODAL, 
+TRANSAKSI MATERIAL, TRANSAKSI AFILIASI, DAN TRANSAKSI BENTURAN 
+KEPENTINGAN) YANG TERJADI PADA TAHUN 2024 
+Material Information (Investment, Expansion, Divestment, Merger/Consolidation, Acquisition, Debt/
+Capital Restructuring, Affiliated Transactions and Conflict of Interest Transactions) that Occurred In 2024
+Sepanjang tahun 2024, Perseroan melakukan evaluasi 
+atas seluruh aktivitas yang berdampak material terhadap 
+struktur permodalan, termasuk investasi, ekspansi, 
+divestasi, akuisisi, restrukturisasi utang dan/atau modal, 
+serta transaksi afiliasi dan benturan kepentingan.
+Berikut ini adalah ringkasan informasi material yang 
+relevan selama periode pelaporan:
+Transaksi Material
+Berikut adalah daftar Perjanjian dengan nilai kontrak > 
+20% dari ekuitas Perusahaan.
+Throughout 2024, the Company conducted an evaluation 
+of all activities that had a material impact on its capital 
+structure, including investment, expansion, divestment, 
+acquisition, debt and/or capital restructuring, as well as 
+affiliated transactions and conflict of interest transactions.
+The following is a summary of relevant material 
+information during the reporting period:
+Material Transactions 
+The following is a list of agreements with contract values 
+exceeding 20% of the Company’s equity.
+REALISASI PENGGUNAAN DANA HASIL PENAWARAN 
+UMUM 
+Realization of Proceeds from Public Offering
+Pada tanggal 9 Januari 2024, Perseroan secara resmi 
+mencatatkan 1.216.404.000 saham di Bursa Efek 
+Indonesia (BEI) dengan nilai nominal Rp10 per saham 
+dan harga penawaran perdana sebesar Rp438 per 
+saham. Dari hasil pelaksanaan IPO, Perseroan berhasil 
+meraih dana Rp532.784.952.000 dan mencatatkan nilai 
+kapitalisasi pasar saat IPO sebesar Rp2,66 triliun. 
+Berdasarkan Prospektus Perseroan, seluruh Saham 
+Yang Ditawarkan dalam IPO Saham merupakan milik 
+Para Pemegang Saham Penjual. Oleh karena itu, 
+seluruh dana hasil Penawaran Umum Perdana Saham 
+akan diterima oleh Para Pemegang Saham Penjual.
+On January 9, 2024, the Company officially listed 
+1,216,404,000 
+shares 
+on 
+the 
+Indonesia 
+Stock 
+Exchange (IDX) with a nominal value of Rp10 
+per share and an initial public offering price of 
+Rp438 per share.  From the IPO, the Company 
+managed to raise funds of Rp532,784,952,000 and 
+recorded a market capitalization value at the IPO of Rp2.66 
+trillion. Based on the Company’s Prospectus, all the 
+shares being offered at the IPO owned by the Selling 
+Shareholders and the Initial Public Offering Proceeds 
+shall be received by the Selling Shareholders and the 
+Company will not receive the Initial Public Offering 
+Proceeds.
+Management Discussion and Analysis
+113
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+No
+Objek transaksi
+Transaction Object 
+Legal Basis
+Tanggal transaksi
+Transaction Date
+Pihak dalam 
+Transaksi
+Counterparty
+Keterbukaan 
+Informasi
+Public Disclosure
+Nilai Transaksi
+Contract Value
+Kewajaran 
+transaksi
+Fairness of the 
+transaction
+1
+Perjanjian Jasa 
+Penambangan (mining)
+Mining Services 
+Agreement
+31 Januari 2024
+January 31, 2024
+PT Graha Prima 
+Energy
+Exempted from 
+public disclosure
+US$ 59.000.000
+Exempted from 
+fairness opinion
+2
+Amandemen 
+I  Perjanjian Jasa 
+Penambangan
+Amendment I to 
+the Mining Services 
+Agreement
+1 Februari 2024 
+February 1, 2024
+PT Hillcon Jaya 
+Sakti 
+Exempted 
+from public 
+disclosure
+US$ 125.000.000
+Exempted 
+from fairness 
+opinion
+3
+Perjanjian Pekerjaan 
+Jasa Pertambangan 
+(rental)
+Mining Services Work 
+Agreement (rental)
+30 April 2024
+April 30, 2024
+PT Graha Prima 
+Energy
+Exempted from 
+public disclosure
+US$ 4.800.000 (USD 
+200.000/month x 24 
+month)
+Exempted from 
+fairness opinion
+4
+Addendum III (Hauling 
+Road and Jetty 
+Services)
+Addendum III (Hauling 
+Road and Jetty Services)
+11 Juni 2024
+June 11, 2024
+PT Kacci 
+Purnama Indah 
+Exempted from 
+public disclosure
+US$ 1.800.000
+Exempted from 
+fairness opinion
+5
+Credit Facility 
+Agreement 
+25 Juli 2024
+July 25, 2024
+PT Bank KEB 
+HANA Indonesia
+29 Juli 24
+ Rp 92.700.000.000,- 
+Exempted from 
+fairness opinion
+6
+Amandemen II 
+Perjanjian Jasa 
+Penambangan
+1 Agustus 2024
+August 1, 2024
+PT Hillcon Jaya 
+Sakti 
+Exempted from 
+public disclosure
+ US$121.000.0000 
+Exempted from 
+fairness opinion
+7
+Addendum No. 1 
+Perjanjian Pekerjaan 
+Jasa Pertambangan 
+(rental)
+Addendum No. 1 Mining 
+Services Work Agreement 
+(rental)
+09 September 2024
+September 29, 2024
+PT Graha Prima 
+Energy
+Exempted from 
+public disclosure
+ US$ 3.100.000 
+(USD 130.000/month 
+x 24 month) 
+Exempted from 
+fairness opinion
+8.
+Addendum No. 1 
+terhadap Perjanjian 
+Jasa Penambangan 
+(mining)
+Addendum No. 1 to 
+the Mining Services 
+Agreement
+1 Oktober 2024
+October 1, 2024
+PT Graha Prima 
+Energy
+Exempted from 
+public disclosure
+ US$ 55.000.000 
+Exempted from 
+fairness opinion
+9
+Perjanjian Pekerjaan 
+Jasa Pertambangan 
+(type A)
+Mining Services Work 
+Agreement (type A)
+1 Oktober 2024
+October 1, 2024
+PT Tambang 
+Meranti Mulia 
+Sejahtera
+Exempted from 
+public disclosure
+ US$ 3.200.000 
+(US$ 120.000/month 
+x 27 month) 
+Exempted from 
+fairness opinion
+10
+Perjanjian Pekerjaan 
+Jasa Pertambangan 
+(type B)
+Mining Services Work 
+Agreement (type B)
+1 Oktober 2024
+October 1, 2024
+PT Tambang 
+Meranti Mulia 
+Sejahtera
+Exempted from 
+public disclosure
+ US$ 2.300.000 
+(USD 65.000/month 
+x 36 month) 
+Exempted from 
+fairness opinion
+11
+Master Credit Facility 
+Agreement 
+29 Oktober 2024 
+October 29, 2024
+Citibank, N.A
+31 Oktober 24
+ Rp 100.000.000.000,- 
+Exempted from 
+fairness opinion
+12
+Perjanjian Jasa 
+Pelayanan Jalan dan 
+Jetty
+Road and Jetty Service 
+Agreement
+01 November 2024
+November 1, 2024
+PT Tataran 
+Media Sarana
+Exempted from 
+public disclosure
+US$ 3.200.000
+Exempted from 
+fairness opinion
+Transaksi Afiliasi
+Perseroan juga mencatat sejumlah transaksi dengan 
+pihak-pihak terafiliasi. Seluruh transaksi tersebut telah 
+dilaksanakan secara wajar dan transparan, sesuai 
+dengan peraturan yang berlaku:
+Affiliated Transactions
+The Company also recorded several transactions with 
+affiliated parties. All of these transactions have been 
+conducted fairly and transparently, in accordance with 
+the applicable regulations.
+ANALISIS DAN PEMBAHASAN MANAJEMEN
+114
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+No
+Objek transaksi
+Transaction Object 
+Legal Basis
+Tanggal transaksi
+Transaction Date
+Pihak dalam 
+Transaksi
+Counterparty
+Keterbukaan 
+Informasi
+Public Disclosure
+Nilai Transaksi
+Contract Value
+Kewajaran 
+transaksi
+Fairness of the 
+transaction
+1
+Perjanjian Pinjam 
+Pakai Lahan
+Land Use Loan 
+Agreement
+29 Desember 2023 
+(effective date: 9 
+Januari 2024)
+PT Inti Mega 
+Ventura
+18 Juli 2024
+0
+Exempted from 
+fairness opinion
+2
+Perjanjian Jual Beli dan 
+Penyerahan Aset 
+Sale and Purchase 
+Agreement and Delivery 
+of Assets
+31 Maret 2024
+March 31, 2024
+PT Mega Global 
+Energy
+ Updated 
+Disclosure on 24 
+Apr 2024
+Rp 9.868.000.000,-
+Exempted 
+from fairness 
+opinion
+3
+Agreement on a 
+guaranty and its 
+commission 
+25 Juli 2024
+July 25, 2024
+LX International 
+Corp
+29 Juli 2024
+the value of 
+maximum Rp 
+278.100.000,- 
+Exempted from 
+fairness opinion
+4
+Perjanjian Sewa 
+Bersama Kantor Panin 
+Tower - Senayan City
+Sale and Purchase 
+Agreement and Delivery 
+of Assets
+21 Agustus 2024
+August 21, 2024
+ PT Vimas 
+Mineral 
+Sejahtera 
+ 23 Agustus 2024
+Rp 297.542.700,- 
+Exempted from 
+fairness opinion
+5
+Loan Agreement
+30 September 2024
+September 30, 2024
+LX International 
+Corp
+ 2 Oktober 2024
+USD 1.000.000
+Fair Opinion
+6
+Agreement on a 
+guaranty and its 
+commission
+29 Oktober 2024
+October 329, 2024
+LX International 
+Corp
+ 31 Oktober  2024
+the value of 
+maximum Rp 
+300.000.000,-
+Exempted 
+from fairness 
+opinion
+ 
+Transaksi Lainnya
+Other Transactions
+Investasi Modal
+Capital  Investment
+Perseroan tidak melakukan kegiatan investasi modal pada tahun 2024, sehingga informasi terkait tujuan, 
+nilai transaksi dan sumber dana kegiatan investasi tidak disajikan oleh Perseroan.
+The Company did not conduct any capital investment activities in 2024. Therefore, no information regarding the 
+purpose, transaction value, or funding source of capital investment is presented.
+Ekspansi
+Expansion
+Perseroan melakukan pengembangan area pertambangan dan peningkatan infrastruktur guna 
+meningkatkan kapasitas produksi dan operasional. Biaya pengembangan yang dikeluarkan tercatat 
+dalam Catatan No. 12 - Properti Pertambangan dan akan dialokasikan sebagai tambang dalam produksi​
+Dokumen mencatat bahwa biaya pengembangan yang dikeluarkan oleh atau atas nama Grup 
+diakumulasikan secara terpisah untuk setiap area of interest, dimana cadangan yang dapat dipulihkan 
+secara ekonomis telah diidentifikasi. Biaya ini mencakup:
+•	 Konstruksi tambang
+•	 Infrastruktur terkait
+Selain itu, keputusan pengembangan yang telah diambil menyebabkan aset eksplorasi dan 
+evaluasi tertentu dipindahkan ke tambang dalam pengembangan dan akhirnya direklasifikasi 
+sebagai tambang berproduksi pada akhir tahap komisioning​.
+The Company carried out mining area development and infrastructure improvement to enhance production and 
+operational capacity. The development costs incurred are recorded in Note No. 12 – Mining Properties and will 
+be allocated as mines in production.
+The document states that development costs incurred by or on behalf of the Group are accumulated separately 
+for each area of interest where economically recoverable reserves have been identified. These costs include:
+•	 Mine construction
+•	 Related infrastructure
+In addition, the development decisions taken have resulted in certain exploration and evaluation assets being 
+transferred to mines under development and eventually reclassified as producing mines at the end of the 
+commissioning phase
+Divestasi
+Divestation
+Tidak terdapat transaksi divestasi yang dilaporkan dalam tahun 2024.
+There were no divestment transactions reported in 2024.
+Akuisisi
+Acquisition
+Tidak terdapat transaksi akuisisi entitas atau aset strategis dalam laporan tahun 2024.
+There were no acquisition transactions of entities or strategic assets reported in 2024.
+Restrukturisasi Utang Dan 
+Modal
+Payable And Capital 
+Restructuring
+Tidak terdapat restrukturisasi utang atau modal yang signifikan selama tahun 2024. Perseroan tetap 
+menjaga keseimbangan antara liabilitas dan ekuitas dengan Debt to Equity Ratio (DER) sebesar 1,34 
+dan Debt to Asset Ratio (DAR) sebesar 0,57​.
+There were no significant debt or capital restructuring activities during 2024. The Company maintained a 
+balanced capital structure with a Debt to Equity Ratio (DER) of 1.34 and a Debt to Asset Ratio (DAR) of 0.57.
+Transaksi Material yang 
+Mengandung Benturan 
+Kepentingan
+Material Transactions Containing 
+Conflict Of Interest
+Sepanjang tahun buku 2024, Perseroan tidak melakukan atau mencatat adanya transaksi material yang 
+mengandung benturan kepentingan.
+Throughout the 2024 financial year the Company did not engage in or record any material transactions involving 
+conflicts of interest.
+Good Corporate Governance
+115
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+PERUBAHAN PERATURAN PERUNDANG-UNDANGAN YANG 
+BERPENGARUH SIGNIFIKAN 
+Significant Changes In Laws And Regulations
+Sepanjang tahun 2024, tidak terdapat perubahan 
+peraturan 
+perundang-undangan 
+yang 
+berdampak 
+signifikan 
+terhadap 
+kegiatan 
+operasional, 
+kondisi 
+keuangan, maupun prospek usaha Perseroan.
+Throughout 2024, there were no regulatory changes that 
+had a significant impact on the Company’s operations, 
+financial condition, or business prospects.
+PERUBAHAN KEBIJAKAN AKUNTANSI, ALASAN DAN 
+DAMPAKNYA TERHADAP LAPORAN KEUANGAN 
+Changes In Accounting Policies, Reasons, And Their Impact On The Financial 
+Statements
+Dalam tahun berjalan, Grup telah menerapkan sejumlah 
+amendemen/ penyesuaian PSAK yang relevan dengan 
+operasinya dan efektif untuk periode pelaporan yang 
+dimulai pada atau setelah 1 Januari 2024. Penerapan 
+atas PSAK baru/revisi tidak mengakibatkan perubahan 
+atas kebijakan akuntansi Grup dan tidak memiliki dampak 
+material terhadap jumlah yang dilaporkan dalam laporan 
+keuangan konsolidasian.
+Informasi lebih lanjut dapat dilihat pada Catatan 2 – 
+Ikhtisar Kebijakan Akuntansi Penting dalam laporan 
+keuangan konsolidasian tahun 2024.
+In the current year, the Group has applied several 
+amendments/ improvements to PSAKs that are relevant 
+to its operations and effective for the reporting period 
+beginning on or after January 1, 2024. These new/
+revised PSAKs adoption does not result in changes to 
+the Group’s accounting policies and has no material 
+effect on the amounts reported in these consolidated 
+financial statements.
+Further information can be found in Note 2 – Summary of 
+Significant Accounting Policies in the 2024 consolidated 
+financial statements.
+TATA KELOLA PERUSAHAN
+116
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Good Corporate Governance
+TATA KELOLA
+PERUSAHAAN
+5
+Good Corporate Governance
+117
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+TATA KELOLA PERUSAHAN
+118
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+Tata Kelola Perusahaan yang Baik (Good Corporate 
+Governance/GCG) merupakan seperangkat peraturan 
+yang mengatur hubungan antara manajemen Perseroan 
+dengan 
+para 
+pemegang 
+saham 
+dan 
+pemangku 
+kepentingan lainnya, di internal maupun eksternal. 
+Perseroan memandang penerapan GCG tidak hanya 
+sebagai 
+bentuk 
+kepatuhan 
+terhadap 
+peraturan 
+perundang-undangan yang berlaku namun juga sebagai 
+wujud kesadaran dari Perseroan untuk menjalankan 
+praktik bisnis yang bertanggung jawab dan beretika.
+Maka sejak Perseroan melakukan IPO dan merubah 
+statusnya menjadi Perusahaan terbuka, Perseroan 
+memiliki komitmen untuk melaksanakan prinsip-prinsip 
+GCG dengan sungguh-sungguh dengan berlandaskan 
+pada peraturan perundang-undangan dan ketentuan 
+berikut ini:
+1.	
+Undang-Undang No. 40 Tahun 2007 tentang 
+Perseroan Terbatas (UUPT);
+2.	
+Pedoman Umum Governansi Korporat Indonesia 
+yang dikeluarkan oleh Komite Nasional Kebijakan 
+Governansi (KNKG);
+3.	
+Peraturan Otoritas Jasa Keuangan (POJK) dan 
+Bursa Efek Indonesia yang relevan, seperti:
+•	
+POJK No. 15/POJK.04/2020 tentang Rencana 
+dan Penyelenggaraan Rapat Umum Pemegang 
+Saham Perusahaan Terbuka (POJK 15/2020)
+•	
+POJK No. 33/POJK.04/2014 tentang Direksi 
+dan Dewan Komisaris Emiten atau Perusahaan 
+Publik (POJK 33/2014)’
+•	
+Surat Edaran Otoritas Jasa Keuangan No. 16/
+SEOJK.04/2021 tentang Bentuk dan Isi Laporan 
+Tahunan Emiten dan Perusahaan Publik 
+(SEOJK 16/2021)
+•	
+Surat Edaran Otoritas Jasa Keuangan No. 32/
+SEOJK.04/2015 tentang Pedoman Tata Kelola 
+Perusahaan Terbuka (SEOJK 32/2015)
+•	
+POJK 
+No. 
+16/POJK.04/2020 
+tentang 
+Pelaksanaan Rapat Umum Pemegang Saham 
+Perusahaan Terbuka secara Elektronik (POJK 
+16/2020)
+Good Corporate Governance (GCG) is a set of 
+regulations that manage the relationship between 
+the Company’s management and the internal as well 
+as external shareholders and other stakeholder. The 
+Company views the reason for the implementation of 
+GCG not only regulatory driven but also as reflects our 
+awareness to carry out responsible and ethical business 
+practices (ethical driven).
+Therefore, since the Company successfully conducted 
+its IPO and changed its status to a public company, 
+the Company has serious commitment to implement 
+GCG principles with respect to the following laws and 
+regulations:
+1.	
+Law No. 40 of 2007 concerning Limited Liability 
+Companies (UUPT);
+2.	
+General Guidelines for Indonesian Corporate 
+Government issued by the National Committee for 
+Corporate Government Policy (KNKG);
+3.	
+Relevant regulations from the Financial Services 
+Authority (OJK) and the Indonesia Stock Exchange 
+include:
+•	
+OJK Regulation No. 15/POJK.04/2020 on the 
+Plan and Organization of General Meetings 
+of Shareholders for Public Companies (POJK 
+15/2020)
+•	
+OJK Regulation No. 33/POJK.04/2014 on the 
+Board of Directors and Board of Commissioners 
+of Issuers or Public Companies (POJK 33/2014
+•	
+OJK Circular Letter No. 16/SEOJK.04/2021 on 
+the Form and Content of Annual Reports for 
+Issuers and Public Companies (SEOJK 16/2021
+•	
+OJK Circular Letter No. 32/SEOJK.04/2015 on 
+Guidelines for Corporate Governance for Public 
+Companies (SEOJK 32/2015)
+•	
+OJK Regulation No. 16/POJK.04/2020 on 
+the 
+Implementation 
+of 
+General 
+Meetings 
+of 
+Shareholders 
+for 
+Public 
+Companies 
+Electronically (POJK 16/2020)
+Good Corporate Governance
+119
+PT ADHI KARTIKO PRATAMA TBK
+Laporan Tahunan dan Keberlanjutan 2024 Annual and Sustainability Report
+•	
+POJK No. 34/POJK.04/2014 tentang Komite 
+Nominasi 
+dan 
+Remunerasi 
+Emiten 
+atu 
+Perusahaan Publik (POJK 55/2015)
+•	
+POJK No. 55/POJK.04/2015 tentang Komite 
+Audit serta peraturan terkait lainnya. (POJK 
+55/2015)
+•	
+POJK No. 56/2015 tentang Pembentukan 
+Dan Pedoman Penyusunan Piagam Unit Audit 
+Internal (POJK 56/2015).
+Kemudian 
+dalam 
+rangka 
+memastikan 
+efektivitas 
+penerapannya, Perseroan juga senantiasa menanamkan 
+pemahaman akan pentingnya penerapan prinsip-prinsip 
+GCG di jajaran karyawan. Hal ini ditujukan untuk 
+membangun kesadaran bahwa penerapan GCG mewakili 
+tanggung jawab Perseroan untuk mencapai hasil yang 
+maksimal dalam penyelenggaraan usahanya agar dapat 
+memberikan manfaat yang berkelanjutan kepada para 
+pemegang saham dan pemangku kepentingan lainnya.
+Prinsip-prinsip GCG yang disosialisasikan di lingkungan 
+Perseroan:
+•	
+OJK Regulation No. 34/POJK.04/2014 on the 
+Nomination and Remuneration Committee for 
+Issuers or Public Companies (POJK 34/2014)
+•	
+OJK Regulation No. 55/POJK.04/2015 on the 
+Audit Committee and related regulations (POJK 
+55/2015)
+•	
+OJK Regulation No. 56/POJK.04/2015 on the 
+Formation and Guidelines for the Preparation of 
+the Internal Audit Unit Charter (POJK 56/2015). 
+.
+Then in order to ensure the effectiveness of its 
+implementation, the Company also always instills 
+about the importance of implementing GCG principles 
+to all of our employees. This is intended to build 
+awareness that the implementation of GCG represents 
+the Company’s responsibility to achieve maximum 
+results in the implementation of its business in order to 
+provide sustainable benefits to shareholders and other 
+stakeholders.
+GCG principles socialized within the Company:
+Transparansi / Transparancy
+Prinsip keterbukaan diterapkan dalam proses pengambilan keputusan serta penyampaian keterbukaan informasi 
+terkait agenda korporasi Perseroan secara tepat waktu dan akurat kepada otoritas maupun publik luas;
+The principle of openness is applied in the decision-making process and the delivery of information disclosure related to 
+the Company’s corporate agenda in a timely and accurate manner to the authorities and the wider public;
+Kewajaran dan Kesetaraan / Fairness and Equality
+Prinsip kewajaran antara lain diterapkan dengan memenuhi hak pemegang saham dan pemangku kepentingan 
+secara adil dan setara serta dengan memastikan bahwa seluruh transaksi material yang dilakukan pada tahun 
+buku telah memenuhi prinsip kewajaran dan sesuai peraturan perundang-undangan yang berlaku.
+The principle of fairness, among others, is applied by fulfilling the rights of shareholders and stakeholders fairly and 
+equally and by ensuring that all material transactions carried out in the financial year have met the principle of fairness 
+and in accordance with applicable laws and regulations. authorities and the wider public;
+Indenpendensi / Independence
+Prinsip independensi antara lain diterapkan melalui pengelolaan bisnis yang profesional, di mana Perseroan 
+memastikan tidak adanya benturan kepentingan ataupun tekanan dari pihak manapun yang bertentangan 
+dengan peraturan perundang-undangan yang berlaku;
+The principle of independence, among others, is applied through professional business management, where the 
+Company ensures that there is no conflict of interest or pressure from any party that conflicts with applicable laws and 
+regulations;
+Tanggung Jawab / Respobility
+Prinsip tanggung jawab diterapkan dengan komitmen Perseroan untuk menjalankan bisnisnya sesuai ketentuan 
+perundang-undangan yang berlaku serta sesuai best practices;
+The principle of responsibility is applied with the Company’s commitment to run its business in accordance with applicable 
+laws and regulations and in accordance with best practices;
+Akuntabilitas / Accountability
+Prinsip akuntabilitas diterapkan dengan membangun kejelasan fungsi dan tanggung jawab di antara organ 
+pendukung GCG untuk mendukung pengambilan keputusan yang efektif;
+The principle of accountability is applied by building clarity of functions and responsibilities among GCG supporting 
+organs to support effective decision making;

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PTPS-att1.pdf",
+    "ticker": "PTPS_2024",
+    "mdma_start": "58",
+    "mdma_end": "73",
+    "Positive_Sum": 1595.0,
+    "Negative_Sum": 1671.0,
+    "Total_Matched_Words": 1035,
+    "Total_Word": 7298,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

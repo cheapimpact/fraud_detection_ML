@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CRAB-att1.pdf",
+    "ticker": "CRAB_2024",
+    "mdma_start": "74",
+    "mdma_end": "95",
+    "Positive_Sum": 2239.0,
+    "Negative_Sum": 2030.0,
+    "Total_Matched_Words": 1336,
+    "Total_Word": 9641,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SAMF-att1.pdf",
+    "ticker": "SAMF_2023",
+    "mdma_start": "55",
+    "mdma_end": "66",
+    "Positive_Sum": 1726.0,
+    "Negative_Sum": 1224.0,
+    "Total_Matched_Words": 974,
+    "Total_Word": 6359,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

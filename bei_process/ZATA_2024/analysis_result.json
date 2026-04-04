@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ZATA-att1.pdf",
+    "ticker": "ZATA_2024",
+    "mdma_start": "90",
+    "mdma_end": "111",
+    "Positive_Sum": 2396.0,
+    "Negative_Sum": 1758.0,
+    "Total_Matched_Words": 1326,
+    "Total_Word": 9200,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

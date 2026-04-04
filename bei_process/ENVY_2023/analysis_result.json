@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ENVY-att1.pdf",
+    "ticker": "ENVY_2023",
+    "mdma_start": "40",
+    "mdma_end": "53",
+    "Positive_Sum": 1213.0,
+    "Negative_Sum": 1607.0,
+    "Total_Matched_Words": 870,
+    "Total_Word": 5296,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

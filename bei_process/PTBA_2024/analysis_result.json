@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PTBA-att2.pdf",
+    "ticker": "PTBA_2024",
+    "mdma_start": "200",
+    "mdma_end": "279",
+    "Positive_Sum": 10757.0,
+    "Negative_Sum": 8517.0,
+    "Total_Matched_Words": 6309,
+    "Total_Word": 39713,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

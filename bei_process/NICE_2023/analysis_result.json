@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-NICE-att1.pdf",
+    "ticker": "NICE_2023",
+    "mdma_start": "66",
+    "mdma_end": "89",
+    "Positive_Sum": 2509.0,
+    "Negative_Sum": 2711.0,
+    "Total_Matched_Words": 1627,
+    "Total_Word": 10947,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

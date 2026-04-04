@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DPUM-att2.pdf",
+    "ticker": "DPUM_2023",
+    "mdma_start": "59",
+    "mdma_end": "80",
+    "Positive_Sum": 2092.0,
+    "Negative_Sum": 2190.0,
+    "Total_Matched_Words": 1349,
+    "Total_Word": 8615,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

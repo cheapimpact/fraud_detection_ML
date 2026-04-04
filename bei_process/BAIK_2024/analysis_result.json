@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BAIK-att2.pdf",
+    "ticker": "BAIK_2024",
+    "mdma_start": "53",
+    "mdma_end": "64",
+    "Positive_Sum": 1589.0,
+    "Negative_Sum": 1812.0,
+    "Total_Matched_Words": 1082,
+    "Total_Word": 6560,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

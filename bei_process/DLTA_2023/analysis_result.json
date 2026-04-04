@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DLTA-att1.pdf",
+    "ticker": "DLTA_2023",
+    "mdma_start": "59",
+    "mdma_end": "75",
+    "Positive_Sum": 1897.0,
+    "Negative_Sum": 2130.0,
+    "Total_Matched_Words": 1282,
+    "Total_Word": 9081,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

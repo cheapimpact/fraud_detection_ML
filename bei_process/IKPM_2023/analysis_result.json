@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-IKPM-att2.pdf",
+    "ticker": "IKPM_2023",
+    "mdma_start": "68",
+    "mdma_end": "98",
+    "Positive_Sum": 2956.0,
+    "Negative_Sum": 2630.0,
+    "Total_Matched_Words": 1753,
+    "Total_Word": 12354,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

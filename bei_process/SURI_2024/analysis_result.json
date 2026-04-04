@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SURI-att2.pdf",
+    "ticker": "SURI_2024",
+    "mdma_start": "59",
+    "mdma_end": "80",
+    "Positive_Sum": 1990.0,
+    "Negative_Sum": 2124.0,
+    "Total_Matched_Words": 1337,
+    "Total_Word": 9221,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

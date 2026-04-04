@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KLIN-att2.pdf",
+    "ticker": "KLIN_2024",
+    "mdma_start": "61",
+    "mdma_end": "78",
+    "Positive_Sum": 1239.0,
+    "Negative_Sum": 1151.0,
+    "Total_Matched_Words": 761,
+    "Total_Word": 5548,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

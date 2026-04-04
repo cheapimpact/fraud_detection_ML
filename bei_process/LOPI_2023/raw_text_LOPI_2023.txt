@@ -1,0 +1,2142 @@
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+62
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Tinjauan Ekonomi dan Industri
+Economic and Industrial Review
+Berbagai tantangan masih mewarnai pertumbuhan 
+ekonomi global hingga akhir tahun 2023. Kondisi ini 
+disebabkan oleh meningkatnya gejolak geopolitik 
+di beberapa negara, masih melemahnya kondisi 
+ekonomi negara maju, termasuk Amerika Serikat 
+dan Tiongkok, serta suku bunga kebijakan yang tetap 
+tinggi. Bank Indonesia memperkirakan pertumbuhan 
+ekonomi global di tahun 2023 sebesar 3,0% dan 
+melambat menjadi 2,8% di tahun 2024. Sementara, 
+pertumbuhan ekonomi Indonesia tumbuh dengan 
+kuat, yang diperkirakan 4,5-5,3% di tahun 2023 dan 
+diperkirakan akan terus meningkat di tahun 2024 
+dalam kisaran 4,7-5,5%. Pertumbuhan tersebut 
+didukung oleh permintaan domestik, keyakinan 
+konsumen yang tetap tinggi, serta berlanjutnya 
+Proyek Strategis Nasional (PSN).
+Various challenges will still affect global economic 
+growth until the end of 2023. This condition is 
+caused by increasing geopolitical turmoil in several 
+countries, the continued weakening of the economic 
+conditions of developed countries, including the 
+United States and China, and policy interest rates 
+that remain high. Bank Indonesia estimates global 
+economic growth in 2023 at 3.0% and slowing to 2.8% 
+in 2024. Meanwhile, Indonesia’s economic growth is 
+growing strongly, which is estimated at 4.5-5.3% in 
+2023 and is predicted to continues to increase in 2024 
+in the range of 4.7-5.5%. This growth is supported 
+by domestic demand, consumer confidence which 
+remains high, and the continuation of the National 
+Strategic Project (PSN).
+Berdasarkan data Badan Pusat Statistik (BPS), 
+pertumbuhan ekonomi Indonesia dari sisi produksi 
+didominasi oleh sektor lapangan usaha transportasi 
+dan pergudangan mengalami pertumbuhan sebesar 
+14,74%. Dari sisi pengeluaran, didominasi oleh sektor 
+komponen pengeluaran konsumsi lembaga nonprofit 
+yang melayani rumah tangga (PK-LNPRT) mengalami 
+pertumbuhan tertinggi sebesar 6,21%. Namun, pada 
+kinerja ekspor, baik minyak dan gas (migas) dan 
+non migas masih mengalami perlambatan, yang 
+dipicu oleh adanya ketegangan geopolitik yang 
+menyebabkan harga minyak naik di Timur Tengah 
+dan terjadinya transisi energi. Namun demikian, 
+Perseroan optimis dapat memanfaatkan berbagai 
+peluang usaha dengan mengoptimalkan strategi dan 
+memperkuat inisiatif keberlanjutan yang efisien dan 
+unggul.
+Based on data from the Central Statistics Agency 
+(BPS), Indonesia’s economic growth in terms of 
+production is dominated by the transportation and 
+warehousing business sector which experienced 
+growth of 14.74%. In terms of expenditure, the 
+consumption 
+expenditure 
+component 
+sector 
+dominated 
+by 
+non-profit 
+institutions 
+serving 
+households (PK-LNPRT) experienced the highest 
+growth of 6.21%. However, export performance, both 
+oil and gas and non-oil / gas are still experiencing 
+a slowdown, which was triggered by geopolitical 
+tensions which caused oil prices to rise in the 
+Middle East and the energy transition. However, the 
+Company is optimistic that it can take advantage 
+of various business opportunities by optimizing 
+strategies and strengthening efficient and superior 
+sustainability initiatives.
+Tinjauan Operasional
+Operational Overview
+Kegiatan bisnis Perseroan berfokus pada jasa 
+atau layanan terkait berbagai macam pengiriman 
+barang dari berbagai daerah di Indonesia maupun 
+mancanegara, serta membantu setiap kebutuhan 
+pelanggan dalam mendistribusikan barang seperti 
+jasa pengemasan, penyimpanan, pemilahan barang, 
+dan pelabelan. Adapun proses bisnis Perseroan 
+digambarkan sebagai berikut.
+The Company’s business activities focus on services 
+or services related to various types of goods delivery 
+from various regions in Indonesia and abroad, as well 
+as assisting each customer’s needs in distributing 
+goods such as packaging, storage, goods sorting 
+and labelling services. The Company’s business 
+processes are described as follows.
+63
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+1
+JOB DELIVERY
+Divisi Sales Admin mendapat pesanan melalui fax, 
+call, e-mail atau interface system untuk pengangkutan 
+barang sesuai dengan kebutuhan calon pelanggan 
+terhadap jenis komoditas dan banyaknya muatan.
+Sales Admin Division receives order via fax, call, e-mail or system 
+interface for transportation goods in accordance with need 
+candidate customer to type commodities and quantities payload 
+2
+DELIVERY PLANNING
+SPV melakukan koordinasi proses delivery planning 
+untuk menentukan jenis truk berdasarkan (kapasitas, 
+kondisi jalan dan ketersediaan truk), pengemudi, dan 
+menentukan 
+biaya 
+perjanjian 
+berdasarkan 
+(jarak, 
+banyaknya muatan, daerah pengiriman, berat muatan, 
+dan metode pembayaran dilakukan secara lump sum 
+atau bulanan).
+SPV does coordinating the delivery planning process for 
+determine type truck based on (capacity , condition roads and 
+availability truck ), driver , and determine cost agreement based 
+on ( distance , number load , area shipping , heavy payload , and 
+method payment done in lump sum or monthly ).
+3
+DELIVERY SCHEDULE
+SPV melakukan penjadwalan pengiriman sesuai dengan 
+order pelanggan. 
+SPV does scheduling delivery in accordance with customer orders .
+4
+DELIVERY
+Sales Admin mengeluarkan Surat Perintah Muat (SPM) 
+untuk pengemudi. Kemudian, kasir menerbitkan estimasi 
+voucher (slip uang jalan), setelah mendapat slip uang jalan 
+pengemudi mengirimkan muatan ke pelanggan. Setelah 
+pengiriman, pengemudi menyerahkan surat-surat (SPM, 
+MRC, DO, dan POD) kepada SPV, lalu SPV melakukan 
+validasi surat-surat tersebut. Kasir memverifikasi slip 
+uang jalan dan sisa uang jalan sebagai laporan operation 
+close report (OCR) serta menyerahkan lock transaksi OCR 
+ke AR Accounting untuk dilakukan approval. Setelah 
+dilakukan approval, kasir menerbitkan voucher payment. 
+AR Accounting memproses bukti transaksi pembayaran 
+dan menerbitkan invoice. Proses pencatatan MRC ini 
+dilakukan semua via aplikasi menggunakan sistem 
+Transport Management System (TMS) yang dibentuk oleh 
+Perseroan.
+Sales Admin issues an Order Load (SPM) for driver. Then, cashier 
+publish estimated voucher (travel money slip ), after got a travel 
+money slip driver send load to customer . After delivery, the 
+driver delivers letters (SPM, MRC, DO, and POD) to the SPV, then 
+the SPV carries out validation letters. The Cashier verify travel 
+money slips and remaining travel money as operation close 
+report (OCR) report as well submit the OCR transaction lock to 
+AR Accounting for approval is carried out. After approval, the 
+cashier issue payment vouchers. AR Accounting processes proof 
+transaction payment and issuing invoices. This MRC recording 
+process done all via the application use Transport Management 
+System (TMS) established by the Company.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+64
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Alur Proses Kerja Pengiriman
+Delivery Work Process Flow
+Proses penerimaan muatan
+Load acceptance process
+Proses Pickup dan 
+loading muatan;
+Pickup and loading 
+process;
+Proses pengiriman muatan ke 
+alamat tujuan.
+The process of sending cargo 
+to the destination address.
+Pengecekan muatan Proses pengiriman 
+muatan baik jalur darat, laut dan udara;
+Checking the cargo delivery process by 
+land, sea and air;
+Driver arrives at the drop 
+off point;
+Pengemudi sampai pada 
+titik drop off;
+Pengecekan dan proses 
+drop off muatan; dan
+Aspek Profitabilitas
+Aspect of Profitability
+Kinerja operasional Perseroan dalam 3 tahun terakhir 
+diungkapkan pada tabel berikut.
+Company operational performance in the last 3 years 
+expressed in the following table.
+(dalam Rupiah)	
+	
+	
+	
+	
+	
+	
+	
+   	
+	
+         (dalam Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+Jasa Pengiriman
+Delivery Service
+  Pihak Ketiga
+48.370.387.139
+68.622.691.996
+(20.252.304.857)
+(29,51)
+Third Parties
+  Pihak Berelasi
+33.287.476.099
+1.908.443.620
+31.379.032.479
+1644,22
+Related parties
+Sewa Gudang
+900.000.000
+900.000.000
+-
+-
+Warehouse rent
+Total 
+82.557.863.238
+71.431.135.616
+11.126.727.622
+15,58
+Total
+Kinerja operasional Perseroan dapat dilihat dari 
+jasa pengiriman, baik pihak ketiga maupun pihak 
+berelasi, serta sewa gudang. Di tahun 2023, Perseroan 
+membukukan pendapatan dari jasa pengiriman pihak 
+ketiga sebesar Rp48,37 miliar, menurun sebesar 
+29,51% atau setara Rp20,52 dibandingkan tahun 
+sebelumnya yang tercatat sebesar Rp68,62 miliar. 
+The Company's operational performance can be seen 
+from delivery services, both third parties and related 
+parties, as well as warehouse rentals. In 2023, the 
+Company recorded revenue from third party delivery 
+services of IDR 48.37 billion, a decrease of 29.51% or 
+the equivalent of IDR 20.52 compared to the previous 
+year which was recorded at IDR 68.62 billion.
+Checking and cargo drop 
+off process and
+65
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Jasa pengiriman pihak berelasi meningkat sebesar 
+1644,22% atau setara Rp31,38, dari Rp1,91 miliar 
+menjadi Rp33,29 miliar di tahun 2023. Sedangkan 
+layanan sewa gudang – pihak ketiga masih sama 
+dengan tahun 2022 yang tercatat sebesar Rp900 juta.
+Related party delivery services increased by 
+1644.22% or the equivalent of IDR 31.38, from IDR 1.91 
+billion to IDR 33.29 billion in 2023. Meanwhile, third 
+party warehouse rental services remained the same 
+as in 2022 which was recorded at IDR 900 million.
+Aspek Pemasaran
+Marketing Aspect
+Strategi Pemasaran
+Marketing strategy
+Strategi pemasaran dibutuhkan untuk meningkatkan 
+penjualan dan mencapai target yang telah ditetapkan. 
+Adapun strategi pemasaran yang diterapkan oleh 
+Perseroan dijelaskan sebagai berikut.
+Marketing strategies are needed to increase sales 
+and achieve predetermined targets. The marketing 
+strategy implemented by the Company is explained 
+as follows.
+1.	 Memperkuat kerja sama dengan Logisticplus 
+In Amerika Serikat sebagai Entitas Induk untuk 
+menjangkau pemasaran dan operasional di 
+seluruh Benua Amerika, Asia, dan sebagian Benua 
+Eropa.
+1. Strengthening cooperation with Logisticplus In 
+the United States as the Parent Entity to reach 
+marketing and operations throughout the 
+Americas, Asia and parts of Europe.
+2.	 Mempertahankan 
+kontrak-kontrak 
+pelanggan 
+lama dan meningkatkan pelayanan yang unggul.
+2. Maintaining existing customer contracts and 
+improving superior service..
+Strategi Usaha
+Business Strategy
+Dalam upaya menjaga kebersinambungan usaha 
+Perseroan 
+di 
+masa 
+depan, 
+maka 
+Perseroan 
+menerapkan strategi usaha sebagai berikut.
+In an effort to maintain the continuity of the 
+Company's business in the future, the Company 
+implements the following business strategy.
+1.	
+Dari Segi Operasional
+2.  In terms of Operational
+•	
+Fokus 
+pada 
+pengadaan 
+armada 
+dan 
+rebalance segmen pasar;
+• 	 Focus on fleet procurement and rebalance 
+market segment;
+•	
+Menambah 
+tenaga 
+pemasaran 
+dan 
+mendapatkan kontrak dengan konsumen 
+baru, untuk mengoptimalkan utilisasi; dan
+•	
+Add power marketing and earning contract with 
+consumer new for optimizing utilization ; And
+•	
+Menambah 
+persediaan 
+suku 
+cadang, 
+sehingga mempersingkat waktu reparasi 
+dan mengurangi pemakaian jasa bengkel 
+luar.
+•	
+Add supply ethnic group spare, so shorten time 
+repair and reduce usage service workshop 
+outside.
+2.	
+Memasifkan penerapan teknologi informasi, 
+berupa TMS untuk mendeteksi keberadaan 
+kendaraan melalui Global Positioning System 
+(GPS), serta menerapkan E-Log Suite menjadi 
+teknologi 
+yang 
+lebih 
+canggih 
+dan 
+bisa 
+mengintegrasikan operasional Perseroan tidak 
+hanya di dalam negeri namun juga di luar negeri 
+di bawah jaringan Logistics Plus Inc.
+2.	 Strengthen the application of information 
+technology, in the form of TMS to detect the 
+presence of vehicles via the Global Positioning 
+System (GPS), as well as implementing the E-Log 
+Suite which is a more sophisticated technology 
+and can integrate the Company's operations 
+not only domestically but also abroad under the 
+Logistics network Plus Inc.
+3.	
+Meningkatkan 
+pengembangan 
+kompetensi 
+sumber daya manusia (SDM).
+3.	  Increase the development of human resource 
+(HR) competencies.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+66
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+(dalam Rupiah)
+((in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+Pendapatan Usaha
+82.557.863.238
+71.431.135.616
+11.126.727.622
+15,58
+Revenue
+Beban Pokok Pendapatan
+(69.711.382.580) (60.754.273.700)
+(8.957.108.880)
+14,74
+Cost of revenue
+Laba Bruto
+12.846.480.658
+10.676.861.916
+2.169.618.742
+20,32
+Gross Profit
+Beban Usaha
+Operation Expenses
+Beban Umum dan 
+Administrasi
+(9.585.337.104)
+(6.030.668.439)
+(3.554.668.665)
+58,94 General and administrative 
+Expenses
+Penghasilan (beban) lain-
+lain – neto
+29.232.063
+120.429.226
+(91.197.163)
+(75,73)
+Other Income Expenses 
+– Net
+Laba Usaha
+3.290.375.617
+4.766.622.703
+(1.476.247.086)
+(30,97)
+Profit from Operation
+Penghasilan Keuangan
+9.054.926
+10.630.331
+(1.575.405)
+(14,82)
+Finance Income
+Beban Keuangan
+(805.541.212)
+(2.287.170.052)
+1.481.628.840
+(64,78)
+Finance Cost
+Laba Sebelum Pajak 
+Penghasilan
+2.493.889.331
+2.490.082.982
+3.806.349
+0,15
+Profit before Income Tax
+Manfaat (beban) Pajak 
+Penghasilan 
+Income Tax (Expense) 
+Benefit
+   Kini
+(785.022.797)
+(572.999.100)
+(212.023.697)
+37,00
+Current
+   Tangguhan
+44.761.758
+9.217.998
+35.543.760
+385,59
+Deferred
+Total laba (rugi) tahun 
+berjalan (bersih)
+(740.261.039)
+(563.781.102)
+(176.479.937)
+31,30
+Total Profit (Loss) for the 
+Year
+Penghasilan Komprehensif 
+Lain
+1.753.628.292
+1.926.301.880
+(172.673.588)
+(8,96)
+Other Comprehensive 
+Income 
+Pos-pos yang Tidak Akan 
+Direklasifikasi ke Laba Rugi:
+Items will not be reclassi-
+fied to Profit /Loss
+Pengukuran Kembali 
+Liabilitas Imbalan Kerja
+(44.573.253)
+1.600.344
+(46.173.597) (2885,23)
+Remeasurement of 
+Employee Benefit Liability
+  Pajak Penghasilan Terkait
+9.806.116
+(352.076)
+10.158.192 (2885,23)
+Related Income Tax
+Laba Komprehensif Periode/
+Tahun Berjalan
+1.718.861.155
+1.927.550.148
+(208.688.993)
+(10,83) Comprehensive Income for 
+the Year
+Laba per Saham Dasar
+2,18
+6,91
+(2,78)
+(40,29)
+Basic Earning per Share
+Pangsa Pasar
+Market share
+Perseroan mendistribusikan layanannya di seluruh 
+wilayah Indonesia sebesar 85% dan mancanegara 
+sebesar 15% seperti Amerika Serikat dan Benua 
+Eropa melalui kerja sama dengan Logistics Plus Inc. 
+Ke depannya, Perseroan akan terus meningkatkan 
+jangkauan pasar, baik di dalam maupun di luar negeri.
+The company distributes 85 % of its services 
+throughout Indonesia and abroad by 15% such as 
+the United States and the Continent Europe through 
+Work The same with Logistics Plus Inc. To in the 
+future, the Company will keep going increase market 
+reach, both domestic as well as abroad .
+Tinjauan Keuangan
+Finance Overview
+Laporan Laba Rugi dan Penghasilan Komprehensif Lain
+Statement of Profit and Loss and Other 
+Comprehensive Income
+67
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Pendapatan Usaha
+Pendapatan usaha Perseroan mengalami peningkatan 
+sebesar 15,18% atau sebesar Rp11,13 miliar, dari 
+Rp71,43 miliar menjadi Rp82,56 miliar di tahun 2023. 
+Peningkatan tersebut disebabkan oleh meningkatnya 
+jasa pengiriman pihak relasi di tahun 2023 menjadi 
+Rp33,39 miliar.
+Beban Pokok Pendapatan
+Beban pokok penjualan tercatat sebesar Rp67,711 
+miliar, meningkat sebesar 14,74% atau setara Rp8,96 
+miliar, dibandingkan tahun 2022 yang tercatat 
+sebesar Rp60,75 miliar. Kondisi ini disebabkan oleh 
+meningkatnya pendapatan usaha menjadi Rp82,56 
+miliar di tahun 2023.
+Laba Bruto
+Di tahun 2023, laba bruto Perseroan tercatat sebesar 
+Rp12,85 miliar, meningkat sebesar 20,32% atau setara 
+Rp2,17 miliar, dibandingkan tahun sebelumnya yang 
+tercatat sebesar Rp10,68 miliar. Hal ini dipengaruhi 
+oleh meningkatnya pendapatan usaha dan beban 
+pokok pendapatan sebesar 15,58% dan 14,74%.
+Beban Umum dan Administrasi
+Di tahun 2023, beban umum dan administrasi 
+Perseroan meningkat sebesar 58,94% atau Rp3,55 
+miliar, dari Rp6,03 miliar menjadi Rp9,59 miliar. 
+Laba Usaha
+Laba usaha Perseroan tercatat sebesar Rp3,29 miliar 
+pada tahun 2023, menurun sebesar 30,97% atau 
+setara Rp1,48 miliar, dibandingkan tahun 2022 yang 
+tercatat sebesar Rp4,77 miliar. Kondisi ini dipengaruhi 
+oleh menurunnya penghasilan (beban) lain-lain neto 
+sebesar 75,73%.
+Laba Sebelum Pajak Penghasilan
+Laba sebelum pajak penghasilan tercatat sebesar 
+Rp2,49 miliar, meningkat sebesar 0,15% atau setara 
+Rp3,8 juta dibandingkan tahun sebelumnya yang 
+tercatat sebesar Rp2,49 miliar. Peningkatan tersebut 
+disebabkan oleh menurunnya laba usaha, penghasilan 
+keuangan, serta beban keuangan yang masing-
+masing tercatat sebesar 30,97%;14,82%; serta 64,78%.
+Laba Komprehensif Periode/Tahun Berjalan
+Pada tahun 2023, Perseroan mencatatkan total laba 
+komprehensif tahun berjalan sebesar Rp1,72 miliar, 
+menurun sebesar 10,83% atau setara Rp208,69 juta, 
+dibandingkan tahun sebelumnya yang tercatat 
+sebesar Rp1,93 miliar.
+Revenues
+The Company's operating revenues increased by 
+15.18% or Rp. 11.13 billion, from Rp. 71.43 billion to Rp. 
+82.56 billion in 2023. This increase was due to the 
+increase in delivery services for related parties in 
+2023 to Rp. 33.39 billion.
+Cost of Revenue
+Cost of goods sold was recorded at IDR 67.711 billion, 
+an increase of 14.74% or equivalent to IDR 8.96 billion, 
+compared to 2022 which was recorded at IDR 60.75 
+billion. This condition is caused by an increase in 
+business income to IDR 82.56 billion in 2023.
+Gross Profit
+In 2023, the Company's gross profit was recorded at 
+IDR 12.85 billion, an increase of 20.32% or equivalent 
+to IDR 2.17 billion, compared to the previous year 
+which was recorded at IDR 10.68 billion. This was 
+influenced by the increase in operating income and 
+cost of revenue by 15.58% and 14.74%.
+General and Administrative Expenses
+In 2023, the Company's general and administrative 
+expenses will increase by 58.94% or IDR 3.55 billion, 
+from IDR 6.03 billion to IDR 9.59 billion.
+Operating Profit
+The Company's operating profit was recorded at 
+IDR 3.29 billion in 2023, a decrease of 30.97% or 
+equivalent to IDR 1.48 billion, compared to 2022 
+which was recorded at IDR 4.77 billion. This condition 
+was influenced by a decrease in net other income 
+(expenses) by 75.73%.
+Profit Before Income Tax
+Profit before income tax was recorded at IDR 2.49 
+billion, an increase of 0.15% or equivalent to IDR 3.8 
+million compared to the previous year which was 
+recorded at IDR 2.49 billion. This increase was caused 
+by a decrease in operating profit, financial income and 
+financial expenses, which were respectively recorded 
+at 30.97%; 14.82%; and 64.78%.
+Comprehensive Income for the Period / Year 
+In 2023, the Company recorded a total comprehensive 
+profit for the year of IDR 1.72 billion, a decrease of 
+10.83% or equivalent to IDR 208.69 million, compared 
+to the previous year which was recorded at IDR 1.93 
+billion.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+68
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Statement of Financial Position
+Assets
+Total Assets
+The total assets of the company are recorded 
+amounting to IDR 81.17 billion in 2023 , an increase of 
+120.53% or equivalent to IDR 44.36 billion compared 
+to recorded in 2022 amounting to IDR 36.81 billion. 
+Condition This caused by an increase in total assets 
+current and total assets No smoothly respectively 
+191.23% and 25.32%.
+Total Assets Fluent
+In 2023, total current assets were recorded at IDR 61.51 
+billion, an increase of 191.23% or the equivalent of IDR 
+40.39 billion compared to 2022 which was recorded 
+at IDR 21.12 billion. This was caused by an increase in 
+third party trade receivables - net by 372.41%.Total 
+Laporan Posisi Keuangan
+Aset
+(dalam Rupiah)
+   (in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+ASET LANCAR
+CURRENT ASSETS
+Kas dan bank
+277.494.718
+1.036.119.870
+(758.625.152)
+(73,22)
+Cash and Bank
+Piutang usaha
+Trade Receivable
+   Pihak Ketiga – Neto
+55.814.571.598
+11.814.856.403
+43.999.715.195
+372,41
+Third Parties - Net
+Piutang Non – Usaha 
+Non-Trade Receivable
+   Pihak Ketiga
+32.041.634
+4.837.472
+27.204.162
+562,36
+Third Parties
+   Pihak Berelasi
+-
+6.099.364.716
+(6.099.364.716)
+(100,00)
+Related Parties
+Biaya Dibayar di muka dan 
+uang muka
+5.294.256.682
+2.166.920.283
+3.127.336.399
+144,32
+Prepaid Expenses and 
+Advances
+Pajak dibayar di Muka
+96.268.613
+-
+-
+-
+Prepaid Taxes
+Total Aset lancar
+61.514.633.245
+21.122.098.744
+40.392.534.501
+191,23
+Total Current Assets
+ASET TIDAK LANCAR
+Non – Current Assets
+Aset Tetap – Neto
+14.589.333.590
+10.347.071.825
+4.242.261.765
+41,00
+Fixed Assets – Net
+Aset Hak Guna – Neto 
+162.866.514
+488.599.542
+(325.733.028)
+(66,67)
+Right of Use – Net
+Aset Lainnya
+4.790.000.000
+4.790.000.000
+-
+0,00
+Other Assets
+Aset Pajak Tangguhan 
+114.565.284
+59.700.605
+54.864.679
+91,90
+Deferred Tax Assets
+Total Aset Tidak Lancar
+19.656.765.388
+15.685.371.972
+3.971.393.416
+25,32
+Total Non - Current 
+Assets
+Total Aset
+81.171.398.633
+36.807.470.716
+44.363.927.917
+120,53
+Total Assets
+Total Aset
+Total aset Perseroan tercatat sebesar Rp81,17 miliar di 
+tahun 2023, meningkat sebesar 120,53% atau setara 
+Rp44,36 miliar dibandingkan tahun 2022 yang tercatat 
+sebesar Rp36,81 miliar. Kondisi ini disebabkan oleh 
+meningkatnya total aset lancar dan total aset tidak 
+lancar masing-masing 191,23% dan 25,32%.
+Total Aset Lancar
+Pada tahun 2023, total aset lancar tercatat sebesar 
+Rp61,51 miliar, meningkat sebesar 191,23% atau 
+setara Rp40,39 miliar dibandingkan tahun 2022 yang 
+tercatat sebesar Rp21,12 miliar. Hal ini disebabkan 
+oleh meningkatnya piutang usaha pihak ketiga – neto 
+sebesar 372,41%.
+69
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Non Current Assets
+The Company's total non-current assets were 
+recorded at IDR 19.66 billion in 2023, an increase of 
+25.32% or the equivalent of IDR 3.97 billion compared 
+to 2022 which was recorded at IDR 15.69 billion. This 
+increase was caused by an increase in fixed assets - 
+net by 41.00%.
+Liabilities
+Total Aset Tidak Lancar
+Total aset tidak lancar Perseroan tercatat sebesar 
+Rp19,66 miliar pada tahun 2023, meningkat sebesar 
+25,32% atau setara Rp3,97 miliar dibandingkan 
+tahun 2022 yang tercatat sebesar Rp15,69 miliar. 
+Peningkatan ini disebabkan oleh meningkatnya aset 
+tetap – neto sebesar 41,00%.
+Liabilitas
+(dalam Rupiah)
+ (in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Pertumbuhan
+Description
+Rp
+%
+LIABILITAS JANGKA 
+PENDEK
+CURRENT LIABILITIES
+Utang Bank Jangka Pendek
+5.000.000.000
+7.752.487.708
+(2.752.487.708)
+(35,50)
+Short Term Bank Loan
+Utang Usaha
+18.595.656.875
+899.858.262
+17.695.798.613
+1966,51
+Trade Payable
+Utang Pajak
+2.298.527.216
+4.034.882.480
+(1.736.355.264)
+(43,03)
+Tax Payable
+Beban Akrual
+313.041.382
+-
+-
+-
+Accrued Expenses
+Utang Non-Usaha
+Non-Trade Payable
+  Pihak Berelasi
+-
+-
+-
+-
+Related party
+Utang Jangka Panjang Jatuh 
+Tempo dalam Satu Tahun: 
+Current Maturities of Long-
+Term Liabilities: 
+Utang Bank
+-
+666.666.660
+(666.666.660)
+(100,00)
+Bank Loan
+Liabilitas Sewa
+-
+181.986.697
+(181.986.697)
+(100,00)
+Lease Liabilities
+Pembiayaan Konsumen
+-
+591.318.980
+(591.318.980)
+(100,00)
+Consumer Financing
+Total Liabilitas Jangka 
+Pendek
+26.207.225.473
+14.127.200.787
+12.080.024.686
+85,51
+Total Current Liabilities
+LIABILITAS JANGKA 
+PANJANG
+NON-CURRENT LIABIL-
+ITIES
+Utang Jangka Panjang 
+Setelah Dikurangi Bagian 
+yang Jatuh Tempo Satu 
+Tahun: 
+Long Term Maturities of 
+Long -Term Liabilities: 
+Utang Bank
+-
+1.833.333.353
+(1.833.333.353)
+(100,00)
+Bank Loan
+Liabilitas Sewa
+-
+193.182.543
+(193.182.543)
+(100,00)
+Lease Liabilities
+Pembiayaan Konsumen
+-
+-
+-
+-
+Consumer Financing
+Liabilitas Imbalan Pascakerja
+466.437.031
+271.366.389
+195.070.642
+71,88
+Post-Employment 
+Liabilities
+Total Liabilitas Jangka 
+Panjang
+466.437.031
+2.297.882.285
+(1.831.445.254)
+(79,70)
+Total Non-Current 
+Liabilities
+Total Liabilitas 
+26.673.662.504
+16.425.083.072
+10.248.579.432
+62,40
+Total Liabilities
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+70
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Total Liabilities
+The Company's total liabilities were recorded at IDR 
+26.67 billion in 2023, a decrease of 62,40% or equivalent 
+to IDR 10,25 billion, compared to the previous year 
+which was recorded at IDR 16,43 billion. This decrease 
+was caused by a decrease in long-term liabilities by 
+79,70%.
+Total Current Liabilities 
+In 2023, the Company's total current liabilities were 
+recorded at IDR 26.21 billion, an increase of 85,51% 
+or equivalent to IDR 12,08 billion, compared to the 
+previous year which was recorded at IDR 14,13 billion. 
+This condition was caused by an increase in business 
+debts of 1966.51%.
+Total Non-Current Liabilities
+In 2023, the Company's non-current liabilities were 
+recorded at IDR 466.44 million, a decrease of 79,70% 
+or equivalent to IDR 1,83 billion, compared to the 
+previous year which was recorded at IDR 2,30 billion. 
+This condition is caused by the absence of bank debt 
+and rental liabilities during 2023.
+Equity
+Total Liabilitas
+Total liabilitas Perseroan tercatat sebesar Rp26,67 
+miliar di tahun 2023, menurun sebesar 62,40% 
+atau setara Rp10,25 miliar, dibandingkan tahun 
+sebelumnya yang tercatat sebesar Rp16,43 miliar. 
+Penurunan ini disebabkan oleh menurunnya liabilitas 
+jangka panjang sebesar 79,70%.
+Total Liabilitas Jangka Pendek
+Di tahun 2023, total liabilitas jangka pendek Perseroan 
+tercatat sebesar Rp26,21 miliar, meningkat sebesar 
+85,51% atau setara Rp12,08 miliar, dibandingkan tahun 
+sebelumnya yang tercatat sebesar Rp14,13 miliar. 
+Kondisi ini disebabkan oleh meningkatnya utang 
+usaha sebesar 1966,51%.
+Total Liabilitas Jangka Panjang
+Di tahun 2023, liabilitas jangka panjang Perseroan 
+tercatat sebesar Rp466,44 juta, menurun sebesar 
+79,70% atau setara Rp1,83 miliar, dibandingkan tahun 
+sebelumnya yang tercatat sebesar Rp2,30 miliar. 
+Kondisi ini disebabkan oleh tidak adanya utang bank 
+dan liabilitas sewa selama tahun 2023.
+Ekuitas
+(dalam Rupiah)
+ (in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+Modal saham – nilai nominal 
+Rp 100.000 per saham Modal 
+dasar - 88.000 saham pada 
+tanggal 31 Desember 2023, 
+600.000 saham pada tanggal 
+31 Desember 2022 dan 
+250.000 saham pada tanggal 
+31 Desember 2021 
+-
+15.000.000.000 (15.000.000.000)
+(100,00)
+Share Capital – par value 
+Rp 100.000 per share
+Authorized Capital – 
+88,000 shares as of 
+December 31, 2023, 
+600,000 shares as of 
+December 31, 2022 and 
+250,000 shares as of 
+December 31, 2021.
+Modal ditempatkan dan 
+disetor - 200.000 saham 
+pada tanggal 31 Desember 
+2022, 150.000 saham pada 
+tanggal 31 Desember 2022, 
+dan 62.500 saham pada 
+tanggal 31 Desember 2021
+27.500.000.000
+-
+27.500.000.000
+N/A
+Issued and Fully Paid – 
+200,000 shares as of De-
+cember 31, 2022, 150,000 
+shares as of December 31, 
+2022, and 62,500 shares 
+as of December 31, 2021.
+Tambahan Modal Disetor
+20.051.487.330
+155.000.000
+19.896.487.330
+12836,44
+Additional Paid in Capital
+Penghasilan Komprehensif 
+Lain
+(26.312.922)
+8.454.215
+(34.767.137)
+(411,24)
+Other Comprehensive 
+Income
+Saldo Laba
+Retained Earnings
+71
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+(dalam Rupiah)
+ (in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+Dicadangkan
+-
+-
+-
+-
+Appropriated
+Tidak Dicadangkan
+6.972.561.721
+5.218.933.429
+1.753.628.292
+33,60
+Unappropriated
+Total Ekuitas
+54.497.736.129
+20.382.387.644
+34.115.348.485
+167,38
+Total Equity
+Pada tahun 2023, total ekuitas Perseroan tercatat 
+sebesar Rp54,50 miliar, meningkat sebesar 167,38% 
+atau sebesar Rp34,12 miliar, dibandingkan tahun 
+sebelumnya yang tercatat sebesar Rp20,38 miliar. Hal 
+ini dipengaruhi oleh ditambahnya modal ditempatkan 
+dan disetor sebesar Rp27,50 miliar. 
+Arus Kas	
+	
+	
+	
+	
+	
+	
+	
+   	
+	
+        
+(dalam Rupiah)
+(in Rupiah)
+Uraian
+2023
+2022
+Pertumbuhan
+Growth
+Description
+Rp
+%
+Arus Kas Neto Diperoleh dari 
+(Digunakan untuk) Aktivitas 
+Operasi
+(28.793.239.493)
+(1.852.673.806)
+(26.940.565.687)
+1454,15
+Net Cash Flows from 
+(used for) Operating 
+Activities 
+Arus Kas Neto Diperoleh dari 
+(Digunakan untuk) Aktivitas 
+Investasi
+1.857.102.951
+(3.460.446.561)
+5.317.549.512
+(153,67)
+Net Cash Flows from 
+(used for) Investing 
+Activities 
+Arus Kas Neto Diperoleh dari 
+(Digunakan untuk) Aktivitas 
+Pendanaan
+26.177.511.390
+5.160.532.798
+21.016.978.592
+407,26
+Cash Flows from (for) 
+Financing Activities 
+Kenaikan (Penurunan) Neto 
+Kas dan Bank dan Cerukan
+(758.625.152)
+(152.587.569)
+(606.037.583)
+397,17
+Net Increase (Decrease) 
+Cash Equivalent and 
+Bank and Overdraft 
+kas dan setara kas pada 
+periode awal tahun
+1.036.119.870
+1.188.707.439
+(152.587.569)
+(12,84)
+cash and cash 
+equivalents at the 
+beginning of the year
+Kas dan Setara Kas pada 
+Akhir Periode
+277.494.718
+1.036.119.870
+(758.625.152)
+(73,22)
+Cash and Cash 
+Equivalent at the End of 
+the Period
+Arus Kas Neto Diperoleh dari (Digunakan untuk 
+Aktivitas Operasi)
+Perseroan mencatatkan arus kas neto diperoleh 
+dari (digunakan untuk aktivitas operasi) sebesar 
+Rp28,80 miliar, meningkat 1454,15% atau setara 
+Rp26,95 miliar, dibandingkan tahun sebelumnya yang 
+tercatat sebesar Rp1,85 miliar. Kondisi ini dipengaruhi 
+oleh meningkatnya pembayaran kepada karyawan 
+sebesar 30,75%.
+In 2023, the Company's total equity was recorded at 
+IDR 54.50 billion, an increase of 167.38% or IDR 34.12 
+billion, compared to the previous year which was 
+recorded at IDR 20.38 billion. This was influenced by 
+the addition of issued and paid-up capital of IDR 27.50 
+billion.
+Cash flow
+Net Cash Flows from (used for) Operating Activity 
+The company recorded net cash flow obtained from 
+(used for operating activities) of IDR 28,80 billion, an 
+increase of 1454,15% or equivalent to IDR 26,95 billion, 
+compared to the previous year which was recorded at 
+IDR 1.85 billion. This condition was influenced by the 
+increase in payments to employees by 30.75%.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+72
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Arus Kas Neto Diperoleh dari (Digunakan untuk) 
+Aktivitas Investasi
+Perseroan mencatatkan arus kas neto diperoleh dari 
+(digunakan untuk) aktivitas investasi sebesar Rp1,86 
+miliar, menurun 153,67% atau setara Rp5,32 miliar, 
+dibandingkan tahun 2022 yang tercatat sebesar 
+Rp3,46 miliar. Kondisi ini dipengaruhi oleh tidak 
+adanya penempatan uang jaminan di tahun 2023.
+Arus Kas Neto Diperoleh dari (Digunakan untuk) 
+Aktivitas Pendanaan
+Pada tahun 2023, Perseroan mencatatkan arus 
+kas neto diperoleh dari (digunakan untuk) aktivitas 
+pendanaan sebesar Rp26,18 miliar, meningkat 407,26% 
+atau setara Rp21,02 miliar, dibandingkan tahun 
+2022 yang tercatat sebesar Rp5,16 miliar. Kondisi ini 
+dipengaruhi oleh tambahan setoran modal sebesar 
+270,25%.
+Net Cash Flows from (used for) Investing Activity
+The company recorded net cash flow obtained from 
+(used for) investing activities of IDR 1.86 billion, a 
+decrease of 153.67% or equivalent to IDR 5.32 billion, 
+compared to 2022 which was recorded at IDR 3.46 
+billion. This condition is influenced by the absence of 
+security deposits in 2023.
+Net Cash Flows from (used for) Financing Activity
+In 2023, the Company recorded net cash flow obtained 
+from (used for) financing activities of IDR 26.18 billion, 
+an increase of 407.26% or the equivalent of IDR 21.02 
+billion, compared to 2022 which was recorded at 
+IDR 5.16 billion. This condition was influenced by 
+additional capital contributions of 270.25%.
+Rasio Keuangan
+Financial Ratio 
+Profitabilitas
+Profitability
+Perseroan melakukan perhitungan profitabilitas 
+untuk mengetahui seberapa besar kemampuan 
+Perseroan dalam menghasilkan keuntungan dari 
+kinerja operasional. Informasi terkait profitabilitas 
+Perseroan dalam 2 tahun terakhir, diungkapkan pada 
+tabel berikut. 
+The Company carries out profitability calculations 
+to determine how much the Company's ability to 
+generate profits from operational performance. 
+Information related to the Company's profitability in 
+the last 2 years is disclosed in the following table.
+(dalam Rupiah)
+(in Rupiah)
+Uraian
+2023
+2022
+Description
+Laba Kotor/Pendapatan
+15,56
+14,95
+Gross Profit/Revenue
+Laba Usaha/Pendapatan
+3,99
+6,67
+Profit from Operation/Revenue
+Laba Bersih Tahun Berjalan/Pendapatan
+2,12
+(0,02)
+Profit for the Year/Revenue
+Laba Bersih Tahun Berjalan/Jumlah Ekuitas 
+(ROE)
+3,22
+(21,42)
+Profit for the Year/Total Equity (ROE)
+Laba Bersih Tahun Berjalan/Jumlah Aset 
+(ROA)
+2,16
+5,23
+Profit for the Year/Total Assets (ROA)
+Kemampuan Membayar Utang
+Ability to Pay Debt
+Kemampuan Perseroan dalam membayar utang 
+dapat dilihat dari perhitungan rasio likuiditas dan 
+solvabilitas. 
+The Company's ability to pay debts can be seen from 
+the calculation of liquidity and solvency ratios. 
+73
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Rasio likuiditas mengukur kemampuan Perseroan 
+dalam 
+memenuhi 
+liabilitas 
+jangka 
+panjang. 
+Sementara, rasio solvabilitas mengukur kemampuan 
+Perseroan dalam memenuhi liabilitas jangka pendek. 
+Informasi terkait kemampuan membayar utang 
+Perseroan dalam 2 tahun terakhir, diungkapkan 
+sebagai berikut.
+The liquidity ratio measures the Company’s ability to 
+meet long-term liabilities. Meanwhile, the solvency 
+ratio measures the Company’s ability to meet short-
+term liabilities. Information regarding the Company’s 
+ability to pay debts in the last 2 years is disclosed as 
+follows.
+(dalam Rupiah)	
+	
+	
+	
+	
+	
+	
+	
+   	
+	
+                       (in Rupiah)
+Uraian
+2023
+2022
+Description
+Likuiditas
+Liquidity
+Total Aset Lancar/Total  Liabilitas Pendek 
+(Current Ratio)
+2,35
+1,50
+Total Current Assets/Total Current Liability 
+(Current Ratio)
+Total Liabilitas/Total  Ekuitas (DER)
+0,33
+0,45
+Total Liability/Total Equity (DER)
+Total Liabilitas/Total Aset (DAR)
+0,33
+0,45
+Total Liability/Total Assets (DAR)
+Debt-Services Coverage Ratio (DSCR)
+0,48
+0,48
+Debt-Services Coverage Ratio (DSCR)
+Interest-Services Coverage Ratio
+5,23
+0,12
+Interest-Services Coverage Ratio
+Solvabilitas
+Solvability
+Liabilitas terhadap Aset (x)
+0,33
+0,45
+Liability to Assets (x)
+Liabilitas terhadap Ekuitas (x)
+0,49
+0,81
+Liability to Equity (x)
+	
+Kolektibilitas Piutang
+Receivables Collectability 
+Perseroan melakukan perhitungan kolektibilitas 
+piutang 
+untuk 
+mengetahui 
+lamanya 
+waktu 
+mengumpulkan piutang dari pihak ketiga. Untuk 
+menghitung 
+kolektibilitas 
+piutang, 
+Perseroan 
+menghitung pendekatan rata-rata periode penagihan 
+yang dihitung dengan membagi piutang usaha dengan 
+penjualan bersih, kemudian dikalikan dengan total 
+hari selama 1 tahun.  Informasi terkait kolektibilitas 
+piutang dalam 2 tahun terakhir diungkapkan pada 
+tabel berikut.
+The 
+Company 
+calculates 
+the 
+collectability 
+of 
+receivables to determine the length of time to collect 
+receivables from third parties. To calculate the 
+collectability of receivables, the Company calculates 
+the average collection period approach which is 
+calculated by dividing trade receivables by net 
+sales, then multiplying by the total days for 1 year. 
+Information related to the collectability of receivables 
+in the last 2 years is disclosed in the following table.
+(dalam Rupiah)
+(in Rupiah)
+Uraian
+2023
+2022
+Description
+Piutang Usaha 
+55.814.571.598
+11.814.856.403
+Trade Receivable
+Pendapatan 
+82.557.863.238
+71.431.135.616
+Revenue
+Rata-rata Periode Penagihan Piutang 
+(hari) 
+60,53
+60,54
+Average Period of Collecting Receivable 
+(day)
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+74
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Pada tahun 2023, Perseroan membutuhkan waktu 
+yang sama dengan tahun sebelumnya,  yaitu selama 
+61 hari.
+In 2023, the Company needs the same time with year 
+before , that is for 61 days .
+Struktur Modal
+Capital Structure
+Perseroan berkomitmen untuk menjaga struktur 
+permodalan 
+dengan 
+mempertahankan 
+rasio 
+modal yang sehat dan peringkat kredit yang kuat, 
+dengan menyesuaikan pembagian dividen, modal 
+kerja, maupun penerbitan saham baru. Selain itu, 
+Manajemen senantiasa meninjau struktur modal 
+dengan menggunakan beberapa ukuran leverage 
+keuangan, seperti rasio pengungkit. Informasi terkait 
+struktur permodalan Perseroan dalam 2 tahun 
+terakhir diungkapkan sebagai berikut.
+The Company is committed to maintaining its capital 
+structure by maintaining a healthy capital ratio and a 
+strong credit rating, by adjusting dividend distribution, 
+working capital and the issuance of new shares. 
+In addition, Management continually reviews the 
+capital structure using several measures of financial 
+leverage, such as the leverage ratio. Information 
+regarding the Company's capital structure in the last 
+2 years is disclosed as follows.
+(dalam Rupiah)	
+	
+	
+	
+	
+	
+	
+	
+   	
+	
+                       (in Rupiah)
+Uraian
+2023
+2022
+Description
+Total liabilitas
+26.673.662.504
+16.425.083.072
+Total Liability
+Dikurangi: kas dan bank
+277.494.718
+1.036.119.870
+Reduced: Cash and Bank
+Total liabilitas - neto
+26.396.167.786
+15.388.963.202
+Total Liability – Net
+Total ekuitas
+54.497.736.129
+20.382.387.644
+Total Equity
+Rasio Pengungkit (%)
+48,44
+75,50
+Gearing Ratio (%)
+Kebijakan Dividen
+Dividend Policy
+Kebijakan dividen Perseroan menyesuaikan dengan 
+peraturan 
+perundang-undangan 
+yang 
+berlaku, 
+memperhatikan usulan dari Pemegang Saham, dan 
+memperhatikan kondisi keuangan internal, yang 
+kemudian ditetapkan di dalam RUPS Tahunan. Proses 
+dan prosedur pembagian dividen menjadi tanggung 
+jawab dari Manjemen Perusahaan. 
+The Company's dividend policy adapts to applicable 
+laws and regulations, takes into account proposals 
+from Shareholders, and pays attention to internal 
+financial conditions, which are then determined 
+at the Annual GMS. The process and procedures 
+for distributing dividends are the responsibility of 
+Company Management.
+Pembagian Dividen
+Dividend Distribution
+Perseroan belum melakukan pembagian dividen 
+selama tahun 2023. Hal tersebut atas pertimbangan 
+manajemen, karena Perseroan baru melaksanakan 
+pencatatan perdana saham, yang mana hasil 
+penawaran umum tersebut digunakan untuk modal 
+kerja.
+The Company has not distributed dividends during 
+2023. This is at the discretion of management, 
+because the Company has just carried out its initial 
+share listing, where the proceeds from the public 
+offering are used for working capital.
+75
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Investasi Barang Modal
+Capital Investment 
+Perseroan melakukan investasi barang modal terdiri 
+dari bangunan dan prasarana, kendaraan, serta 
+perlengkapan, perabotan dan peralatan kantor. 
+Informasi terkait investasi barang modal dalam 2 
+tahun terakhir diungkapkan sebagai berikut.
+The Company invests in capital goods consisting 
+of buildings and infrastructure, vehicles, as well 
+as equipment, furniture and office equipment. 
+Information related to investment in capital goods in 
+the last 2 years is disclosed as follows.
+(dalam Rupiah)	
+	
+	
+	
+	
+	
+	
+	
+   	
+	
+                       (in Rupiah)
+Uraian
+2023
+2022
+Description
+Bangunan dan prasarana
+205.611.716
+149.030.000
+Buildings and infrastructure
+Kendaraan
+1.386.000.000
+-
+Vehicle
+Perlengkapan, perabotan, dan peralatan kantor
+3.732.738.471
+6.000.000
+Office supplies, furniture and equipment
+Total
+5.324.350.187
+155.030.000
+Total
+Biaya yang dikeluarkan untuk investasi barang modal 
+diperoleh dari penerimaan kas pelanggan. Belanja 
+modal dilakukan oleh Perseroan dalam rangka 
+pengembangan kegiatan usaha, yaitu renovasi 
+bangunan 
+dan 
+prasarana 
+gudang; 
+pembelian 
+perlengkapan, perabotan, dan peralatan kantor; 
+serta modifikasi kendaraan. Renovasi bangunan 
+dan 
+prasarana 
+gudang 
+diperuntukkan 
+untuk 
+meningkatkan 
+kapasitas 
+penyimpanan 
+barang 
+pelanggan Perseroan, serta pembelian perlengkapan, 
+perabotan, dan peralatan kantor diharapkan dapat 
+meningkatkan operasional, sedangkan modifikasi 
+kendaraan diharapkan dapat menambah umur 
+ekonomis kendaraan Perseroan.
+Costs incurred for investment in capital goods are 
+obtained from customer cash receipts. Capital 
+expenditures are carried out by the Company 
+in the context of developing business activities, 
+namely renovation of buildings and warehouse 
+infrastructure; purchase of office supplies, furniture 
+and equipment; as well as vehicle modifications. 
+Renovation of buildings and warehouse infrastructure 
+is intended to increase the storage capacity of the 
+Company’s customers’ goods, as well as the purchase 
+of equipment, furniture and office equipment is 
+expected to improve operations, while vehicle 
+modifications are expected to increase the economic 
+life of the Company’s vehicles.
+Ikatan Material Terkait Investasi Barang Modal
+Material Commitment for Capital Investment
+Tidak terdapat ikatan material terkait investasi barang 
+modal selama tahun 2023.
+There are no material ties related to investment in 
+capital goods during 2023.
+Informasi Material Terkait Investasi, Ekspansi, 
+Divestasi, Penggabungan/ Peleburan Usaha, 
+Akuisisi, dan Restrukturisasi Utang/Modal
+Material Information Regarding Investment, 
+Expansion, Divestment, Business Merger/
+Consolidation, Acquisition, and Debt/Capital 
+Restructuring
+Tidak terdapat informasi material yang berkaitan 
+dengan investasi, ekspansi, divestasi, penggabungan/
+peleburan usaha, akuisisi, dan restrukturisasi utang/
+modal selama tahun 2023.
+There is no material information relating to 
+investment, 
+expansion, 
+divestment, 
+business 
+merger/consolidation, acquisition, and debt/capital 
+restructuring during 2023.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+76
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Transaksi Material yang Mengandung Benturan 
+Kepentingan atau Transaksi dengan Pihak 
+Afiliasi
+Material Transactions Containing Conflicts of 
+Interest or Transactions with Affiliated Parties
+Tidak terdapat transaksi material yang mengandung 
+benturan kepentingan di sepanjang tahun 2023. 
+There are no material transactions containing 
+conflicts of interest throughout 2023.
+Transaksi dengan Pihak Afiliasi
+Transactions with Affiliated Parties
+Informasi terkait transaksi afiliasi yang terjadi di 
+Perseroan dijelaskan sebagai berikut.
+Information related to affiliate transactions occurring 
+in the Company is explained as follows.
+Pihak Berelasi
+Related Parties
+Sifat Hubungan dengan Pihak 
+Berelasi
+Type of Relationship with Related 
+Parties
+Sifat Transaksi
+Type of Transaction
+PT Elogistik System Indonesia
+Entitas Sepengendali
+Entitas Entities Under Common Control
+Piutang Non-Usaha
+Non-Trade Receivables
+Wahyu Dwi Jatmiko
+Pemegang Saham
+Shareholders
+Piutang Non-Usaha
+Non-Trade Receivables
+PT Logisticplus Multimoda Indonesia
+Entitas Sepengendali
+Entities Under Common Control
+Piutang Non-Usaha
+Non-Trade Receivables
+PT Legon Pari
+Entitas Sepengendali
+Entities Under Common Control
+Penjualan
+Sale
+Logistics Plus Inc
+Entitas Sepengendali
+Entities Under Common Control
+Penjualan
+Sale
+PT Legon Pari
+Entitas Sepengendali
+Entities Under Common Control
+Penjualan
+Sale
+Objek Perjanjian
+Object of Agreement
+Penyewaan ruangan/bangunan dan seluruh perlengkapannya yang 
+berada di SAV Building, Jl. Kavling Polri No. 20, Jagakarsa, Jakarta 
+Selatan milik Wahyu Dwi Jatmiko kepada Perseroan untuk menjalanan 
+kegiatan usaha dan bisnisnya
+Rental of rooms/buildings and all equipment located at SAV Building, Jl. 
+Kavling Polri No. 20, Jagakarsa, South Jakarta belonging to Wahyu Dwi 
+Jatmiko to the Company to carry out its business and business activities
+Jangka Waktu
+Time period
+Perjanjian SAV Building berlaku sejak tanggal 4 Januari 2021 sampai 
+dengan disepakati suatu pengakhiran yang dinyatakan secara tertulis 
+oleh Para Pihak.
+The SAV Building Agreement is valid from January 4, 2021 until an agreed 
+termination is stated in writing by the Parties.
+Kewajaran Transaksi
+Transaction Fairness
+Perseroan memastikan seluruh transaksi yang 
+dilakukan bersifat wajar dan telah memenuhi 
+peraturan yang berlaku, serta tidak terdapatnya 
+benturan kepentingan antar organ Perseroan ataupun 
+Pemegang Saham.
+The Company ensures that all transactions carried 
+out are fair and comply with applicable regulations, 
+and that there are no conflicts of interest between 
+Company organs or Shareholders.
+77
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Pernyataan Dewan Komisaris dan Direksi Atas 
+Transaksi Afiliasi
+Statement from the Board of Commissioners 
+and Directors regarding Affiliate Transactions
+Dewan Komisaris dan Direksi menyatakan bahwa 
+transaksi afiliasi yang dilakukan telah memenuhi 
+ketentuan yang berlaku dan bersifat wajar.
+The Board of Commissioners and Directors stated that 
+the affiliate transactions carried out had complied 
+with applicable regulations and were reasonable.
+Perbandingan Target dan Realisasi 2023 dan 
+2022
+Comparison of Targets and Realizations for 
+2023 and 2022
+Sewa Gudang
+Warehouse Rental
+Pada tanggal 23 Juli 2019, Perseroan mengadakan 
+perjanjian sewa menyewa bangunan dengan Anthony 
+Mahendra dimana (AM) atas perjanjian tersebut 
+Perseroan akan menyewa bangunan dimiliki oleh AM 
+dengan jangka waktu selama 3 tahun dengan harga 
+sewa pertahun sebesar Rp400.000.000 dan uang 
+jaminan sebesar Rp40.000.000, di mana sewa dimulai 
+tanggal 23 Juli 2019 sampai dengan 22 Juli 2022. 
+Pada tanggal 2 Februari 2022, Perseroan melakukan 
+addendum 
+perjanjian 
+sewa 
+menyewa 
+dimana 
+para pihak sepakat untuk memperpanjang masa 
+sewa selama 2 tahun dengan harga sewa pertahun 
+Rp400.000.000 juta yang akan dimulai pada tanggal 
+23 Juli 2022 sampai dengan 22 Juli 2024 (Catatan 9).
+On July 23 2019, the Company entered into a building 
+rental agreement with Anthony Mahendra where 
+(AM) under this agreement the Company will rent the 
+building owned by AM for a period of 3 years with an 
+annual rental price of IDR 400,000,000 and a security 
+deposit of IDR 40,000,000 , where the lease starts on 
+July 23, 2019 until July 22 2022. On February 2, 2022, 
+the Company entered into an addendum to the rental 
+agreement where the parties agreed to extend the 
+rental period for 2 years with an annual rental price 
+of IDR 400,000,000 million which will start on July 23, 
+2022 to July 22, 2024 (Note 9).
+Sewa Kapal
+Rent ship
+Berdasarkan perjanjian sewa-menyewa menyewa 
+kapal No. 003/TC/BTA-LPI/V/2022, pada tanggal 1 Juni 
+2022, Perseroan melakukan perjanjian dengan PT 
+Badranaya Trans Apsara (BTA) di mana atas perjanjian 
+tersebut Perseroan menyewa kapal TB. Terus Daya 
+55/BG Sinar Lestari 378 dengan jangka waktu 1 tahun 
+dengan harga sewa perbulan Rp1.800.000.000 yang 
+pada bulan ke 6 atas harga sewa akan ditinjau kembali 
+dengan deposit sebesar Rp1.800.000.000 yang 
+akan dikembalikan BTA pada saat Perseroan telah 
+menyelesaikan kewajibannya.
+Based on the charter agreement renting vessel No. 
+003/TC/BTA-LPI/V/2022, on June 1 2022, the Company 
+entered into an agreement with PT Badranaya Trans 
+Apsara (BTA) according to which the Company 
+chartered the TB vessel. Continue Daya 55/BG Sinar 
+Lestari 378 with a term of 1 year with a monthly rental 
+price of IDR 1,800,000,000 which in the 6th month the 
+rental price will be reviewed again with a deposit of 
+IDR 1,800,000,000 which will be returned by BTA when 
+the Company has completed his obligations.
+Berdasarkan perjanjian sewa menyewa-menyewa 
+kapal No. 004/TC/BTA-LPI/V/2022. Pada tanggal 6 
+Juni 2022, Perseroan melakukan perjanjian dengan 
+PT Badranaya Trans Apsara (BTA) di mana atas 
+perjanjian tersebut, Perseroan menyewa kapal TB. 
+Maju Daya 67/BG NAP 308 dengan jangka waktu 1 
+tahun dengan harga sewa perbulan Rp1.500.000.000 
+yang pada bulan ke 6 atas harga sewa akan ditinjau 
+kembali dengan deposit sebesar Rp1.500.000.000 
+yang akan dikembalikan BTA pada saat Perseroan 
+telah menyelesaikan kewajibannya.
+Based on the vessel rental agreement No. 004/TC/
+BTA-LPI/V/2022. On June 6 2022, the Company 
+entered into an agreement with PT Badranaya Trans 
+Apsara (BTA) where based on this agreement, the 
+Company chartered the TB vessel. Maju Daya 67/BG 
+NAP 308 with a term of 1 year with a monthly rental 
+price of IDR 1,500,000,000 which in the 6th month 
+the rental price will be reviewed with a deposit of IDR 
+1,500,000,000 which will be returned by BTA when the 
+Company has completed its obligations.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+78
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Berdasarkan 
+perjanjian 
+sewa 
+menyewa 
+kapal 
+No. 005/TC/BTA-LPI/V/2022 Pada tanggal 6 Juni 
+2022, Perseroan melakukan perjanjian dengan PT 
+Badranaya Trans Apsara (BTA) dimana atas perjanjian 
+tersebut, Perseroan menyewa kapal TB. Maju Daya 
+75/BG. Marcopolo 338 dengan jangka waktu 1 tahun 
+dengan harga sewa perbulan Rp1.450.000.000 yang 
+pada bulan ke 6 atas harga sewa akan ditinjau kembali 
+dengan deposit sebesar Rp1.450.000.000 yang 
+akan dikembalikan BTA pada saat Perusahaan telah 
+menyelesaikan kewajibannya.
+Based on the rental agreement for vessel No. 005/
+TC/BTA-LPI/V/2022 On June 6 2022, the Company 
+entered into an agreement with PT Badranaya Trans 
+Apsara (BTA) where based on this agreement, the 
+Company chartered the vessel TB. Maju Daya 75/BG. 
+Marcopolo 338 with a term of 1 year with a monthly 
+rental price of IDR 1,450,000,000 where in the 6th 
+month the rental price will be reviewed with a deposit 
+of IDR 1,450,000,000 which will be returned by BTA 
+when the Company has completed its obligations.
+Berdasarkan perjanjian sewa-menyewa menyewa 
+kapal No. 001/TC/FCL-LI/I/2023 pada tanggal 16 
+Januari 2023, Perseroan melakukan perjanjian dengan 
+PT Fajar Cargo Logistic (FCL) di mana atas perjanjian 
+tersebut, Perseroan menyewa kapal TB. BPW 77/
+BG. Samudera Indonesia dengan jangka waktu 6 
+bulan dengan harga sewa perbulan Rp1.100.000.000 
+yang pada bulan ke 3 atas harga sewa akan ditinjau 
+kembali dengan deposit sebesar Rp1.100.000.000 
+yang akan dikembalikan FCL pada saat Perseroan 
+telah menyelesaikan kewajibannya.
+Based on the charter agreement renting vessel 
+No. 001/TC/FCL-LI/I/2023 on January 16 2023, the 
+Company entered into an agreement with PT Fajar 
+Cargo Logistic (FCL) where based on this agreement, 
+the Company rented the TB vessel. BPW 77/BG. 
+Samudera Indonesia with a term of 6 months with a 
+monthly rental price of IDR 1,100,000,000 which in the 
+3rd month the rental price will be reviewed with a 
+deposit of IDR 1,100,000,000 which will be returned by 
+FCL when the Company has completed its obligations.
+Perjanjian Utang Piutang
+Debt and Receivable Agreement
+Berdasarkan Perjanjian Utang Piutang No. 05/PUP/
+Dir-LPI/II/2023 tanggal 1 Februari 2023, Perseroan 
+mendapatkan fasilitas pinjaman dari Wahyu Dwi 
+Jatmiko, Pemegang Saham dengan plafond pinjaman 
+sampai dengan Rp1.200.000.000. Pinjaman dikenakan 
+bunga sebesar 2,5% dengan grace periode selama 6 
+bulan dan jatuh tempo pengembalian selama 1 (satu) 
+tahun (Catatan 12).
+Based on Debt and Receivable Agreement No. 05/
+PUP/Dir-LPI/II/2023 dated 1 February 2023, the 
+Company obtained a loan facility from Wahyu Dwi 
+Jatmiko, Shareholder with a loan ceiling of up to IDR 
+1,200,000,000. The loan bears interest at 2.5% with a 
+grace period of 6 months and a repayment maturity of 
+1 (one) year (Note 12).
+Perjanjian Pinjam Pakai
+Lending and Use Agreement
+Berdasarkan 
+Perjanjian 
+Pinjam 
+Pakai 
+antara 
+Perseroan dengan Wahyu Dwi Jatmiko tanggal 4 
+Januari 2021, Wahyu Dwi Jatmiko sepakat untuk 
+meminjamkan sebagian ruangan bangunan miliknya 
+yang berlokasi di SAV Building Jl. Kavling Polri No.20 
+Jagakarsa, Jakarta Selatan seluas 240m2.
+Based on the Lending and Use Agreement between 
+the Company and Wahyu Dwi Jatmiko dated January 
+4, 2021, Wahyu Dwi Jatmiko agreed to lend part of 
+the space in his building located at SAV Building Jl. 
+National Police Plot No.20 Jagakarsa, South Jakarta 
+covering an area of 240m2.
+Perjanjian Kerja sama dengan PT GE Operations 
+Indonesia
+Cooperation Agreement with PT GE Operations 
+Indonesia
+Pada tanggal 1 Januari 2022, Perseroan mengadakan 
+Perjanjian Jasa Transportasi dan Layanan Rigging 
+dengan PT GE Operations Indonesia (GE) No. GEHC-
+IDLog/20220210, dimana atas perjanjian tersebut,
+On January 1 2022, the Company entered into a 
+Transportation 
+Services 
+and 
+Rigging 
+Services 
+Agreement with PT GE Operations Indonesia (GE) 
+No. GEHC-IDLog/20220210, where based on the 
+agreement,
+79
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Perseroan akan memberikan jasa transportasi atas 
+barang GE untuk dikirimkan ke lokasi yang telah 
+ditentukan oleh GE dan penanganan peralatan 
+yang berupa perincian peralatan dalam daftar 
+pengepakan dari lokasi pengiriman yang dirancang 
+dan membongkar peralatan hingga posisinya yang 
+telah ditentukan oleh GE. Perjanjian ini berlaku 
+selama 2 tahun sampai dengan 31 Desember 2024 dan 
+diperpanjang selama 1 tahun.
+The Company will provide transportation services for 
+GE goods to be sent to locations determined by GE 
+and equipment handling in the form of equipment 
+details in the packing list from the designed delivery 
+location and unloading the equipment to the position 
+determined by GE. This agreement is valid for 2 years 
+until 31 December 2024 and can be extended for 1 year.
+Perbandingan Target dan Realisasi 2023 10% 
+dari  2022
+Comparison of Target and Realization 2023 
+10% from 2022
+(dalam Rupiah)
+ (in Rupiah)
+Uraian
+Description
+2023
+Target
+Target
+Pencapaian
+achievement
+%
+Pendapatan
+Revenue
+100.183.596.324
+82.557.863.238
+82,41
+Beban Pokok Pendapatan 
+Cost of Revenue
+(87.585.859.159)
+(69.711.382.580)
+79,59
+Laba Bersih
+Net Income
+2.160.182.513
+1.753.628.292
+81,18
+Total Aset 
+Total Assets
+99.429.352.622
+81.171.398.633
+81,64
+Total Liabilitas 
+Total Liability
+40.506.355.884
+26.673.662.504
+65,85
+Total Ekuitas 
+Total Equity
+58.922.996.738
+54.497.736.129
+92,49
+Prospek Usaha
+Business prospect
+Melihat ekonomi Indonesia yang terus bertumbuh, 
+Perseroan optimis mampu mencapai prospek usaha 
+yang lebih baik di masa-masa mendatang melalui 
+penguatan strategi usaha, menjaga keunggulan, serta 
+menerapkan kegiatan operasional yang unggul dan 
+efektif. Perseroan berfokus untuk memanfaatkan 
+peluang usaha di sektor lapangan usaha transportasi 
+dan pergudangan didukung dengan adanya proyeksi 
+keberlanjutan 
+proyek 
+pembangunan 
+strategis 
+pemerintah. Untuk mencapai proses usaha yang lebih 
+baik, Perseroan senantiasa meningkatkan penerapan 
+teknologi informasi serta menambah kepemilikan 
+armada, sehingga pelayanan yang diberikan kepada 
+pelanggan mampu dijalankan dengan optimal. 
+Seeing that the Indonesian economy continues 
+to grow, the Company is optimistic that it will be 
+able to achieve better business prospects in the 
+future through strengthening business strategies, 
+maintaining excellence, and implementing superior 
+and effective operational activities. The company 
+focuses on exploiting business opportunities in 
+the 
+transportation 
+and 
+warehousing 
+business 
+sectors supported by the projected sustainability 
+of government strategic development projects. To 
+achieve better business processes, the Company 
+continues to improve the application of information 
+technology and increase fleet ownership, so that the 
+services provided to customers can be carried out 
+optimally.
+Analisis dan Pembahasan Manajemen
+Management Analiysis and Discussion
+80
+Laporan Tahunan | Laporan Keberlanjutan 2023
+PT Logisticsplus International Tbk
+Selain itu, Perseroan telah menetapkan strategi 
+pengembangan usaha jangka panjang, yaitu:
+In addition, the Company has established a long-term 
+business development strategy, namely:
+1.	 Strategi Pasar Domestik dan Internasional
+1.	 Domestic and International Market Strategy
+Masing-masing mempunyai satu tujuan yang 
+sama, 
+yaitu 
+untuk 
+menambah 
+pendapatan 
+Perseroan. Dengan membagi
+Each of them has the same goal, namely to 
+increase the Company's income.
+2.	 pasar, Perseroan berharap bisa menambah jumlah 
+pelanggan sedikitnya 25% per tahun. Pertambahan 
+25% pelanggan untuk pasar domestik akan 
+didukung dengan beberapa strategi di antaranya:
+2.	 By dividing the two markets, the Company hopes 
+to increase the number of customers by at least 
+25% per year. The 25% increase in customers for 
+the domestic market will be supported by several 
+strategies including:
+• 	 Menambah jumlah cabang sebanyak 15 hingga 
+20 lokasi dalam 3 tahun ke depan;
+•	
+Increase the number of branches by 15 to 20 
+locations in the next 3 years;
+• 	 Penambahan aset khusus untuk kegiatan 
+operasional seperti Truck Air Suspension dan 
+Truck Multi axle; serta
+•	
+Addition of special assets for operational activities 
+such as Truck Air Suspension and Truck Multi axle; 
+as well as
+•	
+Membuat Logistics Centre yang mendukung 
+kegiatan pergudangan, yard, depo truck, hingga 
+depo container. Tidak menutup kemungkinan, 
+apabila Perseroan akan membangun gudang 
+cold storage.
+•	
+Creating a Logistics Center that supports 
+warehousing activities, yards, truck depots, and 
+container depots. It is not impossible that the 
+Company will build a cold storage warehouse
+2.	 Strategi lain dalam pengembangan usaha dan 
+prospek ke depan, Perseroan akan melengkapi 
+sertifikasi halal, bahan berbahaya dan beracun 
+(B3), serta menerapkan teknologi Internet Of Things 
+(IoT), Artificial Intelligent (AI), dan Blockchain, 
+serta 
+berusaha 
+untuk 
+mengintegrasikan 
+platform teknologi dengan pelanggan. Dari sisi 
+pengembangan lainnya, guna mendukung kegiatan 
+operasional maupun menciptakan keunggulan, 
+Perseroan berupaya untuk mendapatkan license 
+authorize economic operator (AEO) dan dalam 
+beberapa tahun ke depan Perseroan berencana 
+membangun pusat logistik berikat.
+2. Another strategy in business development and 
+future prospects, the Company will complete halal 
+certification, hazardous and toxic materials (B3), 
+as well as apply Internet of Things (IoT), Artificial 
+Intelligence (AI), and Blockchain technology, and 
+strive to integrate platforms technology with 
+customers. In terms of other developments, in 
+order to support operational activities and create 
+excellence, the Company is trying to obtain an 
+economic operator (AEO) authorization license 
+and in the next few years the Company plans to 
+build a bonded logistics centre.
+Proyeksi 2024
+2024 projections
+(dalam Rupiah)
+(dalam Rupiah)
+Uraian
+2024
+Description
+Target
+Target
+Pendapatan
+108,365,082,432.14
+Revenue
+Beban Pokok Pendapatan 
+91,026,669,243.00
+Cost of Revenue
+Laba Neto Periode/Tahun Berjalan
+2,600,761,978.37
+Net Profit for the Period/Year
+Total Aset Total 
+100,415,434,055.79
+Total Assets
+Total Liabilitas 
+43,316,935,948.42
+Total Liability
+Total Ekuitas 
+57,098,498,107.37
+Total Equity
+81
+2023 Annual Report | Sustainability Report
+PT Logisticsplus International Tbk
+Perubahan Kebijakan Akuntansi
+Changes in Accounting Policies
+Perseroan 
+menerapkan 
+Pernyataan 
+Standar 
+Akuntansi Keuangan (PSAK) baru, amandemen dan 
+penyesuaian, serta Interprestasi Standar Akuntansi 
+Keuangan (ISAK) baru yang wajib diberlakukan 
+mulai tanggal 1 Januari 2023. Penerapan PSAK baru, 
+amandemen dan penyesuaian, serta ISAK baru ini 
+tidak mengakibatkan perubahan substansial pada 
+kebijakan akuntansi Perseroan dan tidak berpengaruh 
+material terhadap jumlah yang dilaporkan untuk 
+periode keuangan saat ini atau sebelumnya, yaitu: 
+The Company implemented a new Statement of 
+Financial Accounting Standards (PSAK), amendments 
+and adjustments, as well as a new Interpretation 
+of Financial Accounting Standards (ISAK) which 
+must be implemented starting January 1 2023. The 
+implementation of the new PSAK, amendments and 
+adjustments, as well as this new ISAK does not result 
+in substantial changes to the Company's accounting 
+policies and have no material effect on the amounts 
+reported for the current or previous financial periods, 
+namely:
+•	
+Amandemen PSAK, “Penyajian Laporan Keuangan 
+tentang Klasifikasi Liabilitas sebagai Jangka 
+Pendek atau Jangka Panjang;”
+•	
+Amendment to PSAK, "Presentation of Financial 
+Reports regarding the Classification of Liabilities 
+as Short Term or Long Term;"
+•	
+Amandemen PSAK, ”Penyajian Laporan Keuangan 
+tentang Pengungkapan Kebijakan Akuntansi;”
+• 	 Amendment to PSAK, "Presentation of Financial 
+Reports regarding Accounting Policy Disclosures;"
+•	
+Amandemen PSAK 16, ”Aset Tetap – Hasil Sebelum 
+Penggunaan Diintensikan;”
+•	
+Amendment to PSAK 16, "Fixed Assets - Results 
+Before Intended Use;"
+•	
+Amandemen PSAK 25 “Kebijakan Akuntansi, 
+Perubahan Estimasi Akuntansi dan Kesalahan 
+tentang Definisi Estimasi Akuntansi;” serta
+•	
+Amendment to PSAK 25 "Accounting Policies, 
+Changes in Accounting Estimates and Errors 
+regarding the Definition of Accounting Estimates;" 
+as well as
+•	
+Amandemen PSAK 46 “Pajak Penghasilan atas 
+Pajak Tangguhan terkait Aset dan Liabilitas yang 
+Timbul dari Transaksi Tunggal.”
+•	
+Amendment to PSAK 46 "Income Taxes on Deferred 
+Taxes Related to Assets and Liabilities Arising from 
+Single Transactions."
+Perubahan Peraturan Perundang- Undangan 
+yang 
+Berdampak 
+Signifikan 
+Terhadap 
+Perusahaan
+Changes in Legislation that Have a Significant 
+Impact on the Company
+Tidak terdapat perubahan peraturan perundang-
+undangan yang berdampak signifikan terhadap 
+Perseroan di sepanjang tahun 2023.
+There are no changes to statutory regulations that will 
+have a significant impact on the Company throughout 
+2023.
+Informasi Material Setelah Tanggal Laporan 
+Keuangan
+Material Information After the Financial Report 
+Date
+Tidak terdapat Informasi material setelah tanggal 
+laporan keuangan terhadap Perseroan di sepanjang 
+tahun 2023.
+There is no material information after the date of the 
+financial report regarding the Company throughout 
+2023.

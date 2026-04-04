@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MARK-att1.pdf",
+    "ticker": "MARK_2024",
+    "mdma_start": "66",
+    "mdma_end": "84",
+    "Positive_Sum": 2009.0,
+    "Negative_Sum": 1444.0,
+    "Total_Matched_Words": 1088,
+    "Total_Word": 7544,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

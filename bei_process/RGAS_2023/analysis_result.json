@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-RGAS-att1.pdf",
+    "ticker": "RGAS_2023",
+    "mdma_start": "57",
+    "mdma_end": "78",
+    "Positive_Sum": 2239.0,
+    "Negative_Sum": 1948.0,
+    "Total_Matched_Words": 1355,
+    "Total_Word": 9301,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

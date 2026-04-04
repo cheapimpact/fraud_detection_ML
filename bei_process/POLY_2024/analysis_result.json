@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-POLY-att1.pdf",
+    "ticker": "POLY_2024",
+    "mdma_start": "34",
+    "mdma_end": "45",
+    "Positive_Sum": 1357.0,
+    "Negative_Sum": 1983.0,
+    "Total_Matched_Words": 1033,
+    "Total_Word": 6057,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

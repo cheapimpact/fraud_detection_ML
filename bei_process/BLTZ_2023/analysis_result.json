@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BLTZ-att2.pdf",
+    "ticker": "BLTZ_2023",
+    "mdma_start": "100",
+    "mdma_end": "129",
+    "Positive_Sum": 4946.0,
+    "Negative_Sum": 3314.0,
+    "Total_Matched_Words": 2627,
+    "Total_Word": 15322,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

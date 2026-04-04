@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ACRO-att1.pdf",
+    "ticker": "ACRO_2023",
+    "mdma_start": "66",
+    "mdma_end": "92",
+    "Positive_Sum": 2466.0,
+    "Negative_Sum": 2498.0,
+    "Total_Matched_Words": 1574,
+    "Total_Word": 11578,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

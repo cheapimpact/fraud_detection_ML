@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GDST-att1.pdf",
+    "ticker": "GDST_2024",
+    "mdma_start": "50",
+    "mdma_end": "61",
+    "Positive_Sum": 1457.0,
+    "Negative_Sum": 1659.0,
+    "Total_Matched_Words": 1004,
+    "Total_Word": 7024,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

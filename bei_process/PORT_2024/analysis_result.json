@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PORT-att2.pdf",
+    "ticker": "PORT_2024",
+    "mdma_start": "63",
+    "mdma_end": "68",
+    "Positive_Sum": 488.0,
+    "Negative_Sum": 458.0,
+    "Total_Matched_Words": 321,
+    "Total_Word": 2337,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

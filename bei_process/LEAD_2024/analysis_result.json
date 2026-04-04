@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-LEAD-att1.pdf",
+    "ticker": "LEAD_2024",
+    "mdma_start": "144",
+    "mdma_end": "160",
+    "Positive_Sum": 2031.0,
+    "Negative_Sum": 2288.0,
+    "Total_Matched_Words": 1392,
+    "Total_Word": 8283,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

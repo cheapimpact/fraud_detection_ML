@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MKPI-att1.pdf",
+    "ticker": "MKPI_2023",
+    "mdma_start": "37",
+    "mdma_end": "57",
+    "Positive_Sum": 2862.0,
+    "Negative_Sum": 2632.0,
+    "Total_Matched_Words": 1833,
+    "Total_Word": 12106,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

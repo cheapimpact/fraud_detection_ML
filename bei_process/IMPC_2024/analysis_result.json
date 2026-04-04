@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-IMPC-att2.pdf",
+    "ticker": "IMPC_2024",
+    "mdma_start": "108",
+    "mdma_end": "147",
+    "Positive_Sum": 4347.0,
+    "Negative_Sum": 3550.0,
+    "Total_Matched_Words": 2603,
+    "Total_Word": 17597,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

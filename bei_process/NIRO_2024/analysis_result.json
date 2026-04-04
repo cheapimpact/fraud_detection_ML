@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-NIRO-att1.pdf",
+    "ticker": "NIRO_2024",
+    "mdma_start": "92",
+    "mdma_end": "172",
+    "Positive_Sum": 8513.0,
+    "Negative_Sum": 9254.0,
+    "Total_Matched_Words": 5733,
+    "Total_Word": 34655,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

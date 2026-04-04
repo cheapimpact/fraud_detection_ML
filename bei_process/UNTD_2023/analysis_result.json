@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-UNTD-att1.pdf",
+    "ticker": "UNTD_2023",
+    "mdma_start": "55",
+    "mdma_end": "73",
+    "Positive_Sum": 2302.0,
+    "Negative_Sum": 2382.0,
+    "Total_Matched_Words": 1430,
+    "Total_Word": 9329,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

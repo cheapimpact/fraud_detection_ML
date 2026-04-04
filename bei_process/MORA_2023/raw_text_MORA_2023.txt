@@ -1,0 +1,3095 @@
+4
+Analisis dan 
+Pembahasan 
+Manajemen
+Management Discussion and Analysis
+Pada tahun 2023, kinerja keuangan Perseroan 
+menunjukkan 
+peningkatan 
+dibandingkan 
+tahun sebelumnya. Baik dari segi EBITDA 
+maupun laba bersih, Perseroan mengalami 
+pertumbuhan yang signifikan.
+In 2023, the Company's financial performance showed 
+improvement over the previous year. Both in EBITDA 
+and Net Profit, the company experienced significant 
+growth.
+4
+98
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Tinjauan Makro Ekonomi Global
+Global Macroeconomic Review
+Meskipun menghadapi beberapa tantangan, seperti krisis energi 
+dan pangan yang masih berlangsung serta tingkat inflasi yang 
+tinggi, perekonomian global pada tahun 2023 menunjukkan 
+ketahanannya dengan terus tumbuh, namun dengan laju yang lebih 
+lambat dibandingkan tahun sebelumnya. Konflik Rusia-Ukraina yang 
+menyebabkan krisis pangan dan energi pada tahun 2022, semakin 
+diperburuk dengan konflik Israel-Palestina yang dimulai pada Oktober 
+2023. 
+Menurut Dana Moneter Internasional (IMF), pertumbuhan ekonomi 
+global turun dari 3,5% pada tahun 2022 menjadi 3,0% pada tahun 2023. 
+Negara-negara maju mengalami penurunan rata-rata pertumbuhan 
+ekonomi, dari 2,6% pada tahun 2022 menjadi 1,5% pada tahun 2023. 
+Demikian pula, negara-negara berkembang dan pasar negara 
+berkembang juga mengalami perlambatan pertumbuhan ekonomi, 
+turun dari 4,1% pada tahun 2022 menjadi 4,0 % pada tahun 2023.
+Menurut IMF, inflasi global pada tahun 2023 mengalami penurunan 
+menjadi 6,9% dari 8,7%, sejalan dengan ekspektasi pasar terhadap 
+skenario soft landing. Tingkat inflasi umum bervariasi di berbagai 
+wilayah di dunia, mulai dari -0,1% di Tiongkok hingga 2,7% di Amerika 
+Serikat dan 2,8% di Eropa. Penurunan harga pangan diidentifikasi 
+sebagai faktor utama yang berkontribusi terhadap penurunan inflasi 
+umum. Selain itu, inflasi inti juga mengalami penurunan secara 
+bertahap.
+Pada kuartal keempat tahun 2023, harga minyak dunia mengalami 
+peningkatan menuju $100 per barel, didorong oleh krisis geopolitik 
+antara Israel dan Palestina. Peningkatan ini juga disebabkan oleh 
+keputusan OPEC dan Rusia untuk mengurangi produksi minyak sejak 
+kuartal kedua tahun 2023, sehingga mengakibatkan kekurangan 
+pasokan di pasar global. Hal ini menimbulkan kekhawatiran terhadap 
+potensi kebangkitan inflasi sementara upaya penurunan inflasi sedang 
+dilakukan.
+Amerika Serikat mengalami pertumbuhan ekonomi yang signifikan 
+sebesar 2,4%, naik dari 1% pada tahun sebelumnya. Selain itu, lebih 
+dari 7 juta lapangan kerja baru telah tercipta sejak Januari 2022, 
+berkat kebijakan stimulus fiskal dan “tindakan pengurangan inflasi 
+green new deal,” yang bertujuan untuk mengelola tingkat inflasi AS.
+Di Asia, perekonomian Tiongkok mengalami perlambatan yang 
+signifikan dari 8,9% pada kuartal pertama tahun 2023 menjadi 
+4,0% pada kuartal berikutnya, meskipun inflasi turun menjadi 0,2% 
+karena penurunan harga energi dan makanan. Perlambatan ini dapat 
+disebabkan oleh krisis utang di sektor properti, yang mendorong 
+pemerintah Tiongkok untuk menerapkan langkah-langkah seperti 
+memperpanjang jangka waktu pinjaman untuk perusahaan seperti 
+Country Garden dan memberikan stimulus untuk mengurangi 
+persyaratan uang muka pembelian rumah. Selain itu, mereka 
+menerbitkan obligasi sebagai sumber pendanaan alternatif untuk 
+upaya tersebut1.
+1 Dilansir dari: Permata Bank Investment Edge November, Investment Outlook (BNP Paribas), IMF World Economic Outlook. 
+Despite facing several challenges, such as the ongoing energy and 
+food crises and high levels of inflation, the global economy in 2023 
+showed its resilience by continuing to grow, yet with a slower pace 
+compared to the year before. The Russian-Ukrainian conflict, which 
+caused the food and energy crisis in 2022, was further exacerbated 
+by the Israeli-Palestinian conflict starting in October 2023. 
+According to the International Monetary Fund (IMF), global economic 
+growth dropped from 3.5% in 2022 to 3.0% in 2023. Developed 
+countries experienced a decline in average economic growth, going 
+from 2.6% in 2022 to 1.5% in 2023. Similarly, developing countries 
+and emerging markets also saw a slowdown in economic growth, 
+dropping from 4.1% in 2022 to 4.0% in 2023.
+According to the IMF, global inflation in 2023 has decreased to 6.9% 
+from 8.7%, in line with market expectations for a soft landing scenario. 
+Headline inflation rates vary across different regions of the world, 
+ranging from -0.1% in China to 2.7% in the United States and 2.8% 
+in Europe. The decrease in food prices was identified as the main 
+factor contributing to the decline in headline inflation. Additionally, 
+core inflation also experienced a gradual decrease.
+In the fourth quarter of 2023, world oil prices saw an increase towards 
+$100 per barrel, driven by the geopolitical crisis between Israel and 
+Palestine. This rise can also be attributed to OPEC and Russia’s 
+decision to reduce oil production since the second quarter of 2023, 
+resulting in a shortage of supply in the global market. This has caused 
+concerns about potential inflation resurgence while efforts are being 
+made to reduce inflation.
+The United States saw significant economic growth of 2.4%, up from 
+1% in the previous year. Additionally, over 7 million new jobs have 
+been created since January 2022, due to fiscal stimulus policies and 
+the “green new deal inflation reduction act,” which aims to manage 
+US inflation rates.
+In Asia, China’s economy saw a significant slowdown from 8.9% in the 
+first quarter of 2023 to 4.0% in the following quarter, even as inflation 
+decreased to 0.2% due to lower prices for energy and food. The 
+slowdown can be attributed to the debt crisis in the property sector, 
+which prompted the Chinese government to implement measures 
+such as extending loan terms for companies like Country Garden 
+and providing stimulus to reduce down payment requirements for 
+housing purchases. Additionally, they issued bonds as an alternative 
+source of funding for these efforts1.
+99
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Tinjauan Ekonomi Nasional
+National Economic Review
+Despite challenging global economic conditions, Indonesia’s economy 
+continues to thrive.
+The past year saw a growth of 5.77% in overall investments, driven by 
+the government’s focus on infrastructure development throughout 
+Indonesia. The Indonesian Capital City (IKN) project in East Kalimantan 
+is just one example of this continued development. Despite a global 
+economic slowdown, services exports saw a strong increase due to a 
+rise in foreign tourist visits; however, goods exports declined by 4.26%.
+In addition to strong economic growth, Indonesia also showed positive 
+signs in both the business and spatial sectors. Most Business Fields 
+(LU) experienced growth in the third quarter of 2023, with the 
+Manufacturing Industry, Wholesale and Retail Trade, and Construction 
+industries leading the way. This growth was fueled by robust domestic 
+demand, including government-led infrastructure projects in various 
+regions. Geographically, all areas of Indonesia saw significant 
+economic growth in the third quarter of 2023, with the highest 
+numbers recorded in the Sulawesi-Maluku-Papua (Sulampua), Java, 
+Kalimantan, Sumatra, and Bali-Nusa Tenggara (Balinusra) regions2.
+Meskipun kondisi perekonomian global penuh tantangan, 
+perekonomian Indonesia terus berkembang. 
+Tahun 2023 terjadi pertumbuhan investasi secara keseluruhan 
+sebesar 5,77%, didorong oleh fokus pemerintah pada pembangunan 
+infrastruktur di seluruh Indonesia. Proyek Pembangunan Ibu Kota 
+Indonesia (IKN) di Kalimantan Timur hanyalah salah satu contoh 
+kelanjutan pembangunan tersebut. Meskipun terjadi perlambatan 
+ekonomi global, ekspor jasa mengalami peningkatan yang signifikan 
+karena peningkatan kunjungan wisatawan asing; Namun, ekspor 
+barang mengalami penurunan sebesar 4,26%.
+Selain pertumbuhan ekonomi yang kuat, Indonesia juga menunjukkan 
+tanda-tanda positif baik di sektor bisnis maupun spasial. Sebagian 
+besar Lapangan Usaha (LU) mengalami pertumbuhan pada kuartal 
+ketiga tahun 2023, dengan industri Industri Manufaktur, Perdagangan 
+Besar dan Eceran, serta Konstruksi memimpin. Pertumbuhan ini 
+didorong oleh kuatnya permintaan domestik, termasuk proyek 
+infrastruktur pemerintah di berbagai daerah. Secara geografis, seluruh 
+wilayah Indonesia mengalami pertumbuhan ekonomi yang signifikan 
+pada triwulan III tahun 2023, dengan pertumbuhan tertinggi terjadi 
+di wilayah Sulawesi-Maluku-Papua (Sulampua), Jawa, Kalimantan, 
+Sumatera, dan Bali-Nusa Tenggara (Balinusra)1.
+2 Dilansir dari: Press Release Makroekonomi Indonesia 2023 Q3, Bank Indonesia. 
+100
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Tahun 2023 membawa tantangan yang signifikan bagi sektor 
+telekomunikasi. Meskipun pertumbuhan teknologi digital meningkat 
+pesat selama pandemi Covid-19, data dari Badan Pusat Statistik (BPS) 
+menunjukkan penurunan laju pertumbuhan industri menjadi 7,19% 
+secara tahunan. Penurunan ini terlihat dalam metrik Pendapatan 
+Rata-Rata Per Pengguna (ARPU) dari pemain utama, yang menjadi 
+indikator penting dari kesehatan keseluruhan industri.
+Meskipun demikian, Indonesia menempati peringkat ke-20 sebagai 
+ekonomi terbesar di dunia, dengan demografi yang relatif muda 
+dengan usia median 35 tahun. Pada tahun 2024, jumlah pengguna 
+internet di Indonesia mencapai 221 juta orang, menempatkannya di 
+antara 10 besar negara dengan jumlah pengguna internet tertinggi 
+di dunia, setara dengan 79,5% dari jumlah populasi Indonesia yang 
+berjumlah 278,7 juta orang pada awal tahun ini. Menurut laporan dari 
+We Are Social, jumlah pengguna internet di negara ini meningkat 
+sebesar 5,44% dibandingkan dengan tahun sebelumnya. Pada Januari 
+2022, jumlah pengguna internet di Indonesia hanya mencapai 202 
+juta orang, menandakan prospek industri telekomunikasi yang masih 
+sangat menjanjikan.
+Angka-angka ini diperkuat oleh survei yang dilakukan oleh Asosiasi 
+Penyedia Layanan Internet Indonesia (APJII), yang menemukan bahwa 
+50,63% ISP berada dalam tahap pertumbuhan yang signifikan, dengan 
+41,80% menyatakan bahwa masih ada ruang untuk peningkatan 
+penetrasi internet. Diproyeksikan akan terjadi peningkatan penjualan 
+ISP sebesar 8,80% pada tahun 2023 dibandingkan dengan tahun 
+sebelumnya. Selain itu, 59,40% ISP menggunakan medium nirkabel 
+dan serat optik untuk menjual layanan internet, sementara 18,80% 
+secara eksklusif mengandalkan serat optik.
+Dalam konteks ini, Perusahaan tetap berkomitmen untuk mendorong 
+transformasi digital dan mengembangkan masyarakat digital di 
+Indonesia. Sepanjang tahun 2023, Perusahaan tetap memegang 
+teguh visinya ini dengan menjalankan strategi dalam menghadapi 
+tantangan industri dan secara proaktif mencari solusi.
+The year 2023 posed notable hurdles for the telecommunications 
+sector. Despite the rapid expansion of digital technology during the 
+Covid-19 pandemic, data from the Statistics Indonesia (BPS) revealed 
+a decrease in the industry’s growth rate to 7.19% annually. This decline 
+is palpable in the Average Revenue Per User (ARPU) metrics of key 
+players, serving as a pivotal gauge of the industry’s overall vitality.
+Nevertheless, Indonesia stands as the 20th largest global economy, 
+boasting a youthful demographic with a median age of 35 years. 
+As of 2024, the country counts 221 million internet users, placing 
+it among the top 10 nations worldwide with 79.5% of its populace 
+online—a significant portion of its 278.7 million population at the 
+year’s outset. We Are Social reported a 5.44% surge in internet users 
+in 2023 compared to the preceding year, with a marked increase from 
+202 million users in January 2022, indicating promising prospects 
+for the telecommunications industry.
+Supporting these statistics is a survey by the Indonesian Internet 
+Service Providers Association (APJII), revealing that 50.63% of ISP are 
+experiencing growth, while 41.80% see potential for further internet 
+penetration. Projections suggest an 8.80% uptick in ISP sales in 2023 
+over the previous year. Notably, 59.40% of ISPs leverage wireless and 
+fiber optic mediums for service provision, with 18.80% exclusively 
+relying on fiber optic.
+In this context, the Company maintains its unwavering dedication 
+to propelling digital transformation and nurturing a digitally adept 
+society in Indonesia. Throughout 2023, it remained steadfast in 
+pursuing this vision, strategically confronting industry challenges 
+and proactively seeking solutions.
+Tinjauan Industri
+Industry Review 
+101
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Segmen pelanggan Perseroan terbagi menjadi:
+1.	 Segmen Telco
+2.	 Segmen Wholesale
+3.	 Segmen Retail
+4.	 Segmen lainnya (Melalui Entitas Anak)
+Segment
+Project
+International
+Domestic
+Internet
+Data Center
+VSAT
+Others
+Telco
+International Backbone
+✓
+✓
+Domestic Backbone
+✓
+Inter & Innerciity
+✓
+Internet
+✓
+Data Center
+✓
+BTS Backhaul
+✓
+Wholesale
+IPLC
+✓
+IP Transit
+✓
+DLC
+✓
+Inter & Innercity
+✓
+Internet
+✓
+Data Center
+✓
+MoNICA  
+✓
+Enterprise
+Internet
+✓
+Data Center
+✓
+Cloud Services
+✓
+Solutions (VAS)
+✓
+MoNICA
+✓
+Retail
+Internet
+✓
+Telephone
+✓
+Cable TV
+✓
+Wifi
+✓
+Others
+Customer Project 
+(including FO 
+Construction and 
+Services)
+✓
+VSAT
+✓
+Palapa Ring Project
+✓
+The Company’s customer segments are divided into:
+1.	 Telco Segment
+2.	 Wholesale Segment
+3.	 Retail Segment
+4.	 Other segments (Through the Subsidiaries)
+Tinjauan Operasional per Segmen Usaha
+Operational Review per Business Segment
+102
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Berikut merupakan kontribusi pendapatan historis dari setiap segmen 
+pelanggan Perseroan
+Keterangan
+Description
+31 Desember 2023
+December 31, 2023
+31 Desember 2022
+December 31, 2022
+31 Desember 2021
+December 31, 2021
+Telco
+681.321.282.438
+931.786.394.459
+1.199.223.356.053
+Wholesale
+613.861.325.633
+688.902.720.460
+454.663.286.407
+Retail and Enterprise
+950.481.502.339
+856.293.629.681
+661.720.025.988
+Others
+2.060.660.062.258
+2.170.668.542.754
+1.864.466.397.707
+Total
+4.306.324.172.668
+4.647.651.287.354
+4.180.073.066.155
+SEGMEN TELCO
+Segmen Telco Perseoran menyediakan layanan leased line untuk 
+konektivitas domestik dan internasional yang beroperasi sesuai 
+dengan kebutuhan operator telekomunikasi. Layanan dengan solusi 
+mutakhir ini memungkinkan operator telekomunikasi untuk mengikuti 
+perkembangan teknologi terkini, meningkatkan kualitas layanan 
+terutama dalam hal Service Level Agreement (SLA), serta memberikan 
+tingkat keamanan yang tinggi. Produk yang ditawarkan Perseroan 
+melalui segmen Telco meliputi IP Transit, data center, backbone, 
+leased line domestic (DLC), dan international (IPLC), produk Jaringan 
+Privat Virtual Protokol Internet (“MPLS”), layanan hosting dan private 
+dan public cloud, layanan infrastruktur, termasuk penyewaan saluran 
+dan kolokasi menara. 
+Kontribusi Segmen Telco terhadap Pendapatan Usaha
+Keterangan
+Description
+31 Desember 2023
+December 31, 2023
+31 Desember 2022
+December 31, 2022
+31 Desember 2021
+December 31, 2021
+Pendapatan Usaha Segmen
+Segment Operating Income
+681.321.282.438
+931.786.394.459
+1.199.223.356.053
+Beban Segmen
+Segment Expense
+(486.068.936.373)
+(652.047.752.092)
+(729.687.491.170)
+Laba Kotor
+Gross profit
+195.252.346.065
+279.738.642.367
+469.535.864.883
+Pendapatan yang berasal dari segmen Telco pada tahun yang berakhir 
+tanggal 31 Desember 2023 menurun sebesar Rp250.465.112.021,-; atau 
+26,88% jika dibandingkan dengan pada tahun yang berakhir tanggal 
+31 Desember 2022. Hal ini disebabkan oleh pengalihan permintaan 
+pelanggan telekomunikasi dari sewa bandwidth ke sewa core selama 
+tahun 2023. Sedangkan beban langsung pada periode yang sama 
+mengalami penurunan sebesar Rp165.978.815.719,-; atau 25,46% 
+dibandingkan periode sebelumnya. Laba kotor menurun sebesar 
+Rp84.486.296.302,-;  atau 30,20% pada tanggal 31 Desember 2023 
+jika dibandingkan dengan tahun berakhir tanggal 31 Desember 2022.
+Di tahun 2023, Segmen Telco berkontribusi sebesar 15,82% terhadap 
+jumlah pendapatan usaha Perseroan.
+The following is the historical revenue contribution from each of the 
+Company’s customer segments
+TELCO SEGMENT
+The Company’s Telco Segment provides leased line services for 
+domestic and international connectivity that operate according to 
+the needs of telecommunications operators. This service with the 
+latest solutions enables telecommunication operators to keep abreast 
+of the latest technological developments, improve service quality, 
+especially in terms of Service Level Agreement (SLA), as well as 
+provide a high level of security. The products offered by the Company 
+through the Telco segment include IP Transit, data center, backbone, 
+leased line domestic (DLC) and international (IPLC), Internet Protocol 
+Virtual Private Network (“MPLS”) products, hosting services and 
+private and public cloud, infrastructure, including channel leasing 
+and tower collocation.
+Telco Segment Contribution to Operating Revenues
+Revenue from the Telco segment in the year ended December 31, 
+2023 decreased by IDR 250,465,112,021 or 26.88% when compared 
+to the year ended December 31, 2022. This was due to the transfer 
+of telecommunications customer requests from bandwidth rental 
+to core rental during 2023. Meanwhile, direct expenses in the same 
+period decreased IDR 165,978,815,719 or 25.46% compared to the 
+previous period. Gross profit decreased by IDR 84,486,296,302 or 
+30.20% as of December 31, 2023 when compared to the year ended 
+December 31, 2022.
+In 2023, the Telco segment contributed 15.82% to the company’s 
+total revenue.
+103
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+SEGMEN WHOLESALE
+Segmen Wholesale Perseroan menyediakan layanan internet 
+(termasuk jalur sewa dan koneksi kapasitas, baik domestik maupun 
+internasional) kepada operator telekomunikasi, terutama melalui 
+skema penjualan Business-to-Business (B2B). Produk dan jasa yang 
+termasuk dalam segmen Wholesale meliputi IP Transit, data center, 
+backbone, leased line domestic (DLC) dan international (IPLC), layanan 
+interkoneksi, layanan internet, layanan pusat data, layanan hosting dan 
+private dan public cloud, layanan infrastruktur, termasuk penyewaan 
+saluran dan kolokasi menara. Pelanggan dari segmen ini merupakan 
+operator telekomunikasi.
+Kontribusi Segmen Wholesale Terhadap Pendapatan 
+Usaha
+Keterangan
+Description
+31 Desember 2023
+December 31, 2023
+31 Desember 2022
+December 31, 2022
+31 Desember 2021
+December 31, 2021
+Pendapatan Usaha Segmen
+Segment Operating Income
+613.861.325.633
+688.902.720.460
+454.663.286.407
+Beban Segmen
+Segment Expense
+(244.105.180.968)
+(196.217.245.806)
+(185.510.656.121)
+Laba Kotor
+Gross Profit
+369.756.144.665
+492.685.474.654
+269.152.630.286
+Pendapatan yang berasal dari segmen Wholesale pada tahun 
+yang berakhir tanggal 31 Desember 2023 menurun sebesar 
+Rp75.041.394.827,- atau 10,89% jika dibandingkan dengan pada tahun 
+yang berakhir tanggal 31 Desember 2022. Hal ini disebabkan oleh 
+adanya downgrade kapasitas jaringan internasional. Sedangkan beban 
+langsung pada periode yang sama mengalami peningkatan sebesar 
+Rp47.887.935.162,- atau 24,41% dibandingkan periode sebelumnya. 
+Laba kotor menurun sebesar Rp122.929.329.989,- atau 24.95% pada 
+tahun yang berakhir tanggal  31 Desember 2023 jika dibandingkan 
+dengan tahun yang berakhir tanggal 31 Desember 2022.
+Di tahun 2023, Segmen Wholesale berkontribusi sebesar 14,25% 
+terhadap jumlah pendapatan usaha Perseroan.    
+SEGMEN RETAIL
+Segmen ini terdiri dari Segmen Retail dan Enterprise.
+Segmen Retail Perseroan menyediakan solusi layanan FTTH 
+menyeluruh secara langsung ke pelanggan ritel di perumahan dan 
+apartemen. Produk utama Perseroan dalam Segmen Retail meliputi 
+layanan triple play, layanan internet, telefoni, dan TV kabel di bawah 
+merek dagang Oxygen.id. Layanan Oxygen.id juga mencakup layanan 
+internet berkecepatan tinggi dengan harga bersaing. 
+Segmen Enterprise adalah segmen yang menyasar pasar perusahaan 
+swasta, pemerintahan non-telekomunikasi/provider. Produk atau jasa 
+yang ditawarkan adalah Internet Dedicated, internet broadband 
+Oxygen.id Soho, Datacenter, leased line domestic (Metro). Pelanggan 
+dari segmen Enterprise terbagi dalam lima sub-segmen, yaitu sebagai 
+berikut:
+WHOLESALE SEGMENT
+The Company’s Wholesale segment provides internet services 
+(including leased lines and capacity connections, both domestic 
+and international) to telecommunication operators, primarily through 
+a Business-to-Business (B2B) sales scheme. Products and services 
+included in the Wholesale segment include IP Transit, data center, 
+backbone, leased line domestic (DLC) and international (IPLC), 
+interconnection services, internet services, data center services, 
+hosting services and private and public cloud, infrastructure services, 
+including channel leasing and tower collocation. Customers from this 
+segment are telecommunications operators.
+Wholesale Segment’s Contribution to Operating 
+Income
+Revenue from the Wholesale segment in the year ended December 
+31, 2023 decreased by IDR 75,041,394,827 or 10.89% compared to 
+the year ended December 31, 2023. This was due to downgrade 
+international capacity. Meanwhile, direct expenses in the same 
+period increased by IDR 47,887,935,162 or 24.41% compared to the 
+previous period. Gross profit decreased by IDR 122,929,329,989 or 
+24.95% in the year ended December 31, 2023 when compared to the 
+year ended December 31, 20221.
+In 2023, the Wholesale segment contributed 14.25% to the company’s 
+total revenue.
+RETAIL SEGMENTS
+This segment consists of Retail and Enterprise segments.
+The Company’s Retail Segment provides comprehensive FTTH service 
+solutions directly to retail customers in housing and apartments. 
+The Company’s main products in the Retail Segment include triple 
+play services, internet services, telephony and cable TV under the 
+Oxygen.id trademark. Oxygen.id services also include high-speed 
+internet services at competitive prices.
+The Enterprise segment is a segment targeting the private enterprise 
+market, non-telecommunication government/providers. The products 
+or services offered are Dedicated Internet, Oxygen.id Soho broadband 
+internet, Datacenter, domestic leased line (Metro). Customers from 
+the Enterprise segment are divided into five sub-segments, as follows:
+104
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+1.	 Segmen Pemerintah, BUMN, Oil Company/Perusahaan Minyak 
+(GBO), yang mencakup  pelanggan kategori Pemerintahan Pusat/
+Daerah, Lembaga Negara, BUMN, BUMD dan Perusahaan Minyak 
+(swasta dan BUMN) dengan produk yang ditawarkan mencakup 
+Internet dedicated, Leased line/Metro, Data Center (Collocation 
+dan DRC).
+2.	 Segmen High-Rise Building (HRB): Pelanggan perusahaan yang 
+berada di area gedung bertingkat dengan menawarkan produk 
+Oxygen.id Soho, Internet dedicated, Data Center, Leased Line/
+Metro.
+3.	 Segmen-Regional : Perusahaan-Perusahaan swasta, Universitas 
+dan lembaga Pendidikan, Pemda dan  dinas/OPD, Rumah Sakit 
+Swasta/Pemerintah, BUMN/BUMD dan juga SME dengan 
+penawaran produk Internet Dedicated, Leased Line/Metro dan 
+Data Center.
+4.	 Segmen Education: Segmen pelanggan khusus untuk sektor 
+pendidikan, lembaga pendidikan, sekolah, akademi universitas 
+yang menawarkan produk Internet dedicated, Leased line/
+Metro, Data Center, Wi-Fi, Jejaring Riset dan Edukasi Indonesia 
+(Indonesia Research and Education Networks, IDREN).
+5.	 Segmen Media-Hospitality (Medhos) : Segmen pelanggan 
+untuk Kawasan Industri, Rumah Sakit dan Perhotelan dengan 
+menawarkan produk Internet dedicated, Leased line/Metro, Data 
+Center, IPTV, Wi-Fi.      
+6.	 Segmen Palapa Ring Nasional dan Small Medium Enterprise 
+(SME) : pelanggan kategori Pemerintahan Daerah, Lembaga 
+Negara, BUMN, BUMD, Perusahaan Swasta, UMKM, Hotel, Sektor 
+Pendidikan, Sektor Kesehatan, Perbankan dengan penawaran 
+produk Internet dedicated, Leased line/Metro, Data Center 
+(Collocation dan DRC), Oxygen.id. 
+Kontribusi Segmen Retail dan Enterprise terhadap 
+Pendapatan Usaha
+Keterangan
+Description
+31 Desember 2023
+December 31, 2023
+31 Desember 2022
+December 31, 2022
+31 Desember 2021
+December 31, 2021
+Pendapatan Usaha Segmen
+Segment Operating Income
+950.481.502.339
+856.293.629.681
+661.720.025.988
+Beban Segmen
+Segment expense
+(299.936.363.789)
+(282.518.732.768)
+(233.623.049.529)
+Laba Kotor
+Gross Profit
+650.545.138.550
+573.774.896.913
+428.096.976.459
+Pendapatan yang berasal dari segmen Retail pada tahun yang berakhir 
+tanggal 31 Desember 2023 meningkat sebesar  Rp94.187.872.658,- atau 
+11.00% jika dibandingkan dengan pada tahun yang berakhir tanggal 
+31 Desember 2022. Hal ini disebabkan oleh peningkatan permintaan 
+volume kapasitas internet yang cukup signifikan terutama untuk 
+customer UMKM dan FTTH (fiber to the home), sedangkan beban 
+langsung pada periode yang sama juga meningkat sebesar 
+Rp17.417.631.021,- atau 6.17% dibandingkan periode sebelumnya. 
+Laba kotor meningkat sebesar Rp76.770.241.637,- atau 13.38% pada 
+tahun yang berakhir tanggal 31 Desember 2023 jika dibandingkan 
+dengan tahun yang berakhir tanggal 31 Desember 2022.
+1.	 Government, State-Owned Enterprises (BUMN), Oil Companies 
+(GBO): This segment includes customers from the central and 
+regional government, state institutions, BUMNs, regional-owned 
+enterprises, and private and state-owned oil companies. The 
+products offered include dedicated internet, leased lines/metro, 
+and data center services (colocation and DRC).
+2.	 High-Rise Building (HRB) Segment: Customers in high-rise 
+building areas are offered Oxygen.id Soho, dedicated internet, 
+data center, and leased line/metro products.
+3.	 Regional Segment: Private companies, universities, educational 
+institutions, regional governments, departments/agencies, 
+private/government hospitals, BUMNs/BUMDs, and SMEs are 
+targeted in this segment. Products offered include dedicated 
+internet, leased lines/metro, and data center services.
+4.	 Education Segment: This segment caters specifically to the 
+education sector, including educational institutions, schools, 
+and universities. Products offered include dedicated internet, 
+leased lines/metro, data center, Wi-Fi, and Indonesia Research 
+and Education Networks (IDREN).
+5.	 Media-Hospitality (Medhos) Segment: Customers in industrial 
+areas, hospitals, and hospitality establishments are targeted in 
+this segment. Products offered include dedicated internet, leased 
+lines/metro, data center, IPTV, and Wi-Fi.
+6.	 National Palapa Ring and Small Medium Enterprise (SME) 
+Segment: Customers in regional governments, state institutions, 
+BUMNs, BUMDs, private companies, SMEs, hotels, education 
+sector, health sector, and banking are included in this segment. 
+Products offered include dedicated internet, leased lines/metro, 
+data center services (colocation and DRC), and Oxygen.id.
+Retail and Enterprise Segment Contribution to 
+Operating Income
+Revenue from the Retail segment in the year ending on December 
+31, 2023 increased by IDR 94,187,872,658 or 11.00% compared to 
+the year ended December 31, 2022. This was due to a significant 
+increase in demand for internet capacity volume especially for SME 
+and FTTH (fiber to the home) customers, while direct expenses in the 
+same period also increased by IDR 17,417,631,021 or 6.17% compared 
+to the previous period. Gross profit increased by IDR 76,770,241,637 
+or 13.38% in the year ending on December 31, 2023 when compared 
+to the year ended December 31, 2022.
+105
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Di tahun 2023, Segmen Retail and Enterprise berkontribusi sebesar 
+22,07% terhadap jumlah pendapatan usaha Perseroan. 
+SEGMEN LAINNYA
+Segmen lainnya merupakan pendapatan konstruksi dan pendapatan 
+keuangan dari konsesi jasa atas entitas anak, PT Palapa Ring 
+Barat (PRB) dan PT Palapa Timur Telematika (PTT) sesuai dengan 
+implementasi ISAK 16 mengenai “Konsesi Jasa”. Proyek Palapa 
+Ring Paket Barat dan Timur merupakan operasi kerjasama dengan 
+Kementerian Komunikasi dan Informatika Republik Indonesia (Kominfo) 
+yang bertujuan untuk membangun dan mengelola jaringan tulang 
+punggung serat optik di wilayah barat dan timur Indonesia. Segmen 
+lainnya juga mencakup pendapatan kontraktor entitas anak, PT 
+Oxygen Infrastruktur Indonesia, yang dibentuk dalam rangka 
+memenuhi kebutuhan pelanggan untuk pekerjaan pembangunan 
+jaringan fiber optic. serta pendapatan dari anak usaha PT. Indopratama 
+Teleglobal yang bergerak dalam bidang usaha jasa satelit.
+Kontribusi Segmen Lainnya Terhadap Pendapatan 
+Usaha
+Keterangan
+Description
+31 Desember 2023
+December 31, 2023
+31 Desember 2022
+December 31, 2022
+31 Desember 2021
+December 31, 2021
+Pendapatan Usaha Segmen
+Segment Operating Income
+2.060.660.062.258
+2.170.668.542.754
+1.864.466.397.707
+Beban Segmen
+Segment Expense
+(751.280.149.759)
+(759.395.236.578)
+(493.961.589.655)
+Laba Kotor
+Gross Profit
+1.309.379.912.499
+1.411.273.306.176
+1.370.504.808.052
+Pendapatan yang berasal dari segmen Lainnya pada tahun 
+yang berakhir tanggal 31 Desember 2023 menurun sebesar 
+Rp110.008.480.496,- atau 5,07% jika dibandingkan dengan pada tahun 
+yang berakhir tanggal 31 Desember 2022 dikarenakan implementasi 
+dari ISAK 16 mengenai konsesi jasa. Sedangkan beban langsung pada 
+periode yang sama juga menurun sebesar Rp8.115.086.819,- atau 1,07% 
+dibandingkan periode sebelumnya yang disebabkan oleh schedule 
+pendapatan konsesi yang terus menurun dari tahun ke tahun. Laba 
+kotor menurun sebesar Rp101.893.393.677,- atau 7,22% pada tahun 
+yang berakhir tanggal 31 Desember 2023 jika dibandingkan dengan 
+tahun yang berakhir tanggal 31 Desember 2022.
+Di tahun 2023, Segmen Lainnya berkontribusi sebesar 47,85% terhadap 
+jumlah pendapatan usaha Perseroan.
+In 2023, The Retail and Enterprise segment contributed 22.07% to 
+the Company’s total operating revenues.
+OTHER SEGMENTS
+Other segments represent construction revenue and finance income 
+from the service concession of the subsidiary, PT Palapa Ring Barat 
+(PRB) and PT Palapa Timur Telematika (PTT) in accordance with the 
+implementation of ISAK 16 regarding “Service Concessions’’. Palapa 
+Ring Paket Timur and Barat Package Project is a joint operation with 
+the Ministry of Communication and Informatics of the Republic of 
+Indonesia (Kominfo) which aims to build and manage fiber optic 
+backbone networks in the western and eastern regions of Indonesia. 
+Other segments also include revenue from the contractor subsidiary, 
+PT Oxygen Infrastruktur Indonesia, which was formed in order to meet 
+customer needs for fiber optic network construction work. as well as 
+income from subsidiary PT. Indopratama Teleglobal which operates 
+in the satellite services business sector.
+Contribution of Other Segments to Operating 
+Revenues
+Revenue from Other Segments for the year ending December 31, 
+2023 decreased by IDR 110,008,480,496, or 5.07%, compared to 
+the year ending December 31, 2022, due to the implementation of 
+ISAK 16 regarding service concessions. Meanwhile, direct expenses 
+for the same period also decreased by IDR 8,115,086,819, or 1.07%, 
+compared to the previous period, caused by the declining schedule 
+of concession revenue from year to year. Gross profit decreased by 
+IDR 101,893,393,677, or 7.22%, as of December 31, 2023, compared to 
+the year ending December 31, 2022.
+In 2023, the Other segment contributed 47.85% to the company’s 
+total revenue.
+106
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+2023
+(Rp-Juta /
+IDR-Million)
+2022
+(Rp-Juta /
+IDR-Million)
+Peningkatan/ Penurunan
+Increase/Decrease
+Nominal
+(Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage
+Aset | Assets
+Aset Lancar
+Current Assets
+3.833.452
+3.587.826
+245.625
+6,85%
+Aset Tidak Lancar
+Non-Current Assets
+11.065.809
+11.331.101
+(265.292)
+(2,34%)
+Jumlah Aset | Total Asset 
+14.899.261
+14.918.927
+(19.666)
+(0,13%)
+Liabilitas dan Ekuitas | Liability and Equity
+Liabilitas Jangka Pendek
+Current Liabilities
+3.653.944
+2.999.546
+654.398
+21,82%
+Liabilitas Jangka Panjang
+Non-Current Liabilities
+4.321.348
+5.680.790
+(1.359.442)
+(23,93%)
+Jumlah Liabilitas | Total Liabilities
+7.975.293
+8.680.336
+(705.043)
+(8,12%)
+Ekuitas
+Equity
+6.923.968
+6.238.591
+685.377
+10,99%
+Jumlah Liabilitas dan Ekuitas | Total Liabilities and Equity
+14.899.261
+14.918.927
+(19.666)
+(0,13%)
+ASET
+Per 31 Desember 2023, Total Aset Perseroan mengalami penurunan 
+sebesar Rp19.666 juta atau setara dengan 0,13% menjadi Rp14.899.261 
+juta bila dibandingkan dengan Total aset pada 31 Desember 2022 
+sebesar Rp14.918.927 juta. Aset lancar mengalami peningkatan sebesar 
+Rp245.625 juta atau setara dengan 6,85%, namun terjadi penurunan 
+di aset tidak lancar sebesar Rp265.292 juta atau setara dengan 2,34% 
+yang paling signifikan disebabkan oleh penurunan piutang konsesi 
+jasa karena sudah adanya pembayaran piutang konsesi yang sudah 
+jatuh tempo.
+- Aset Lancar
+Per 31 Desember 2023, aset lancar Perseroan mengalami 
+peningkatan sebesar Rp245.625 juta atau setara dengan 6,85% 
+menjadi sebesar Rp3.833.452 juta bila dibandingkan dengan posisi 
+per 31 Desember 2022 sebesar Rp3.587.826 juta. Peningkatan 
+tersebut terutama disebabkan oleh peningkatan piutang usaha 
+sebesar Rp453.177 juta atau 101,56%, hal ini dikarenakan adanya 
+peningkatan piutang usaha dari penjualan.
+ 
+- Aset Tidak Lancar
+Per 31 Desember 2023, aset tidak lancar Perseroan mengalami 
+penurunan sebesar Rp265.292 juta atau setara dengan 2,34% 
+menjadi sebesar Rp11.065.809 juta bila dibandingkan dengan 
+posisi per 31 Desember 2022 sebesar Rp11.312.101 juta. Hal tersebut 
+terutama disebabkan oleh berkurangnya piutang konsesi jasa 
+sebesar Rp495.636 juta atau setara dengan 11,90% karena sudah 
+adanya pembayaran piutang konsesi yang sudah jatuh tempo.
+Tinjauan Keuangan
+Financial Review
+ASSET 
+As of December 31, 2023, the Company’s Total Assets decreased by 
+IDR 19.666 million, or approximately 0.13%, to IDR 14,899,261   million 
+compared to Total Assets on December 31, 2022, amounting to 
+IDR 14,918,927 million. Current assets increased by IDR 245,625 million, 
+or approximately 6.85%, while there was a decrease in non-current 
+assets by IDR 265,292 million, or approximately 2.34%, which was 
+most significant due to the decrease in concession receivables as 
+payments for concession receivables that had matured were received.
+- Current Asset
+As of December 31, 2023, the Company’s current assets increased 
+by IDR 245,625 million, or approximately 6.85%, to IDR 3,833,452 
+million compared to the position as of December 31, 2022, which 
+amounted to IDR 3,587,826 million. This increase was primarily 
+due to a rise in accounts receivable by IDR 453,177 million, or 
+101.56%, attributed to increased accounts receivable from sales. 
+- Non-Current Asset
+As of December 31, 2023, the Company’s non-current assets 
+decreased by IDR 265,292million, or approximately 2.34%, to 
+IDR 11,065,809 million compared to the position as of December 
+31, 2022, which amounted to IDR 11,312,101 million. This decrease 
+was primarily due to a reduction in concession receivables by 
+IDR 495,636 million, or approximately 11.90%, attributed to the 
+payment of overdue concession receivables.
+107
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+LIABILITAS
+Per 31 Desember 2023, jumlah liabilitas Perseroan mengalami 
+penurunan sebesar Rp705.043 juta atau setara dengan 8,12% 
+menjadi sebesar Rp7.975.293 juta bila dibandingkan dengan posisi 
+per 31 Desember 2022 sebesar Rp8.680.336 juta. Liabilitas jangka 
+pendek mengalami peningkatan sebesar Rp654.398 juta atau sebesar 
+21,82% karena adanya liabilitas yang akan jatuh tempo, namun terjadi 
+penurunan di liabilitas jangka panjang sebesar Rp1.359.442 juta atau 
+sebesar 23,93% yang paling signifikan disebabkan oleh pembayaran 
+pelunasan utang bank dan reklasifikasi ke liabilitas jangka pendek 
+atas utang Sukuk Ijarah Berkelanjutan I Tahap II Tahun 2020 seri B 
+dan Tahap IV Tahun 2021 Seri A yang akan jatuh tempo bulan Mei 
+dan Juli tahun 2024 sebesar Rp1.122.100 juta.
+- Liabilitas Jangka Pendek
+Per 31 Desember 2023, liabilitas jangka pendek Perseroan 
+mengalami peningkatan sebesar Rp654.399 juta atau setara dengan 
+21,82% menjadi sebesar Rp3.653.944 juta bila dibandingkan dengan 
+posisi per 31 Desember 2022 sebesar Rp2.999.546 juta. Peningkatan 
+ini disebabkan oleh jatuh tempo utang Sukuk Ijarah Berkelanjutan 
+I Tahap IV Tahun 2021 Seri A sebesar Rp469.100 juta pada bulan 
+Mei 2024 dan Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2019 Seri 
+B sebesar Rp653.000 juta pada bulan Juli 2024.
+- Liabilitas Jangka Panjang
+Per 31 Desember 2023, liabilitas jangka panjang Perseroan 
+mengalami penurunan sebesar Rp1.359.442 juta atau setara 
+dengan 23,93% menjadi sebesar Rp4.321.348 juta jika dibandingkan 
+dengan Liabilitas jangka panjang per 31 Desember 2022 sebesar 
+Rp5.680.790 juta. Hal tersebut terutama disebabkan oleh 
+pembayaran pelunasan utang bank dan reklasifikasi ke liabilitas 
+jangka pendek atas utang Sukuk Ijarah Berkelanjutan I Tahap II 
+Tahun 2020 Seri B dan Sukuk Ijarah Berkelanjutan I Tahap IV Tahun 
+2021 Seri A yang akan jatuh tempo bulan Mei dan Juli tahun 2024 
+sebesar Rp1.122.100 juta.
+EKUITAS
+Per 31 Desember 2023, jumlah ekuitas Perseroan mengalami 
+peningkatan sebesar Rp685.377 juta atau setara dengan 10,99% 
+menjadi sebesar Rp6.923.968 juta jika dibandingkan dengan jumlah 
+ekuitas per 31 Desember 2022 sebesar Rp6.238.591 juta. Peningkatan 
+tersebut karena pada pada 31 Desember 2023 Perusahaan 
+mencatatkan penghasilan komprehensif sebesar Rp685.377 juta.
+LIABILITIES
+As of December 31, 2023, the total liabilities of the Company decreased 
+by IDR 705,043 million, or approximately 8.12%, to IDR 7,975,293 
+million compared to the position as of December 31, 2022, which 
+amounted to IDR 8,680,336 million. Short-term liabilities increased 
+by IDR 654,398 million, or approximately 21.82%, due to maturing 
+liabilities. However, there was a decrease in long-term liabilities by 
+IDR 1,359,442 million, or approximately 23.93%, primarily attributed 
+to the repayment of bank debts and reclassification to short-term 
+liabilities for the Shelf Registration Ijarah Sukuk I Phase II 2020 Series 
+B and Phase IV 2021 Series A debts, which will mature in May and 
+July 2024, totaling IDR 1,122,100 million.
+- Current Liabilities
+As of December 31, 2023, the current liabilities of the Company 
+increased by IDR 654,399 million, or approximately 21.82%, to 
+IDR 3,653,944 million compared to the position as of December 31, 
+2022, amounting to IDR 2,999,546 million. This increase was due 
+to the maturity of Shelf Registration Ijarah Sukuk I Phase IV 2021 
+Series A debts totaling IDR 469,100 million in May 2024 and Shelf 
+Registration Ijarah Sukuk I Phase I 2019 Series B debts totaling IDR 
+653,000 million in July 2024.
+ 
+- Non-Current Liabilities
+As of  December 31, 2023, the Company’s non-current liabilities 
+decreased by IDR 1,359,442 million or equivalent to 23.93% to 
+IDR 4,321,348 million when compared to non-current liabilities 
+as of December 31, 2022 of IDR 5,680,790 million. This was due 
+to the payment of bank loan and the reclassification to current 
+liabilities of Shelf Registration Ijarah Sukuk I Phase II Year 2020 
+Series B and Shelf Registration Ijarah Sukuk I Phase IV Year 2021 
+Series A which will mature in May and July 2024 amounting to 
+IDR 1,122,100 million.
+EQUITY
+As of December 31, 2023, the Total Equity of the Company increased 
+by IDR 685,377 million, or approximately 10.99%, to IDR 6,923,968 
+million compared to the total equity as of December 31, 2022, 
+amounting to IDR 6,238,591 million. This increase was due to the 
+comprehensive income recorded by the Company on December 31, 
+108
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+LAPORAN LABA RUGI KONSOLIDASIAN 
+ 2023
+(Rp-Juta) 
+(IDR-Million)
+2022
+(Rp-Juta) 
+(IDR-Million)
+Peningkatan/ Penurunan
+Increase/Decrease
+Nominal (Rp Juta)
+Value (IDR-Million)
+Persentase
+Percentage
+Pendapatan
+Revenue
+4.306.324
+4.647.651
+(341.327)
+(7,34%)
+Beban Langsung
+Direct Costs
+(1.781.390)
+(1.890.179)
+108.788
+(5,76%)
+Laba Kotor
+Gross Profit
+2.524.934
+2.757.472
+(232.539)
+(8,43%)
+Beban Usaha
+Operating Expense
+(1.018.144)
+(1.191.287)
+173.143
+(14,53%)
+Laba Usaha
+Operating Profit
+1.506.790
+1.566.185
+59.396
+(3.79%)
+Beban Lain-Lain-Bersih
+Other Expenses-Net
+(611.641)
+(690.938)
+79.296
+(11,48%)
+Laba Sebelum Pajak Final dan Pajak Penghasilan
+Profit Before Final Tax and Income Tax
+895.149
+875.248
+19.901
+2,27%
+Beban Pajak Final
+Final Tax Expense
+4.383
+8.348
+(3.966)
+(47,50%)
+Laba Sebelum Pajak Penghasilan
+Profit Before Income Tax
+890.766
+866.900
+23.867
+2,75%
+Beban Pajak-Bersih
+Tax Expense-Net
+211.595
+194.002
+17.593
+9,07%
+Laba Tahun Berjalan
+Profit for the Year
+679.171
+672.898
+6.273
+0,93%
+Penghasilan (Rugi) Komprehensif Lain Setelah Pajak
+Other Comprehensive Income (Loss) After Tax
+6.206
+26.004
+(19.799)
+(76,13%)
+Jumlah Penghasilan Komprehensif
+Total Comprehensive Income
+685.377
+698.902
+(13.525)
+(1,94%)
+Laba Tahun Berjalan per Saham Dasar (Rupiah Penuh)
+Earnings for the Year per Share (Full Rupiah)
+24
+26
+(2)
+(7,69%)
+- Pendapatan
+Untuk periode yang berakhir pada tanggal 31 Desember 2023, 
+pendapatan usaha Perseroan mengalami penurunan sebesar 
+Rp341.327 Juta atau setara dengan 7,34% menjadi sebesar 
+Rp4.306.324 juta bila dibandingkan dengan pendapatan usaha 
+untuk periode yang berakhir tanggal 31 Desember 2022 sebesar 
+Rp4.647.651 juta. Penurunan tersebut terutama disebabkan 
+oleh pendapatan non-penyelenggaraan telekomunikasi yang 
+berasal dari pendapatan bunga konsesi anak Perusahaan yaitu 
+PT Palapa Ring Barat dan PT Palapa Timur Telematika yang dimana 
+pendapatan dari proyek tersebut menurun sebesar Rp127.924 juta 
+atau setara dengan 11,44% karena adanya implementasi ISAK 16 
+2023, amounting to IDR 685,377 million.
+CONSOLIDATED PROFIT AND LOSS STATEMENT
+- Revenue
+For the period ending on December 31, 2023, the Company’s 
+operating revenue decreased by IDR 341,327 million, or 
+approximately 7.34%, to IDR 4,306,324 million compared to the 
+operating revenue for the period ending on December 31, 2022, 
+which amounted to IDR 4,647,651 million. This decrease was primarily 
+caused by non-telecommunication service revenue, originating 
+from concession interest revenue of the Company’s subsidiaries, 
+namely PT Palapa Ring Barat and PT Palapa Timur Telematika. The 
+revenue from these projects decreased by IDR 127,924 million, 
+or approximately 11.44%, due to the implementation of ISAK 16 
+regarding concession services. Additionally, revenue from contracts 
+109
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+mengenai konsesi jasa. Selain itu pendapatan dari kontrak dengan 
+pelanggan penyelenggaraan telekomunikasi yang berasal dari 
+jaringan domestik mengalami penurunan sebesar Rp262.206 juta 
+atau setara dengan 24,37%, hal ini disebabkan oleh pengalihan 
+permintaan pelanggan telekomunikasi dari sewa bandwidth ke 
+sewa core selama tahun 2023.
+BEBAN LANGSUNG
+Untuk tahun yang berakhir pada tanggal 31 Desember 2023, beban 
+langsung Perseroan mengalami penurunan sebesar Rp108.788 Juta 
+atau setara dengan 5,76% menjadi sebesar Rp1.781.391 juta bila 
+dibandingkan dengan beban langsung untuk tahun yang berakhir 
+pada tanggal 31 Desember 2022 sebesar Rp1.890.179 juta. Penurunan 
+tersebut terutama disebabkan oleh penurunan dari beban jaringan 
+domestik yang menggunakan jasa pihak ketiga mengalami penurunan 
+sebesar Rp155.199  juta atau sebesar 33,23% dikarenakan Perusahaan 
+lebih memaksimalkan utilisasi jaringan milik sendiri untuk memberikan 
+layanan kepada pelanggan.
+BEBAN LAIN-LAIN – BERSIH
+Untuk tahun yang berakhir pada tanggal 31 Desember 2023, beban 
+lain-lain Perseroan mengalami penurunan sebesar Rp79.296  juta atau 
+setara dengan 11,48% menjadi sebesar Rp611.641 juta bila dibandingkan 
+dengan beban lain-lain untuk tahun yang berakhir pada tanggal 
+31 Desember 2022 sebesar Rp690.938 juta. Penurunan tersebut 
+terutama disebabkan oleh penurunan beban bunga atas pokok utang 
+bank, utang obligasi dan sukuk ijarah yang sudah lunas.
+LABA BERSIH TAHUN BERJALAN
+Untuk tahun yang berakhir pada tanggal 31 Desember 2023, laba 
+bersih Perseroan mengalami peningkatan sebesar Rp6.273 juta atau 
+setara dengan 0,93% menjadi sebesar Rp679.171 juta bila dibandingkan 
+dengan laba bersih untuk tahun yang berakhir pada tanggal
+31 Desember 2022 sebesar Rp672.898 juta. Hal ini dikarenakan oleh 
+peningkatan laba sebelum pajak sebesar Rp19.901 juta atau setara 
+dengan 2,27% yang merupakan hasil efisiensi kegiatan operasional 
+Perusahaan yang tercermin pada menurunnya beban operasional 
+Perusahaan sebesar Rp173.142 juta atau setara dengan 14,53% dan 
+penurunan beban langsung sebesar Rp108.788 juta atau setara 
+dengan 5,76%.
+JUMLAH PENGHASILAN KOMPREHENSIF
+Untuk tahun yang berakhir pada tanggal 31 Desember 2023, jumlah 
+penghasilan komprehensif Perseroan mengalami penurunan sebesar 
+Rp13.525 juta atau setara dengan 1,94% menjadi sebesar Rp685.377 
+juta bila dibandingkan dengan jumlah penghasilan komprehensif 
+untuk tahun yang berakhir pada tanggal 31 Desember 2022 sebesar 
+Rp698.902 juta. Penurunan ini terutama disebabkan oleh penurunan 
+selisih kurs karena penjabaran mata uang asing yang terkait dengan 
+kegiatan usaha di luar negeri, yaitu sebesar Rp16.571 juta. 
+with telecommunication service provider customers, derived from 
+domestic network operations, decreased by IDR 262,206 million, or 
+approximately 24.37%, this is due to transfer of telecommunications 
+customer requests from bandwidth rental to core rental during 
+2023.
+DIRECT COST
+For the year ending December 31, 2023, the Company’s direct 
+cost decreased by IDR 108,788 million, or approximately 5.76%, to 
+IDR 1,781,391 million compared to direct expenses for the year ending 
+December 31, 2022, amounting to IDR 1,890,179 million. This decrease 
+was primarily due to a decrease in expenses related to domestic 
+network usage of third-party services, which decreased by IDR 155,199 
+million, or approximately 33.23%, because the Company maximized 
+the utilization of its own network to provide services to customers.
+OTHER EXPENSES - NET
+For the year ending December 31, 2023, the Company’s other 
+expenses decreased by IDR 79,296 million, or approximately 11.48%, 
+to IDR 611,641 million compared to other expenses for the year ending 
+December 31, 2022, amounting to IDR 690,938 million. This decrease 
+was primarily due to a reduction in interest expenses on principal 
+amounts of bank loans, bond debts, and ijarah sukuk that have been 
+fully paid off.
+PROFIT FOR THE YEAR
+For the year ending December 31, 2023, the Company’s net profit 
+increased by IDR 6,273 million, or approximately 0.93%, to IDR 679,171 
+million compared to the net profit for the year ending December 31, 
+2022, amounting to IDR 672,898 million. This increase was attributed 
+to an increase in pre-tax profit of IDR 19,901 million, or approximately 
+2.27%, reflecting operational efficiency improvements within the 
+Company, as evidenced by the decrease in operational expenses by 
+IDR 173,142 million, or approximately 14.53%, and a reduction in direct 
+expenses by IDR 108,788 million, or approximately 5.76%.
+TOTAL COMPREHENSIVE INCOME
+For the year ending December 31, 2023, the Company’s total 
+comprehensive income decreased by IDR 13,525 million, or 
+approximately 1.94%, to IDR 685,377 million compared to the total 
+comprehensive income for the year ending December 31, 2022, 
+amounting to IDR 698,902 million. This decrease was primarily due 
+to a decrease in foreign exchange translation differences related to 
+overseas business activities, amounting to IDR 16,571 million.
+110
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+RASIO-RASIO PROFITABILITAS
+Berikut merupakan rasio-rasio profitabilitas Perseroan untuk 
+memberikan gambaran mengenai kemampuan Perseroan dalam 
+menghasilkan keuntungan:
+Rasio Profitabilitas 
+Profitability Ratios
+2023 (%)
+2022 (%)
+Pendapatan/Jumlah Aset
+Income/Total Assets
+28,90
+31,15
+Laba Tahun Berjalan/Jumlah Aset (ROA)
+Profit for the Year/Total Assets (ROA)
+4,56
+4,51
+Laba Tahun Berjalan/Jumlah Ekuitas (ROE)
+Profit for the Year/Total Equity (ROE)
+9,81
+10,79
+Laba Tahun Berjalan/Jumlah Ekuitas (ROE) menggambarkan 
+kemampuan Perseroan untuk memperoleh pendapatan dari 
+ekuitasnya. ROE Perseroan untuk tahun-tahun yang berakhir pada 
+tanggal 31 Desember 2023 dan 2022 masing- masing adalah sebesar 
+9,81% dan 10,79%.
+Sedangkan Laba Tahun Berjalan/Jumlah Aset (ROA) menggambarkan 
+kemampuan Perusahaan untuk menghasilkan pendapatan dari 
+asetnya. ROA untuk tahun-tahun yang berakhir pada tanggal 31 
+Desember 2023 dan 2022 masing-masing adalah sebesar 4,56% 
+dan 4,51%. 
+LAPORAN ARUS KAS KONSOLIDASIAN
+ 
+ 
+ 2023
+(Rp-Juta) 
+(IDR-Million)
+2022
+(Rp-Juta) 
+(IDR-Million)
+Peningkatan/ Penurunan
+Increase/Decrease
+Nominal (Rp Juta)
+Value (IDR-Million)
+Persentase
+Percentage
+Arus Kas dari/(untuk) Aktivitas Operasi 
+Cash Flow from/(for) Operational Activities
+1.629.008
+2.229.472
+(600.465)
+ (26,93%)
+Arus Kas dari/(untuk) Aktivitas Investasi
+Cash Flow from/(for) Investment Activities
+(1.238.587)
+(1.875.174)
+636.587
+(33,95%)
+Arus Kas dari/(untuk) Aktivitas Pendanaan
+Cash Flow from/(for) Funding Activities
+(469.103)
+(187.317)
+(281.787)
+150,43%
+Peningkatan (Penurunan) Bersih Kas dan Setara Kas
+Net Increase (Decrease) of Cash and Cash Equivalents
+(78.684)
+166.982
+(245.665)
+(147,12%)
+Kas dan Setara Kas Awal Periode
+Cash and Cash Equivalents at the Beginning of the Year
+1.211.090
+1.040.196
+170.894
+16,43%
+Selisih Transaksi dalam Mata Uang Asing
+Differences in Foreign Currency Transactions
+3.317
+3.913
+(596)
+(15,23%)
+Kas dan Setara Kas Akhir Periode
+Cash and Cash Equivalents at the End of the Year
+1.135.723
+1.211.090
+(75.367)
+(6,22%)
+PROFITABILITY RATIOS
+The following are the Company’s profitability ratios to provide an 
+overview of the Company’s ability to generate profits:
+The Return on Equity (ROE) measures the company’s ability to 
+generate income from its equity. The ROE for the Company for the 
+years ending December 31, 2023, and 2022 were 9.81% and 10.79%, 
+respectively.
+Meanwhile, the Return on Assets (ROA) measures the company’s ability 
+to generate income from its assets. The ROA for the years ending 
+December 31, 2023, and 2022 were 4.56% and 4.51%, respectively.
+CONSOLIDATED CASH FLOW STATEMENT
+111
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ARUS KAS DARI AKTIVITAS OPERASI
+Per 31 Desember 2023, jumlah arus kas dari kegiatan operasi Perseroan 
+mengalami penurunan sebesar Rp600.465 juta atau setara dengan  
+26,93% menjadi sebesar Rp1.629.008 juta bila dibandingkan dengan 
+posisi per 31 Desember 2022 sebesar Rp2.229.472 juta. Penurunan 
+ini sejalan dengan penurunan pendapatan dan peningkatan dari 
+piutang usaha. 
+ARUS KAS UNTUK AKTIVITAS INVESTASI
+Per 31 Desember 2023, jumlah arus kas yang digunakan untuk kegiatan 
+investasi dari Perseroan mengalami penurunan sebesar Rp636.587 
+juta atau setara dengan 33,95% menjadi sebesar Rp1.238.587 juta 
+bila dibandingkan dengan posisi per 31 Desember 2022 sebesar 
+Rp1.875.174 juta. Hal ini disebabkan oleh penurunan perolehan aset 
+tetap atas tahun 2023.
+ARUS KAS DARI/(UNTUK) AKTIVITAS PENDANAAN
+Per 31 Desember 2023, jumlah arus kas yang digunakan dari kegiatan 
+pendanaan dari Perseroan mengalami peningkatan sebesar Rp281.786 
+juta atau setara dengan 150,43% menjadi sebesar Rp469.104 juta 
+bila dibandingkan dengan posisi per 31 Desember 2022 sebesar 
+Rp187.317 juta. Hal ini disebabkan oleh pelunasan utang Sukuk Ijarah 
+Berkelanjutan I Tahap II Tahun 2020 Seri A sebesar Rp191.000 juta 
+pada bulan Agustus 2023 dan Sukuk Ijarah Berkelanjutan I Tahap III 
+Tahun 2020 Seri A sebesar Rp333.365 juta pada bulan Oktober 2023.
+KAS DAN SETARA KAS AKHIR TAHUN
+Dengan memperhitungkan arus kas dari aktivitas operasi, arus kas 
+dari aktivitas investasi, arus kas dari aktivitas pendanaan, serta selisih 
+transaksi dalam mata uang asing, kas dan setara kas Perusahaan 
+tercatat mengalami penurunan sebesar 6,22% atau setara dengan 
+Rp75.367 juta dari Rp1.211.090 juta pada awal tahun 2023 menjadi 
+Rp1.135.723 juta di akhir tahun 2023, terutama yang disebabkan oleh 
+penurunan pendapatan dan pembayaran Sukuk Ijarah Berkelanjutan 
+I Tahap II Tahun 2020 Seri A dan Tahap III Tahun 2020 Seri A.
+KEMAMPUAN MEMBAYAR UTANG
+Kemampuan Perseroan dalam membayar utang diukur menggunakan 
+rasio solvabilitas dan rasio likuiditas. Rasio solvabilitas merupakan rasio 
+yang mengukur kemampuan Perseroan membayar seluruh utangnya 
+baik jangka pendek maupun jangka panjang. Sedangkan rasio likuiditas 
+merupakan rasio untuk mengukur kemampuan Perseroan dalam 
+membayar utang jangka pendek.   
+CASH FLOW FROM OPERATING ACTIVITIES
+As of December 31, 2023, the total cash flow from the Company’s 
+operating activities decreased by IDR 600,465 million or equivalent 
+to 26.93%, amounting to IDR 1,629,008 million compared to the 
+position as of December 31, 2022, which was IDR 2,229,472 million. 
+This decrease is in line with the decrease in revenue and the increase 
+in accounts receivable.
+CASH FLOW FOR INVESTING ACTIVITIES
+As of December 31, 2023, the total cash flow used for investment 
+activities by the Company decreased by IDR 636,587 million or 
+equivalent to 33.95%, amounting to IDR 1,238,587 million compared 
+to the position as of December 31, 2022, which was IDR 1,875,174 
+million. This decrease is attributed to the reduction in the acquisition 
+of fixed assets in 2023.
+CASH FLOW FROM/(FOR) FUNDING ACTIVITIES
+As of December 31, 2023, the total cash flow used from financing 
+activities by the Company increased by IDR 281,786 million or 
+equivalent to 150.43%, amounting to IDR 469,104 million compared 
+to the position as of December 31, 2022, which was IDR 187,317 million. 
+This increase is attributed to the repayment of Moratelindo Shelf 
+Registration Ijarah Sukuk I Phase II 2020 Series A amounting to IDR 
+191,000 million in August 2023 and Moratelindo Shelf Registration 
+Ijarah Sukuk I Phase III 2020 Series A amounting to IDR 333,365 
+million in October 2023.
+CASH AND CASH EQUIVALENTS AT THE END  OF THE 
+YEAR
+Taking into account the cash flow from operating activities, cash 
+flow from investing activities, cash flow from financing activities, 
+and the difference in foreign currency transactions, the cash and 
+cash equivalents of the Company recorded a decrease of 6.22% or 
+equivalent to IDR 75,367 million from IDR 1,211,090 million at the 
+beginning of 2023 to IDR 1,135,723 million at the end of 2023. This 
+decrease was primarily due to a decline in revenue and payments 
+for Shelf Registration Ijarah Sukuk I Phase II 2020 Series A and Phase 
+III 2020 Series A.
+ABILITY TO PAY DEBT
+The Company’s ability to pay debts is measured using solvency ratios 
+and liquidity ratios. The solvency ratio is a ratio that measures the 
+Company’s ability to pay all of its debts, both short-term and long-
+term. While the liquidity ratio is a ratio to measure the Company’s 
+ability to pay short-term debt.
+112
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+- Rasio Likuiditas: Kemampuan Membayar Utang 
+Jangka Pendek
+Likuiditas adalah kemampuan perusahaan untuk memenuhi 
+liabilitas jangka pendeknya, yang tercermin dalam rasio aset lancar 
+terhadap liabilitas jangka pendek perusahaan. Tingkat likuiditas 
+Perseroan untuk tahun yang berakhir pada tanggal 31 Desember 
+2023 dan 2022 masing-masing adalah sebesar 104,91% dan 119,61%. 
+	
+Pada tanggal 31 Desember 2023, Perseroan memiliki kas dan setara 
+kas sebesar Rp1.135.723 juta dan tidak memiliki fasilitas pinjaman 
+dari bank yang belum ditarik secara Grup. Sumber likuiditas 
+yang dimiliki oleh Perseroan berasal dari internal dan eksternal 
+Perseroan. Likuiditas internal yang berasal dari hasil kegiatan 
+usaha Perseroan digunakan untuk biaya operasional, modal kerja, 
+belanja modal, serta pembayaran kewajiban Perseroan. Apabila 
+Perseroan membutuhkan tambahan pembiayaan baik untuk modal 
+kerja dan belanja modal, maka Perseroan akan mempergunakan 
+sumber likuiditas eksternal berupa pinjaman bank jangka pendek 
+dan/atau jangka panjang.	
+	
+	
+	
+	
+	
+Tidak terdapat sumber likuiditas yang material yang belum 
+digunakan. Sejauh ini, tidak terdapat kecenderungan yang 
+diketahui, permintaan, perikatan dan komitmen, kejadian dan/
+atau ketidakpastian yang mungkin dapat mengakibatkan terjadinya 
+peningkatan atau penurunan yang material terhadap likuiditas 
+Perseroan.
+	
+	
+	
+	
+	
+	
+Perseroan berkeyakinan bahwa likuiditas yang dimiliki cukup untuk 
+memenuhi kebutuhan modal kerja, belanja modal serta pembayaran 
+kembali pembiayaan dari bank beserta bunganya. Sehingga 
+perubahan tingkat suku bunga tidak memiliki pengaruh signifikan 
+terhadap kemampuan Perseroan mengembalikan pinjaman. 
+ 
+ 
+ 2023
+2022
+Peningkatan/ Penurunan
+Increase/Decrease
+Jumlah Aset Lancar/Jumlah Liabilitas Lancar
+Total Current Assets/Total Current Liabilities
+104,91%
+119,61%
+(14,70%)
+- Liquidity Ratio: Ability to Pay Short Term Debt
+Liquidity is the company’s ability to meet its short-term liabilities, 
+which is reflected in the ratio of current assets to short-term 
+liabilities of the company. The Company’s liquidity level for the 
+years ended December 31, 2023 and 2022 were 104.91% and 119.61%, 
+respectively.
+As of December 31, 2023, the Company had cash and cash 
+equivalents amounting to IDR 1,135,723 million and did not have any 
+undrawn loan facilities from banks within the Group. The liquidity 
+sources available to the Company originate from both internal and 
+external sources. Internal liquidity derived from the Company’s 
+operating activities is used for operational expenses, working 
+capital, capital expenditures, and payment of Company obligations. 
+If the Company requires additional financing for working capital 
+and capital expenditures, it will utilize external liquidity sources 
+such as short-term and/or long-term bank loans.
+There are no material sources of liquidity that have not been used. 
+So far, there are no known trends, requests, engagements and 
+commitments, events and/or uncertainties that might result in a 
+material increase or decrease in the Company’s liquidity.
+The company believes that its liquidity is sufficient to meet 
+working capital needs, capital expenditures and repayment of 
+bank financing and interest. Therefore, that changes in interest 
+rates do not have a significant effect on the Company’s ability 
+to repay loans.
+113
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+- Solvency Ratio: Ability to Pay Short Term and Long-
+Term Debt
+Solvability is a company’s ability to meet all of its liabilities, which 
+is calculated from the ratio of the total liabilities of each company 
+to total assets and to equity. The ratio of all liabilities to total assets 
+of the Company for the years ended December 31, 2023 and 2022 
+were 53.53% and 58.18% respectively. Meanwhile, the ratio of all 
+interest-bearing liabilities to the Company’s equity for the years 
+ended December 31, 2023 and 2022 amounted to 115.18% and 
+139.14%, respectively.
+- Rasio Solvabilitas: Kemampuan Membayar Utang 
+Jangka Pendek dan Jangka Panjang
+Solvabilitas adalah kemampuan perusahaan untuk memenuhi 
+seluruh liabilitasnya, yang dihitung dari rasio jumlah seluruh 
+liabilitas perusahaan masing-masing terhadap jumlah aset 
+dan terhadap ekuitas. Rasio seluruh liabilitas terhadap jumlah 
+aset Perseroan untuk tahun-tahun yang berakhir pada tanggal 
+31 Desember 2023 dan 2022 masing-masing adalah sebesar 53,53% 
+dan 58,18% Sedangkan rasio seluruh liabilitas berbunga terhadap 
+ekuitas Perseroan untuk tahun-tahun yang berakhir pada tanggal 
+31 Desember 2023 dan 2022 adalah sebesar 115,18% dan 139,14%. 
+ 
+ 
+ 2023
+2022
+Peningkatan/ 
+Penurunan
+Increase/Decrease
+Jumlah Liabilitas/Jumlah Ekuitas (DER) (%)
+Total Liabilities/Total Equity (DER) (%)
+115,18%
+139,14%
+(23,96)
+Jumlah Liabilitas/Jumlah Aset (%)
+Total Liabilities/Total Assets (%)
+53,52%
+58,18%
+(4,66)
+Customer Gathering Oxygen.id di Jakarta
+Customer Gathering Oxygen.id in Jakarta
+114
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Rasio seluruh liabilitas terhadap jumlah aset Perseroan untuk tahun-
+tahun yang berakhir pada tanggal 31 Desember 2023 dan 2022 
+masing-masing adalah sebesar 53,53% dan 58,18%. Sedangkan rasio 
+seluruh liabilitas berbunga terhadap ekuitas Perusahaan untuk tahun-
+tahun yang berakhir pada tanggal 31 Desember 2023 dan 2022 adalah 
+sebesar 115,18% dan 139,14%. 
+TINGKAT KOLEKTIBILITAS PIUTANG
+Kemampuan suatu perusahaan dalam mengumpulkan piutang 
+dapat diketahui dengan menghitung rasio lama penagihan rata-
+rata (average collection period). Rasio tersebut dapat menunjukkan 
+waktu rata-rata yang dibutuhkan perusahaan tersebut dalam menagih 
+piutangnya dan rasio perputaran piutang (receivable turnover) yang 
+menunjukkan berapa kali dana yang ditanam dalam piutang berputar 
+dalam setahun. Semakin kecil nilai rasio lama penagihan rata- rata 
+menunjukkan kemampuan Perusahaan dalam mengumpulkan piutang 
+semakin cepat.
+	
+	
+	
+	
+	
+	
+Tingkat Kolektibilitas Piutang tahun 2023 sebesar 56 hari, mengalami 
+penurunan dibandingkan dengan Kolektibilitas Piutang tahun 2022 
+sebesar 34 hari. Sedangkan rasio perputaran piutang pada tahun 
+2023 dan 2022 adalah masing-masing sebesar 6,40 kali dan 10,65 kali. 
+STRUKTUR MODAL DAN KEBIJAKAN MANAJEMEN ATAS 
+STRUKTUR MODAL
+Struktur modal merupakan penggabungan antara modal sendiri 
+(ekuitas) dan utang (liabilitas). Struktur modal dengan minimum 
+biaya penggunaan dana dapat berpengaruh terhadap peningkatan 
+nilai saham suatu perusahaan, tetapi tidak meningkatkan laba bersih 
+per saham.
+	
+	
+	
+	
+	
+	
+Perseroan berupaya mengintensifikasikan struktur modal dengan 
+mengoptimalkan modal rata-rata tertimbang yang minimum. 
+Meningkatnya nilai saham Perseroan dapat dipengaruhi oleh struktur 
+modal dengan minimum biaya penggunaan dana. Namun demikian, 
+hal tersebut tetap tidak dapat meningkatkan laba bersih per saham.
+	
+	
+	
+	
+	
+	
+Tujuan utama dari pengelolaan modal Perseroan adalah untuk 
+memastikan bahwa Perusahaan mempertahankan rasio modal yang 
+sehat dalam rangka mendukung bisnis dan memaksimalkan nilai 
+pemegang saham. Perseroan mengelola struktur modal dan membuat 
+penyesuaian terhadap struktur modal sehubungan dengan perubahan 
+kondisi ekonomi. Kebijakan struktur modal juga ditujukan kepada 
+pemegang saham dengan menentukan harga produk dan jasa yang 
+sepadan dengan tingkat risiko. 
+Sebagaimana praktik yang berlaku secara umum, Perseroan melakukan 
+evaluasi struktur permodalan melalui analisis rasio utang terhadap 
+modal, yakni membagi utang bersih terhadap jumlah modal.
+	
+	
+	
+	
+	
+	
+The ratio of all liabilities to total assets of the Company for the 
+years ended December 31, 2023 and 2022 were 53.53% and 58.18%, 
+respectively. Meanwhile, the ratio of all interest-bearing liabilities to 
+the Company’s equity for the years ended December 31, 2023 and 
+2022 amounted to 115.18% and 139.14%.
+RECEIVABLES COLLECTIBILITY RATE
+A company’s ability to collect receivables can be determined by 
+calculating the average collection period ratio. This ratio can show 
+the average time needed by the company to collect its receivables 
+and the receivables turnover ratio, which shows how many times 
+the funds invested in receivables rotate in a year. The smaller the 
+average collection time ratio, the faster the Company’s ability to 
+collect receivables.
+The 2023 Receivables Collectibility rate is 56 days, decreasing 
+compared to the 2022 Receivables Collectability of 34 days. 
+Meanwhile, the accounts receivable turnover ratio in 2023 and 
+2022 is 6.40 times and 10.65 times, respectively. 
+CAPITAL STRUCTURE AND MANAGEMENT POLICY ON 
+CAPITAL STRUCTURE
+The capital structure is a combination of own capital (equity) and 
+debt (liabilities). A capital structure with a minimum cost of using 
+funds can affect an increase in the value of a company’s shares, but 
+does not increase earnings per share.
+The Company seeks to intensify its capital structure by optimizing 
+the minimum weighted average capital. The increase in the value of 
+the Company’s shares can be influenced by the capital structure with 
+a minimum cost of using funds. However, this still cannot increase 
+earnings per share.
+The main objective of the Company’s capital management is to ensure 
+that the Company maintains healthy capital ratios in order to support 
+the business and maximize shareholder value. The Company manages 
+the capital structure and makes adjustments to the capital structure 
+in light of changes in economic conditions. The capital structure 
+policy is also aimed at shareholders by determining the price of 
+products and services that are commensurate with the level of risk.
+As is generally accepted practice, the Company evaluates its capital 
+structure through an analysis of the debt-to-equity ratio, namely 
+dividing net debt to total capital.
+115
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+STRUKTUR MODAL PERSEROAN
+	
+	
+	
+	
+	
+	
+Berikut merupakan struktur permodalan Perseroan yang 
+menggambarkan rasio utang bersih terhadap modal:
+Struktur Permodalan Perusahaan dan Komposisinya 
+The Company’s Capital Structure and Its Composition
+ 
+2023
+2022
+Peningkatan (Penurunan)
+Increase (Decrease)
+ 
+Jumlah (Rp-Juta) 
+Total (IDR-Million)
+Komposisi
+Composition 
+(%)
+Jumlah
+(Rp-Juta)
+Total
+(IDR-Million)
+Komposisi
+Composition 
+(%)
+Nominal (Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage (%)
+ 
+(1)
+ 
+(2)
+ 
+(3=1-2)
+(3/2)
+Jumlah Pinjaman
+Total Loans
+6.380.460
+-
+6.737.272
+ -
+(356.811)
+(5,30%)
+Dikurangi: Kas dan Setara 
+Kas
+Subtracted by: Cash and 
+Cash Equivalents
+1.135.723
+-
+1.211.090
+ -
+(75.367)
+(6,22%)
+Utang Bersih
+Net Debt
+5.244.737
+43,10%
+5.507.192
+46,97%
+-
+-
+Jumlah Ekuitas
+Total Equity
+6.923.968
+56,90%
+6.238.591
+53,03%
+685.377
+10,99%
+Jumlah Permodalan 
+Total Capital
+12.168.705
+100,00%
+11.745.773
+100,00%
+-
+-
+Rasio Utang Bersih 
+terhadap Ekuitas
+Net Debt to Equity Ratio
+75,75%
+ -
+88,28%
+ -
+ -
+ (12,83%)
+Di tahun 2023, struktur modal Perseroan terdiri dari utang bersih 
+sebesar Rp5.244.737 juta dan ekuitas sebesar Rp6.923.968 juta. 
+Komposisi tersebut mengalami perubahan dibandingkan dengan 
+tahun 2022 dengan utang bersih sebesar Rp5.526.182 juta dan ekuitas 
+sebesar Rp6.238.591 juta, sejalan dengan kebijakan Perseroan yang 
+membuat penyesuaian terhadap struktur modal sehubungan dengan 
+perubahan kondisi ekonomi. 	
+	
+	
+	
+	
+COMPANY CAPITAL STRUCTURE
+The following is the Company’s capital structure which describes 
+the ratio of net debt to equity:
+In 2023, the Company’s capital structure consisted of net debt 
+at IDR 5,244,737 million and equity at IDR 6,923,968 million. This 
+composition experienced a change compared to 2022, with net debt 
+at IDR 5,526,182 million and equity at IDR 6,238,591 million, in line with 
+the Company’s policy to adjust the capital structure in response to 
+changes in economic conditions.
+116
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Di tahun 2023, tidak terdapat komitmen investasi barang modal 
+yang material.
+In 2023, there was no material investment commitment for capital 
+goods.
+Ikatan Material untuk Investasi Barang Modal 
+Material Commitment for Capital Goods Investment
+Realisasi Investasi Barang Modal 
+Realization of Capital Goods Investment
+The following represents the Company’s capital expenditure for the 
+years ended December 31, 2023, 2022 and 2021:
+The purpose of the investment in capital goods aims to develop 
+the company’s the company’s business in terms of backbone and 
+access, including its supporting facilities, data center, and passive 
+infrastructure development.
+Berikut merupakan belanja modal Perseroan untuk tahun yang 
+berakhir pada tanggal-tanggal 31 Desember 2023, 2022, dan 2021: 
+Keterangan
+Description
+2023
+(Rp - Juta)
+(IDR- Million)
+2022
+(Rp - Juta)
+(IDR- Million)
+2021
+(Rp - Juta)
+(IDR- Million)
+Tanah
+Land
+1.967
+14.342
+12.150
+Bangunan
+Building
+12.526
+18.323
+6.387
+Peralatan dan Perabot Kantor
+Office Supplies
+12.960
+13.480
+8.446
+Peralatan Telekomunikasi
+Telecommunication Equipment
+686.223
+773.466
+283.830
+Kendaraan
+Vehicle
+13.663
+10.618
+4.955
+Pekerjaan dalam Pelaksanaan
+Work in Progress
+155.332
+286.633
+698.853
+Jumlah
+Total
+882.671
+1.116.862
+1.014.620 
+Terkait tujuan investasi barang modal tersebut adalah untuk 
+pengembangan usaha perseroan terhadap backbone dan access 
+termasuk sarana pendukungnya, data center dan pengembangan 
+pasif infrastruktur.
+	
+117
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+1.	 Pada bulan Januari 2024, Perusahaan menerbitkan Sukuk Ijarah 
+Berkelanjutan II Moratelindo Tahap II Tahun 2024 sebesar 
+Rp279.630.000.000,- yang terdiri dari 2 seri Sukuk Ijarah. Jumlah 
+Sisa Imbalan Ijarah yang ditawarkan untuk Seri A adalah sebesar 
+Rp267.280.000.000,- dengan Cicilan Imbalan Ijarah sebesar 
+Rp26.728.000.000,- per tahun, berjangka waktu 3 (tiga) tahun 
+sejak Tanggal Emisi yang akan jatuh tempo pada tanggal 16 
+Januari 2027. Jumlah Sisa Imbalan Ijarah yang ditawarkan untuk 
+Seri B adalah sebesar Rp12.350.000.000,- dengan Cicilan Imbalan 
+Ijarah sebesar Rp1.358.500.000,- per tahun, berjangka waktu 5 
+(lima) tahun sejak Tanggal Emisi yang akan jatuh tempo pada 
+tanggal 16 Januari 2029. Sukuk tersebut tercatat di Bursa Efek 
+Indonesia, dengan PT Bank KB Bukopin Tbk sebagai wali amanat.
+     
+2.	 Pada tanggal 30 Januari 2024, Perseroan mengumumkan 
+peluncuran produk baru yang diberi nama Moratelindo Network 
+Interconnect and Content Autonomous (MoNICA). MoNICA adalah 
+layanan interkoneksi dari Perseroan yang menyediakan akses 
+Langsung antar Provider Telekomunikasi Internet baik sesama 
+anggota MoNICA dan Exchange Internasional seperti Equinix 
+Internet Exchange (EIE) dan SGIX di Singapore, JPIX di Jepang, 
+HKIX di Hongkong, Any2 Exchange di Amerika Serikat serta AMS-IX 
+di Eropa. MoNICA juga dilengkapi dengan Content Cache Global 
+(CDN) terkemuka dunia. 
+3.	 Pada Tanggal 23 Februari 2024, Perseroan menandatangani 
+Perjanjian Jual Beli Nomor 258A/PKS/MTI-IBS/II/2024 dengan 
+PT Inti Bangun Sejahtera Tbk (IBST), yang memiliki hubungan 
+Afiliasi sesuai dengan ketentuan Pasal 1 ayat 1 huruf (c), (e) dan 
+(f) jo Pasal 1 ayat 10 POJK 42/2020. Sehubungan dengan Jual 
+Beli Core dengan nilai transaksi sebesar Rp15.712.200.000,-.
+Perseroan telah melakukan Keterbukaan Informasi sehubungan 
+dengan transaksi afiliasi di atas kepada Otoritas Jasa Keuangan 
+dan regulator terkait, yang dapat diakses di situs web Perseroan.
+Informasi dan Fakta Material yang Terjadi Setelah 
+Tanggal Laporan Akuntan 
+Material Information and Facts That Occurred After the Date of 
+the Accountant’s Report
+1.	 In January 2024, the Company issued Moratelindo Shelf 
+Registration Ijarah Sukuk II Phase II Year 2024 amounting to 
+IDR 279,630,000,000 consisting of 2 series of Ijarah Sukuk. 
+The Remaining Ijarah Return offered for Series A amounted 
+to IDR 267,280,000,000 with an Ijarah Return installment of 
+IDR 26,728,000,000 per year, for a period of 3 (three) years 
+from the Issuance Date which will mature on January 16, 2027. 
+The Remaining Ijarah Return offered for Series B amounted 
+to IDR 12,350,000,000 with an Ijarah Return installment of 
+IDR 1,358,500,000 per year, for a period of 5 (five) years from 
+the Issuance Date which will mature on January 16, 2029. The 
+Sukuk is listed on the Indonesia Stock Exchange, with PT Bank 
+KB Bukopin Tbk as the trustee.
+ 
+2.	 On January 30, 2024, the Company announced the launch of 
+a new product named Moratelindo Network Interconnect and 
+Content Autonomous (MoNICA). MoNICA is an interconnection 
+service provided by the Company that offers direct access 
+between Internet Telecommunications Providers both among 
+MoNICA members and International Exchanges such as Equinix 
+Internet Exchange (EIE) and SGIX in Singapore, JPIX in Japan, 
+HKIX in Hong Kong, Any2 Exchange in the United States, and 
+MS-IX in Europe. MoNICA also comes with leading global Content 
+Cache Global (CDN).
+3.	 On February 23, 2024, the Company signed Sale and Purchase 
+Agreement Number 258A/PKS/MTI-IBS/II/2024 with PT Inti 
+Bangun Sejahtera Tbk (IBST), which has Affiliate relationships 
+as stipulated in Article 1 paragraph 1 sub-paragraph (c), (e), and 
+(f) jo Article 1 paragraph 10 of POJK 42/2020. In connection with 
+the Core Sale and Purchase with a transaction value of 
+IDR 15,712,200,000.
+The Company has made Information Disclosure in connection 
+with the above affiliated transactions to the Financial Services 
+Authority and related regulators, which can be accessed on the 
+Company’s website.
+118
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Perseroan memiliki tolak ukur untuk menghitung perbandingan target 
+dan realisasi yang dicapai setiap tahunnya yang berfungsi untuk 
+menilai kinerja Perseroan serta memberikan gambaran bagi Perseroan 
+untuk menetapkan strategi kinerja usaha di tahun mendatang. Selain 
+itu, Perusahaan juga memiliki komponen lainnya yang menunjang 
+perhitungan perbandingan target dan realisasi Perseroan.
+	
+	
+	
+	
+	
+	
+Adapun perbandingan antara target pada awal tahun dengan hasil 
+yang dicapai pada tahun 2023 adalah sebagai berikut:
+ 
+Indikator
+Indicator
+Realisasi Tahun 2023
+2023 Realizations
+Target pada Awal Tahun 2023
+Target at End of Year 2023
+Pendapatan
+Revenue
+Pendapatan menurun sebesar 7,34%
+Revenue decreased by 7.34%
+Perseroan menargetkan peningkatan pendapatan pada 2023 
+sebesar single digit sesuai dengan rata-rata industri
+The Company targeted revenue increase in 2023 of a single 
+digit according to industry average
+Laba
+Profit
+EBITDA dan laba bersih masing-masing naik 
+sebesar 1,79% dan 0,93%
+EBITDA and net profit increased by 1.79% and 
+0.93% respectively
+Target laba Perseroan untuk 2023 mengalami peningkatan 
+single digit dibanding tahun sebelumnya 
+The Company’s profit target for 2023 experienced a single digit 
+increase compared to the previous year
+Belanja Modal
+Capital Expenditure
+Belanja modal tercapai sebesar 79% dari target 
+yang ditentukan 
+Capital expenditure  reached 79% of the 
+determined target
+Belanja Modal Perseroan di proyeksikan meningkat single digit 
+dibanding tahun sebelumnya
+The Company’s Capital Expenditure was projected to increase 
+by a single digit compared to the previous year
+Pencapaian Target 2023 
+Target Achievement in 2023
+The Company has benchmarks to calculate the comparison of 
+targets and realization achieved each year which serves to assess the 
+Company’s performance and provides an overview for the Company 
+to set a business performance strategy in the coming year. In addition, 
+the Company also has other components that support the calculation 
+of the Company’s target comparison and realization.
+The comparison between target at the beginning of the year and 
+result of achievement in 2023 is as follows:
+119
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Customer Gathering Oxygen.id di Jakarta
+Customer Gathering Oxygen.id in Jakarta
+120
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Pada tahun 2024, tujuan utama pemerintah adalah menjaga stabilitas 
+perekonomian secara keseluruhan dan menciptakan suasana pemilu 
+yang mendukung. Selain itu, mereka juga akan terus memanfaatkan 
+anggaran negara untuk mengendalikan inflasi. Bank Indonesia juga 
+berupaya menjaga stabilitas mata uang Rupiah. 
+Pada musim pemilu, konsumsi domestik cenderung meningkat karena 
+belanja kampanye pemerintah, yang pada akhirnya meningkatkan 
+belanja konsumen. Selain itu, seiring dengan berakhirnya masa 
+jabatan pemerintah, biasanya terjadi lonjakan pendanaan proyek 
+infrastruktur. Tahun ini, pemerintah telah menyisihkan Rp76,6 triliun 
+untuk pengeluaran terkait pemilu.
+Pada tahun 2024, antisipasi pengeluaran untuk pemilu diharapkan 
+dapat membantu melawan perlambatan ekonomi global. Kementerian 
+Keuangan tetap yakin bahwa Indonesia akan mencapai pertumbuhan 
+ekonomi sebesar 5,1% pada tahun 2023 dan pertumbuhan sebesar 
+5,2% pada tahun 20243. 
+Diperkirakan sekitar Rp140 triliun akan disalurkan selama masa 
+kampanye, yang berlangsung dari 28 November 2023 hingga 
+10 Februari 2024. Jumlah tersebut setara dengan 0,8% PDB dan 
+berdampak besar pada berbagai sektor seperti perdagangan besar 
+dan eceran, informasi dan komunikasi, makanan dan minuman, 
+keuangan, transportasi, dan usaha mikro4. 
+Selain itu, uang yang diedarkan selama kampanye diharapkan dapat 
+meningkatkan konsumsi dan mendorong pertumbuhan ekonomi di 
+atas 5% pada kuartal terakhir tahun 20235.	
+Bersama dengan pemilu tahun 2024, sektor telekomunikasi siap 
+mengalami pertumbuhan substansial, yang tidak hanya menunjukan 
+kemakmuran ekonomi bagi negara namun memberikan keuntungan 
+besar bagi industri secara keseluruhan. Dengan semakin dekatnya 
+musim pemilu, diperkirakan akan terjadi peningkatan permintaan 
+terhadap layanan data, melebihi penggunaan telekomunikasi 
+tradisional dan SMS. Target ambisius pemerintah Indonesia untuk 
+mencapai cakupan 5G bagi 90% populasi pada tahun 2024 menuntut 
+ekspansi jaringan telekomunikasi yang luas, menyajikan peluang bagi 
+perusahaan-perusahaan yang terlibat dalam menara telekomunikasi 
+dan layanan serat optik, termasuk Perusahaan kami.
+Pada industri Telekomunikasi sendiri, lalu lintas data pada Q3 
+2023 mengalami peningkatan signifikan sebesar 21% dari tahun ke 
+tahun, didorong oleh meningkatnya permintaan data di Indonesia. 
+Meningkatnya penggunaan ponsel cerdas, keterlibatan media sosial, 
+dan platform hiburan OTT seperti Netflix, Disney dan Vidio dapat 
+dikaitkan dengan tingginya konsumsi data di negara ini6.
+3 Media Keuangan KEMENKEU, (https://mediakeuangan.kemenkeu.go.id/), diakses Januari 2024
+4 IBID
+5 IBID
+6 Dilansir dari OCBC Market Outlook 2024, Slide 54, Diakses Februari 2024. 
+In 2024, the government’s main goal is to maintain overall economic 
+stability and create a favorable election environment. Apart from 
+that, they will also continue to utilize the state budget to control 
+inflation. Bank Indonesia is also trying to maintain the stability of 
+the Rupiah currency.
+During the election season, domestic consumption tends to increase 
+due to government campaign spending, which in turn increases 
+consumer spending. In addition, as the government’s term of office 
+ends, there is usually a surge in funding for infrastructure projects. 
+This year, the government has set aside IDR 76.6 trillion for election-
+related expenses.
+In 2024, anticipated spending on election is expected to help counter 
+the global economic slowdown. The Ministry of Finance remains 
+confident that Indonesia will achieve economic growth of 5.1% in 
+2023 and growth of 5.2% in 2024.
+It is estimated that around IDR 140 trillion will be distributed during the 
+campaign period, which run from November 28, 2023 to  February 10, 
+2024. This amount is equivalent to 0.8% of GDP and has a major impact 
+on various sectors such as wholesale and retail trade, information 
+and communications, food and beverages, finance, transportation 
+and micro-enterprises.
+In addition, the money circulated during the campaign is expected 
+to increase consumption and encourage economic growth above 
+5% in the last quarter of 2023.
+Along with the 2024 election, the telecommunications sector stands 
+at the brink of substantial expansion, heralding not just economic 
+prosperity for the nation but also profound advantages for the industry 
+at large. With the electoral season looming, there’s a projected surge 
+in demand for data services, surpassing traditional telecom and 
+SMS usage. The government’s ambitious aim to blanket 90% of the 
+populace with 5G coverage by 2024 underscores the urgent need 
+for widespread network expansion, opening doors for companies 
+specializing in telecom towers and fiber optic services, including 
+our Company.
+In the telecommunications industry itself, data traffic in Q3 2023 
+experienced a significant increase of 21% from year to year, driven 
+by increasing demand for data in Indonesia. The increasing use of 
+smartphones, social media engagement and OTT entertainment 
+platforms such as Netflix, Disney and Vidio can be attributed to the 
+high data consumption in the country.
+Prospek Usaha dan Proyeksi Kinerja 2024 
+Business Prospects and Performance Projections for 2024
+121
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Jumlah pelanggan Seluler di Indonesia tetap stabil, menunjukkan 
+tingkat penetrasi internet yang tinggi (78% berdasarkan survei APJII). 
+Dengan 351 juta pelanggan seluler pada 9 bulan 2023, jumlah tersebut 
+melebihi jumlah penduduk Indonesia (279 juta). Seiring dengan upaya 
+pemerintah untuk meningkatkan penetrasi internet di daerah-daerah 
+terpencil, terdapat potensi pertumbuhan lebih lanjut dalam jumlah 
+pelanggan Seluler7.
+Mengingat usaha yang dijalankannya masih sangat menjanjikan dan 
+memungkinkan untuk terus berkembang, Perseroan berkomitmen 
+untuk terus meningkatkan kinerja dan meningkatkan layanan untuk 
+dapat menjangkau lebih banyak lagi pasar di Indonesia. Sebagai 
+negara dengan populasi terbesar keempat di dunia dengan lebih 
+dari 250 juta jiwa, Indonesia mempunyai posisi strategis untuk terus 
+berkembang dan Perseroan juga dapat menyikapinya secara gesit 
+dengan terus meningkatkan produk dan layanan unggul untuk 
+memenuhi permintaan dan kebutuhan pasar. 
+Strategi yang dijalankan Perseroan untuk mencapai target di tahun 
+2024 adalah branding product oxygen.id seperti pengadaan event 
+yang melibatkan kegiatan masyarakat, membuka booth di acara-
+acara exhibition, sponsorship, dan menjadi media partner, sejalan 
+dengan marketing expense yang naik dan memaksimalkan utilisasi 
+jaringan internal yang dimiliki perusahaan untuk memberikan layanan 
+ke pelanggan. 
+Selain target secara operasional, Perseroan juga mempunyai beberapa 
+target secara keuangan untuk 2024, sebagai berikut:
+Indikator
+Indicator
+Target pada Awal Tahun 2024
+Target at the Beginning of the Year
+Pendapatan
+Revenue
+Perseroan menargetkan peningkatan pendapatan pada 2024 sebesar single digit sesuai dengan rata-rata industri
+The Company targets a revenue increase in 2024 of a single digit according to industry average
+Laba 
+Profit
+Target Laba Perseroan untuk 2024mengalami peningkatan single digit dibanding tahun sebelumnya
+The Company’s profit target for 2024 experienced a single digit increase compared to the previous year
+Belanja Modal
+Capital Expenditure
+Belanja Modal Perseroan di proyeksikan meningkat single digit dibanding tahun sebelumnya
+The Company’s Capital Expenditure is projected to increase by a single digit compared to the previous year
+7 Dilansir dari Survey Penetrasi dan Perilaku Internet, APJII, Slide 8-10, Diakses Februari 2024. 
+The number of Cellular subscribers in Indonesia remains stable, 
+indicating a high internet penetration rate (78% based on APJII survey). 
+With 351 million cellular subscribers in 9 months 2023, this number 
+exceeds the population of Indonesia (279 million). As the government 
+attempts to increase internet penetration in remote areas, there is 
+potential for further growth in the number of Mobile subscribers.
+Considering that the business it is running is still very promising and 
+allows it to continue to grow, the Company is committed to continuing 
+to improve performance and improve services to be able to reach 
+more markets in Indonesia. As a country with the fourth largest 
+population in the world with more than 250 million people, Indonesia 
+has a strategic position to continue to grow and the Company can 
+also respond nimbly by continuing to improve superior products and 
+services to meet market demands and needs.
+The strategy pursued by the Company to achieve its targets in 
+2024 involves branding the product oxygen.id through event 
+procurement involving community activities, opening booths at 
+exhibitions, sponsorships, and becoming a media partner. This aligns 
+with increased marketing expenses and maximizing the utilization 
+of the company’s internal network to deliver services to customers.
+Aside from operational targets, the Company has a number of financial 
+targets for 2024, as follows: 
+122
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Perseroan mengembangkan strategi pemasarannya dengan berfokus 
+beberapa aspek, yaitu:
+1.	 Meningkatkan kapasitas dan pengembangan jaringan untuk 
+memenuhi permintaan pelanggan sebagai bagian dari upaya 
+pengembangan pasar, terutama dalam upaya melakukan penetrasi 
+ke pasar konsumer FTTH (Retail) di berbagai kota
+2.	 Memperluas jaringan akses sampai ke area pelanggan potensial 
+terutama Consumer Market FTTH dan Corporate Market yaitu 
+Small Medium Enterprise dan High Rise Building.
+3.	 Berkonsentrasi pada Peningkatan penjualan (Upselling) terutama 
+di jaringan yang sudah ada. Khusus untuk pasar konsumer 
+FTTH melakukan kegiatan promosi iklan di media massa antara 
+lain melalui radio, media sosial, media daring dan media cetak 
+dengan tujuan meningkatkan brand awareness Oxygen.id 
+secara menyeluruh. Selain itu, Perseroan juga menawarkan 
+promosi yang melibatkan paket gabungan (bundling) layanan 
+internet dengan televisi kabel serta layanan tambahan lainnya. 
+Perseroan juga secara berkala turut berpartisipasi dalam kegiatan 
+pameran teknologi informasi dan telekomunikasi nasional untuk 
+memperkenalkan produk kepada konsumen.
+	
+	
+	
+	
+	
+	
+Perseroan melakukan upaya pemasaran dan penjualan dengan 
+mengimplementasikan prosedur terstandar yang diterapkan 
+berdasarkan wilayah. Upaya ini pada umumnya membutuhkan waktu 
+satu tahun untuk mencapai titik optimal. Adapun tim pemasaran dan 
+penjualan internal Perseroan berlokasi di JABODETABEK, Serang, 
+Bandung, Cirebon, Semarang, Surabaya, Bali, Medan, Palembang, 
+Jambi, Pangkal Pinang, Pontianak dan Kupang. Perseroan juga 
+mengalihkan sebagian upaya pemasaran, penjualan, dan distribusi 
+layanan melalui beberapa segmen pasar. 
+	
+	
+	
+	
+Sistem penjualan dan distribusi Perseroan berdasarkan segmen 
+adalah sebagai berikut:
+	
+	
+	
+	
+	
+	
+1.	 Segmen Telco dan Segmen Wholesales: Sistem penjualan 
+di segmen ini dilakukan melalui program penjualan berbasis 
+B2B. Pangsa pasar tersebut merupakan perusahaan operator 
+jaringan telekomunikasi yang juga membutuhkan jaringan 
+backbone, internet dan data center dalam layanannya untuk 
+pelanggannya.	 	
+	
+2.	 Segmen Enterprise: Sistem penjualan di segmen ini adalah 
+merupakan penjualan langsung ke pangsa pasar korporasi baik 
+perusahaan swasta maupun pemerintah. Segmen Enterprise 
+dibagi menjadi 6 unit segmen yaitu  GBO yang mencakup 
+pelanggan kategori Pemerintahan Pusat/Daerah, Lembaga 
+Negara, BUMN, BUMD dan Perusahaan Minyak (swasta dan 
+BUMN) dengan produk yang ditawarkan antara lain Internet 
+dedicated, Leased line/Metro, Data center (Collocation dan 
+DRC), High Rise Building yaitu pelanggan perusahaan yang 
+berada di area gedung bertingkat dengan menawarkan produk 
+The company is developing its marketing strategy with a focus on 
+several aspects:
+1.	 Increasing capacity and expanding networks to meet customer 
+demand as part of market development efforts, especially in 
+penetrating the FTTH (Retail) consumer market in various cities.
+2.	 Expanding access networks to reach potential customers, 
+especially in the Consumer Market FTTH and Corporate Market, 
+including Small Medium Enterprises and High Rise Buildings.
+3.	 Concentrating on increasing sales (Upselling), especially in 
+existing networks. Specifically for the FTTH consumer market, 
+advertising promotions are carried out through mass media such 
+as radio, social media, online media, and print media to increase 
+overall brand awareness of Oxygen.id. Additionally, the company 
+offers promotions involving bundled packages combining internet 
+services with cable television and other additional services. The 
+company also periodically participates in national information 
+technology and telecommunications exhibitions to introduce 
+products to consumers.
+The company conducts marketing and sales efforts by implementing 
+standardized procedures based on regions. These efforts generally 
+take one year to reach optimal points. The internal marketing and 
+sales team of the Company are located in JABODETABEK, Serang, 
+Bandung, Cirebon, Semarang, Surabaya, Bali, Medan, Palembang, 
+Jambi, Pangkal Pinang, Pontianak and Kupang. The Company also 
+outsources some marketing, sales, and service distribution efforts 
+through several market segments.
+The Company’s sales and distribution system based on segments 
+is as follows:
+1.	 Telco Segment and Wholesale Segment: Sales in this segment 
+are conducted through B2B sales programs. This market consists 
+of telecommunications network operator companies that also 
+require backbone networks, internet and data center services 
+for their customers.
+2.	 Enterprise Segment: Sales in this segment involve direct sales 
+to the corporate market share, both private and government 
+companies. The Enterprise segment is divided into 6 segment 
+units, namely GBO which includes customers in the Central / 
+Regional Government category, State Institutions, BUMN, BUMD 
+and Oil Companies (private and BUMN) with products offered 
+including Internet dedicated, Leased line / Metro, Data center 
+(Collocation and DRC), High Rise Building, namely corporate 
+customers located in high rise building areas by offering Oxygen 
+products. id Soho, Internet dedicated, Data center, Leased Line / 
+Aspek Pemasaran
+Marketing Aspect
+123
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Oxygen.id Soho, Internet dedicated, Data center, Leased Line/
+Metro, Regional yang mencakup Perusahaan-Perusahaan 
+swasta, Universitas dan lembaga Pendidikan, Pemda dengan 
+dinas/OPD, Rumah Sakit Swasta/Pemerintah, BUMN/BUMD 
+dan juga SME dengan penawaran produk Internet Dedicated, 
+Leased Line/Metro dan Data Center, Education yaitu segmen 
+pelanggan khusus untuk sektor pendidikan, lembaga pendidikan, 
+sekolah, akademi universitas yang menawarkan produk Internet 
+dedicated, Leased line/Metro, Datacenter, Wi-Fi, jejaring Riset 
+dan Edukasi Indonesia (Indonesia Research and Education 
+Networks, IDREN), Media-Hospitality yang merupakan segmen 
+pelanggan untuk Kawasan Industri, Rumah Sakit dan Perhotelan 
+dengan penawaran Internet dedicated, Leased line/Metro, Data 
+center, IPTV, Wi-Fi, serta Palapa Ring Nasional  dan SME (Small 
+Medium Enterprise) yaitu pelanggan kategori Pemerintahan 
+Daerah, Lembaga Negara, BUMN, BUMD, Perusahaan Swasta, 
+UMKM, Hotel, Sektor Pendidikan, Sektor Kesehatan, Perbankan 
+dengan menawarkan produk Internet dedicated, Leased line/
+Metro, Data center (Collocation dan DRC), Oxygen.id.
+3.	 Segmen Retail: Sistem penjualan di segmen ini  berfokus pada 
+pangsa pasar konsumen yang mencakup residensial dan UMKM 
+(Retail/FTTH) dan penjualannya melalui program Direct Selling 
+dan Telesales. Sedangkan promosinya menggunakan iklan media 
+sosial, brosur, media massa lainnya seperti radio. Produk yang 
+ditawarkan adalah  beberapa paket internet yang mencakup 
+penggabungan (bundling) produk lain seperti TV dll. 
+4.	 Segmen Lainnya merupakan:
+a.	
+Pendapatan jasa konsesi atas proyek Palapa Ring dimana 
+Perseroan hanya memberikan layanan berdasarkan kontrak 
+dengan BAKTI selama periode kontrak kerjasama.	
+b.	
+Pendapatan konstruksi dimana program penjualan 
+berdasarkan order pembelian dari pelanggan. 	
+c.	
+Pendapatan usaha dari penjualan VSAT melalui program 
+penjualan berkesinambungan yang disesuaikan secara 
+personal serta program penjualan berbasis B2B untuk 
+area yang tidak terjangkau oleh fiber optic.	
+	
+	
+	
+Metro, Regional which includes private companies, universities 
+and educational institutions, local governments with offices / 
+DPOs, private / government hospitals, BUMN / BUMD and also 
+SMEs by offering Internet Dedicated, Leased Line / Metro and 
+Data Center products, Education is a special customer segment 
+for the education sector, educational institutions, schools, 
+university academies offering Internet dedicated, Leased line 
+/ Metro, Datacenter, Wi-Fi, Indonesia Research and Education 
+Networks, IDREN), Media-Hospitality which is a customer segment 
+for Industrial Estates, Hospitals and Hotels offering dedicated 
+Internet, Leased line/Metro, Datacenter, IPTV, Wi-Fi, as well as 
+National Palapa Ring and SME (Small Medium Enterprise) which is 
+a customer category for Regional Government, State Institutions, 
+BUMN, BUMD, Private Companies, MSMEs, Hotels, Education 
+Sector, Health Sector, Banking by offering dedicated Internet, 
+Leased line/Metro, Data center (Collocation and DRC), Oxygen. Id.
+3.	 Retail Segment: Sales in this segment focus on the consumer 
+market that covers residential and MSMEs (Retail/FTTH) and 
+are carried out through Direct Selling and Telesales programs. 
+Meanwhile, promotions utilize social media advertising, brochures, 
+and other mass media such as radio. The products offered include 
+various internet packages that incorporate bundling with other 
+products such as TV, etc.
+4.	 The other segment is:
+a.	
+Revenue from service concessions for the Palapa Ring 
+project where the Company only provides services based 
+on a contract with BAKTI during the collaboration contract 
+period.
+b.	
+Construction revenue where sales programs are based on 
+purchase orders from customers.
+c.	
+Business revenue from VSAT sales through personalized 
+continuous sales programs and B2B-based sales programs 
+for areas not covered by fiber optic.
+124
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Berdasarkan Anggaran Dasar Perseroan, Kebijakan mengenai 
+Penggunaan Dana dan Pembagian Dividen diatur bahwa :
+1.	 Laba bersih Perseroan dalam suatu tahun buku seperti tercantum 
+dalam neraca dan perhitungan laba rugi yang telah disahkan 
+oleh RUPS tahunan dan merupakan saldo laba yang positif, 
+dibagi menurut cara penggunaannya yang ditentukan oleh 
+RUPS tersebut.
+2.	 Dividen-dividen hanya dapat dibayarkan berdasarkan dan sesuai 
+keputusan yang diambil dalam RUPS, dalam keputusan mana juga 
+harus ditentukan waktu dan cara pembayaran dividen dengan 
+memperhatikan peraturan perundang-undangan yang berlaku 
+di bidang pasar modal.
+PEMBAGIAN DIVIDEN
+Tahun Buku 2023
+Berdasarkan RUPS Tahunan tanggal 15 Juni 2023, Perseroan 
+memutuskan untuk tidak membagikan dividen untuk tahun 2023. 
+Adapun penjelasan tersebut tertuang dalam keputusan RUPS Tahunan 
+sesuai Akta Berita Acara RUPST Perseroan No. 95 tertanggal 15 Juni 
+2023 dibuat dihadapan Notaris Emmyra Fauzia Kariana S.H., M.Kn, 
+Notaris di Jakarta, Para Pemegang Saham :
+1.	 Menyetujui Laba Bersih Perseroan tahun buku 2022 yang 
+berakhir pada 31 Desember 2022 sebesar Rp672.897.955.795,- 
+dan menyetujui untuk tidak membagikan Dividen untuk tahun 
+buku yang berakhir pada tanggal 31 Desember 2022.
+2.	 Laba Bersih yang diperoleh Perseroan selama tahun buku 2022 
+akan dipergunakan sebagai berikut:
+a.	
+Disisihkan sebesar Rp1.000.000.000,- untuk Dana 
+Cadangan sebagaimana dimaksud dalam Pasal 70 ayat (1) 
+Undang-Undang No. 40 Tahun 2007 tentang Perseroan 
+Terbatas; dan
+b.	
+Sisa Laba tahun buku 2022 setelah dikurangi Dana 
+Cadangan yaitu sebesar Rp671.897.955.795,- akan dicatat 
+sebagai Laba Ditahan Perseroan yang penggunaannya 
+untuk ekspansi pengembangan jaringan telekomunikasi.
+Tahun Buku 2022
+Berdasarkan RUPS Tahunan tanggal 13 April 2022, Perseroan 
+memutuskan untuk tidak membagikan dividen untuk tahun 2022. 
+Adapun penjelasan tersebut tertuang dalam keputusan RUPS Tahunan 
+sesuai Akta Pernyataan Keputusan Pemegang Saham Perseroan No. 67 
+tertanggal 13 April 2022 dibuat dihadapan Notaris Aulia Taufani S.H., 
+1.	 Menyetujui laba bersih Perseroan tahun buku 2021 yang 
+berakhir pada 31 Desember 2021 sebesar Rp257.540.915.867,- 
+dan menyetujui untuk tidak membagikan dividen untuk tahun 
+buku yang berakhir pada tanggal 31 Desember 2021.
+Based on the Company’s Articles of Association, the Policy regarding 
+the Use of Funds and Dividend Distribution is regulated as follows:
+1.	 The net profit of the Company in a fiscal year as stated in the 
+balance sheet and profit and loss calculation approved by the 
+annual GMS and is a positive balance of profit, divided according 
+to its designated use by the GMS.
+2.	 Dividends can only be paid based on and in accordance with 
+the decisions taken in the GMS, in which the time and method of 
+dividend payment must also be determined, taking into account 
+the prevailing laws and regulations in the capital market sector.
+DIVIDEND DISTRIBUTION
+Fiscal Year 2023
+Based on the Annual GMS dated June 15, 2023, the Company decided 
+not to distribute dividends for the year 2023. The explanation is 
+stated in the decision of the Annual GMS according to the Minutes 
+of the Company’s Extraordinary GMS No. 95 dated June 15, 2023, 
+made before Notary Emmyra Fauzia Kariana S.H., M.Kn, a Notary in 
+Jakarta, attended by Shareholders:
+1.	 Approve the Net Profit of the Company for the fiscal year 2022 
+ending on December 31, 2022, amount to IDR 672,897,955,795, 
+and agree not to distribute Dividends for the fiscal year ending 
+on December 31, 2022.
+2.	 The Net Profit obtained by the Company during the fiscal year 
+2022 will be utilized as follows:
+a.	
+Set aside IDR 1,000,000,000 for Reserve Funds as referred 
+to in Article 70 paragraph (1) of Law No. 40 of 2007 
+concerning Limited Liability Companies; and
+b.	
+The remaining profit for the fiscal year 2022 after deducting 
+the Reserve Fund, amount to IDR 671,897,955,795, will be 
+recorded as Retained Earnings of the Company, which 
+will be used for the expansion and development of the 
+telecommunication network.
+Fiscal Year 2022
+Based on the Annual GMS dated April 13, 2022, the Company decided 
+not to distribute dividends for the year 2022. The explanation 
+regarding dividend distribution is stated in the decision of the Annual 
+GMS according to the Deed of Shareholders’ Decision No. 67 dated 
+April 13, 2022, made before Notary Aulia Taufani S.H., 
+1.	 Approving the net profit of the Company for the fiscal year 
+2021, which ended on December 31, 2021, amounting to IDR 
+257,540,915,867, and agreeing not to distribute dividends for the 
+fiscal year ending on December 31, 2021.
+Informasi Dividen
+Dividends Information
+125
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+2.	 Laba bersih yang diperoleh Perseroan selama tahun buku 2021 
+akan dipergunakan sebagai berikut:
+a.	
+Disisihkan sebesar Rp1.000.000,- untuk dana cadangan 
+sebagaimana dimaksud dalam Pasal 70 ayat (1) Undang-
+Undang No. 40 tahun 2007 tentang Perseroan Terbatas;
+b.	
+Sisa laba tahun buku 2021 setelah dikurangi cadangan 
+yaitu sebesar Rp256.540.915.867,- akan dicatat sebagai laba 
+ditahan Perseroan yang belum ditentukan penggunaannya. 
+2.	 The net profit obtained by the Company during the fiscal year 
+2021 will be utilized as follows:
+a.	
+Reserved in the amount of IDR 1,000,000,000 for reserve 
+funds as referred to in Article 70 paragraph (1) of Law No. 
+40 of 2007 concerning Limited Liability Companies;
+b.	
+The remaining net profit for the fiscal year 2021 after 
+deducting reserves amounted to IDR 256,540,915,867 will 
+be recorded as retained earnings of the Company whose 
+use has not been determined.
+126
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Sebagai bentuk kepatuhan terhadap Peraturan Otoritas Jasa Keuangan 
+No. 30/POJK.05/2015 tentang Laporan Realisasi Penggunaan Dana 
+Hasil Penawaran Umum, maka Perseroan menyampaikan realisasi 
+penggunaan dana hasil penawaran umum per 31 Desember 2023 
+yang telah dilaporkan kepada Otoritas Jasa Keuangan melalui surat 
+Perseroan No. 033/MTI/PD-DIR/I/2024 pada tanggal 15 Januari 2024. 
+Rincian terkait realisasi penggunaan dana hasil Penawaran Umum 
+Perdana Saham PT Mora Telematika Indonesia Tbk per 31 Desember 
+2023 sebagai berikut:
+Jenis Penawaran 
+Umum
+Types of Public 
+Offerings
+Tanggal 
+Efektif
+Effective Date
+Nilai Realisasi Hasil Penawaran Umum (Rp)
+Realized Value of Public Offering Results (IDR)
+Jumlah Hasil Penawaran 
+Umum
+Amount of Public Offering 
+Proceeds
+Biaya Penawaran 
+Umum
+Cost of Public 
+Offering
+Hasil Bersih
+Net Realization
+Penawaran Umum 
+Perdana Saham
+Initial Public 
+Offering of Shares
+8 Agustus 
+2022
+August 8, 
+2022
+1.000.083.862.800
+18.771.788.851
+981.312.073. 949
+Realisasi Penggunaan Dana Hasil Penawaran Umum 
+Perdana Saham
+Realization of Use of Funds from Initial Public Offering
+As a form of compliance with the Financial Services Authority 
+Regulation No. 30/POJK.05/2015 regarding the Report on the 
+Realization of the Use of Proceeds from Public Offerings, the Company 
+hereby submits the realization of the use of proceeds from the public 
+offering as of December 31, 2023, which has been reported to the 
+Financial Services Authority through the Company’s letter No. 033/
+MTI/PD-DIR/I/2024 dated January 15, 2024. The details regarding the 
+realization of the use of funds from the Initial Public Offering of PT 
+Mora Telematika Indonesia Tbk as of December 31, 2023, are as follows:
+127
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Rencana Penggunaan Dana (Rp)
+Plan for Use of Proceed (IDR)
+Realisasi Penggunan Dana (Rp)
+Realized Use of Fund (IDR)
+Sisa Hasil 
+Penawaran 
+Umum (Rp)
+Remaining 
+Funds from 
+Public Offering 
+(IDR)
+Investasi 85% 
+85% Investment
+Modal Kerja 15% 
+15% Working Capital
+Total
+Investasi 85% 
+85% Investment
+Modal Kerja 15%
+15% Working Capital
+Total
+834.115.262.857
+147.196.811.092
+981.312.073.949
+834.115.262.857
+147.196.811.092
+981.312.073.949
+(0)
+Open Booth Oxygen.id di Jakarta
+Open Booth Oxygen.id in Jakarta
+128
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Sebagai bentuk kepatuhan terhadap Peraturan Otoritas Jasa Keuangan 
+No. 30/POJK.05/2015 tentang Laporan Realisasi Penggunaan Dana 
+Hasil Penawaran Umum, maka Perseroan menyampaikan realisasi 
+penggunaan dana Sukuk Ijarah Berkelanjutan II Moratelindo Tahap 
+I Tahun 2023 per 31 Desember 2023 yang telah dilaporkan kepada 
+Otoritas Jasa Keuangan melalui surat Perseroan No. 033/MTI/PD-
+DIR/I/2024 pada tanggal 15 Januari 2024. Rincian terkait realisasi 
+penggunaan dana Sukuk Ijarah Berkelanjutan II Moratelindo Tahap 
+I Tahun 2023 sebagai berikut:
+Jenis Penawaran 
+Umum
+Types of Public 
+Offerings
+Tanggal 
+Efektif
+Effective 
+Date
+Nilai Realisasi Hasil Penawaran Umum (Rp)
+Realized Value of Public Offering Results (IDR)
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Jumlah Hasil Penawaran 
+Umum
+Amount of Public Offering 
+Proceeds
+Biaya Penawaran 
+Umum
+Public Offering Fees
+Hasil Bersih
+Net Profit
+Refinancing 36%
+Investasi 57%
+57% Investment
+S u k u k  
+I j a r a h 
+Berkelanjutan II 
+Moratelindo Tahap 
+I Tahun 2023 Seri A 
+dan Seri B
+Moratelindo Shelf 
+Registration Ijarah 
+Sukuk II Phase I 
+Year 2023 Series A 
+and Series B
+27 Juni 
+2023
+June 27, 
+2023
+488.550.000.000
+7.538.567.356
+481.011.432.644
+173. 164.115.752
+274.176.516.607
+Realisasi Penggunaan Dana Penawaran Umum 
+Berkelanjutan Sukuk Ijarah
+Realization of Use of Funds from Shelf Registration Ijarah Sukuk
+In compliance with the Financial Services Authority Regulation No. 
+30/POJK.05/2015 regarding the Report of Utilization Realization of 
+Proceeds from Public Offering, the Company submits the realization 
+of the use of funds from Moratelindo Shelf Registration Ijarah Sukuk 
+II as of December 31, 2023, which has been reported to the Financial 
+Services Authority through the Company’s letter No. 033/MTI/
+PD-DIR/I/2024 dated January 15, 2024. The details regarding the 
+realization of the use of funds from Moratelindo Shelf Registration 
+Ijarah Sukuk II Phase I Year 2023 are as follows:
+129
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Realisasi Penggunan Dana (Rp)
+Realization of Fund Utilization (IDR)
+Sisa Hasil 
+Penawaran 
+Umum (Rp)
+Remaining 
+Funds from 
+Public Offering 
+(IDR)
+Modal Kerja 7%
+7% Working Capital
+Total
+Refinancing 36%
+Investasi 57%
+57% Investment
+Modal Kerja 7%
+7% Working Capital
+Total
+33.670.800.285
+481.011.432.644
+173.164.115.752
+274.176.516.607
+33.670.800.285
+481.011.432.644
+ -
+Nusantara Data Center di Batam
+Nusantara Data Center in Batam
+130
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Pada tahun 2023, tidak terdapat Informasi Material Mengenai Investasi, 
+Ekspansi, Divestasi, Penggabungan Usaha, Akuisisi, Penawaran Umum 
+Saham Perdana, dan/atau Restrukturisasi Utang/Modal.
+TRANSAKSI MATERIAL YANG MENGANDUNG 
+BENTURAN KEPENTINGAN 
+Di sepanjang tahun 2023 tidak terdapat Transaksi Material yang 
+Mengandung Benturan Kepentingan sebagaimana dimaksud dalam 
+POJK No 17/POJK.04/2020 tentang Transaksi Material dan Perubahan 
+Kegiatan Usaha.
+TRANSAKSI DENGAN PIHAK AFILIASI
+Transaksi Afiliasi Tahun Buku 2023
+Adapun di sepanjang tahun 2023 terdapat transaksi dengan pihak 
+afiliasi/ pihak berelasi sebagaimana dimaksud dalam POJK No 42/
+POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan 
+Kepentingan dan telah Perseroan ungkapkan dalam Keterbukaan 
+Informasi Perseroan yang dapat diakses melalui website Perseroan 
+dan website Bursa Efek Indonesia, sebagai berikut:
+1.	 Pada Tanggal 21 September 2023, Perseroan menandatangani 
+Perjanjian Kerjasama Nomor 263A/PKS/MTI-JMP/IX/2023 dengan 
+PT Jejaring Mitra Persada (JMP), yang memiliki hubungan Afiliasi 
+sesuai dengan ketentuan Pasal 1 ayat 1 huruf (f) jo Pasal 1 ayat 
+10 POJK 42/2020. Perjanjian Kerjasama Tersebut dilaksanakan 
+sehubungan dengan Pembangunan Sistem Komunikasi Kabel Laut 
+Rising-8 Jaluar Jakarta-Singapura (Changi 1A), atau nilai proyek 
+yang berupa penyertaan yang dilakukan Perseroan sejumlah 
+Rp629.104.004.553,- atau sebesar 51% dari keseluruhan atau 
+jumlah nilai proyek. 
+Informasi Material Mengenai Investasi, Ekspansi, 
+Divestasi, Penggabungan Usaha, Akuisisi, 
+Penawaran Umum Saham Perdana, dan/atau 
+Restrukturisasi Utang/Modal
+Material Information Regarding Investment, Expansion, 
+Divestment, Merger, Acquisition and/or Debt/Capital 
+Restructuring
+Informasi Transaksi Material yang Mengandung 
+Benturan Kepentingan dan/atau Transaksi dengan 
+Pihak Afiliasi
+Information on Material Transactions Containing Conflicts of 
+Interest and/or Transactions with Affiliated Parties
+In 2023, the was no Material Information Regarding Investment, 
+Expansion, Divestment, Merger, Acquisition and/or Debt/Capital 
+Restructuring.
+MATERIAL TRANSACTIONS INVOLVING CONFLICT OF 
+INTEREST
+Throughout the year 2023, there were no Material Transactions 
+Involving Conflict of Interest as referred to in POJK No. 17/
+POJK.04/2020 concerning Material Transactions and Changes in 
+Business Activities.
+TRANSACTIONS WITH AFFILIATED PARTIES
+Affiliated Transactions for Fiscal Year 2023
+During the year 2023, there were transactions with affiliated parties 
+as referred to in POJK No. 42/POJK.04/2020 concerning Affiliated 
+Transactions and Conflict of Interest Transactions, which the Company 
+has disclosed in the Company’s Disclosure Information accessible 
+through the Company’s website and the Indonesia Stock Exchange 
+website, as follows:
+1.	 1. On September 21, 2023, the Company signed Cooperation 
+Agreement Number 263A/PKS/MTI-JMP/IX/2023 with PT Jejaring 
+Mitra Persada (JMP), which has an Affiliation relationship as 
+defined in Article 1 paragraph (f) in conjunction with Article 1 
+paragraph 10 of POJK 42/2020. This Cooperation Agreement 
+was signed in connection with the Construction of the Rising-8 
+Submarine Cable Communication System from Jakarta to 
+Singapore (Changi 1A), or transaction  value consisted of the 
+Company’s participation amounting to IDR 629,104,004,553 or 
+51% of the total project value.
+131
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perjanjian dengan pihak afiliasi yang terjadi sebelum 
+tahun buku 2023
+1.	 Pada tanggal 9 Januari 2017, Perseroan menandatangani 
+Perjanjian Pinjaman Pemegang Saham No. 001A/MTI/PD-
+DIR/I/2017 dengan PTT, yang merupakan Perusahaan Anak 
+Perseroan, sehubungan dengan pemberian sejumlah dana 
+pinjaman yang diberikan oleh Perseroan kepada PTT dengan 
+tujuan untuk menunjang kegiatan operasional PTT dengan nilai 
+pinjaman sebesar Rp1.750.000.000.000,- tanpa bunga berikut 
+juga jaminan atas pemberian pinjaman ini. Tanggal jatuh tempo 
+pelunasan pinjaman adalah mengacu pada masing-masing Surat 
+Permohonan Pinjaman, yang mana setiap surat permohonan 
+pinjaman akan berlaku paling lambat 5.857 hari sejak tanggal 
+surat permohonan pinjaman;
+2.	 Pada tanggal 29 Juni 2016, Perseroan menandatangani Perjanjian 
+Pinjaman Pemegang Saham No. 082/PKS/MTI-PRB/VI/16 dengan 
+PRB, yang merupakan Perusahaan Anak Perseroan, sehubungan 
+dengan pemberian sejumlah dana pinjaman yang diberikan oleh 
+Perseroan kepada PRB dengan tujuan untuk menunjang kegiatan 
+operasional PRB dengan nilai pinjaman sebesar Rp53.749.650.042,- 
+dimana tidak terdapat bunga berikut juga jaminan atas pemberian 
+pinjaman ini. Tanggal jatuh tempo pelunasan pinjaman belum 
+ditentukan secara detail pada tanggal dan bulan di tahun 2024;
+3.	 Pada tanggal 1 Oktober 2019, Perseroan menandatangani 
+Perjanjian Berlangganan Jasa Internet No. 275D/PKS/MTI-
+IPT/X/2019 dengan IPT, yang merupakan Perusahaan Anak 
+Perseroan, sehubungan dengan Kerjasama pemberian jasa 
+internet dari Perseroan kepada IPT dengan nilai perjanjian sebesar 
+Rp466.200.000,-. Perjanjian ini akan tetap berlaku sepanjang 
+layanan tetap diberikan kepada IPT;
+4.	 Pada tanggal 31 Januari 2017, Perseroan menandatangani 
+Perjanjian Kerjasama Pemasaran Layanan Pay TV No. 020B/
+PKS/MTI-OMI/I/2017 dengan OMI, yang merupakan Perusahaan 
+Anak Perseroan, sehubungan dengan pemasaran/penjualan 
+paket-paket layanan Pay TV yang akan dibundling dengan produk 
+layanan telekomunikasi Perseroan lainnya. Perjanjian ini akan 
+tetap berlaku sepanjang BAST belum diakhiri;
+5.	 Pada tanggal 31 Januari 2017, Perseroan menandatangani 
+Perjanjian Sewa Menyewa Rack Colocation No. 020A/PKS/MTI-
+OMI/I/2017 dengan OMI, yang merupakan Perusahaan Anak 
+Perseroan, sehubungan dengan rack colocation untuk digunakan 
+sendiri. Perjanjian ini akan tetap berlaku sampai seluruh layanan 
+Pay TV berdasarkan FAB dan/atau sales order yang diajukan telah 
+disetujui oleh OMI dalam jangka waktu order. Jangka waktu order 
+otomatis diperpanjang selama 1 (satu) tahun berikutnya dan 
+demikian seterusnya jika tidak ada pengakhiran jangka waktu 
+order atau jangka waktu perjanjian dari salah satu pihak kepada 
+pihak lainnya;
+Agreements with affiliated parties that occurred before 
+the fiscal year 2023
+1.	 On January 9 2017, the Company signed the Shareholder Loan 
+Agreement No. 001A/MTI/PD-DIR/I/2017 with PTT, which is a 
+Subsidiary Company of the Company, in connection with the 
+provision of a number of loan funds provided by the Company to 
+PTT with the aim of supporting PTT’s operational activities with a 
+loan value of IDR 1,750,000,000,000 with no interest as well as 
+collateral for this loan. The loan repayment maturity date refers 
+to each Loan Application Letter, in which each loan application 
+letter will be valid no later than 5,857 days from the date of the 
+loan application letter;
+2.	 On June 29, 2016, the Company signed the Shareholder Loan 
+Agreement No. 082/PKS/MTI-PRB/VI/16 with PRB, which is a 
+Subsidiary of the Company, in connection with the provision of 
+a number of loan funds provided by the Company to PRB with 
+the aim of supporting PRB’s operational activities with a loan 
+value of IDR 53,749,650,042 where there is no interest as well 
+as collateral for this loan. The loan repayment maturity date has 
+not been determined in detail on the date and month in 2024;
+3.	 On October 1, 2019, the Company signed an Internet Service 
+Subscription Agreement No. 275D/PKS/MTI-IPT/X/2019 with IPT, 
+which is a Subsidiary Company of the Company, in connection 
+with the Cooperation in providing internet services from the 
+Company to IPT with an agreement value of IDR 466,200,000. 
+This agreement will remain valid as long as services are still 
+provided to IPT;
+4.	 On January 31, 2017, the Company signed a Pay TV Service 
+Marketing Cooperation Agreement No. 020B/PKS/MTI-
+OMI/I/2017 with OMI, which is the Company’s Subsidiary 
+Company, in connection with the marketing/sales of Pay TV 
+service packages which will be bundled with the Company’s 
+other telecommunications service products. This agreement will 
+remain valid as long as BAST has not been terminated;
+5.	 On January 31, 2017, the Company signed a Rack Colocation 
+Lease Agreement No. 020A/PKS/MTI-OMI/I/2017 with OMI, 
+which is the Company’s Subsidiary Company, in relation to rack 
+colocation for own use. This agreement will remain valid until 
+all Pay TV services based on FAB and/or sales orders submitted 
+have been approved by OMI within the order period. The order 
+period is automatically extended for the next 1 (one) year and so 
+on if there is no termination of the order period or the agreement 
+period from one party to the other party;
+132
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+6.	 Pada tanggal 8 November 2016, perjanjian Indefeasible Right of 
+Use No. 160/PKS/MTI- SMARTFREN/XI/2016 dengan PT Smartfren 
+Telecom Tbk. sehubungan dengan kepemilikan sistem yang 
+berlaku sampai dengan 8 November 2031;
+7.	 Pada tanggal 18 Januari 2016, Perseroan menandatangani 
+Perjanjian Pemeliharaan dan Perbaikan Dark Core No. 009A/
+PKS/MTI-IBS/I/2016 dengan PT Inti Bangun Sejahtera Tbk. (IBST), 
+suatu perusahaan yang memiliki sebagian pemegang saham 
+yang sama dengan Entitas Induk, sehubungan dengan kegiatan 
+pemeliharaan dan perbaikan atas dark core. Perjanjian ini berlaku 
+selama 10 tahun sejak tanggal penandatangan berita acara pada 
+tanggal 3 Maret 2015;
+8.	 Pada tanggal 10 Mei 2016, Perseroan menandatangani Perjanjian 
+Kerjasama Pemasaran dan Pemeliharaan Jaringan Fiber Optic 
+No. 061A/PKS/MTI-IBS/V/2016 dengan IBST sehubungan dengan 
+kegiatan pemasaran dan pemeliharaan dan perbaikan atas dark 
+core jaringan fiber optic. Perjanjian ini berlaku selama 15 tahun 
+sejak tanggal efektif atau hingga seluruh periode berlangganan 
+dengan pelanggan masing-masing pihak berakhir (yang mana 
+terlebih dahulu);
+9.	 Pada tanggal 5 Oktober 2015, Perseroan menandatangani 
+Perjanjian Kerjasama Pengembangan Kawasan No. 094B/PKS/MTI-
+IBS/X/2015 dengan IBST sehubungan dengan pembangunan dan 
+pemanfaatan Infrastruktur dan Telekomunikasi secara bersama, 
+yang mana Perseroan membangun dan melakukan penarikan 
+Jaringan fiber optic dan IBST membangun atau menyediakan 
+Menara dan infrastruktur BTS Hotel. Perjanjian Kerjasama ini 
+berlaku 10 tahun sejak tanggal 5 Oktober 2015;
+10.	 Pada tanggal 7 Agustus 2015, Perseroan menandatangani 
+Perjanjian Kerjasama Sewa Menyewa Shaft dan Penempatan 
+Perangkat Telekomunikasi No. 068/PKS/MORATEL-IBS/VIII/2015 
+dengan PT Infrastuktur Bisnis Sejahtera (IBS), suatu perusahaan 
+yang memiliki hubungan melalui kepemilikan sebagian pemegang 
+saham dengan Entitas Induk, sehubungan dengan penyewaan 
+shaft dan penempatan perangkat telekomunikasi pada bangunan 
+Gedung ST. Regis di Jl Jenderal Gatot Subroto, Jakarta Selatan;
+11.	 Pada tanggal 3 Mei 2017, Perseroan menandatangani Perjanjian 
+Sewa Menyewa Tempat Untuk Jasa Jaringan Telekomunikasi 
+No. 085/PKS/MTI-IBS/V/2017 dengan IBS sehubungan dengan 
+penyewaan lokasi peralatan telekomunikasi dengan nilai perjanjian 
+sebesar Rp.466.200.000,-. Perjanjian ini berlaku sejak 3 September 
+2017 sampai dengan 2 September 2022. Lalu Perjanjian ini 
+diperpanjang sejak tanggal 03 September 2022 sampai dengan 
+tanggal 02 September 2027;
+12.	 Pada tanggal 25 Januari 2017, Perseroan menandatangani 
+Perjanjian Penggunaan Ruangan No. 016/PKS/MTI-
+PAKKODIAN/I/2017 dengan PT Pakkodian, suatu perusahaan 
+yang memiliki hubungan melalui kepemilikan sebagian pemegang 
+saham yang sama dengan Entitas Induk, sehubungan dengan 
+penggunaan sebagian lahan atau ruang dalam rangka kegiatan 
+operasional Perseroan. Pada saat ini Perjanjian masih dalam proses 
+perpanjangan dan kerjasama masih berlangsung. Perseroan 
+diberikan hak untuk menggunakan dan memanfaatkan ruangan 
+kantor dan Gedung di wilayah Kapten Tendean, Jakarta Selatan;
+6.	 On November 8, 2016, the Indefeasible Right of Use Agreement No. 
+160/PKS/MTI- SMARTFREN/XI/2016 with PT Smartfren Telecom 
+Tbk. in connection with the ownership of the system which is 
+valid until November 8, 2031;
+7.	 On January 18, 2016, the Company signed the Dark Core 
+Maintenance and Repair Agreement No. 009A/PKS/MTI-
+IBS/I/2016 with PT Inti Bangun Sejahtera Tbk. (IBST), a company 
+that has some of the same shareholders as the Parent Entity, in 
+connection with the maintenance and repair activities of the 
+dark core. This agreement is valid for 10 years from the date of 
+signing of the minutes on March 3, 2015;
+8.	 On May 10, 2016, the Company signed a Cooperation Agreement 
+for Marketing and Maintenance of Fiber Optic Networks No. 061A/
+PKS/MTI-IBS/V/2016 with IBST in connection with marketing 
+activities and maintenance and repair of dark core fiber optic 
+networks. This agreement is valid for 15 years from the effective 
+date or until the entire subscription period with each party’s 
+customers expires (whichever comes first);
+9.	 On October 5, 2015, the Company signed an Area Development 
+Cooperation Agreement No. 094B/PKS/MTI-IBS/X/2015 with 
+IBST in connection with the joint development and utilization of 
+Infrastructure and Telecommunications, in which the Company 
+builds and withdraws fiber optic networks and IBST builds or 
+provides BTS Hotel towers and infrastructure. This Cooperation 
+Agreement is valid for 10 years from October 5, 2015;
+10.	 On August 7, 2015, the Company signed a Cooperation Agreement 
+for Renting Shafts and Telecommunication Equipment Placement 
+No. 068/PKS/MORATEL-IBS/VIII/2015 with PT Infrastuktur Bisnis 
+Sejahtera (IBS), a company that has a relationship through partial 
+shareholder ownership with the Parent Entity, in connection with 
+shaft rental and placement of telecommunication equipment in 
+the ST Building. Regis on Jl Jenderal Gatot Subroto, South Jakarta;
+11.	 On May 3, 2017, the Company signed a Lease Agreement for 
+Telecommunications Network Services No. 085/PKS/MTI-
+IBS/V/2017 with IBS in connection with leasing the location 
+of telecommunication equipment with an agreement value of 
+IDR 466,200,000. This agreement is valid from 3 September 2017 
+to 2 September 2022. Then this Agreement was extended from 
+September 3, 2022 to September 2, 2027;
+12.	 On January 25, 2017, the Company signed Room Use Agreement 
+No. 016/PKS/MTI-PAKKODIAN/I/2017 with PT Pakkodian, a 
+company that has a relationship through partial ownership of 
+the same shareholders as the Parent Entity, in connection with 
+the use of part of the land or space in the framework of the 
+Company’s operational activities. At this time the Agreement is 
+still in the process of extension and cooperation is still ongoing. 
+The company is given the right to use and utilize office space and 
+buildings in the Captain Tendean area, South Jakarta;
+133
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+13.	 Pada tanggal 20 Agustus 2019, Perseroan menandatangani 
+Perjanjian Kerjasama Proyek Merah Putih No. MTI 232A/PKS/
+MTI-ST/VIII/2019 dengan PT Smart Telecom, yang merupakan 
+pemegang saham Perseroan, sehubungan dengan penyediaan 
+menara telekomunikasi dan infrastruktur pendukung oleh 
+Perseroan kepada PT Smart Telecom. Perjanjian ini berlaku sejak 
+6 desember 2018 sampai dengan 5 Desember 2023. Perjanjian ini 
+diperpanjang secara otomatis untuk setiap 5 tahun berikutnya;
+14.	 Pada tanggal 15 Februari 2021, Perseroan mengadakan perjanjian 
+dengan IBST. Sebagian pemegang saham IBST juga merupakan 
+pemegang saham Perseroan. Perjanjian ini terkait dengan 
+penyewaan ruang, dan berlaku selama 5 tahun dan akan berakhir 
+dalam waktu perjanjian sebagaimana tertera dalam Berita Acara 
+Penggunaan Site (BAPS);
+15.	 Pada tanggal 1 Februari 2017, Perseroan mengadakan perjanjian 
+dengan IBST. Sebagian pemegang saham IBST juga merupakan 
+pemegang saham Perseroan. Perjanjian ini terkait dengan 
+penggunaan jaringan kabel serat optik dan Metro-E Link. 
+Perjanjian ini berlaku selama 10 tahun, dari 1 February 2017 hingga 
+31 Januari 2027;
+16.	 Pada tanggal 22 Juni 2020, Perseroan mengadakan perjanjian 
+dengan PT Triasmitra Multiniaga International (“TMI”), suatu 
+perusahaan yang memiliki hubungan dengan Perseroan melalui 
+kepemilikan sebagian pemegang saham yang sama dengan Entitas 
+Induk. Sebagian pemegang saham TMI juga merupakan pemegang 
+saham Perseroan. Perjanjian ini terkait dengan penyewaan ruang 
+Pusat Operasi Jaringan (Network Operations Center/NOC) dan 
+pengoperasiannya. Perjanjian ini berlaku hingga 26 Agustus 2034;
+17.	 Pada tanggal 1 November 2019, Perseroan mengadakan perjanjian 
+dengan TMI. Sebagian pemegang saham TMI juga merupakan 
+pemegang saham Perseroan. Perjanjian ini terkait dengan 
+penyewaan ruang NOC dan pengoperasiannya. Perjanjian ini 
+berlaku hingga 21 Maret 2034;
+18.	 Pada tanggal 23 Agustus 2019, Perseroan mengadakan perjanjian 
+dengan TMI. Sebagian pemegang saham TMI juga merupakan 
+pemegang saham Perseroan. Perjanjian ini terkait dengan 
+pemeliharaan dan perbaikan inti serat optik pada Jaringan 
+Telekomunikasi Jakarta–Surabaya, dan berlaku selama 15 tahun 
+sejak Berita Acara Penggunaan Site (BAPS) ditandatangani oleh 
+Para Pihak;
+19.	 Pada tanggal 03 Oktober 2017, Perseroan mengadakan perjanjian 
+dengan TMI. Sebagian pemegang saham TMI juga merupakan 
+pemegang saham Perseroan. Perjanjian ini terkait dengan 
+pemeliharaan dan perbaikan pasangan serat optik pada Jaringan 
+Telekomunikasi/Sistem Kabel Surabaya-Denpasar. Perjanjian ini 
+berlaku selama 15 tahun sejak 3 Oktober 2017, atau hingga 4 
+September 2032;
+20.	Pada tanggal 15 Mei 2018, Perseroan mengadakan perjanjian 
+dengan PT Jejaring Mitra Persada (JMP) yang mana sebagian 
+pemegang saham JMP juga merupakan pemegang saham 
+Perseroan. Perjanjian ini terkait dengan hak pakai tanpa batas 
+waktu atas sistem kabel bawah laut Batam–Dumai.
+13.	 On August 20, 2019, the Company signed the Merah Putih Project 
+Cooperation Agreement No. MTI 232A/PKS/MTI-ST/VIII/2019 
+with PT Smart Telecom, which is a shareholder of the Company, 
+in connection with the provision of telecommunication towers 
+and supporting infrastructure by the Company to PT Smart 
+Telecom. This agreement is valid from 6 December 2018 to 5 
+December 2023; This agreement is automatically renewed for 
+each subsequent 5 years;
+14.	 On February 15, 2021, the Company entered into an agreement 
+with IBST. Some of IBST’s shareholders are also the Company’s 
+shareholders. This agreement is related to space leasing, and is 
+valid for 5 years and will expire within the time of the agreement 
+as stated in the Minutes of Site Usage (BAPS);
+15.	 On February 1, 2017, the Company entered into an agreement 
+with IBST. Some of IBST’s shareholders are also the Company’s 
+shareholders. This agreement relates to the use of fiber optic 
+cable network and Metro-E Link. This agreement is valid for 10 
+years, from 1 February 2017 to 31 January 2027;
+16.	 On June 22, 2020, the Company entered into an agreement with 
+PT Triasmitra Multiniaga International (“TMI”), a company that has 
+a relationship with the Company through the same shareholder 
+ownership as the Parent Entity. Some of TMI’s shareholders are 
+also the Company’s shareholders. This agreement relates to 
+the rental of Network Operations Center (NOC) space and its 
+operation. This agreement is valid until August 26, 2034;
+17.	 On November 1, 2019, the Company entered into an agreement 
+with TMI. Some of TMI’s shareholders are also the Company’s 
+shareholders. This agreement relates to the rental of NOC space 
+and its operation. This agreement is valid until March 21, 2034;
+18.	 On August 23, 2019, the Company conducted an agreement 
+with TMI. Some of TMI’s shareholders are also the Company’s 
+shareholders. This agreement is related to the maintenance 
+and repair of the fiber optic core on the Jakarta–Surabaya 
+Telecommunications Network, and is valid for 15 years from the 
+Minutes of Site Use (BAPS) signed by the Parties;
+19.	 On October 3, 2017, the Company entered into an agreement 
+with TMI. Some of TMI’s shareholders are also the Company’s 
+shareholders. This agreement relates to the maintenance 
+and repair of fiber optic pairs on the Surabaya-Denpasar 
+Telecommunications Network/Cable System. This agreement is 
+valid for 15 years from October 3, 2017, or until September 4, 2032;
+20.	On May 15, 2018, the Company entered into an agreement with PT 
+Jejaring Mitra Persada (JMP) in which some of JMP’s shareholders 
+are also the Company’s shareholders. This agreement relates 
+to the right of use without a time limit for the Batam–Dumai 
+submarine cable system.
+134
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+Bahwa perjanjian-perjanjian sebagaimana Perseroan sebutkan di 
+atas bukan merupakan suatu transaksi afiliasi dan/atau transaksi 
+benturan kepentingan yang merupakan hasil pelaksanaan transaksi 
+afiliasi dan/atau transaksi benturan kepentingan yang memerlukan 
+persetujuan pemegang saham independen.
+Perseroan memastikan bahwa transaksi afiliasi telah melalui prosedur 
+yang memadai untuk memastikan bahwa transaksi afiliasi dilaksanakan 
+sesuai dengan praktik bisnis yang berlaku umum antara lain dilakukan 
+dengan memenuhi prinsip transaksi yang wajar (arm’s length principle) 
+sebagaimana dimaksud dalam Pasal 3 POJK No 42/POJK.04/2020 
+tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan (POJK 
+42/2020).
+Perseroan tidak memiliki perjanjian yang mengandung transaksi 
+afiliasi dan/atau transaksi benturan kepentingan selain daripada 
+perjanjian-perjanjian yang telah Perseroan ungkapkan di atas.
+Perjanjian-perjanjian dengan pihak afiliasi sebelum tahun buku 2023 
+yang diungkapkan dalam Laporan Tahunan ini sebelumnya telah 
+Perseroan ungkapkan dalam Prospektus Penawaran Umum Perdana 
+Saham Perseroan sebagaimana diamanatkan dalam Pasal 5 huruf 
+(d) POJK 42/2020 dan terakhir kali diungkapkan dan diperbaharui 
+pada Prospektus Penawaran Umum Berkelanjutan Sukuk Ijarah 
+Berkelanjutan II Moratelindo Tahap I Tahun 2023 dan Penawaran 
+Umum Berkelanjutan Sukuk Ijarah Berkelanjutan II Moratelindo Tahap 
+II Tahun 2024.
+That the agreements as mentioned above are not affiliated 
+transactions and/or conflict of interest transactions that are the 
+result of the implementation of affiliated transactions and/or conflict 
+of interest transactions that require the approval of independent 
+shareholders.
+The Company ensures that affiliated transactions have gone through 
+adequate procedures to ensure that affiliated transactions are carried 
+out in accordance with generally accepted business practices, among 
+others, by fulfilling the arm’s length principle as referred to in Article 
+3 of POJK No. 42/POJK.04/2020 concerning Affiliated Transactions 
+and Conflict of Interest Transactions (POJK 42/2020).
+The Company does not have any agreements containing affiliated 
+transactions and/or conflict of interest transactions other than the 
+agreements that the Company has disclosed above.
+Agreements with affiliated parties prior to fiscal year 2023 disclosed in 
+this Annual Report have previously been disclosed in the Prospectus 
+of the Company’s Initial Public Offering as mandated in Article 5 letter 
+(d) POJK 42/2020 and disclosed and updated for the last time in the 
+Prospectus for Moratelindo Shelf Registration Ijarah Sukuk Phase I 
+Year 2023 Public Offering and the Moratelindo Shelf Registration 
+Ijarah Sukuk II Phase II Year 2024 Public Offering.
+Open Booth Oxygen.id di Jakarta
+Open Booth Oxygen.id in Jakarta
+135
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Di sepanjang tahun 2023 tidak terdapat perubahan peraturan 
+Perundang-undangan yang mempunyai pengaruh signifikan terhadap 
+kinerja Perseroan. 
+	
+	
+	
+	
+Perubahan Peraturan Perundang-undangan 
+yang Berpengaruh Signifikan terhadap Kinerja 
+Perusahaan 
+Changes in Laws and Regulations that have a Significant 
+Influence on Company’s Performance
+Perubahan Kebijakan Akuntansi 
+Changes in Accounting Policy
+In 2023 there were no changes to laws and regulations that had a 
+significant impact on the Company’s performance.
+IMPLEMENTED ON JANUARY 1, 2023
+The Financial Accounting Standards Board of the Indonesian 
+Accountants Association (DSAK-IAI) has issued amendments and 
+interpretations which are effective starting January 1 2023 as follows:
+1.	 Amendment to PSAK 1 “Presentation of Financial Statement 
+regarding disclosure of accounting policies which changes the 
+term “significant” to “material” and provides an explanation of 
+material accounting policies”;
+2.	 PSAK 25 “Accounting Policies, Changes in Accounting Estimates, 
+and Errors”;
+3.	 Revision of PSAK 107 “Ijarah Accounting”;
+4.	 Amendment to PSAK 16 “Fixed Assets regarding results before 
+intended use”;
+5.	 Amendment to PSAK No. 107, “Ijarah Accounting”; and
+6.	 Amendment to PSAK 46 “Deferred Taxes related to Assets and 
+Liabilities Arising from a Single Transaction”.
+The implementation of the above amendments and interpretations 
+does not result in substantial changes to the Group’s accounting 
+policies and does not have a significant impact on the Consolidated 
+Financial Statement for the current or previous year.
+ACCOUNTING STANDARDS THAT HAVE BEEN ISSUED 
+BUT ARE NOT YET EFFECTIVE
+The Financial Accounting Standards Board of the Indonesian Institute 
+of Accountants (DSAK-IAI) has issued the following new standards, 
+amendments and interpretations, but they are not yet effective for 
+the financial year starting on January 1, 2023 as follows:
+DITERAPKAN PADA 1 JANUARI 2023
+Dewan Standar Akuntansi Keuangan Ikatan Akuntan Indonesia (DSAK-
+IAI) telah menerbitkan amandemen dan interpretasi yang berlaku 
+efektif mulai 1 Januari 2023 sebagai berikut:
+1.	 Amendemen PSAK 1 “Penyajian Laporan Keuangan tentang 
+pengungkapan kebijakan akuntansi yang mengubah istilah 
+“signifikan” menjadi “material” dan memberi penjelasan mengenai 
+kebijakan akuntansi material”;
+2.	 PSAK 25 “Kebijakan Akuntansi, Perubahan Estimasi Akuntansi, 
+dan Kesalahan”;
+3.	 Revisi PSAK 107 “Akuntansi Ijarah”;
+4.	 Amendemen PSAK 16 “Aset Tetap tentang hasil sebelum 
+penggunaan yang diintensikan”;
+5.	 Amendemen PSAK No. 107, “Akuntansi Ijarah”; dan
+6.	 Amendemen PSAK 46 “Pajak Tangguhan terkait Aset dan Liabilitas 
+yang Timbul dari Transaksi Tunggal”.
+Penerapan dari amandemen dan interpretasi di atas tidak menimbulkan 
+perubahan substansial atas kebijakan akuntansi Grup dan tidak 
+memiliki dampak signifikan terhadap Laporan Keuangan Konsolidasian 
+pada tahun berjalan atau tahun sebelumnya.
+STANDAR AKUNTANSI YANG TELAH DITERBITKAN 
+NAMUN BELUM BERLAKU EFEKTIF
+Dewan Standar Akuntansi Keuangan Ikatan Akuntan Indonesia (DSAK-
+IAI) telah menerbitkan standar baru, amandemen dan interpretasi 
+berikut, namun belum berlaku efektif untuk tahun buku yang dimulai 
+pada 1 Januari 2023 sebagai berikut:
+136
+PT Mora Telematika Indonesia Tbk | Laporan Tahunan 2023
+1 JANUARI 2024
+1.	 Amendemen PSAK 1: “Penyajian Laporan Keuangan” terkait 
+klasifikasi liabilitas sebagai jangka pendek atau jangka panjang; 
+dan
+2.	 Amendemen PSAK 73: “Sewa” terkait liabilitas sewa pada transaksi 
+jual dan sewa-balik.	
+3.	 Standar tersebut akan berlaku efektif pada 1 Januari 2024 dan 
+penerapan dini diperbolehkan.
+4.	 Amendemen PSAK 1: “Penyajian Laporan Keuangan” terkait 
+liabilitas jangka panjang dengan kovenan;
+5.	 PSAK 74 “Kontrak Asuransi”; dan
+6.	 Amandemen PSAK 74 “Kontrak Asuransi tentang Penerapan Awal 
+PSAK 74 dan PSAK 71 – Informasi Komparatif”.
+Standar tersebut akan berlaku efektif pada 1 Januari 2025.
+Pada saat penerbitan laporan keuangan konsolidasian, Grup 
+masih mengevaluasi dampak yang mungkin timbul dari penerapan 
+standar baru tersebut serta pengaruhnya pada laporan keuangan 
+konsolidasian Grup.
+Mulai tanggal 1 Januari 2024, referensi terhadap masing-masing 
+PSAK dan ISAK akan diubah sebagaimana diumumkan oleh DSAK-IAI.
+JANUARY 1, 2024
+1.	 Amendment to PSAK 1: “Presentation of Financial Statements” 
+regarding the classification of liabilities as short-term or long-
+term; and
+2.	 Amendment to PSAK 73: “Lease” regarding rental liabilities in 
+sale and leaseback transactions.
+3.	 The standards will become effective on January 1, 2024 and early 
+implementation is permitted.
+4.	 Amendment to PSAK 1: “Presentation of Financial Statements” 
+related to long-term liabilities with covenants;
+5.	 PSAK 74 “Insurance Contracts”; And
+6.	 Amendment to PSAK 74 “Insurance Contracts regarding Initial 
+Application of PSAK 74 and PSAK 71 - Comparative Information”.
+The standards will become effective on January 1, 2025.
+At the time of publishing the consolidated financial statements, the 
+Group was still evaluating the possible impact of the implementation 
+of the new standard and its effect on the Group’s consolidated 
+financial statements.
+Starting January 1, 2024, references to each PSAK and ISAK will be 
+changed as announced by DSAK-IAI.
+137
+Annual Report 2023 | PT Mora Telematika Indonesia Tbk
+﻿
+﻿
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Penggelaran Kabel Bawah Laut pada Project Palapa Ring Barat
+Submarine Cable Deployment in the  Palapa Ring Barat Project

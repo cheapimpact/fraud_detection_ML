@@ -1,0 +1,5458 @@
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+106
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+TINJAUAN PEREKONOMIAN DAN INDUSTRI
+Industrial and Economic Review
+SITUASI GLOBAL YANG MENANTANG
+Tahun 2023 merupakan tahun yang penuh tantangan, 
+ditandai dengan perlambatan pertumbuhan ekonomi global, 
+meningkatnya ketegangan geopolitik, dan sejumlah isu signifikan 
+seperti tingkat inflasi yang lebih tinggi serta fluktuasi penjualan 
+dan permintaan komoditas. Kondisi ini jauh dari ideal, karena 
+ketidakstabilan dan ketidakpastian melanda terus melanda 
+sepanjang tahun, menyebabkan dunia usaha ragu-ragu dalam 
+melakukan investasi besar karena kekhawatiran akan potensi 
+hilangnya pendapatan.
+Situasi geopolitik ditandai oleh konflik berkepenjangan, 
+termasuk perang antara Rusia dan Ukraina, serta meningkatnya 
+ketegangan di Timur Tengah. Faktor-faktor tersebut turut 
+menyebabkan fluktuasi harga minyak dunia sepanjang tahun. 
+Walaupun demikian, situasi yang bergejolak bertolak belakang 
+dengan harga minyak mengalami depresiasi. Harga rata-rata 
+minyak mentah Brent mencapai USD83 per barel pada tahun 
+2023, turun dari USD101 per barel pada tahun 2022, yang 
+menandakan adanya selisih sekitar USD19 per barel. Pasar 
+global menyesuaikan diri dengan dinamika perdagangan baru, 
+dengan minyak mentah Rusia mendapatkan tujuan alternatif 
+untuk memasarkan produknya di luar Uni Eropa (UE), sementara 
+permintaan minyak mentah global masih di bawah ekspektasi.
+Dunia sedang dalam masa transisi dari era pandemi ke era pasca-
+pandemi, berupaya untuk kembali ke tingkat kinerja sebelum 
+pandemi dalam kondisi optimal. Namun, meski ada niat untuk 
+pulih, roda perekonomian global belum sepenuhnya berjalan 
+karena tidak terpenuhinya tingkat pasokan dan permintaan. 
+Permintaan tercatat melebihi kapasitas dunia usaha untuk 
+memenuhinya karena kendala produksi, sehingga menyebabkan 
+devaluasi barang dan pertumbuhan perdagangan global menjadi 
+negatif.
+Situasi global yang beragam membuat Dana Moneter 
+Internasional (IMF) menyimpulkan dalam publikasi World 
+Economic Outlook pada Januari 2024, bahwa pertumbuhan 
+ekonomi global tercatat sebesar 3,1% pada tahun 2023. Angka 
+tersebut sedikit lebih rendah dibandingkan pertumbuhan 3,5% 
+pada tahun 2022.
+CHALLENGING GLOBAL SITUATION
+It was a challenging year in 2023, characterized by a slowdown 
+in global economic growth, escalating geopolitical tensions, 
+and significant challenges such as higher inflation rates and 
+fluctuations in commodity sales and demand. This environment 
+was far from ideal, as instability and uncertainty invaded the year, 
+causing businesses to hesitate in making major investments 
+due to fears of potential income losses.  
+The geopolitical landscape was marked by ongoing conflicts, 
+including the war between Russia and Ukraine, as well as 
+heightened tensions in the Middle East. These factors contributed 
+to fluctuating crude oil prices throughout the year. However, 
+despite the volatile situation, oil prices experienced depreciation. 
+The average price of Brent crude oil stood at USD83 per barrel 
+in 2023, down from USD101 per barrel in 2022, representing a 
+difference of approximately USD19 per barrel. Global markets 
+adjusted to new trade dynamics, with Russian crude oil finding 
+alternative destinations outside the European Union (EU), while 
+global crude oil demand fell short of expectations.  
+The world is in transition from the pandemic to a post-pandemic 
+era, striving to return to pre-pandemic levels of performance 
+under optimal conditions. However, despite the intent to 
+recover, global economic wheels were not fully operational, with 
+shortages in both supply and demand. High demand outpaced 
+businesses’ capacity to meet the demand due to production 
+constraints, leading to a devaluation of goods and negative 
+growth in global trade.  
+The mixed global situation made International Monetary Fund 
+(IMF) concluded in its World Economic Outlook publication on 
+January 2024, that the global economic growth was recorded at 
+3.1% in 2023. It was slightly lower than the 3.5% growth in 2022.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+107
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+KINERJA EKONOMI NASIONAL YANG 
+RESILIEN
+Meskipun di tengah gejolak global, Indonesia mengalami 
+pertumbuhan ekonomi yang resilien (Tangguh). Badan Pusat 
+Statistik (BPS) melalui Berita Resmi Statistik (BRS) yang dirilis 
+pada 5 Februari 2024 mencatat pertumbuhan sebesar 5,05% 
+pada tahun 2023. Meski sedikit lebih rendah dibandingkan 
+pertumbuhan 5,31% pada tahun 2022, Indonesia tetap 
+mempertahankan pertumbuhan ekonomi yang kuat melebihi 
+5 % selama tujuh kuartal terakhir. 
+Selain itu, dalam menghadapi gejolak global dan pertumbuhan 
+harga barang yang negatif, Prompt Manager Index (PMI) Bank 
+Indonesia (BI) menunjukkan posisi yang kuat di zona ekspansi, 
+mencapai 51,20% pada Q4-2023, lebih tinggi dibandingkan 
+50,06% pada Q4-2022. Mitra dagang utama Indonesia, antara 
+lain Tiongkok, Amerika Serikat, Jepang, dan India, juga mengalami 
+tingkat pertumbuhan masing-masing sebesar 5,2%, 2,5%, 2,0%, 
+dan 6,3%. 
+Diukur berdasarkan Produk Domestik Bruto (PDB) atas dasar 
+harga berlaku, PDB Indonesia mencapai Rp20.892,4 triliun 
+dengan PDB per kapita sebesar Rp75,0 juta atau USD4.919,7. 
+Kontributor utama pertumbuhan PDB antara lain industri 
+pengolahan, perdagangan, pertanian, konstruksi, dan 
+pertambangan, masing-masing memberikan kontribusi sebesar 
+19,08%, 12,96%, 11,39%, 10,49%, dan 9,62%.
+PENINGKATAN MOBILITAS MASYARAKAT
+Bisnis GMF erat kaitannya dengan kegiatan transportasi dan 
+hal ini menyangkut mobilitas masyarakat yang melakukan 
+perjalanan dari satu tempat ke tempat lain. Dengan adanya 
+transisi ke situasi pascapandemi dan kembalinya situasi normal, 
+terjadi peningkatan dalam pergerakan penumpang. Peningkatan 
+mobilitas ini juga didorong oleh persiapan pemilu 2024.
+RESILIENT NATIONAL ECONOMIC 
+PERFORMANCE
+Despite global turmoil, Indonesia experienced resilient economic 
+growth. Indonesia’s Central Statistics Agency (BPS), through 
+its Official Statistic News (BRS) released on February 5, 2024, 
+recorded a growth of 5.05% in 2023. Although slightly lower 
+than the 5.31% growth in 2022, Indonesia maintained strong 
+economic growth beyond 5% for the past seven quarters.  
+Furthermore, in the face of global upheavals and negative 
+growth in goods prices, the Prompt Manager Index (PMI) of Bank 
+Indonesia (BI) indicated a strong position in the expansion zone, 
+reaching 51.20% in Q4-2023, higher than the 50.06% recorded 
+in Q4-2022. Indonesia’s main trading partners, including China, 
+the United States, Japan, and India, also experienced growth 
+rates of 5.2%, 2.5%, 2.0%, and 6.3%, respectively.  
+Measured based on Gross Domestic Product (GDP) at current 
+prices, Indonesia’s GDP reached Rp20,892.4 trillion, with GDP 
+per capita at Rp75.0 million or USD4,919.7. Major contributors 
+to GDP growth included the processing, trade, agriculture, 
+construction, and mining industries, contributing 19.08%, 12.96%, 
+11.39%, 10.49%, and 9.62%, respectively.
+HIGHER MOBILITY
+As GMF’s business is closely related to transportation activities, 
+it involves the mobility of people traveling from one place to 
+another. With the transition into a post-pandemic situation 
+and a return to normal situation, there has been an upgrade in 
+movement. This increase in mobility is further encouraged by 
+preparations for the 2024 elections.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+108
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Peningkatan Jumlah Penumpang di Seluruh Moda Transportasi
+Higher Passenger Level in Every Public Transport  
+Angkutan Rel
+Rail Transport
+Angkutan Laut
+Sea Transport
+Angkutan Udara
+Air Transport
+20.39%
+10.62%
+16.46%
+(YoY)
+(YoY)
+(YoY)
+Peningkatan Jumlah Kunjungan Wisatawa Mancanegara
+Higher Tourist Visits from Abroad
+27.72%
+(y-on-y)
+Perayaan Natal dan Tahun Baru telah mendorong lebih banyak 
+masyarakat untuk melakukan perjalanan wisata sehingga 
+meningkatkan kegiatan perekonomian lainnya. Sedangkan 
+menjelang pemilu, persiapan besar-besaran dilakukan baik 
+oleh peserta maupun penyelenggara pada tahun tersebut. 
+Kegiatan-kegiatan ini terutama terkait dengan pertemuan-
+pertemuan di setiap tingkat, mulai dari tingkat nasional, daerah, 
+hingga area terkecil.
+INDUSTRI PENERBANGAN DAN MRO
+Indonesia National Air Career Association (INACA) mencatat 
+sekitar 70,8 juta penerbangan penumpang domestik pada tahun 
+2023, terdiri dari 66,8 juta penerbangan reguler dan tambahan 4 
+juta pada perayaan Natal dan Tahun Baru. Angka ini melampaui 
+angka 56,4 juta yang tercatat pada tahun 2022 tetapi belum 
+mencapai tingkat sebelum pandemi yaitu 79,5 juta pergerakan.
+Walaupun demikian, terdapat sejumlah kendala yang 
+menghalangi industri untuk mencapai kapasitas normalnya. 
+Jumlah pesawat yang beroperasi saat ini masih lebih sedikit 
+dari biasanya. Maskapai menghadapi permasalahan internal 
+terkait investasi pesawat baru dan gangguan rantai pasokan 
+suku cadang akibat konflik yang sedang berlangsung antara 
+Rusia dan Ukraina serta di Timur Tengah.  
+Tantangan ini juga mempengaruhi industri MRO. Kekurangan suku 
+cadang telah menjadi kendala utama, sehingga mengharuskan 
+pelaku MRO untuk mengelola arus kas secara efektif, khususnya 
+dalam hal pembayaran dari maskapai penerbangan. Pembayaran 
+The Christmas and New Year celebrations have prompted more 
+people to travel for leisure, thereby boosting other economic 
+activities. As for the elections, massive preparations were made 
+by both participants and organizers that year. These activities 
+were primarily linked to meetings at every level, ranging from 
+the national to the regional level and down to the smallest areas.
+AVIATION AND MRO INDUSTRY
+The Indonesia National Air Career Association (INACA) recorded 
+around 70.8 million domestic passenger flights in 2023, 
+consisting of 66.8 million regular flights and an additional 4 
+million during the Christmas and New Year celebrations. This 
+figure surpasses the 56.4 million recorded in 2022 but has yet 
+to reach the pre-pandemic level of 79.5 million movements.
+However, several hindrances have prevented the industry from 
+reaching its normal capacity. The number of aircraft currently 
+operating remains lower than usual. This situation stems from 
+internal capacity issues within airlines regarding investments 
+in new aircraft and supply chain disruptions of spare parts due 
+to ongoing conflicts between Russia and Ukraine and in the 
+Middle East.
+The challenges also extend to the MRO industry. Spare parts 
+shortages have emerged as a major constraint, requiring MRO 
+players to manage cash flow effectively, particularly in terms 
+of airline payments. Significant down payments are often 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+109
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+uang muka dalam jumlah besar sering kali diperlukan sebelum 
+suku cadang dapat diperoleh, di tengah ketidakpastian yang 
+panjang mengenai kedatangan suku cadang tersebut.  
+Terlepas dari tantangan-tantangan ini, terdapat optimisme 
+yang didorong oleh peningkatan mobilitas secara global, seiring 
+dengan upaya dunia untuk kembali ke produktivitas dan tingkat 
+perekonomian sebelum pandemi. Presedence Research, penyedia 
+informasi pasar strategis terkemuka, memperkirakan ukuran 
+pasar MRO transportasi udara global sebesar USD82,19 miliar 
+pada tahun 2023, diproyeksikan mencapai sekitar USD129,70 
+miliar pada tahun 2032, dengan tingkat pertumbuhan sebesar 
+5,20% selama periode perkiraan dari tahun 2023 hingga 2032. 
+Kawasan Asia Pasifik memegang pangsa pendapatan 
+terbesar sebesar 34% pada tahun 2022, mendominasi pasar 
+MRO transportasi udara karena pesatnya ekspansi industri 
+penerbangan, meningkatnya permintaan perjalanan udara, 
+dan pertumbuhan armada pesawat. Tren ini terutama terlihat 
+di negara-negara seperti Tiongkok dan India dengan populasi 
+mereka yang besar dan pertumbuhan ekonomi yang masif, 
+sehingga menyebabkan peningkatan investasi dan aktivitas di 
+bidang transportasi udara baik untuk tujuan liburan maupun 
+bisnis.  
+Skenario ini juga mencakup Indonesia, yang menempati peringkat 
+empat besar negara dengan populasi terpadat secara global dan 
+merupakan negara terpadat di Asia Tenggara. Indonesia secara 
+konsisten mengalami pertumbuhan ekonomi yang kuat, yang 
+diperkirakan akan mendorong peningkatan besar-besaran di 
+pasar MRO, sehingga menguntungkan perusahaan seperti GMF.
+Pasar Global MRO Sektor Transportasi Penerbangan 2022 hingga 2032 (USD Miliar)
+Global Air Transport MRO Market Size 2022 to 2032 (USD Billion)
+2032
+2025 2026 2027 2028 2029 2030 2031
+2024
+2023
+2022
+$78.5
+$82.19
+$86.13 $90.36 $94.87
+$99.71 $104.90 $110.46 $116.52 $122.82 $129.70
+Sumber | Source: 
+www.precedenceresearch.com
+required before parts can be obtained, amidst a long timeline 
+of uncertainty regarding their arrival.
+Despite these challenges, there is optimism driven by increased 
+mobility globally, as the world races to return to pre-pandemic 
+productivity and economic rates. Presedence Research, a leading 
+provider of strategic market insights, estimated the global air 
+transport MRO market size at USD82.19 billion in 2023, projected 
+to reach around USD129.70 billion by 2032, with a growth rate 
+of 5.20% during the forecast period from 2023 to 2032.
+The Asia Pacific region held the largest revenue share of 34% 
+in 2022, dominating the air transport MRO market due to the 
+rapid expansion of the aviation industry, rising air travel demand, 
+and a growing aircraft fleet. This trend is particularly evident 
+in countries like China and India, with their large populations 
+experiencing substantial economic growth, leading to increased 
+investment and activity in air transport for both leisure and 
+business purposes.
+This scenario also includes Indonesia, which ranks among the top 
+four most populated countries globally and is the most populated 
+in Southeast Asia. Indonesia has consistently experienced strong 
+economic growth, which is expected to drive a massive increase 
+in the MRO market, benefiting companies like GMF.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+110
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+KEBIJAKAN STRATEGIS 2023
+2023 Strategic Policy
+Sejalan dengan pertumbuhan ekonomi Indonesia dan industri 
+aviasi pasca pandemi COVID-19 pada tahun 2023, GMF masih 
+melanjutkan kebijakan strategis periode sebelumnya. Perseroan 
+melakukan beberapa penyesuaian dengan kondisi terkini dan 
+mengeluarkan kebijakan strategi baru untuk meningkatkan 
+kinerja keuangan dan menjaga kondisi operasional. Strategi 
+pada tahun 2023 masih berfokus pada Bold Strategy yang 
+terdiri dari tiga aspek utama Profitability,  Restrukturisasi 
+Utang, dan Perbaikan Ekuitas, yang dijalankan dengan beberapa 
+penyesuaian sesuai dengan kondisi dan kebutuhan Perusahaan.
+1.	 Peningkatan Profitabilitas
+Perseroan melakukan peningkatan customer share of wallet 
+terutama dari pelanggan Non GA dengan menambah jumlah 
+pesawat yang ditangani GMF, ataupun dengan menawarkan 
+portofolio produk lain. Adapun pelanggan NGA yang 
+mengalami peningkatan nilai transaksi pada tahun 2023 
+adalah Cebu Pacific, Indonesia Air Asia, Korean Airlines, Pelita 
+Air Services, Vietjet dan Vietnam Airlines. Perseroan juga 
+meningkatkan kualitas internal melalui optimalisasi Supply 
+Chain Management, Optimalisasi Aset dan Persediaan, 
+dan Manpower Development melalui program License 
+engineer, Leader Development Program, Multirole Program. 
+Perseroan juga terus melakukan diversifikasi bisnis dengan 
+menawarkan Industrial Solutions dan memperluas cakupan 
+produk yang terdiri dari Power Services serta Fabrication 
+dan Manufacturing seperti generator, IPP, oil & gas, railway, 
+chemical, fabrication, dan lainnya.
+In line with the growth of the Indonesian economy and the aviation 
+industry post-COVID-19 pandemic in 2023, GMF continued the 
+strategic policies of the previous period. The Company has 
+made several adjustments to current conditions and issued 
+new strategic policies to improve financial performance and 
+maintain operational conditions. The strategy in 2023 still 
+focus on the Bold Strategy, consisting of three main aspects: 
+Profitability, Debt Restructuring, and Equity Improvement, which 
+have been implemented with several adjustments according to 
+the Company’s conditions and needs.  
+1.	 Increased Profitability 
+The Company has increased its customer share of wallet, 
+especially from non-GA customers, by increasing the number 
+of aircraft handled by GMF or by offering other product 
+portfolios. NGA customers expected to experience an increase 
+in transaction value in 2023 include Cebu Pacific, Indonesia Air 
+Asia, Korean Airlines, Pelita Air Services, Vietjet, and Vietnam 
+Airlines. The Company also improved internal quality by 
+optimizing Supply Chain Management, Optimizing Assets and 
+Inventory, and Manpower Development through programs 
+like the License Engineer program, Leader Development 
+Program, and Multirole Program. Additionally, the Company 
+also diversified its business by offering Industrial Solutions 
+and expanded its product range, including Power Services, as 
+well as Fabrication and Manufacturing such as generators, 
+IPP, oil & gas, railway, chemical, fabrication, and others.  
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+111
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+2.	 Restrukturisasi Utang 
+Perseroan juga terus menjalankan upaya restrukturisasi 
+utang untuk mengelola arus kas dan likuiditas dengan 
+merestrukturasi fasilitas Pendanaan dan Utang Vendor yang 
+mencakup pinjaman jangka panjang maupun jangka pendek.
+3.	 Perbaikan Ekuitas
+Perseroan melakukan divestasi anak usaha dengan menjual 
+saham PT GDPS untuk dapat mengembangkan bisnis di 
+luar GA Group (melalui network dan financial dari partner).
+Selain tiga strategi utama tersebut, dengan mempertimbangkan 
+pulihnya industri aviasi, GMF kembali melakukan pendekatan 
+partnership dengan airline, MRO, maupun OEM, dengan tetap 
+mengikuti prosedur yang berlaku. Perseroan lebih mengutamakan 
+pelanggan dari negara yang tidak terkena dampak yang signifikan 
+dari pelemahan ekonomi global, terutama para pelanggan 
+dengan kondisi finansial yang sehat. Jenis-jenis kolaborasi 
+yang dilakukan mencakup pengembangan bisnis Engine Shop 
+dan IGTE, Defense Industry, serta kolaborasi dengan maskapai 
+operator untuk menyediakan layanan maintenance di home 
+base maskapai.
+Strategi usaha juga mencakup aspek lainnya di luar bisnis, 
+terutama melalui optimalisasi penerapan Good Corporate 
+Governance (GCG) dan internal process, serta memastikan 
+aspek transparansi dalam pelaporan keuangan tetap 
+terjaga. Sehubungan dengan telah dicabutnya keberlakukan 
+indikator implementasi GCG pada lingkungan BUMN dan 
+mempertimbangkan bahwa pada tahun sebelumnya GCG 
+Assessment telah dilakukan oleh asesor independen, maka pada 
+tahun 2023 Perseroan melakukan self assessment implementasi 
+GCG dengan menggunakan metode penilaian yang ditetapkan 
+oleh Peraturan Otoritas Jasa Keuangan (POJK).
+2.	 Debt Restructuring 
+The Company continued to carry out debt restructuring 
+efforts to manage cash flow and liquidity by restructuring 
+Funding and Vendor Debt facilities, which include long-term 
+and short-term loans.  
+3.	 Equity Improvements 
+The Company divested its subsidiary by selling shares in PT 
+GDPS to develop business outside the GA Group, through 
+network and financial partners.  
+Apart from these three main strategies, considering the recovery 
+of the aviation industry, GMF adopted a partnership approach 
+with airlines, MROs, and OEMs while adhering to applicable 
+procedures. The Company prioritizes customers from countries 
+less impacted by the global economic downturn, especially those 
+with healthy financial conditions. Collaborations include the 
+development of the Engine Shop and IGTE business, Defense 
+Industry, as well as partnerships with airline operators to provide 
+maintenance services at the airline’s home base.  
+The business strategy also covered other aspects outside of 
+business, particularly by optimizing the implementation of 
+Good Corporate Governance (GCG) and internal processes, and 
+ensuring transparency in financial reporting is maintained. With 
+the removal of GCG implementation indicators within SOEs and 
+considering previous year GCG Assessments by independent 
+assessors, in 2023, the Company conducted a self-assessment 
+of GCG implementation using the assessment method stipulated 
+by the Financial Services Authority Regulations (POJK).
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+112
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ASPEK PEMASARAN
+Marketing Aspect
+MARKET SHARE
+GMF serves business consumers with a business-to-business 
+(B2B) approach, dividing its market share into several categories 
+of affiliate group (GA) and non-affiliate group (NGA), as well as 
+global and domestic markets.  
+The global and domestic market share is determined by the 
+domicile of GMF’s clients. The domestic market consists of 
+Indonesian airlines and other companies requiring GMF services 
+operating within Indonesian territory. On the other hand, the 
+global market comprises international clients conducting 
+business activities in Indonesia. GMF holds a strategic advantage 
+in accessing these clients due to its extensive Domestic 
+Outstation Line Maintenance presence at nearly all airports in 
+Indonesia. However, it’s worth noting that GMF does not have 
+an international operational network beyond the territory of 
+Indonesia.
+For GA, the Company is transacting with related parties from 
+Garuda Indonesia Group as defined in PSAK 7 (2015 revision) 
+of “Related Party Disclosures”.
+GA’s market segment includes the Garuda Indonesia Group, 
+and the Company’s role is to support the Group’s operations 
+to provide superior service and added value to its customers. 
+The NGA market refers to a market segment outside the Garuda 
+Indonesia Group, vary from SOEs, private companies, and foreign 
+customers.
+Revenue from the GA segment still dominates the Company’s 
+total revenue in 2023 at 77.2%. This portion of revenue has 
+increased compared to the previous year. NGA customers 
+alone accounted for 22.8% of the Company’s total revenue in 
+2023. Until the end of 2023, the Company’s customers in the 
+NGA segment are international airlines, international cargo 
+airlines, lessors, power generation companies, and several 
+other international airlines.
+PANGSA PASAR
+GMF melayani konsumen bisnis menggunakan pendekatan 
+business to business (B2B) dan membagi pangsa pasarnya ke 
+dalam beberapa kategori yaitu grup afiliasi (GA) dan non-grup 
+afiliasi (NGA), serta pasar global dan domestik. 
+Pangsa pasar global dan domestik yang dilayani GMF dilihat dari 
+domisili usaha dari klien yang ditangani GMF. Pasar domestik 
+merupakan maskapai penerbangan Indonesia dan perusahaan 
+lainnya yang membutuhkan jasa GMF yang beroperasi di wilayah 
+Indonesia. Sedangkan pasar global merupakan klien internasional 
+yang memiliki aktivitas usaha di wilayah Indonesia. GMF memiliki 
+keunggulan untuk menjangkau klien-klien tersebut karena 
+memiliki Outstation Line Maintenance Domestik di hampir 
+seluruh bandar udara yang ada di Indonesia. GMF tidak memiliki 
+jaringan operasional internasional yang berada di luar wilayah 
+Indonesia. 
+Khusus untuk pangsa pasar GA, Perseroan melakukan transaksi 
+dengan pihak-pihak berelasi dari Group Garuda Indonesia 
+sebagaimana didefinisikan dalam PSAK 7 (revisi 2015) 
+“Pengungkapan Pihak-Pihak Berelasi”.
+Pangsa Pasar Group Afiliasi dan Non-Group Afiliasi
+Market Share by Group Affiliation and Non-Group Affiliation
+Uraian
+Description
+2023
+2022
+Jumlah
+Total
+(USD)
+Komposisi
+Composition
+%
+Jumlah
+Total
+(USD)
+Komposisi
+Composition
+%
+GA
+286,559,134
+76.8%
+136,678,227 
+57.3% 
+NGA
+86,647,851
+23.2% 
+102,025,666 
+42.7% 
+Segmen pasar GA mencakup Garuda Indonesia Group dan 
+Perseroan berperan untuk mendukung operasional Group 
+sehingga dapat memberikan pelayanan yang unggul dan nilai 
+tambah kepada para pelanggannya. Pasar NGA merupakan 
+segmen pasar di luar Garuda Indonesia Group dari sektor BUMN, 
+swasta, maupun luar negeri.
+Pendapatan dari segmen GA masih mendominasi total 
+pendapatan Perseroan pada tahun 2023 yaitu sebesar 77,2%. 
+Porsi pendapatan ini mengalami kenaikan dibandingkan tahun 
+sebelumnya. Pelanggan NGA sendiri menyumbang 22,8% dari 
+total pendapatan Perseroan pada tahun 2023. Hingga akhir 
+tahun 2023, pelanggan-pelanggan Perseroan di segmen NGA 
+adalah maskapai internasional, maskapai kargo internasional, 
+lessor, perusahaan pembangkit listrik, dan beberapa perusahaan 
+lainnya.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+113
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Perseroan juga memiliki pangsa pasar berdasarkan pangsa pasar 
+global dan domestik. Pangsa pasar global yang dimiliki Perseroan 
+mencakup negara-negara di wilayah Asia Tenggara, Asia Timur, 
+Asia Selatan, Timur Tengah, Eropa, Oceania, Afrika. GMF saat 
+ini memiliki 69 kantor perwakilan domestik yang tersebar di 
+seluruh bandara besar di tanah air dari Sabang sampai Merauke.
+Pangsa Pasar Global 
+Global Market Share
+Uraian
+Description
+2023
+2022
+Jumlah
+Total
+(MUSD)
+Komposisi
+Composition
+%
+Jumlah
+Total
+(MUSD)
+Komposisi
+Composition
+%
+Pendapatan GMF
+Revenue GMF
+373
+0.43%
+238
+0.3%
+Pendapatan Kompetitor dari Pasar 
+Global
+Competitor Income from the 
+Global Market
+87 ,222
+99.6%
+78,374
+99.7%
+Jumlah Pendapatan Industri 
+MRO dari Pasar Global
+Total MRO Industry Revenues from 
+Global Markets
+87,595
+100.0%
+78,612
+100.0%
+Pangsa pasar global GMF tahun 2023 diperkirakan sebesar 0,4%, 
+yang mengalami kenaikan apabila dibandingkan dengan pangsa 
+pasar global tahun 2022. Perubahan tersebut disebabkan oleh 
+pulihnya pasar aviasi pasca pandemi.
+Perseroan melakukan kegiatan pemasaran melalui persaingan 
+yang sehat dan menghindari praktik monopoli. Sepanjang tahun 
+2023 tidak terjadi insiden ketidakpatuhan terkait informasi dan 
+pelabelan produk serta jasa yang dilakukan oleh Perseroan. 
+[417-2]
+Pangsa Pasar Domestik
+Domestic Market Share
+Uraian
+Description
+2023
+2022
+Jumlah
+Total
+(MUSD)
+Komposisi
+Composition
+%
+Jumlah
+Total
+(MUSD)
+Komposisi
+Composition
+%
+Pendapatan GMF
+Revenue GMF
+373
+25.26%
+173
+16%
+Pendapatan Kompetitor dari Pasar 
+Domestic
+Competitor Income from the 
+Global Market
+931
+74.7%
+896
+84%
+Jumlah Pendapatan Industri 
+MRO dari Pasar Domestic
+Total MRO Industry Revenues from 
+Domestic Markets
+1,246
+100.00%
+1,069
+100.00%
+The Company also has market shares based on global and 
+domestic market shares. The Company’s global market share 
+includes countries in Southeast Asia, East Asia, South Asia, 
+Middle East, Europe, Oceania, Africa. GMF currently has 69 
+domestic representative offices spread across all major airports 
+in the country from Sabang to Merauke.
+GMF’s global market share in 2023 is estimated to be 0.4%, 
+which is higher than the global market coverage in 2022. The 
+change occurred due to the recovery of the aviation market 
+after the pandemic.
+The Company conducts marketing activities through fair 
+competition and avoids monopolistic practices. Throughout 
+2023, there were no incidents of non-compliance related to 
+information and labelling of products and services carried out 
+by the Company. [417-2]
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+114
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Pangsa pasar domestik GMF tahun 2023 diperkirakan sebesar 
+25%, meningkat dibandingkan dengan perkiraan pangsa pasar 
+domestik tahun 2022.
+STRATEGI DAN KINERJA PEMASARAN
+Strategi pemasaran Perseroan pada tahun 2023 bertujuan 
+untuk menarik minat klien baru dan menjaga loyalitas klien 
+existing yang telah direalisasikan melalui berbagai aktivitas 
+sebagai berikut:
+1.	 Melakukan pengembangan pasar ke commercial aircraft ke 
+pasar business jet dan lessor
+2.	 Melakukan diversifikasi pasar secara agresif di luar commercial 
+aircraft, menjangkau industri militer dan power services
+3.	 Meningkatkan pendapatan segmen non-afiliasi melalui 
+strategi win-back caotive customer dan akuisisi pelanggan 
+baru dengan kondisi keuangan yang baik 
+4.	 Melakukan strategi retensi pelanggan demi meningkatkan 
+share of wallet pelanggan saat ini
+Di segmen pasar GA, Perseroan melakukan aktivitas bisnisnya 
+untuk mendukung operasional Garuda Indonesia sehingga dapat 
+memberikan pelayanan yang unggul dan nilai tambah kepada 
+para pelanggannya. Perseroan melayani pasar NGA di luar Group 
+Garuda Indonesia yang mencakup berbagai perusahaan baik dari 
+sektor BUMN, swasta maupun luar negeri. Hingga akhir tahun 
+2023, klien di segmen NGA adalah maskapai kargo internasional, 
+lessor, perusahaan pembangkit listrik, dan beberapa maskapai 
+internasional lainnya. Pangsa pasar internasional yang dimiliki 
+Perseroan mencakup negara-negara di wilayah Asia Tenggara, 
+Asia Timur, Asia Selatan, Timur Tengah, Eropa, Oceania, Afrika.
+POSISI GMF DI PASAR MRO
+Berdasarkan penjelasan mengenai pangsa pasar GMF, bila 
+dibandingkan dengan pemain MRO lainnya secara nasional, maka 
+GMF menempati posisi pertama, dengan pangsa pasar 25.26%.
+Bila dibandingkan dengan pangsa pasar internasional, 
+posisi GMF dibandingkan pemain MRO lainnya secara global 
+menempati posisi ke delapan, dengan pangsa pasar 0.43% 
+secara internasional.
+GMF’s domestic market share in 2023 is estimated at 25%, an 
+increase compared to the estimated domestic market share 
+in 2022.
+MARKETING STRATEGIES AND 
+PERFORMANCE
+The Company’s marketing strategy in 2023 was set with 
+the objective to attract new clients and maintain the loyalty 
+of existing clients, which has been realized through various 
+activities as follows:
+1.	 Market development to cover commercial aircraft including 
+business jet and lessors.
+2.	 Aggressively diversify into markets outside of commercial 
+aircraft, covering the military industry and power services
+3.	 Increasing non-affiliated segment revenue through win-
+back strategy of caotive customers and acquisition of new 
+customers with good financial standing
+4.	 Conducting customer retention strategy to increase share 
+of wallet of existing customers
+For the GA market, the Company conducting business to 
+support Garuda Indonesia in providing superior services that 
+have added values for the customers. The Company serves 
+the NGA market outside of Garuda Indonesia Group covering 
+various companies in SOE, private sectors, and international 
+companies. By the end of 2023, the Company’s clients from 
+the NGA sector are international cargo airlines, lessors, power 
+generation companies, and several other international airlines. 
+The international market coverage consists of countries in 
+Southeast Asia, East Asia, South Asia, Middle East, Europe, 
+Oceania, Africa.
+GMF POSITION IN MRO MARKET
+Based on the explanation of GMF’s market share, when compared 
+to other MRO players nationally, GMF occupies the first position, 
+with a market share of 25.26%.
+When compared to international market share, GMF’s position 
+compared to other MRO players globally ranks eighth, with a 
+market share of 0.43% internationally.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+115
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+TINJAUAN OPERASI PER SEGMEN USAHA
+Operational Review by Business Segment
+Penyusunan laporan keuangan Perseroan dilakukan berdasarkan 
+PSAK 5 (Penyesuaian 2015) tentang Segmen Operasi. Perseroan 
+melaporkan segmen-segmen berdasarkan jenis jasa yang 
+diberikan yaitu pemeliharaan dan perbaikan pesawat airframe, 
+engine dan component, jasa pemeliharaan dan perbaikan 
+pesawat line maintenance dan technical ground handling, 
+serta operasi lain-lain yang didapatkan dari kegiatan entitas 
+anak. Perseroan tidak melaporkan informasi terkait kinerja 
+berdasarkan daerah geografis.
+Berikut disampaikan struktur pendapatan Perseroan yang 
+menggambarkan skala bisnis dan kontribusi masing-masing 
+segmen terhadap keseluruhan pendapatan GMF di tahun 2022.
+Jumlah dan Kontribusi Segmen Primer Terhadap Pendapatan GMF
+Number and Contribution of Primary Segments to GMF Revenues
+Segmen
+Segment
+2023
+2022
+Kenaikan (Penurunan)
+Increase (Decrease)
+Jumlah
+Total
+(USD)
+Kontribusi
+Contribution
+(%)
+Jumlah
+Total
+(USD)
+Kontribusi
+Contribution
+(%)
+Nominal
+Nominal
+(USD)
+Persentase
+Percentage
+(%)
+(1)
+(2)
+(3)
+(4)
+(4 = 3-1)
+(5 = 4/3)
+Reparasi dan 
+Overhaul
+Reparations & 
+Overhaul
+288,311,230
+77.25% 
+174,804,710
+73.23%
+113,506,520
+64.93%
+Perawatan
+Maintenance
+65,275,499
+17.49%
+44,128,043
+18.49%
+21,147,456
+47.92%
+Operasi lain-lain
+Other Operations
+19,620,255
+5.26%
+19,771,140
+8.28%
+(150,885)
+(0.76%)
+Jumlah 
+Pendapatan
+Total Revenues
+373,206,984
+100%
+238,703,893
+100.00%
+134,503,091
+56.35%
+Komposisi Pendapatan Segmen 
+Revenue Composition by Segment
+Reparasi dan Overhaul 
+Reparations and Overhaul
+Perawatan
+Maintenance
+Operasi Lain-lain
+Other Operations
+5,26%
+8,28%
+77,25%
+73,23%
+17,49%
+18,49%
+2023
+2022
+The Company adopted PSAK 5 (2015 Adaptation) on Operating 
+Segment in preparing the financial statements. The Company 
+reports segments based on types of services, maintenance and 
+repair services for airframe, engine and component, aircraft and 
+line maintenance repair and technical ground handling services, 
+and other operations from subsidiaries. The Company does not 
+report performance based on geographical area.
+The following is the information on revenue structure that 
+describes the Company’s business scale and contribution of 
+each segment against the entire revenues of GMF in 2022. 
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+116
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Pada tahun 2023, komposisi pendapatan terbesar masih 
+didominasi oleh jasa reparasi dan overhaul sebesar 77.25%, naik 
+dari komposisi tahun sebelumnya sebesar 73.23%. Peningkatan 
+kontribusi segmen ini dipengaruhi oleh adanya pekerjaan 
+reaktivasi pesawat dari Garuda Group.
+Selain itu, penurunan komposisi pendapatan terlihat dari segmen 
+perawatan dan operasi lain-lain masing-masing sebesar 17.49% dan 
+5.26% dibandingkan tahun sebelumnya. Meskipun secara komposisi 
+turun, namun  segmen perawatan mengalami peningkatan nilai 
+sebesar 47.92% dibandingkan tahun sebelumnya.  
+Perseroan membagi segmen pasar yang dilayaninya berdasarkan 
+group afiliasi (GA) dan non-group afiliasi (NGA). Kegiatan usaha 
+yang dikembangkan Perseroan dan profitabilitas masing-masing 
+segmen diuraikan di bawah ini.
+SEGMEN REPARASI DAN OVERHAUL
+Tiga Jenis Aktivitas Operasional
+Three Types of Operational Activities
+Airframe
+Engine
+Component
+AIRFRAME MAINTENANCE
+Perseroan memiliki 3 hangar untuk melakukan sejumlah aktivitas 
+bisnis di Airframe Maintenance dengan kapasitas produksi 
+untuk menampung 5 pesawat berbadan lebar dan 15 pesawat 
+berbadan kecil secara bersamaan. Terdapat 1 line khusus untuk 
+pengecatan pesawat udara dan workshop.
+Jenis Pelayanan
+Types of Services
+GMF memiliki teknisi berpengalaman dan terampil untuk memberikan solusi Airframe Maintenance yang 
+efektif dan efisien sebagai berikut:
+GMF technicians are very experienced and excellent at what they do to provide the following Airframe 
+Maintenance solution effectively and efficiently:
+Heavy chek rutin | routine heavy check;
+Modifikasi besar | major modification;
+Pengecatan eksterior pesawat hingga finishing dekoratif | aircraft exterior painting and decorative finishing;
+Renovasi kabin | Cabin refurbishment;
+Perbaikan struktur pesawat | large structure repairs;
+Perawatan dan overhaul pesawat | aircraft maintenance and overhaul.
+Sertifikasi Pelayanan 
+Pesawat
+Certification of Aircraft 
+Services
+GMF mampu menangani berbagai jenis pesawat yang telah mendapatkan sertifikasi dari Direktorat 
+Kelaikudaraan dan Pengoperasian Pesawat Udara (DKUPPU), Federal Aviation Administration (FAA), 
+European Aviation Safety Agency (EASA), dan otoritas penerbangan negara lain seperti:
+GMF is also capable of handling many types of aircrafts as follows with certifications from Directorate of 
+Airworthiness and Aircraft Operation (DKUPPU), Federal Aviation Administration (FAA), European Aviation 
+Safety Agency (EASA), and the aviation authorities of other countries: 
+A320s/A320NEO; 
+A330s /A330NEO; 
+B737CL /B737NG;
+B747s; 
+B777, CRJ1000, ATR72.
+In 2023, the largest revenue composition is still dominated by 
+repair and overhaul services at 77.25%, rising from the previous 
+year’s composition of 73.23%. The increase in the contribution 
+of this segment was influenced by the aircraft reactivation work 
+of the Garuda Group.
+In addition, a decrease in revenue composition was seen from 
+the maintenance segment and other operations by 17.49% and 
+5.26% respectively compared to the previous year. Despite the 
+decrease in composition, the maintenance segment experienced 
+an increase in value of 47.92% compared to the previous year. 
+The Company divides its service based on the affiliated group 
+(GA) and non-affiliated group (NGA) market segments. The 
+activities that the Company was developing and the profitability 
+of each segment are as follows. 
+REPARATION AND OVERHAUL
+AIRFRAME MAINTENANCE
+The Company has 3 hangars to perform several activities at 
+Airframe Maintenance with a production capacity that can 
+accommodate 5 wide-body aircraft and 15 small-body aircraft 
+simultaneously. There is a special line for painting aircraft and 
+workshops.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+117
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Jumlah Event Maintenance 
+Total Maintenance Events
+Dalam Event
+In Event
+Segmen Pasar
+Market Segment
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi 2022
+Realization 2022
+Pertumbuhan 
+(Growth) YoY
+Pencapaian
+Achievement
+GA
+73 
+83
+89
+(17.98%)
+ 87.95%
+NGA
+99
+193
+72
+37.50%
+ 51.30%
+Total
+172
+276
+161
+6.83%
+ 62.32%
+Jika dibandingkan dengan kinerja pada tahun sebelumnya, 
+load pekerjaan dari grup afiliasi (GA) menurun sebesar 17.98%. 
+Sedangkan pada non-grup afiliasi (NGA), terdapat peningkatan 
+sebesar 37.50%. Kondisi ini terjadi karena pekerjaan perawatan 
+pesawat berbadan lebar yang juga mempengaruhi pencapaian 
+target setiap segmen.  
+ENGINE WORKSHOP
+GMF memiliki fasilitas Engine Workshop, Engine and APU Test 
+Cell, dan Engine Services untuk melakukan perawatan mesin 
+pesawat dan Auxilliary Power Unit (APU). GMF juga mampu 
+melakukan perawatan mesin CFM56-5 untuk pesawat seri 
+A320 dan mesin PW100 untuk pesawat seri ATR.
+Beberapa jenis pesawat yang ditangani GMF adalah:
+•	 Mesin CFM56-7;
+•	 APU GTCP85 yang terpasang di pesawat seri B737-
+300/400/500;
+•	 Mesin CFM56-5;
+•	 APU GTCP131-9B yang terpasang di pesawat seri B737NG;
+•	 APU GTCP131-9A yang terpasang di pesawat seri A320;
+•	 APU GTCP331-350 untuk pesawat seri A330.
+Jumlah Event Workshop 
+Total Workshop Events
+Dalam Event
+In Event
+Segmen Pasar
+Market Segment
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi 2022
+Realization 2022
+Pertumbuhan 
+(Growth) YoY
+Pencapaian
+Achievement
+GA
+33
+20
+32
+3.13%
+ 165.00%
+NGA
+10
+40
+36
+(72.22%)
+ 25.00%
+Total
+43
+60
+68
+(36.76%)
+ 71.67%
+Jika dibandingkan dengan kinerja pada tahun sebelumnya, load 
+pekerjaan dari GA meningkat sebesar 3.13% dibandingkan tahun 
+sebelumnya. penurunan load juga terjadi pada NGA sebesar 
+72.22%.  Kondisi ini terjadi karena peningkatan utilisasi pesawat 
+GA.  
+When compared to the performance in the previous year, the 
+workload of the affiliated group (GA) decreased by 17.98%. 
+While in the non-affiliated group (NGA), there was an increase 
+of 37.50%. This condition occurred due to wide-body aircraft 
+maintenance work which also affected the achievement of 
+each segment’s target.  
+ENGINE WORKSHOP
+GMF owns various facilities of Engine Workshop, Engine and 
+APU Test Cell, and Engine Services to maintain the aircraft engine 
+and Auxilliary Power Unit (APU). GMF is also capable to perform 
+maintenance on CFM56-5 engine for A320 series aircraft and 
+PW100 engine for the ATR series aircraft. 
+Other types of aircraft that GMF can handle are as follows:
+•	 CFM56-7 engine type; 
+•	 GTCP85 APU type installed in B737-300/400/500 series 
+aircraft;
+•	 CFM56-5 engine type;
+•	 GTCP131-9B APU installed in B737NG series aircraft;
+•	 GTCP131-9A APU installed in A320 series aircraft;
+•	 GTCP331-350 APU for A330 series aircraft.
+ When compared to the previous year’s performance, GA’s 
+workload increased by 3.13% compared to the previous year. 
+NGA’s workload also decreased by 72.22%.  This condition 
+occurred due to increased utilisation of GA aircraft.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+118
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+COMPONENT SERVICES
+Segmen operasi Component Services yang dimiliki GMF telah 
+memperoleh sertifikasi dari DKUPPU, FAA, EASA, dan AS 9100. 
+Segmen ini memiliki sejumlah fasilitas workshop penting untuk 
+melakukan perawatan komponen pesawat berbagai seri. 
+Workshop dan laboratorium GMF juga telah dilengkapi dengan 
+berbagai peralatan testing berteknologi tinggi untuk menjamin 
+kualitas pekerjaan. Perseroan juga telah menawarkan pelayanan 
+tambahan kepada pelanggan untuk menjaga ketersediaan 
+pasokan material melalui component pooling.
+Workshop
+Workshop
+Sertifikasi 
+Pelayanan Pesawat
+Aircraft Services Certification
+Kapabilitas 
+Repair & Overhaul
+Repair & Overhaul Capabilities 
+Peralatan Testing
+Testing Equipment
+•	
+Avionics
+•	
+Electro Mechanical and 
+Oxygen
+•	
+Wheel Brake & Landing Gear
+•	
+Calibration and Non 
+Destructive Test (NDT)
+•	
+B737
+•	
+B747
+•	
+A320 
+•	
+A330 
+•	
+B777 
+•	
+CRJ1000 
+•	
+ATR72
+•	
+Airplane instruments
+•	
+Electronic controls
+•	
+Radar and navigation
+•	
+Flight data recorders and gyros
+•	
+Wheel Brake & Landing Gear
+•	
+ATEC (Automatic Test 
+Equipment Complex)
+•	
+IRIS (Integrated Radio 
+Instrument System) 
+•	
+INS (Inertial Navigation 
+System) 
+•	
+IDG (Integrated Drive 
+Generator)
+•	
+Universal Testing Equipments
+Jumlah Event Services 
+Total Services Events
+Dalam Event
+In Event
+Segmen Pasar
+Market Segment
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi 2022
+Realization 2022
+Pertumbuhan 
+(Growth) YoY
+Pencapaian
+Achievement
+GA
+35,387
+30,820
+ 33,747
+ 4.86%
+114.82%
+NGA
+4,782
+2,796
+2,443 
+ 95.74%
+ 171.03%
+Total
+40,169
+33,616
+36,190 
+ 10.99%
+ 119.49%
+Jika dibandingkan dengan kinerja pada tahun sebelumnya, 
+load pekerjaan dari grup afiliasi (GA) meningkat sebesar 4.86%. 
+Sedangkan pada non-grup afiliasi (NGA), terdapat peningkatan 
+sebesar 95.74%. Kondisi ini terjadi karena peningkatan utilisasi 
+pesawat GA yang juga mempengaruhi pencapaian target setiap 
+segmen.  
+KINERJA KEUANGAN DAN PROFITABILITAS
+Kinerja Keuangan Segmen Reparasi dan Overhaul
+Reparations and Overhaul Financial Performance
+Keterangan
+Description
+Realisasi 2023
+Realization 2023
+(USD)
+Realisasi 2022
+Realization 2022
+(USD)
+Target 2023
+Target 2023
+(USD)
+Kenaikan 
+(Penurunan) 
+Terhadap 2022
+Increase (Decrease) 
+to 2022 
+Pencapaian Target 
+2023
+Target Achievement 
+2023
+Pendapatan
+Revenues
+288,311,230 
+44,128,043
+321,638,898
+64.93%
+89.64%
+(Rugi)/Laba
+(Loss)/Profit
+15,653,044
+(1,435,208)
+18,054,682
+(40.99%)
+86.70%
+Aset Tetap
+Fixed Assets
+129,145,415
+(1,435,208)
+125,496,018
+(2.15%)
+102.91%
+ENGINE WORKSHOP
+The Component Services of GMF has obtained certifications from 
+DKUPPU, FAA, EASA, and AS 9100. This segment has several 
+workshop facilities that are important for the maintenance 
+of various series of aircraft component. The workshop and 
+laboratory of GMF have all been equipped with advanced testing 
+technology to guarantee the quality of work. The Company also 
+offers additional services so that customers are able to book for 
+certain types of material through component pooling.
+When compared to the performance in the previous year, 
+the workload of the affiliated group (GA) increased by 4.86%. 
+Meanwhile, for the non-affiliated group (NGA), there was an 
+increase of 95.74%. This was due to an increase in GA aircraft 
+utilisation which also affected the achievement of targets for 
+each segment.  
+FINANCIAL PERFORMANCE AND PROFITABILITY
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+119
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Kinerja Keuangan Segmen Reparasi dan Overhaul
+Reparations and Overhaul Financial Performance
+Keterangan
+Description
+Realisasi 2023
+Realization 2023
+(USD)
+Realisasi 2022
+Realization 2022
+(USD)
+Target 2023
+Target 2023
+(USD)
+Kenaikan 
+(Penurunan) 
+Terhadap 2022
+Increase (Decrease) 
+to 2022 
+Pencapaian Target 
+2023
+Target Achievement 
+2023
+Penyusutan
+Depreciation
+18,886,371
+1,377,584
+16,431,906
+(13.42%)
+114.94%
+Pendapatan dari segmen Reparasi dan Overhaul pada tahun 
+2023 tercatat USD288.31 juta atau meningkat sebesar 64.93% 
+dibandingkan tahun sebelumnya. Pencapaian ini 89.64% dari 
+target tahun 2023. Peningkatan terutama disebabkan oleh 
+aktivitas penerbangan yang kembali pulih setelah pandemi pada 
+tahun sebelumnya. Segmen Repair & Overhaul mencatatkan 
+laba usaha sebesar USD15.65 juta, menurun dari  laba usaha 
+pada tahun sebelumnya. Laba usaha yang dicapai segmen ini 
+lebih rendah dari target sebesar USD18.05 juta. Penurunan 
+disebabkan adanya penyisihan nilai piutang usaha dan aset 
+kontrak kepada pelanggan. Penyusutan menurun sebesar 13.42% 
+dibandingkan tahun sebelumnya karena adanya aset yang sudah 
+terdepresiasi penuh sepanjang 2023.  
+RENCANA PENGEMBANGAN
+Reparasi & Overhaul tetap menjadi penyumbang pendapatan 
+terbesar bagi GMF. Perseroan memandang bahwa segmen 
+ini akan tetap menjadi tumpuan utama sehingga diperlukan 
+strategi khusus untuk mengembangkan kapasitas bisnis dan 
+kinerja pendapatannya.
+Pada tahun 2024, Perseroan akan fokus untuk mengembangkan 
+kapasitas internal sehingga dapat memperkuat posisi bisnis 
+reparation & overhaul. Upaya pengembangan mencakup QCDS 
+Improvement, Operational Cost Eficiency, mengembangkan 
+InHouse Capability, dan mengakselerasi pengembangan SDM.
+SEGMEN PERAWATAN
+GMF memberikan jasa Line Maintenance untuk penerbangan 
+domestik dan internasional melalui lebih dari 67 line station di 
+seluruh Indonesia, terutama di Bandar Udara Soekarno Hatta, 
+Cengkareng, Banten. GMF juga melayani sejumlah area di seluruh 
+dunia termasuk Jeddah, Medinah, Kuala Lumpur, Singapura, 
+dan Melbourne.
+Jenis Perawatan Pesawat
+Types of Aircraft Services
+Sertifikasi Pelayanan Pesawat
+Specifications of Aircraft Services
+Fasilitas MCC (Maintenance Control Center)
+MCC (Maintenance Control Center) Facilities 
+•	
+Pre-Flight Check 
+•	
+Transit Check 
+•	
+Daily Check 
+•	
+A Check (perawatan sampai dengan 600 jam 
+terbang | maintenance up to 600 flight hours)
+•	
+Transit semalam dan situasi darurat AOG (Pesawat 
+di Darat atau Aircraft on Ground) | Overnight 
+transit and emergency AOG (Aircraft on Ground) 
+•	
+B737 
+•	
+B747
+•	
+B777
+•	
+B787 
+•	
+A320 
+•	
+A330
+•	
+A350 
+•	
+CRJ1000
+•	
+ATR72
+Memantau operasional perawatan pesawat udara 
+guna mengurangi perawatan yang tidak terjadwal 
+dan keterlambatan teknis.
+Monitor the operation of aircraft maintenance to 
+reduce unscheduled maintenance and technical 
+delay. 
+Revenue from the Repairs and Overhaul segment in 2023 was 
+USD288.31 million, an increase of 64.93% over the previous year. 
+This achievement is 89.64% of the 2023 target. The increase was 
+mainly due to aviation activities recovering after the pandemic 
+in the previous year. The Repair & Overhaul segment recorded 
+an operating profit of USD15.65 million, a decrease from the 
+operating profit in the previous year. The operating profit from 
+this segment was lower than the target of USD18.05 million. 
+The decrease was due to the provision for trade receivables 
+and contract assets to customers. Depreciation decreased by 
+13.42% compared to the previous year due to fully depreciated 
+assets through 2023.  
+DEVELOPMENT PLAN
+Most of GMF’s revenues still came from the Reparation & 
+Overhaul. This segment is still going to be the main foothold 
+and therefore the Company needs a special strategy to improve 
+its capacity and revenue. 
+In 2024, the Company will focus on developing internal capacity 
+to strengthen the position of the repair & overhaul business. 
+The development will include QCDS Improvement, Operational 
+Cost Efficiency, developing InHouse Capability, and accelerating 
+HR development.
+MAINTENANCE
+GMF provides Line Maintenance services for domestic and 
+international flights through more than 67 line stations that 
+the Company owns all over Indonesia, especially in Soekarno 
+Hatta Airport, Cengkareng, Banten. GMF also serves in a number 
+of areas abroad including Jeddah, Medinah, Kuala Lumpur, 
+Singapore, and Melbourne.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+120
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Jumlah Event Services 
+Total Services Events
+Dalam Event
+In Event
+Segmen Pasar
+Market Segment
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi 2022
+Realization 2022
+Pertumbuhan 
+(Growth) YoY
+Pencapaian
+Achievement
+GA
+184,161
+235,419
+126,505
+99.85%
+78.23%
+NGA
+14,752
+27,812
+19,352
+(99.92%)
+53.04%
+Total
+198,913
+263,231
+145,857
+99.86%
+75.57%
+Secara keseluruhan, kinerja segmen bisnis ini mengalami 
+peningkatan sebesar 99.86% dibandingkan tahun sebelumnya 
+yang lebih dipengaruhi oleh optimalnya utilisasi pesawat GA.  
+KINERJA KEUANGAN DAN PROFITABILITAS
+Kinerja Keuangan Segmen Perawatan
+Maintenance Financial Performance
+Keterangan
+Description
+Realisasi 2023
+Realization 2023
+(USD)
+Realisasi 2022
+Realization 2022
+(USD)
+Target 2023
+Target 2023
+(USD)
+Kenaikan 
+(Penurunan) 
+Terhadap 2022
+Increase (Decrease) 
+to 2022 
+Pencapaian Target 
+2023 
+Target Achievement 
+2023 
+Pendapatan
+Revenues
+65,275,499
+44,128,043
+55,393,448
+47.92%
+117.84%
+(Rugi)/Laba
+(Loss)/Profit
+13,138,126
+(1,435,208)
+(3,030,272)
+1,015.42%
+(433.56%)
+Aset Tetap
+Fixed Assets
+2,407,856
+3,001,662
+3,241,158
+(19.78%)
+74.29%
+Penyusutan
+Depreciation
+1,426,991
+1,377,584
+2,331,239
+3.59%
+61.21%
+Pendapatan dari segmen Perawatan pada tahun 2023 tercatat 
+USD65.27 juta atau meningkat sebesar 47.92% dibandingkan 
+tahun sebelumnya. Pencapaian ini 117.84% dari target tahun 
+2023. Peningkatan terutama disebabkan pleh peningkatan 
+jumlah pesawat yang dioperasikan pihak berelasi. Segmen ini 
+mencatatkan peningkatan laba usaha menjadi USD13.14 juta 
+dibandingkan tahun sebelumnya. Dari sisi target, laba usaha 
+yang dibukukan lebih tinggi dari target, yaitu USD3.03 juta. 
+Peningkatan laba dipengaruhi oleh inisiatif tim Manajemen 
+dalam memastikan kegiatan produksi berjalan lebih efisien 
+tanpa mengurangi kualitas pengerjaan.  
+RENCANA PENGEMBANGAN
+Pada tahun 2024, Perseroan akan berfokus pada meningkatkan 
+kinerja internal (pemenuhan SLA dan QCDS) dan ekspansi 
+pelanggan NGA. Selain itu, Perseroan juga akan menyesuaikan 
+kapasitas segmen bisnis perawatan mengikuti dinamika bisnis 
+terkini.  
+Overall, the performance of this business segment increased 
+by 99.86% compared to the previous year which was more 
+influenced by the optimal utilisation of GA aircraft.  
+FINANCIAL PERFORMANCE AND PROFITABILITY
+Revenue from the Maintenance segment in 2023 was recorded 
+at USD65.27 million, higher by 47.92% compared to the previous 
+year. This achievement reached 117.84% of the 2023 target. 
+The increase was mainly due to an increase in the number of 
+aircraft operated by related parties. This segment recorded an 
+increase in operating profit to USD13.14 million compared to the 
+previous year. In terms of target, the achievement was higher 
+than the target of USD3.03 million. The increase in profit was 
+influenced by the Management team’s initiatives in making the 
+Company operate more efficient while keeping the production 
+at its highest quality.   
+DEVELOPMENT PLAN
+In 2024, the Company will focus on improving internal 
+performance (SLA and QCDS fulfilment) and NGA customer 
+expansion. In addition, the Company will also adjust the capacity 
+of the maintenance segment following the latest business 
+dynamics. 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+121
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+SEGMEN OPERASI LAIN-LAIN
+Perseroan menjalankan segmen Operasi Lain-lain yang antara 
+lain mencakup Manpower Supply serta Facility Management 
+melalui anak usahanya yaitu PT Garuda Daya Pratama Sejahtera 
+(selanjutnya disingkat “PT GDPS” atau “GDPS”).
+KINERJA KEUANGAN DAN PROFITABILITAS
+Kinerja Keuangan Segmen Operasi Lain-Lain
+Other Segment Financial Performance
+Keterangan
+Description
+Realisasi 2023
+Realization 2023
+(USD) 
+Realisasi 2022
+Realization 2022
+(USD)
+Target 2023
+Target 2023
+(USD)
+Kenaikan 
+(Penurunan)
+Terhadap 2022
+Increase (Decrease) 
+to 2022 
+Pencapaian Target 
+2023
+Target Achievement 
+2023 
+Pendapatan
+Revenues
+19,620,255
+19,771,140
+24,121,617
+(0.76%)
+81.34%
+(Rugi)/Laba
+(Loss)/Profit
+(1,089,770)
+(221,507)
+379,767
+391.98%
+(286.96%)
+Aset Tetap
+Fixed Assets
+202,247
+253,197
+697,179
+(20.12%)
+29.01%
+Penyusutan
+Depreciation
+59,391
+80,563
+94,594
+(26.28%)
+62.79%
+Pendapatan dari segmen Operasi Lain-lain pada tahun 
+2023 tercatat USD19.62 juta atau menurun sebesar 0.76% 
+dibandingkan tahun sebelumnya. Pencapaian ini setara dengan 
+81.34% dari target tahun 2023.  Rugi usaha segmen ini menurun 
+sebesar 391.98% menjadi negatif USD1.1 juta dibandingkan 
+tahun sebelumnya. Dari sisi target, tingkat laba ini belum 
+memenuhi target, dengan pencapaian sebesar 286.96% dari 
+target. Penurunan laba antara lain dipengaruhi oleh penyisihan 
+nilai piutang usaha. Penyusutan menurun sebesar 26.28% 
+dibandingkan tahun sebelumnya dikarenakan adanya aset yang 
+sudah terdepresiasi penuh sepanjang 2023.  
+RENCANA PENGEMBANGAN
+Pada tahun 2024, Perseroan akan melanjutkan rencana penjualan 
+saham kepemilikan atas PT GDPS. PT GDPS ditargetkan untuk 
+dapat lebih mengembangkan bisnis di luar Garuda Group (melaui 
+network dan financial support dari mitra.
+Selain itu, Perseroan juga akan melakukan pengembangan bisnis 
+IGTE melalui upaya peningkatan penetrasi pasar, peningkatan 
+kapabilitas internal, dan juga pendekatan ke manufacturer dan 
+OEM untuk dapat memiliki kontrak pekerjaan jangka panjang.
+OTHER OPERATION
+The Company has other segment called Other Operations 
+covering Manpower Supply and Facility Management which 
+done by its subsidiary, PT Garuda Daya Pratama Sejahtera (refer 
+to as “PT GDPS” or “GDPS”).
+FINANCIAL PERFORMANCE AND PROFITABILITY
+Revenue from the Other Operations segment in 2023 was 
+USD19.62 million, lower by 0.76% compared to the previous 
+year. This achievement is equivalent to 81.34% of the 2023 
+target. The operating loss of this segment decreased by 391.98% 
+to negative USD1.1 million compared to the previous year. In 
+terms of target, this level of profit has not met the target, with 
+an achievement of 286.96% of the target. The decrease in profit 
+was partly influenced by the allowance for trade receivables. 
+Depreciation decreased by 26.28% compared to the previous 
+year due to fully depreciated assets throughout 2023.  
+DEVELOPMENT PLAN
+In 2024, the Company will continue its plan to sell its ownership 
+stake in PT GDPS. It is expected that PT GDPS will be able to 
+further develop its business outside the Garuda Group (through 
+network and financial support from partners).
+In addition, the Company will also develop the IGTE business 
+through various improvement efforts in terms of market 
+penetration and internal capabilities, and also approaching 
+manufacturers and OEMs to secure long-term contracts.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+122
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+PENINGKATAN YANG MATERIAL DIKAITKAN 
+DENGAN JUMLAH BARANG YANG DIJUAL/
+BARANG BARU
+Berdasarkan informasi kinerja per segmen operasi, dapat 
+disimpulkan bahwa terjadi peningkatan pendapatan dari 
+banyaknya jasa yang diberikan Perseroan untuk seluruh segmen 
+yang dilayaninya: GA, NGA, domestik, dan internasional. Jasa 
+MRO yang diberikan GMF untuk para kliennya merupakan jasa 
+yang tercakup dalam setiap segmen operasi seperti penjelasan 
+sebelumnya. Tidak terdapat layanan baru yang diberikan GMF 
+pada tahun 2023 yang memiliki kontribusi material terhadap 
+pendapatan usaha secara keseluruhan. 
+Secara garis besar segmen GA/NGA mengalami peningkatan 
+cukup signifikan yaitu sebesar 56% pada tahun 2023 
+dibandingkan tahun sebelumnya sehingga mendorong 
+peningkatan pendapatan tahun 2023 mencapai USD373,2 juta.
+MATERIALS INCREASE RELATED TO SALES 
+VOLUME/NEW PRODUCTS
+Based on information regarding the performance of each 
+business segment, it can be concluded that there has been an 
+increase in revenue from the various services provided by the 
+Company across all segments it serves: GA, NGA, domestic, and 
+international. The MRO services provided by GMF to its clients 
+are included in each operating segment, as previously explained. 
+There were no new services provided by GMF in 2023 that would 
+have a material contribution to the overall business revenue.  
+Overall, the GA/NGA segment experienced a significant increase, 
+namely by 56% in 2023 compared to the previous year, thereby 
+driving the revenue increase in 2023 to reach USD373.2 million.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+123
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+TINJAUAN KEUANGAN
+Financial Review
+Analisa dan pembahasan kinerja keuangan pada Laporan 
+Terintegrasi ini mengacu pada Laporan Keuangan untuk tahun-
+tahun yang berakhir 31 Desember 2023 dan 31 Desember 2022 
+yang telah diaudit oleh Kantor Akuntan Publik Tanudiredja, Wibisana, 
+Rintis & Rekan. Pengungkapan laporan keuangan konsolidasian 
+Perseroan disusun dan disajikan sesuai Standar Akuntansi Keuangan 
+di Indonesia, yaitu Pernyataan Standar Akuntansi  Keuangan (PSAK), 
+yang diterbitkan oleh Ikatan Akuntan Indonesia (IAI).  
+LAPORAN POSISI KEUANGAN 
+KONSOLIDASIAN
+Posisi Keuangan
+Financial Position
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+Persentase
+Percentage
+Aset
+Assets
+Aset Lancar
+Current Assets
+246,615,548
+200,965,297
+45,650,251
+22.72
+Aset Tidak Lancar
+Non Current Assets
+203,405,555
+189,693,413
+13,712,142
+7.23
+Jumlah Aset
+Total Assets
+450,021,103
+390,658,710
+59,362,393
+15.20
+Liabilitas dan Ekuitas
+Liability & Equity
+Liabilitas Jangka Pendek
+Current Liabilities
+279,717,345
+248,830,982
+30,886,363
+12.41
+Liabilitas Jangka Panjang
+Non-Current Liability
+481,465,660
+472,849,048
+8,616,612
+1.82
+Jumlah Liabilitas
+Total Liabilities
+761,183,005
+721,680,030
+39,502,975
+5.47
+Jumlah Ekuitas
+Total Equity
+(311,161,902)
+(331,021,320)
+19,859,418
+(6.00)
+Jumlah Liabilitas dan Ekuitas
+Total Liability and Equity
+450,021,103
+390,658,710
+59,362,393
+15.20
+Jumlah aset pada tahun 2023 tercatat sebesar USD450,02 juta, 
+meningkat 15,19% dibandingkan pencapaian tahun 2022 yang 
+utamanya terjadi karena peningkatan pada aset lancar. 
+Jumlah liabilitas pada tahun 2023 tercatat sebesar USD761,18 
+juta, meningkat 6.00% dibandingkan pencapaian tahun 2022 
+yang utamanya terjadi karena adanya penerimaan uang muka 
+proyek reaktivasi pesawat Garuda dan Citilink. 
+Ekuitas Perseroan pada tahun 2023 tercatat sebesar negatif 
+USD311,16 juta, meningkat 6.00% dibandingkan pencapaian 
+tahun 2022. Peningkatan ini sejalan dengan keuntungan bersih 
+yang dicatatkan oleh Perseroan pada tahun berjalan.
+Analysis and discussion of financial performance in this Integrated 
+Report refer to the Financial Statements for the years ended on 
+December 31, 2023, and December 31, 2022, that have been 
+audited by the Public Accounting Firm Tanudiredja, Wibisana, 
+Rintis & Associates. The presentation and disclosure of the 
+Company’s consolidated financial statements were prepared and 
+presented in accordance with Indonesian Financial Accounting 
+Standards, the Statement of Financial Accounting Standards 
+(PSAK), issued by the Indonesian Institute of Accountants (IAI). 
+CONSOLIDATED FINANCIAL POSITION
+Total assets in 2023 were recorded at USD450.02 million, higher 
+by 15.19% compared to the achievement in 2022 which mainly 
+occurred due to an increase in current assets. 
+Total liabilities in 2023 were recorded at USD761.18 million, 
+higher by 5.48% compared to the achievement in 2022 which 
+was mainly due to the receipt of advances for Garuda and Citilink 
+aircraft reactivation projects. 
+The Company’s equity in 2023 was recorded at negative 
+USD311.16 million, higher by 6.00% compared to the achievement 
+in 2022. This increase is in line with the net profit in the current 
+year.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+124
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ASET – ASET LANCAR
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Kas dan Setara Kas
+Cash and Cash Equivalents
+21,051,033
+5,103,013
+15,948,020
+312.52
+Kas dan Setara Kas yang Dibatasi Penggunaannya
+Restricted Cash and Cash Equivalents
+358,975
+351,784
+7,191
+2.04
+Investasi Jangka Pendek
+Short-Term Investment
+58,840
+-
+58,840
+-
+Piutang Usaha
+Accounts Receivable
+56,997,238
+38,100,082
+18,897,156
+49.60
+Aset Kontrak
+Contract Assets
+50,704,629
+60,307,639
+(9,603,010)
+(15.92)
+Piutang Lain-Lain
+Other Receivables
+-
+189,549
+(189,549)
+(100.00)
+Persediaan 
+Inventory 
+74,018,579
+56,518,433
+17,500,146
+30.96
+Uang Muka dan Biaya Dibayar Dimuka
+Advances and Prepaid Expenses
+40,704,250
+34,598,310
+6,105,940
+17.65
+Pajak Dibayar Dimuka
+Prepaid Taxes
+2,722,004
+5,796,487
+(3,074,483)
+(53.04)
+Jumlah Aset Lancar
+Total Current Assets
+246,615,548
+200,965,297
+45,650,251
+22.72
+Jumlah aset lancar pada tahun 2023 adalah sebesar USD246,6 
+juta, naik 22.72% dibandingkan jumlah pada tahun sebelumnya 
+yang utamanya disebabkan oleh masuknya uang muka dari 
+reaktivasi pesawat Garuda dan Citilink dan peningkatan 
+persediaan terkait proyek reaktivasi yang akan selesai pada 
+tahun 2024.  
+KAS DAN SETARA KAS
+Kas dan setara kas mencakup kas, kas di bank, dan deposito 
+berjangka dengan jangka waktu jatuh tempo tiga bulan atau 
+kurang. Jumlah kas dan setara kas tahun 2023 tercatat sebesar 
+USD21.05 juta, meningkat 312.52% atau setara dengan USD15.95 
+juta dibandingkan tahun sebelumnya karena penerimaan uang 
+muka dari reaktivasi pesawat Garuda dan Citilink.  
+KAS DAN SETARA KAS YANG DIBATASI 
+PENGGUNAANNYA
+Kas dan setara kas yang dibatasi penggunaannya adalah kas 
+dan setara kas yang telah ditentukan penggunaannya atau 
+yang tidak dapat digunakan secara bebas. Jumlah kas dibatasi 
+penggunaannya tahun 2023 adalah sebesar USD359 ribu, naik 
+2.04% dibandingkan tahun sebelumnya akibat adanya jaminan 
+pelaksanaan proyek IGTE.  
+PIUTANG USAHA
+Piutang usaha merupakan jumlah yang terutang dari pelanggan 
+atas jasa dalam kegiatan usaha normal. Jumlah piutang usaha 
+tahun 2023 mencapai USD56.99 juta, meningkat 49.6% 
+ASSETS – CURRENT ASSETS
+Total current assets in 2023 amounted to USD246.6 million, an 
+increase of 22.72% compared to the amount in the previous year 
+due to advances from the reactivation of Garuda and Citilink 
+aircrafts and an increase in inventory related to the reactivation 
+project which will be completed in 2024.  
+CASH AND CASH EQUIVALENTS
+The cash and cash equivalents consist of cash, cash in banks, 
+and time deposits with maturities over three months or less. 
+The amount of cash and cash equivalents in 2023 amounted 
+to USD21.05 million, which was 312.52% higher compared to 
+the previous year mainly due to advances for the reactivation 
+of Garuda and Citilink aircrafts. 
+RESTRICTED CASH AND CASH EQUIVALENTS
+Restricted cash and cash equivalents are cash and cash 
+equivalents that have been designated for certain use or those 
+that cannot be used freely. The amount of restricted cash in 2023 
+was USD359 thousand, an increase of 2.04% compared to the 
+previous year due to performance guarantee for IGTE project. 
+ACCOUNTS RECEIVABLE
+Trade receivables represent amounts due from customers 
+for services in the normal course of business. Total trade 
+receivables in 2023 reached USD56.99 million, an increase of 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+125
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+dibandingkan tahun sebelumnya. Peningkatan ini sejalan 
+dengan peningkatan pendapatan sepanjang tahun berjalan 
+yang utamanya bersumber dari reaktivasi pesawat Garuda 
+dan Citilink.  
+ASET KONTRAK
+Aset kontrak dari pelanggan merupakan biaya jasa pemeliharaan 
+dan perbaikan pesawat, dan jasa engineering lainnya yang 
+terjadi. Jumlah tagihan bruto dari pelanggan tahun 2023 
+mencapai USD50.70 juta, menurun 15.92% dibandingkan 
+tahun sebelumnya yang disebabkan utamanya karena adanya 
+penyelesaian proyek pesawat sepanjang tahun 2023.  
+PERSEDIAAN
+Persediaan adalah suku cadang yang dimiliki oleh Perseroan 
+untuk mendukung aktivitas pemeliharaan dan perbaikan 
+pesawat, dan jasa engineering lainnya kepada pelanggan. 
+Persediaan dinyatakan berdasarkan nilai yang paling rendah 
+antara biaya perolehan atau nilai realisasi bersih. Biaya ditentukan 
+berdasarkan metode rata-rata tertimbang. Nilai realisasi bersih 
+merupakan taksiran harga jual persediaan dikurangi taksiran 
+biaya penyelesaian dan biaya yang diperlukan untuk menjual.
+Jumlah persediaan - bersih tahun 2023 mencapai USD74.02 
+juta, meningkat 30.96% dibandingkan tahun sebelumnya yang 
+terjadi karena peningkatan persediaan terkait proyek reaktivasi 
+yang akan diselesaikan di tahun 2024.
+UANG MUKA DAN BIAYA DIBAYAR DIMUKA
+Uang muka dan biaya dibayar dimuka adalah uang dan biaya yang 
+sudah dibayarkan dengan manfaatnya yang akan dinikmati di 
+waktu mendatang dalam jangka waktu yang sudah ditentukan. 
+Uang muka dan biaya dibayar dimuka mencakup uang muka 
+pembelian, uang muka perjalanan dinas, dan uang muka lainnya.
+Jumlah uang muka dan biaya dibayar di muka tahun 2023 
+tercatat sebesar USD40.70 juta, meningkat 17.65% dibandingkan 
+tahun sebelumnya yang terjadi terutama karena permintaan 
+uang muka dari vendor untuk pembelian persediaan atas proyek 
+reaktivaasi pesawat Garuda dan Citilink.
+PAJAK DIBAYAR DIMUKA
+Pajak dibayar dimuka terdiri atas pajak pertambahan nilai (PPN) 
+dan pajak penghasilan badan. Jumlah pajak dibayar dimuka tahun 
+2023 mencapai USD2.72 juta, menurun 53.04% dibandingkan 
+tahun sebelumnya karena sebagian nilai dari PPN ada yang 
+diklasifikasikan sebagai aset tidak lancar.  
+ASET – ASET TIDAK LANCAR
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Piutang Usaha Pihak Berelasi, 
+Bagian Tidak Lancar
+Trade Receivables Related 
+Parties, Non-Current Portion
+15,049,694
+2,317,043
+12,732,651
+549.52
+49.6% compared to the previous year. This increase was in line 
+with the increase in revenue during the year which was mainly 
+sourced from the reactivation of Garuda and Citilink aircrafts.  
+CONTRACT ASSETS
+Contract assets from customers represent the cost of aircraft 
+maintenance and repair services, and other engineering 
+services incurred. Gross billings from customers in 2023 
+totalled USD50.70 million, a decrease of 15.92% compared to 
+the previous year mainly due to finalisation of aircraft projects 
+during 2023.  
+INVENTORY
+Inventories are spare parts owned by the Company to support 
+aircraft maintenance and repair activities, and other engineering 
+services to customers. Inventories are stated at the lower of 
+cost or net realisable value. Cost is determined based on the 
+weighted average method. Net realisable value represents the 
+estimated selling price of inventories less estimated costs of 
+completion and costs necessary to sell.
+Total inventories - net in 2023 reached USD74.02 million, an 
+increase of 30.96% compared to the previous year due to an 
+increase in inventories related to the reactivation project which 
+will be completed in 2024.
+ADVANCES AND PREPAID EXPENSES
+Advances and prepaid expenses are money and expenses that 
+have been paid with the benefits to be enjoyed in the future 
+within a predetermined period of time. Advances and prepaid 
+expenses include purchase advances, official travel advances, 
+and other advances.
+Total advances and prepaid expenses in 2023 was recorded 
+at USD40.70 million, an increase of 17.65% compared to the 
+previous year which occurred mainly due to requests for 
+advances from vendors for the purchase of supplies for Garuda 
+and Citilink aircraft reactivation projects.
+PREPAID TAXES
+Prepaid taxes consist of value added tax (VAT) and corporate 
+income tax. Total prepaid tax in 2023 reached USD2.72 million, 
+a decrease of 53.04% compared to the previous year which was 
+mainly due to part of VAT values which has to be classified as 
+non-current assets.  
+ASSETS – NON-CURRENT ASSETS
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+126
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Piutang lain-lain
+Other Receivables
+3,163,691
+-
+3,163,691
+n.m
+Uang Muka dan Biaya Dibayar 
+di Muka, Bagian Tidak Lancar
+Advances And Prepaid 
+Expenses, Non-Current Portion
+413,668
+692,400
+(278,732)
+(40.26)
+Aset Tetap
+Fixed Assets
+131,755,518
+135,236,551
+(3,481,033)
+(2.57)
+Aset Hak Guna
+Right-of-use Assets
+34,732,996
+39,299,445
+(4,566,449)
+(11.62)
+Pajak Penghasilan Dibayar 
+Dimuka
+Prepaid Corporate Income 
+Taxes
+10,858,192
+5,237,716
+5,620,476
+107.31
+Aset Pajak Tangguhan
+Deferred Tax Assets
+7,417,592
+6,887,569
+530,023
+7.70
+Aset Tidak Lancar Lain-lain
+Other Non-Current Assets
+14,204
+22,689
+(8,485)
+(37.40)
+Jumlah Aset Tidak Lancar
+Total Non-Current Assets
+203,405,555
+189,693,413
+13,712,142
+7.23
+PIUTANG USAHA PIHAK BERELASI, BAGIAN TIDAK 
+LANCAR
+Piutang usaha pihak berelasi, bagian tidak lancar merupakan 
+hasil restrukturisasi piutang dengan Garuda dan Citililnk. Pada 
+tahun 2023, jumlah akun ini mencapai USD15.05 juta, meningkat 
+549.52% dibandingkan tahun sebelumnya yang terutama terjadi 
+karena adanya kesepakatan rencana pembayaran Citilink menjadi 
+jangka panjang. 
+ASET TETAP
+Aset tetap adalah bangunan dan prasarana yang dimiliki 
+Perseroan. Aset tetap ini digunakan untuk melakukan 
+aktivitas produksi atau penyediaan barang dan jasa. Demi 
+tujuan administratif, aset tetap disajikan sebesar nilai wajar, 
+dikurangi penyusutan, berdasarkan penilaian yang dilakukan 
+oleh penilai independen terdaftar di OJK. Penilaian atas aset 
+dilakukan secara berkala untuk memastikan bahwa nilai wajar 
+aset yang direvaluasi tidak berbeda secara material dengan 
+jumlah tercatatnya.
+Jumlah aset tetap tahun 2023 mencapai USD131.76 juta, 
+menurun 2.57% dibandingkan tahun sebelumnya yang terjadi 
+karena adanaya penambahan depresiasi tahun berjalan.
+ASET HAK GUNA
+Pada saat penerapan PSAK 73, Perseroan mengakui aset 
+hak guna dan liabilitas sewa sehubungan dengan sewa yang 
+sebelumnya diklasifikasikan sebagai ‘sewa operasi’ berdasarkan 
+prinsip-prinsip dalam PSAK 30, “Sewa”. Jumlah aset hak guna 
+pada tahun 2023 mencapai USD34.73 juta.   
+TRADE RECEIVABLES RELATED PARTIES, NON-
+CURRENT PORTION
+Trade receivables from related parties, non-current portion is the 
+result of restructuring receivables with Garuda and Citililnk. In 
+2023, this account amounted to USD15.05 million, an increase 
+of 549.52% compared to the previous year which was mainly 
+due to the agreement of Citilink’s payment plan to be long-term. 
+FIXED ASSETS
+Fixed assets are buildings and infrastructure that are owned 
+for the production or supply of goods and services, or for 
+administrative purposes, which are presented at fair value, minus 
+depreciation, based on an evaluation conducted by an external 
+independent appraiser that has been registered with OJK. The 
+assets are evaluated periodically to ensure that the fair value 
+of the revalued assets does not have material differentiation 
+from its carrying amount.
+Total fixed assets in 2023 reached USD131.76 million, a decrease 
+of 2.57% compared to the previous year due to additional 
+depreciation in the current year.
+RIGHT-OF-USE ASSETS
+During the implementation of PSAK 73, the Company recognized 
+the right-of-use assets and lease liabilities related to the lease 
+which was previously categorized as ‘operating lease’ based on 
+the principles within PSAK 30, “Lease”. The Company’s right-of-
+use assets in 2023 reached USD34.73 million.   
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+127
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+ASET PAJAK TANGGUHAN
+Aset pajak tangguhan adalah saldo yang timbul akibat perbedaan 
+temporer antara aset dan liabilitas. Perbedaan ini dapat terjadi 
+akibat adanya perbedaan antara nilai dasar pajak dengan nilai 
+aset dan liabilitas yang tercatat dalam laporan keuangan 
+konsolidasian.
+Jumlah aset pajak tangguhan tahun 2023 sebesar USD7.42 juta, 
+meningkat 7.70% dibandingkan tahun sebelumnya terutama 
+peningkatan pada pengakuan kewajiban imbalan kerja.
+LIABILITAS – LIABILITAS JANGKA PENDEK
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Pinjaman Jangka Pendek
+Short-Term Loans
+194,603
+16,490,706
+(16,296,103)
+(98.82)
+Utang Usaha
+Trade Payables
+77,520,352
+99,091,757
+(21,571,405)
+(21.77)
+Utang Lain-Lain
+Other Payables
+6,143,838
+6,371,130
+(227,292)
+(3.57)
+Utang Pajak Lain-Lain
+Taxes Payable
+6,489,143
+1,882,230
+4,606,913
+244.76
+Akrual
+Accrual 
+55,408,500
+64,014,727
+(8,606,227)
+(13.44)
+Liabilitas Kontrak
+Contract Liabilities
+110,994,585
+39,306,728
+71,687,857
+182.38
+Liabilitas Jangka Panjang yang Jatuh Tempo dalam Waktu Satu Tahun
+Current Liabilities of Long-Term Liabilities
+Pinjaman Jangka Panjang
+Long-Term Loans
+9,913,139
+7,843,550
+2,069,589
+26.39
+Liabilitas Imbalan Pasca Kerja
+Liabilities for Employees - Benefits 
+3,274,853
+2,704,588
+570,265
+21.09
+Liabilitas Sewa - Bagian Jangka Pendek
+Lease Liabilities - Current Maturities
+9,778,332
+11,125,566
+(1,347,234)
+(12.11)
+Jumlah Liabilitas Jangka Pendek
+Total Short-Term Liabilities
+279,717,345
+248,830,982
+30,886,363
+12.41
+PINJAMAN JANGKA PENDEK
+Pinjaman jangka pendek adalah fasilitas pinjaman dengan jangka 
+waktu kurang dari satu tahun yang digunakan Perseroan. Jumlah 
+pinjaman jangka pendek tahun 2023 mencapai USD194.60 ribu, 
+menurun 98.82% dibandingkan tahun sebelumnya terutama 
+karena adanya restrukturisasi pinjaman kepada CTBC yang 
+kemudian pinjaman jangka panjang.  
+UTANG USAHA
+Utang usaha adalah kewajiban membayar barang atau jasa 
+yang telah diterima dalam kegiatan usaha normal dari pemasok. 
+Jumlah utang usaha tahun 2023 sebesar USD77.52 juta, 
+menurun 21.77% dibandingkan tahun sebelumnya yang terutama 
+disebabkan oleh restrukturisasi syarat pembayaran utang usaha. 
+DEFERRED TAX ASSETS
+Deferred tax assets are balances arising from temporary 
+differences between assets and liabilities on a tax basis with 
+the carrying values of assets and liabilities in the consolidated 
+financial statements.
+Deferred tax assets in 2023 reached USD7.42 million, an increase 
+of 7.70% compared to the previous year mainly due to an increase 
+on recognition of employee benefit obligations. 
+LIABILITIES – CURRENT LIABILITIES
+SHORT-TERM LOANS
+Short-term loans are loan facilities with a period of less than 
+one year used by the Company. Total short-term loans in 2023 
+reached USD194.60 thousand, decreased by 98.82% compared 
+to the previous year mainly due to the restructuring of loans to 
+CTBC which turned into long-term loans.  
+TRADE PAYABLES
+Trade payables are obligations to pay for goods or services 
+that have been received in the normal course of business from 
+suppliers. Total trade payables in 2023 amounted to USD77.52 
+million, a decrease of 21.77% compared to the previous year 
+which was mainly due to the restructuring of trade payables 
+payment terms.  
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+128
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+UTANG LAIN-LAIN
+Utang lain-lain adalah akun yang mencatat transaksi dengan 
+pihak berelasi berupa dana pelanggan, utang bunga, dan dividen. 
+Jumlah utang lain-lain tahun 2023 mencapai USD6.14 juta, 
+menurun 3.57% dibandingkan tahun sebelumnya yang terutama 
+terjadi karena adanya penurunan kewajiban bea dan cukai per 
+akhir tahun.  
+UTANG PAJAK LAIN-LAIN
+Utang pajak lain-lain merupakan pajak yang masih harus dibayar, 
+termasuk di dalamnya kenaikan yang tercantum dalam surat 
+ketetapan pajak atau surat sejenisnya berdasarkan peraturan 
+perundang-undangan perpajakan. Jumlah utang pajak tahun 
+2023 mencapai USD6.49 juta, meningkat 244.76% dibandingkan 
+tahun sebelumnya yang terutama terjadi karena utang PPh 21 
+tahun 2023.  
+AKRUAL
+Akrual GMF terdiri dari bonus dan tantiem, sewa, kurir dan 
+pengiriman, outsourcing, telepon, listrik dan air, suku cadang, 
+garansi pemeliharaan, pelatihan, jasa profesional, asuransi 
+dan lain sebagainya. Jumlah akrual pada tahun 2023 mencapai 
+USD55.41 juta, menurun 13.44% dibandingkan tahun sebelumnya 
+yang terutama terjadi karena penyelesaian proyek pada tahun 
+berjalan.  
+LIABILITAS KONTRAK
+Liabilitas kontrak adalah imbalan yang dibayarkan oleh pelanggan 
+lebih dari saldo kewajiban pelaksanaan yang telah dipenuhi, yaitu 
+atas pekerjaan perawatan rutin yang penagihannya mengacu 
+kepada realisasi flight hours berdasarkan kontrak Power by 
+the Hour (PBTH).
+Pada tahun 2023, liabilitas kontrak mencapai USD110.99 juta, 
+meningkat 182.38% dibandingkan tahun sebelumnya terkait 
+dengan penerimaan uang muka proyek reaktivitasi Garuda 
+dan Citilink.
+PINJAMAN JANGKA PANJANG JATUH TEMPO DALAM 
+SATU TAHUN
+Pinjaman ini merupakan fasilitas pinjaman yang digunakan 
+Perseroan dengan jangka waktu lebih dari satu tahun, namun 
+akan jatuh tempo pada satu tahun ke depan. Pada tahun 
+2023, pinjaman ini mencapai USD9.91 juta, meningkat 26.39% 
+dibandingkan tahun sebelumnya yang terutama terjadi karena 
+bagian utang jangka Panjang yang jatuh tempo dalam satu tahun. 
+LIABILITAS IMBALAN KERJA JATUH TEMPO DALAM 
+SATU TAHUN
+Liabilitas ini merupakan kewajiban Perseroan kepada karyawan 
+atas imbalan pasca-kerja berupa program iuran pasti dan 
+manfaat pasti. Liabilitas ini juga mencakup imbalan kerja jangka 
+panjang lain untuk karyawan yang memenuhi persyaratan 
+program. Liabilitas yang masuk ke dalam liabilitas jangka pendek 
+merupakan kewajiban kepada pegawai yang akan memasuki 
+masa pensiun maksimal satu tahun setelah tanggal pelaporan.
+OTHER PAYABLES
+Other payables are accounts that record transactions with 
+related parties in the form of customer funds, interest payable, 
+and dividends. Total other payables in 2023 reached USD6.14 
+million, a decrease of 3.57% compared to the previous year 
+which was mainly due to a decrease in customs and excise 
+liabilities as of year-end.  
+OTHER TAXES PAYABLE
+Other taxes payable represent accrued taxes, including increases 
+stated in tax assessment letters or similar letters based on tax 
+laws and regulations. Total tax payable in 2023 reached USD6.49 
+million, an increase of 244.76% compared to the previous year 
+which was mainly due to income tax payable for 2023.  
+ACCRUAL
+GMF accruals consist of bonus and tantiem, rent, courier and 
+delivery, outsourcing, telephone, electricity and water, spare 
+parts, warranty maintenance, training, professional services, 
+insurance and so on. Total accruals in 2023 reached USD55.41 
+million, a decrease of 13.44% compared to the previous year 
+which mainly occurred due to finalisation of projects in the 
+current year. 
+CONTRACT LIABILITIES
+The liability of the contract is the payment from the customers 
+for routine maintenance, with the amount over the required 
+figure, since the collection refers to the realization of flight 
+hours based on Power by the Hour (PBTH). 
+In 2023, contract liabilities reached USD110.99 million, an 
+increase of 182.38% compared to the previous year related to the 
+receipt of advances for Garuda and Citilink reactivation projects.
+CURRENT MATURITIES OF LONG-TERM LOANS
+This loan is a loan facility used by the Company with a period 
+of more than one year, but will mature in the next one year. In 
+2023, this loan amounted to USD9.91 million, an increase of 
+26.39% compared to the previous year which was mainly due 
+to the portion of long-term debt maturing within one year.  
+CURRENT MATURITIES OF LIABILITIES FOR 
+EMPLOYEES - BENEFIT
+The Company is obligated to pay post-employment benefits 
+to employees in the form of a defined contribution plan and 
+defined benefit. The liability also covers other long-term benefits 
+for eligible employees. The liability categorized as short-term 
+liability is the obligation for employees who are about to retire 
+not more than a year after the reporting date. 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+129
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Pada tahun 2023, liabilitas ini mencapai USD3.27 juta, meningkat 
+21.09% dibandingkan tahun sebelumnya. Peningkatan ini sejalan 
+dengan demografi pegawai Perseroan saat ini.
+LIABILITAS SEWA JATUH TEMPO DALAM SATU TAHUN
+Pada saat penerapan PSAK 73, Perseroan mengakui aset 
+hak-guna dan liabilitas sewa sehubungan dengan sewa yang 
+sebelumnya diklasifikasikan sebagai ‘sewa operasi’ berdasarkan 
+prinsip-prinsip dalam PSAK 30, “Sewa”. Liabilitas sewa diukur 
+pada nilai kini dari sisa pembayaran sewa, yang didiskontokan 
+dengan menggunakan suku bunga pinjaman inkremental 
+Perseroan pada tanggal 1 Januari 2020. Pada tahun 2023, 
+Perseroan mencatat nilai akun ini mencapai USD9.78 juta.  
+LIABILITAS – LIABILITAS JANGKA PANJANG
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Liabilitas Jangka Panjang - Setelah Dikurangi Bagian yang Jatuh Tempo Dalam dalam Satu Tahun
+Long-Term Liabilities - Net of Current Maturities
+Utang Usaha Pihak Berelasi
+Trade Payables Related Parties
+9,755,745
+-
+9,755,745
+n.m
+Utang Usaha Pihak Ketiga
+Trade Payables Third Parties
+14,340,693
+19,409,349
+(5,068,656)
+(26.11)
+Pinjaman Jangka Panjang
+Long-Term Loans
+390,562,375
+391,120,982
+(558,607)
+(0.14)
+Liabilitas Imbalan Kerja
+Liabilities for Employee Benefits
+24,453,563
+22,062,638
+2,390,925
+10.84
+Liabilitas Sewa  
+Lease Liabilities 
+42,353,284
+40,256,079
+2,097,205
+5.21
+Jumlah Liabilitas Jangka Panjang
+Total Non-Current Liabilities
+481,465,660
+472,849,048
+8,616,612
+1.82
+UTANG USAHA PIHAK KETIGA
+Sebagai usaha Perseroan dalam menjaga keberlangsungan 
+bisnis, Perseroan melakukan negosiasi terhadap sejumlah 
+pemasok dengan skema merestrukturisasi utang jangka pendek 
+menjadi utang jangka panjang. Pada tahun 2023, Perseroan 
+berhasil melakukan pelunasan utang vendor sesuai dengan 
+kesepakatan  restrukturisasi utang.  
+PINJAMAN JANGKA PANJANG
+Pinjaman ini merupakan fasilitas dengan jangka waktu lebih dari 
+satu tahun setelah dikurangi dengan porsi pinjaman yang akan 
+jatuh tempo dalam satu tahun ke depan. Penurunan pinjaman 
+jenis ini sebesar 0.14% pada tahun 2023 mencapai USD0.56 juta 
+sejalan dengan jadwal pembayaran utang Perseroan.  
+LIABILITAS IMBALAN KERJA
+Liabilitas imbalan kerja yang dikategorikan sebagai liabilitas 
+jangka panjang merupakan kewajiban Perseroan kepada 
+pegawai yang akan pensiun di tahun-tahun berikutnya. Pada 
+tahun 2023, liabilitas imbalan kerja tercatat sebesar USD24.45 
+In 2023, this liability reached USD3.27 million, an increase of 
+21.09% compared to the previous year. This increase is in line 
+with the Company’s current employee demographics.
+CURRENT MATURITIES OF LEASE LIABILITIES
+During the implementation of PSAK 73, the Company recognizes 
+the rights-of-use assets and lease liabilities in accordance 
+with the lease whch previously classified as ‘operating lease’ 
+according to the principles of PSAK 30, “Lease”. Lease liability 
+is measured based on present value, discounted using the 
+incremental interest rate of the Company on January 1, 2020. 
+In 2023, the Company recorded USD9.78 million in this account. 
+LIABILITIES – NON-CURRENT LIABILITIES
+TRADE PAYABLES THIRD PARTIES
+As part of the Company’s efforts to maintain its business, the 
+Company has negotiated with suppliers to restructure its short-
+term debt into long-term debt. In 2023, the Company paid 
+its debt to vendors in accordance with the debt restructuring 
+agreement.  
+LONG-TERM LOANS
+The loan is a facility with more than one year term after deducted 
+from the portion that will be due next year. The decrease of 
+0.14% in 2023 to reach USD0.56 million was in line with the 
+payment schedule of Company’s debt.  
+LIABILITIES FOR EMPLOYEE BENEFITS
+The liabilities for employee benefits which are categorized 
+as long-term liabilities are the Company’s responsibility to 
+employees who are about to retire in the following years. In 
+2023, the Company recorded USD24.45 million in this liability, 
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+130
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+juta, meningkat 10.84% dibandingkan tahun sebelumnya, 
+menyesuaikan dengan perhitungan kembali atas kewajiban 
+imbalan kerja.  
+LIABILITAS SEWA
+Pada saat penerapan PSAK 73, Perseroan mengakui aset 
+hak-guna dan liabilitas sewa sehubungan dengan sewa yang 
+sebelumnya diklasifikasikan sebagai ‘sewa operasi’ berdasarkan 
+prinsip-prinsip dalam PSAK 30, “Sewa”. Liabilitas sewa diukur 
+pada nilai kini dari sisa pembayaran sewa, yang didiskontokan 
+dengan menggunakan suku bunga pinjaman inkremental 
+Perseroan pada tanggal 1 Januari 2020. Pada tahun 2023, 
+Perseroan mencatat nilai liabilitas sewa sebesar USD42.35 
+juta, meningkat 5.21% dibandingkan tahun sebelumnya yang 
+terutama terjadi karena adanya penambahan kontrak baru 
+terkait dengan jasa IT.  
+EKUITAS
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Modal Saham
+Share Capital
+219,015,655
+219,015,655
+0
+0
+Tambahan Modal disetor
+Additional Paid-In Capital
+62,417,236
+62,417,236
+0
+0
+Rugi Komprehensif Lain
+Other comprehensive loss
+(16,353,693)
+(16,118,527)
+(235,166)
+1.46
+Saldo Laba/(Amulasi Kerugian)
+Retained Earnings/(Accomuldated Loss)
+     Dicadangkan
+     Appropriated
+7,492,540
+7,492,540
+0
+0
+    Belum Dicadangkan
+    Unappropriated
+(583,893,153)
+(604,169,616)
+20,276,463
+(3.36)
+Jumlah Ekuitas yang Dapat Diatribusikan Kepada 
+Entitas Induk
+Equity Attributable to Owners of the Parent 
+(311,321,415)
+(331,362,712)
+2,0041,297
+(6.05)
+Kepentingan Nonpengendali
+Non-Controlling Interest
+159,513
+341,392
+(181,879)
+(53.28)
+Jumlah Ekuitas
+Total Equity
+(311,161,902)
+(331,021,320)
+19,859,418
+(6.00)
+MODAL SAHAM DAN TAMBAHAN MODAL DISETOR
+Modal saham Perseroan tidak mengalami perubahan pada tahun 
+2023. Dengan demikian, modal saham dan tambahan modal 
+disetor tahun 2023 tetap sama dengan tahun sebelumnya yaitu 
+masing-masing senilai USD219.02 juta dan USD62.42 juta.  
+RUGI KOMPREHENSIF LAIN
+Rugi komprehensif lain merupakan akumulasi penghasilan 
+lain-lain di luar kegiatan operasional Perseroan. Penghasilan ini 
+mencakup keuntungan revaluasi aset tetap setelah dikurangi 
+penyusutan, pengukuran kembali liabilitas imbalan pasca 
+kerja, selisih kurs karena penjabaran laporan keuangan, dan 
+sebagainya.
+which was 10.84% higher compared to the previous year, aligning 
+with the recalculation of liabilities for employee benefits.   
+LEASE LIABILITIES
+During the implementation of PSAK 73, the Company recognizes 
+the rights-of-use assets and lease liabilities in accordance with 
+the lease which was previously classified as ‘operating lease’ 
+according to the principles of PSAK 30, “Lease”. The lease liability 
+is measured based on present value, discounted using the 
+incremental interest rate of the Company on January 1, 2020. 
+In 2023, the Company recorded USD42.35 million in this liability, 
+which was 5.21% higher compared to the previous year which 
+occurred mainly due to additional contract related IT services. 
+EQUITY
+SHARE AND ADDITIONAL PAID-IN CAPITAL
+The Company’s share capital did not change in 2023. Therefore, 
+the share and additional paid-in capital in 2023 remain the 
+same as the previous year amounting to USD219.02 million 
+and USD62.42 million respectively.   
+OTHER COMPREHENSIVE LOSS
+Other comprehensive loss is an accumulation of other income 
+outside the Company’s operational activities. The income 
+consist of gain on revaluation of fixed assets, remeasurement 
+of post employment benefit liability, exchange differences due 
+to finasncial statement translation, and others. 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+131
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Pada tahun 2023, rugi komprehensif lain tercatat sebesar 
+USD16.35 juta, meningkat 1.46% dibandingkan tahun 
+sebelumnya yang terjadi terutama karena dampak pengukuran 
+kembali imbalan pasca kerja.
+SALDO LABA/(DEFISIT)
+Saldo defisit adalah sebagian atau keseluruhan laba/(rugi) 
+Perseroan yang tidak didistribusikan sebagai dividen kepada 
+pemegang saham. Sebagian saldo laba/(rugi) ini dicadangkan 
+sebagai modal kerja untuk membeli aset tetap maupun 
+dialokasikan untuk melunasi kewajiban. Saldo laba/(rugi) 
+terdiri dari saldo laba dicadangkan serta saldo laba yang belum 
+dicadangkan.
+Pada tahun 2023, saldo defisit tercatat sebesar USD576.4 juta, 
+menurun 3.36% dibandingkan tahun sebelumnya yang terjadi 
+terutama karena kinerja positif Perseroan pada tahun berjalan.
+LAPORAN LABA RUGI DAN PENGHASILAN 
+KOMPREHENSIF LAIN KONSOLIDASIAN
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Pendapatan Usaha
+Revenue
+373,206,984
+238,703,893
+134,503,091 
+56.35
+Beban Usaha
+Operating Expenses
+345,505,584
+213,836,674
+ 131,668,910 
+61.57
+Laba Usaha
+Operating Income
+27,701,400
+24,867,219
+ 2,834,181 
+11.40
+Penghasilan Keuangan
+Finance Income
+238,867
+141,760
+97.107
+68.05
+Beban Keuangan
+Finance Costs
+(23,619,058)
+(22,087,788)
+(1,531,270 )
+6.93
+Pendapatan Lain-Lain, 
+Bersih
+Other Income, Net
+15,408,815
+2,582,114
+12,826,701
+496.75
+Laba/(Rugi) Sebelum Pajak 
+Penghasilan
+Profit/(Loss) Before Income 
+Tax
+19,730,024
+5,503,305
+ 14,226,719 
+258.51
+Beban Pajak Penghasilan
+Income Tax Expense
+438,665
+(1,874,974)
+ 2,313,639 
+(123.40)
+Laba/(Rugi) Tahun Berjalan
+Profit/(Loss) for the Year
+20,168,689
+3,628,331
+ 16,540,358 
+455.87
+Penghasilan Komprehensif 
+Lain Tahun Berjalan
+Other Comprehensive 
+Income for the Year
+(301,340)
+3,810,208
+(4,111,548)
+(107.91)
+Jumlah Penghasilan 
+Komprehensif Lain
+Total Other Comprehensive 
+Income
+(235,166)
+3,718,622
+(3,953,788 )
+(106.32)
+In 2022, the Company recorded USD16.35 million of other 
+comprehensive loss, which was 1.46% higher compared to the 
+previous year mainly due to remeasurement of liabilities for 
+employee benefits.
+RETAINED EARNINGS/(DEFICIT)
+Retained earning is part of entire earning/(deficit) that is not 
+distributed as dividend to shareholders. Part of this retained 
+earning/(loss) is reserved as working capital to purchase fixed 
+assets or even allocated to settle debts. The retained earning/
+(deficit) consist of reserved retained earnings and unreserved 
+retained earnings. 
+In 2023, the deficit balance was USD576.4 million, decreased 
+by 3.36% compared to the previous year due to the Company’s 
+positive performance during the year. 
+CONSOLIDATED STATEMENTS OF PROFIT OR 
+LOSS AND OTHER COMPREHENSIVE INCOME
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+132
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Jumlah Laba/(Rugi) 
+Komprehensif Tahun 
+Berjalan
+Total Comprehensive 
+Income/(Loss) for the Year
+19,933,523
+7,346,953
+ 12,586,570 
+171.32
+Laba/(Rugi) Tahun Berjalan 
+yang Dapat Diatribusikan 
+Kepada
+Profit/(Loss) for the Year 
+Attributable to
+Pemilik Entitas Induk
+Owner of Parent Entity
+20,276,463
+3,571,764
+ 16,704,699 
+467.69
+Kepentingan 
+Nonpengendali
+Non-Controlling 
+interests
+(107,774)
+56,567
+-164,341 
+(290.52)
+Laba/(Rugi) Tahun Berjalan
+Profit/(Loss for the Year
+20,168,689
+3,628,331
+ 16,540,358 
+455.87
+Laba/(Rugi) Komprehensif 
+yang Dapat Diatribusikan 
+Kepada:
+Comprehensive Income/
+(Loss) Attributable to:
+Pemilik Entitas Induk
+Owner of Parent Entity
+20,041,297
+7,290,386
+ 12,750,911 
+174.90%
+Kepentingan 
+Nonpengendali
+Non-Controlling 
+interests
+(107,774)
+56,567
+-164,341 
+(290.52)
+Laba/(Rugi) Komprehensif 
+Tahun Berjalan
+Comprehensive Income/
+(Loss) for the Year
+19,933,523
+7,346,953
+ 12,586,570 
+171.32%
+Laba/(Rugi) per Saham 
+Dasar/Dilusian
+Basic/Diluted Earnings 
+(Loss) per Share
+0.0007
+0.0001
+0,0006
+600.00%
+PENDAPATAN USAHA
+Pendapatan usaha tahun 2023 tercatat sebesar USD373.21 
+juta, yang meningkat 56.35% dibandingkan tahun sebelumnya 
+karena aktivitas pekerjaan reaktivasi pesawat Garuda dan Citilink.
+BEBAN USAHA
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Beban Pegawai
+Employee Expenses
+101,486,732
+95,233,650
+ 6,253,082 
+6.57
+Beban Material
+Material Expenses
+97,791,734
+58,065,592
+ 39,726,142 
+68.42
+REVENUE
+Operating revenue in 2023 was recorded at USD373.21 million, 
+reflecting a 56.35% increase compared to the previous year. 
+This growth was primarily driven by reactivation of Garuda and 
+Citilink aircrafts. 
+OPERATING EXPENSES
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+133
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Beban Subkontrak
+Subcontract Expenses
+105,611,422
+46,579,381
+ 59,032,041 
+126.73
+Beban Penyusutan
+Depreciation Expense
+20,372,753
+23,270,926
+(2,898,173 )
+(12.45)
+Beban Operasional Lainnya
+Other Operating Expenses
+22,284,253
+20,951,343
+ 1,332,910 
+6.36
+BEBAN PEGAWAI
+Beban pegawai mencakup biaya gaji dan tunjangan pegawai, 
+insentif, biaya kontribusi dana pensiun, imbalan kerja, dan biaya 
+pegawai lainnya. Pada tahun 2023, beban pegawai mencapai 
+USD101.49 juta, yang meningkat 6.57% dibandingkan tahun 
+sebelumnya. Peningkatan ini disebabkan oleh kenaikan gaji 
+pokok dan tunjangan pada tahun berjalan serta dampak dari 
+implementasi PMK 66. 
+BEBAN MATERIAL
+Beban material mencakup biaya pembelian suku cadang 
+habis pakai (expendable), suku cadang yang dapat diperbaiki 
+(repairable), biaya kurir dan pengiriman, biaya bahan bakar, 
+dan biaya material lainnya. Pada tahun 2023, beban material 
+mencapai USD97.79 juta, yang meningkat 68.42% dibandingkan 
+tahun sebelumnya yang terutama bersumber dari pekerjaan 
+proyek reaktivasi pesawat Garuda dan Citilink.
+BEBAN SUBKONTRAK
+Beban subkontrak mencakup biaya komponen subkontrak 
+dan biaya jasa teknis dan penunjang penerbangan. Jumlah 
+beban subkontrak tahun 2023 mencapai USD105.611 juta, 
+yang meningkat 126.73% dibandingkan tahun sebelumnya 
+sebelumnya yang terutama bersumber dari pekerjaan proyek 
+reaktivasi pesawat Garuda dan Citilink. 
+BEBAN PENYUSUTAN
+Beban penyusutan mencakup beban penyusutan aset tetap, 
+beban amortisasi dan beban penurunan aset. Jumlah beban 
+penyusutan tahun 2023 mencapai USD20.37 juta, yang menurun 
+12.45% dibandingkan tahun sebelumnya. Penurunan ini sejalan 
+dengan banyaknya aset yang sudah tersusutkan penuh pada 
+tahun sebelumnya dan rendahnya akuisisi aset pada tahun 
+berjalan.
+BEBAN KEUANGAN
+Beban keuangan mencakup beban bunga atas fasilitas keuangan, 
+biaya transaksi, dan biaya lain-lain yang dibebankan atas 
+fasilitas. Pada tahun 2023, beban keuangan mencapai USD23.62 
+juta, meningkat 6.93% dibandingkan tahun sebelumnya karena 
+peningkatan beban bunga pinjaman ke bank pada tahun berjalan. 
+EMPLOYEE EXPENSES
+Employee expenses, which covers employee salaries and 
+benefits, incentives, pension fund contribution costs, employee 
+benefits, and other related costs, amounted to USD101.49 
+million in 2023. This reflects a 6.57% increase compared to the 
+previous year. The rise occurred due to increased basic salaries 
+and allowances in the current year, as well as the impact of 
+implementing PMK 66.
+MATERIAL EXPENSES
+Material costs, comprising expenses for purchasing expendable 
+spare parts, repairable spare parts, courier and shipping services, 
+fuel, and other related costs, amounted to USD97.79 million in 
+2023. This represents a notable increase of 68.42% compared 
+to the previous year, primarily driven by the Garuda and Citilink 
+aircraft reactivation projects. 
+SUBCONTRACTING EXPENSES
+Subcontracting expenses, covering costs for subcontracted 
+components and technical aviation support services. The total 
+reached USD105,611 million in 2023, reflecting a significant 
+increase of 126.73% compared to the previous year, primarily 
+driven by the Garuda and Citilink aircraft reactivation projects.
+DEPRECIATION EXPENSES
+Depreciation expenses, covering fixed asset depreciation, 
+amortization, and asset impairment. The total reached USD20.37 
+million in 2023, representing a decrease of 12.45% compared to 
+the previous year. The decline aligns with a significant number 
+of assets reaching full depreciation in the previous year and 
+fewer asset acquisitions in the current year.
+FINANCE COSTS
+Financial charges, encompassing interest charges on financial 
+facilities, transaction costs, and other fees. They reached a 
+total USD23.62 million in 2023, marking an increase of 6.93% 
+compared to the previous year due to rising interest expenses 
+on bank loans in the current year. 
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+134
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+PENDAPATAN LAIN-LAIN, BERSIH
+Pendapatan lain-lain pada tahun 2023 mencapai USD15.41 juta, 
+meningkat 496.75% dibandingkan tahun sebelumnya karena 
+adanya restrukturisasi hutang vendor dan restrukturisasi jangka 
+waktu pembayaran pinjaman bank.
+BEBAN PAJAK PENGHASILAN
+Beban pajak penghasilan pada tahun 2023 dari sebelumnya 
+sebagai “beban pajak penghasilan” sebesar USD 1.87 juta 
+menjadi “manfaat pajak penghasilan” sebesar USD 0.44 juta. 
+Hal ini merupakan dampak dari pergerakan pada perhitungan 
+pajak tangguhan Perseroan.
+LABA/(RUGI) TAHUN BERJALAN
+Laba/(rugi) tahun berjalan pada tahun 2023 mencapai 
+USD20.17 juta, meningkat 455.87% dibandingkan tahun 
+sebelumnya karena aktivitas produksi yang utamanya berasal 
+dari pekerjaan reaktivasi pesawat Garuda dan Citilink, serta 
+usaha restrukturisasi utang kepada vendor dan kepada bank. 
+LAPORAN ARUS KAS KONSOLIDASIAN
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Arus Kas Bersih yang Diperoleh dari Aktivitas Operasi
+Net Cash Flows Generated from Operating Activities
+30,681,202
+7,603,145
+ 23,078,057 
+303.53
+Arus Kas Bersih yang Digunakan untuk Aktivitas 
+Investasi
+Net Cash Flows Used in Investing Activities
+(639,036)
+(3,100,981)
+ 2,461,945 
+(79.39)
+Arus Kas Bersih yang Digunakan untuk Aktivitas 
+Pendanaan
+Net Cash Flows Used in Financing Activities
+(14,218,123)
+(12,215,911)
+-2,002,212 
+16.39
+(Penurunan)/Kenaikan Bersih Kas dan Setara Kas
+(Decrease)/Increase in Cash and Cash Equivalents
+15,824,043
+(7,713,747)
+ 23,537,790 
+(305.14)
+Kas dan Setara Kas Awal Tahun
+Cash and Cash Equivalents at Beginning of Year
+5,103,013
+13,767,313
+-8,664,300 
+(62.93)
+Efek Perubahan Kurs Mata Uang Asing
+Effects of Changes in Foreign Exchange Rates
+123,977
+(950,553)
+ 1,074,530 
+(113.04)
+Kas dan Setara Kas Akhir Tahun
+Cash and Cash Equivalents at End of Year
+21,051,033
+5,103,013
+ 15,948,020 
+312.52
+ARUS KAS DARI AKTIVITAS OPERASI
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Penerimaan Kas dari Pelanggan
+Cash Receipts from Customers
+420,776,424
+290,616,012
+130,160,412 
+44.79
+Pembayaran Kas kepada Pemasok dan Lainnya
+Cash Paid to Suppliers and others
+(284,067,644)
+(176,545,316)
+-107,522,328
+60.90
+OTHER INCOME, NET
+Other income in 2023 amounted to USD15.41 million, 
+representing a surge of 496.75% compared to the previous 
+year due to the restructuring of vendor debt and renegotiation 
+of bank loan repayment terms.
+INCOME TAX EXPENSE
+Income tax expense in 2023 shifted from an “income tax 
+expense” of USD1.87 million to an “income tax benefit” of 
+USD0.44 million. This change reflects the impact of movements 
+in the Company’s deferred tax calculations. 
+PROFIT/(LOSS) FOR THE YEAR
+Profit/(loss) for the current year in 2023 reached USD20.17 
+million, marking an increase of 455.87% compared to the previous 
+year primarily came from production activities, particularly the 
+reactivation work on Garuda and Citilink aircrafts, along with 
+debt restructuring with vendors and banks. 
+CONSOLIDATED STATEMENTS OF CASH 
+FLOWS
+CASH FLOWS FROM OPERATING ACTIVITIES
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+135
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Pembayaran Kas kepada Karyawan
+Cash Paid to Employees
+(92,669,186)
+(96,020,602)
+ 3,351,416 
+(3.49)
+Kas Diperoleh dari Operasi
+Cash Generated from Operations
+44,039,594
+18,050,094
+ 25,989,500 
+143.99
+Pembayaran Beban Keuangan
+Finance Costs Paid
+(15,141,970)
+(15,768,110)
+ 626,140 
+(3.97)
+Pengembalian Pajak 
+Tax Refund
+1,977,067
+6,366,218
+-4,389,151 
+(68.94)
+Pembayaran Pajak Penghasilan
+Income Taxes Paid
+(193,489)
+(1,045,057)
+ 851,568 
+(81.49)
+Arus Kas Bersih yang Diperoleh Dari Aktivitas Operasi
+Net Cash Flows Generated from Operating Activities
+30,681,202
+7,603,145
+ 23,078,057 
+303.53
+Kas bersih dari aktivitas operasi pada tahun 2023 tercatat 
+sebesar USD30.68 juta, meningkat 303.53% dibandingkan tahun 
+sebelumnya terutama karena pendanaan dimuka untuk aktivitas 
+reaktivasi pesawat Garuda dan Citilink. 
+ARUS KAS DARI AKTIVITAS INVESTASI
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+(Pembayaran)/Penerimaan Kas dan Setara Kas yang Dibatasi 
+Penggunaannya
+(Payments)/Proceeds in Restricted Cash and Cash Equivalents
+(7,191)
+(327,267)
+ 320,076 
+(97.80)
+Penerimaan Pendapatan Keuangan
+Finance Income Received
+269,641
+129,023
+ 140,618 
+108.99
+Pembayaran Untuk Perolehan Aset Tetap dan Uang Muka
+Payments for Acquisition of Fixed Assets and Advance
+(901,486)
+(2,902,737)
+ 2,001,251 
+(68.94)
+Arus Kas Bersih yang Digunakan untuk Aktivitas Investasi
+Net Cash Flows Used in Investing Activities
+(639,036)
+(3,100,981)
+ 2,461,945 
+(79.39)
+Kas bersih dari aktivitas investasi pada tahun 2023 tercatat 
+sebesar negatif USD0.64 juta, menurun 79.39% dibandingkan 
+tahun sebelumnya terutama karena menurunnya realisasi 
+investasi pada asset tetap Perseroan.
+ARUS KAS DARI AKTIVITAS PENDANAAN
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Penerimaan Pinjaman Jangka Pendek
+Proceeds from Short-Term Loans 
+0
+190,706
+-190,706 
+(100.00)
+Net cash from operating activities in 2023 was recorded at 
+USD30.68 million, representing a significant increase of 303.53% 
+compared to the previous year, which was primarily driven by 
+advance funding for Garuda and Citilink aircraft reactivation 
+activities. 
+CASH FLOWS FROM INVESTING ACTIVITIES
+Net cash from investing activities in 2023 was recorded at 
+negative USD0.64 million, marking a decrease of 79.39% 
+compared to the previous year primarily due to the reduction 
+in investment realization in the Company’s fixed assets.
+CASH FLOWS FROM FINANCING ACTIVITIES
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+136
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Pembayaran Pinjaman Jangka Pendek
+Payment of Short-Term Loans 
+0
+(2,400,000)
+ 2,400,000 
+(100.00)
+Penerimaan Pinjaman Jangka Panjang
+Proceeds from Long-Term Loans
+0
+                  - 
+0
+0
+Pembayaran Pinjaman Jangka Panjang
+Payment of Long-Term Loans
+(8,332,558)
+(4,399,426)
+(3,933,132)
+89.40
+Pembayaran Liabilitas Sewa
+Payment of Lease Liabilities
+(5,885,565)
+(5,607,191)
+(278,374)
+4,96
+Acceptance of Factoring Liabilities
+Arus Kas Bersih yang Digunakan untuk Aktivitas 
+Pendanaan
+Net Cash Flows Used in Financing Activities
+(14,218,123)
+(12,215,911)
+-2.002.212 
+16.39
+Kas bersih dari aktivitas pendanaan pada tahun 2023 tercatat 
+sebesar negatif USD14.22 juta, meningkat 16.39% dibandingkan 
+tahun sebelumnya terutama karena realisasi komitmen 
+pembayaran bunga tahun berjalan.
+KENAIKAN (PENURUNAN) BERSIH KAS DAN 
+SETARA KAS SERTA KAS DAN SETARA KAS AKHIR 
+TAHUN
+Dengan akumulasi pada arus kas dari aktivitas operasi, arus kas 
+dari aktivitas investasi, serta arus kas dari aktivitas pendanaan, 
+serta efek perubahan kurs mata uang asing, kas dan setara kas 
+sepanjang tahun 2023 mengalami penurunan/peningkatan 
+sebesar USD15.95 juta. Dengan demikian, kas dan setara kas 
+pada akhir tahun 2023 tercatat sebesar USD21.05 juta.
+KEMAMPUAN MEMBAYAR UTANG DAN 
+TINGKAT KOLEKTIBILITAS PIUTANG
+Kemampuan Perseroan dalam membayar utang diukur 
+menggunakan rasio solvabilitas dan rasio likuiditas. Rasio 
+solvabilitas merupakan rasio yang mengukur kemampuan 
+Perseroan membayar seluruh utang jangka pendek dan jangka 
+panjang. Sedangkan rasio likuiditas diukur untuk menentukan 
+kemampuan Perseroan dalam membayar utang jangka pendek.
+RASIO LIKUIDITAS
+Uraian
+Description
+2023
+(kali | times)
+2022
+(kali | times) 
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+Persentase
+Percentage
+Cash Ratio
+0.08 
+0.02
+0.05
+266.97
+Acid Test Ratio
+0.62
+0.58
+0.04
+6.29
+Current Ratio
+0.88
+0.81
+0.07
+9.17
+Net cash from financing activities in 2023 was recorded at 
+negative USD14.22 million, marking an increase of 16.39% 
+compared to the previous year mainly due to the realization of 
+interest payment commitments for the current year. 
+INCREASE (DECREASE) OF CASH AND CASH 
+EQUIVALENT AND AT END OF YEAR BALANCE
+The accumulation of cash flow on operating, investment, and 
+funding activities, along with the effect of foreign exchange 
+rate charges, the cash and cash equivalents throughout 
+2023 decreased/increased by USD15.95 million. Therefore, 
+the Company recorded USD21.05 million in its cash and cash 
+equivalents by the end of 2023.
+ABILITY TO PAY DEBT AND RECEIVABLES 
+COLLECTIBILITY
+The Company’s ability to pay the debt is calculated using the 
+solvability ratio and liquidity ratio. The solvability ratio calculates 
+the Company’s ability to pay its short and long-term loans. 
+Meanwhile, the liquidity ratio is calculated to determine the 
+Company’s ability to pay its short-term loan.
+LIQUIDITY RATIO
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+137
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Pada tahun 2023, tingkat cash ratio Perseroan tercatat sebesar 
+0.08 kali dibandingkan tahun 2022 sebesar 0.02 kali. Dengan 
+demikian terjadi peningkatan 266.97%. Peningkatan ini sejalan 
+dengan peningkatan arus kas bersih yang diperoleh dari aktivitas 
+operasi.
+Sedangkan acid test ratio dan current ratio menunjukkan 
+kemampuan Perseroan membayar kewajiban jangka pendeknya 
+dengan menggunakan kas dan aset lancar yang dimiliki. Pada 
+tahun 2023, kinerja acid test ratio tercatat 0.62 kali dan current 
+ratio Perseroan rasio tercatat 0.88 kali. Hal ini menunjukkan 
+bahwa adanya peningkatan kemampuan dalam membayar 
+kewajiban jangka pendek.
+RASIO SOLVABILITAS
+Rasio solvabilitas digunakan untuk menilai kemampuan 
+Perseroan melunasi seluruh utang yang dimilikinya secara 
+jangka panjang, dengan menggunakan seluruh aset atau modal 
+Perseroan. Pengukuran solvabilitas menggunakan Debt to Equity 
+Ratio (DER) dan Debt to Assets Ratio (DAR).
+Uraian
+Description
+2023
+(kali | times)
+2022
+(kali | times)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+Persentase
+Percentage
+Debt to Equity Ratio (DER)
+(2.45)
+(2.18)
+(0.27)
+12.21
+Debt to Assets Ratio (DAR)
+1.69
+1.85
+(0.16)
+(8.44)
+Pada tahun 2023, nilai DER Perseroan tercatat sebesar (2.45) 
+kali, dibandingkan (2.18) kali pada tahun 2022. Sedangkan nilai 
+DAR Perseroan di tahun 2023 tercatat 1.69 kali, menurun 8.44% 
+dibandingkan 1.85 kali pada tahun 2022. Hal ini sejalan dengan 
+peningkatan jumlah liabilitas dan  jumlah aset.  
+KOLEKTIBILITAS PIUTANG
+Penting bagi Perseroan untuk menilai kemampuannya dalam 
+mengumpulkan piutang untuk memastikan agar tidak terjadi 
+piutang macet yang dapat merugikan kelancaran operasional. 
+Kemampuan Perseroan dalam mengumpulkan piutang 
+dapat dinilai melalui  perhitungan Average Collection Period 
+(ACP). Berdasarkan tingkat piutang dan pendapatan Perseroan di 
+tahun 2023, nilai ACP Perseroan mengalami peningkatan menjadi 
+45 hari dari 67 hari pada tahun 2022. Hal ini menunjukkan 
+bahwa Perseroan senantiasa memperkuat komitmennya 
+untuk mempertahankan efektivitas dalam menagih piutang 
+dengan menggunakan pendekatan persuasif kepada klien dan 
+mempersiapkan kontrak kerja yang dapat melindungi Perseroan.
+STRUKTUR MODAL
+Perseroan mengelola struktur modal dan hasil pengembalian 
+kepada pemegang saham agar dapat memberikan hasil 
+yang optimal. Pengelolaan modal dilakukan dengan 
+mempertimbangkan kebutuhan modal masa depan dan 
+keseimbangan dalam pencapaian dan penggunaan modal. 
+In 2023, the Company’s cash ratio was recorded at 0.08 times 
+compared to 0.02 times in 2022. Thus, there was an increase 
+of 266.97%. This increase is in line with the increase in net cash 
+flow generated from operating activities.
+Meanwhile, the acid test ratio and current ratio show the 
+Company’s ability to pay its short-term liabilities using its cash 
+and current assets. In 2023, the acid test ratio performance was 
+recorded at 0.62 times and the Company’s current ratio was 
+recorded at 0.88 times. This shows that the Company was able 
+to improve its ability to pay its short-term liabilities.
+SOLVENCY RATIO
+Solvency is used to assess the Company’s ability to settle all of 
+its debt in the long term, by using the Company’s entire assets 
+or capital. Solvency is calculated using Debt to Equity Ratio 
+(DER) and Debt to Assets Ratio (DAR).
+In 2023, the Company’s DER value was recorded at (2.45) times, 
+compared to (2.18) times in 2022. Meanwhile, the Company’s 
+DAR value in 2023 was recorded at 1.69 times, a decrease of 
+8.44% compared to 1.85 times in 2022. This is in line with the 
+increase in total liabilities and total assets.  
+COLLECTION RATIO
+It is crucial for the Company to assess its ability to collect 
+receivables to prevent bad debts, which could disrupt the flow 
+of operations. The Company’s capacity to collect receivables can 
+be evaluated through the calculation of the Average Collection 
+Period (ACP). Based on the Company’s receivables and revenue 
+levels in 2023, the Company’s ACP value has increased to 45 days 
+from 67 days in 2022. This shows that the Company continues 
+to strengthen its commitment to maintain effectiveness in 
+collecting receivables by using persuasive approach to clients 
+and preparing work contracts that can protect the Company.
+CAPITAL STRUCTURE
+The Company manages its capital structure and returns to 
+shareholders to achieve optimal results. Capital management 
+involves careful consideration of future capital requirements 
+and maintaining a balance in capital acquisition and utilization. 
+Additionally, the Company evaluates current and future 
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+138
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perseroan juga mempertimbangkan profitabilitas saat ini dan 
+yang akan datang, serta memproyeksikan arus kas operasi, 
+belanja modal, dan peluang investasi.
+Uraian
+Description
+2023
+(USD)
+2022
+(USD)
+Kenaikan (Penurunan)
+Increase (Decrease)
+Nilai Nominal
+Nominal Value
+(USD)
+Persentase
+Percentage
+(%)
+Pinjaman
+Loan
+400,670,117
+415,455,218
+(14,785,101)
+(3.56)
+Kas dan setara kas
+Cash and cash equivalents
+21,051,033
+5,103,013
+15,948,020
+312.52
+Pinjaman - bersih
+Loans - net
+379,619,084
+410,352,205
+(30,733,121)
+(7.49)
+Ekuitas yang dapat diatribusikan kepada pemilik 
+induk
+Equity attributable to owners of the parent entity
+(311,321,415)
+(331,362,712)
+20,041,297
+6.05
+Rasio pinjaman bersih terhadap ekuitas
+Net loan to equity ratio
+(121.94)
+(123.84)
+1.90
+(1.53)
+KEBIJAKAN MANAJEMEN ATAS STRUKTUR 
+MODAL
+Tujuan utama pengelolaan modal Perseroan adalah untuk 
+memastikan bahwa Perseroan mempertahankan rasio modal 
+yang sehat dalam rangka mendukung bisnis dan memaksimalkan 
+nilai pemegang saham.
+Perseroan mengelola struktur modal dan membuat 
+menyesuaikannya dengan perubahan kondisi ekonomi dan 
+situasi bisnis yang sedang berjalan. Direksi secara berkala 
+mengevaluasi struktur permodalan dan menetapkan kebijakan 
+manajemen yang mempertimbangkan biaya permodalan dan 
+risiko yang berhubungan.
+Melihat struktur modal tahun 2023, Direksi beranggapan bahwa 
+struktur modal Perseroan mengalami peningkatan pada ekuitas 
+Perseroan sebesar USD20.04 juta dan penurunan pada pinjaman 
+bersih sebesar USD30.73 juta bila dibandingkan tahun 2022.
+IKATAN MATERIAL UNTUK INVESTASI 
+BARANG MODAL
+Pada tahun 2023, GMF tidak memiliki ikatan material untuk 
+investasi barang modal dengan pihak manapun. Oleh karena 
+itu, GMF tidak memiliki informasi terkait nama pihak yang 
+melakukan ikatan, tujuan dari ikatan tersebut, sumber dana 
+yang diharapkan untuk memenuhi ikatan-ikatan tersebut, mata 
+uang yang menjadi denominasi dan langkah-langkah yang 
+direncanakan Perseroan untuk melindungi risiko dari posisi 
+mata uang asing yang terkait. 
+profitability, alongside projections of operating cash flow, capital 
+expenditures, and investment opportunities.
+‘
+MANAGEMENT POLICY ON CAPITAL STRUCTURE
+The main purpose fn the Company’s capital management is 
+to ensure that the Company will always have a strong capital 
+ratio to support the business and optimize shareholders’ value.
+The Company manages its capital structure, adapting it to 
+changes in economic conditions and ongoing business situations. 
+The Board of Directors periodically evaluates the capital structure 
+and establishes management policies that consider the cost of 
+capital and related risks.
+Looking at the capital structure in 2023, the Board of Directors 
+considers that the Company’s capital structure is increasing on 
+its equity by USD20.04 million and there was also a decrease in 
+net loan of USD30.73 million when compared to 2022.
+MATERIAL COMMITMENT FOR CAPITAL 
+GOODS INVESTMENT
+In 2023, GMF had no material ties for capital investment with 
+any party. Therefore, GMF does not have information regarding 
+the name of the party to which the bond is bound, the purpose 
+of the bond, the source of funds expected to fulfill these bonds, 
+the denominated currency and the plans to protect against 
+foreign exchange risks.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+139
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+REALISASI INVESTASI BARANG MODAL
+Sepanjang tahun 2023, GMF melakukan investasi barang 
+modal sebesar USD2,65  juta dan digunakan untuk berbagai 
+keperluan seperti pembangunan hanggar 1 door, peremajaan dan 
+penggantian tools, pembuatan craddle B737 dan  peningkatan 
+capability LRU Engine B737. Sumber dana yang digunakan untuk 
+merealisasikan investasi tersebut berasal dari dana operasional. 
+Investasi Barang Modal
+Capital Investment
+Tujuan
+Purpose
+Nilai
+Value
+(USD)
+Pembangunan Hangar 1 door 
+Construction of Hangar 1 door
+Pemenuhan regulasi EASA
+Fulfillment of EASA regulation
+2,586,675
+Peningkatan kapabilitas LRU Engine B737
+Improvement of LRU Engine B737 
+capabilities
+Peningkatan kapabilitas component shop terkait 
+komponen LRU engine B 737 NG
+Improvement of component shop capabilities 
+regarding LRU engine B 737 NG component
+1,023
+Pembuatan craddle B737 
+Construction of cradle B737
+Mendukung operasional Hangar 4
+Support the Hangar 4 operation
+25,445
+Lainnya 
+Others
+Penggantian tools, penggantian/ perbaikan fasilitas, 
+dan lainnya
+Tools replacement, replacement/repair of facilities, 
+and others
+41,151
+Jumlah
+Total
+	
+2,654,294
+Jika dibandingkan dengan investasi 2022, pada tahun 2023 
+terdapat peningkatan realisasi investasi sebesar 95%. Hal ini 
+utamanya dipengaruhi oleh upaya Perseroan untuk memenuhi 
+persyaratan otoritas EASA. 
+PENCAPAIAN TARGET DAN KPI TAHUN 2023 
+[F.2]
+Pencapaian Target Tahun 2023
+2023 Target Achievement
+Uraian
+(dalam USD juta, kecuali 
+dinyatakan lain)
+Description
+(in USD million, unless otherwise 
+stated )
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi Terhadap
+Target 
+Realization to Target 
+(%)
+Operasi dan Bisnis
+Operation and Business
+Revenue 
+373.21
+377.03
+98.99
+Net Profit 
+20.17
+15.03
+134.20
+Free Cash Flow
+110%
+100%
+110.00
+Customer Satisfaction Index
+3.97
+4
+99.25
+Customer SLA Fulfilment
+100% 
+96.05% 
+104.11
+Compliance Index
+100%
+96.12%
+104.04
+Human Capital Readiness
+95%
+96.66%
+98.28
+REALIZATION OF CAPITAL GOODS 
+INVESTMENT
+Throughout 2023, GMF invested in earning capital goods 
+amounting to USD2.65 million, which used for various 
+purposes to support business operations. These investments 
+are categorized as funding for daily business needs and not 
+considered as material for other purposes outside business 
+matters. The source of funds to realize the investment came 
+from operational fund.   
+ompared to 2022 investments, 2023 saw a 95% increase in 
+investment realisation. This is mainly due to the Company’s 
+efforts in meeting the requirements of the EASA authority. 
+ACHIEVEMENT OF 2023 TARGET AND KPI 
+[F.2]
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+140
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Pencapaian Target Tahun 2023
+2023 Target Achievement
+Uraian
+(dalam USD juta, kecuali 
+dinyatakan lain)
+Description
+(in USD million, unless otherwise 
+stated )
+Realisasi 2023
+Realization 2023
+Target 2023
+Target 2023
+Realisasi Terhadap
+Target 
+Realization to Target 
+(%)
+Pemasaran
+Marketing
+Revenue Group Affiliation 
+287.63
+236.42
+121.66
+Revenue Non-Group Affiliation 
+86.65
+140.61
+61.62
+Customer Satisfaction Index
+3.97
+4
+99.25
+Customer Portfolio Index
+70%
+80%
+87.50
+Laba (Rugi) dan Penghasilan Komprehensif Lain 
+Profit (Loss) and Other Comprehensive Income
+Pendapatan Usaha 
+Revenue 
+373.21
+377.03
+98.99
+Beban Usaha 
+Operating Expenses 
+345.51
+340.39
+101.50
+Laba Usaha 
+Operating Profit 
+27.70
+36.65
+75.58
+Pendapatan (Beban) Lain-lain 
+Other Revenue (Expenses) 
+1.82
+0.47
+387.23
+Laba/(Rugi) Konsolidasian
+Sebelum Pajak Penghasilan
+Consolidated Profit/ (Loss)
+Before Income Tax
+19.73
+19.26
+102.44
+(Beban)/Manfaat  Pajak 
+Tax Expenses 
+0.44
+(4.24)
+-10.38
+Laba/(Rugi) Tahun Berjalan 
+Profit/ (Loss) for the Year 
+20.17
+15.03
+134.20
+Posisi Keuangan
+Financial Position
+Aset 
+Assets 
+Aset Lancar 
+Current Assets
+246.62
+216.52
+113.90
+Aset Tidak Lancar 
+Non Current Assets 
+203.41
+159.63
+127.43
+Jumlah Aset
+Total Assets
+450.02
+376.15
+119.64
+Liabilitas dan Ekuitas
+Liability & Equity
+Liabilitas Jangka Pendek 
+Current Liability 
+279.72
+264.93
+105.66
+Liabilitas Jangka Panjang 
+Non-Current Liability
+481,47
+426.96
+112.77
+Jumlah Liabilitas 
+Total Liability 
+761.18
+691.89
+110.01
+Jumlah Ekuitas 
+Total Equity 
+(311.16)
+(315,75)
+98.55
+Jumlah Liabilitas dan Ekuitas 
+Total Liability & Equity 
+450.02
+376.15
+119.64
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+141
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Pencapaian Key Performance Indicators (KPI) Tahun 2023
+2023 Key Performance Indicators (KPI) Achievement
+Aspek KPI
+KPI Aspects
+Target 2023
+2023 Target
+Realisasi 2023
+2023 Realization 
+Nilai Ekonomi dan Sosial untuk Indonesia
+Economic and Social Values for Indonesia
+Revenue (MUSD)
+377.03 
+373.21 
+15.03 15.24 Net Profit (MUSD)
+15.03
+20.17
+Free Cash Flow 
+100%
+110%
+Customer SLA Fulfillment
+100% 
+96.05% 
+Inovasi Model Bisnis
+Business Model Innovation
+Customer Satisfaction Index
+4
+3.97
+MRO / Strategic Collaboration
+1
+1
+Kepemimpinan Teknologi
+Technological Leadership
+Continuous Improvement
+38
+38
+Information Capital Readiness
+85%
+96.48%
+Peningkatan Investasi
+Higher Investment
+Asset Management
+100%
+100.00%
+Governance, Risk and Compliance (GRC)
+100%
+96.12%
+Pengembangan Talenta
+Talent Development
+Human Capital Readiness
+95%
+96.66%
+Organization Capital Readiness
+85%
+91.81%
+Secara umum, kinerja operasi dan bisnis mayoritas sudah sesuai 
+dengan target. Perseroan membukukan keuntungan bersih 
+senilai USD20.17 juta dari target USD15.03 juta. Pencapaian 
+ini terjadi karena adanya restrukturisasi operasional dan upaya 
+efisiensi sepanjang tahun 2023.
+Kinerja operasi dan bisnis yang positif mendukung pencapaian 
+kinerja pemasaran karena secara rata-rata segmen GA dan NGA 
+mengalami peningkatan kinerja.  
+Pada akhirnya, kinerja keuangan yang terdiri dari kinerja laba 
+dan free cash flow juga mengalami pertumbuhan yang positif. 
+Secara garis besar juga dapat dilihat bahwa kinerja pencapaian 
+dibandingkan target mencapai lebih dari 100%. 
+Pencapaian KPI juga menunjukkan hasil positif karena hampir 
+semua target tercapai 100% dengan tingkat pencapaian paling 
+rendah berada di atas 96%. Pencapaian KPI menjadi bukti 
+komitmen GMF, sebagai anak usaha BUMN Penerbangan, untuk 
+berkontribusi bagi pembangunan negeri. 
+In general, the majority of operating and business performance 
+was in line with the target. The Company recorded a net profit 
+of USD20.17 million from the targeted USD15.03 million. The 
+Company is able to achieve these due to the restructuring of 
+its operation efficiency throughout 2023.
+The positive operating and business performance supported 
+the achievement of marketing performance since on average, 
+both GA and NGA performances have improved.  
+Ultimately, financial performance consisting of profit performance 
+and free cash flow also experienced positive growth. In general, 
+it can also be seen that the achievement performance compared 
+to the target reached more than 100%.
+KPI achievement also showed positive results, with almost all 
+targets achieved at 100%, and the lowest level of achievement 
+exceeded 96%. The KPI achievement becomes proof of GMF’s 
+commitment, as a subsidiary of SOE Aviation, to contribute to 
+the country’s development.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+142
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+PROSPEK USAHA DAN TARGET TAHUN 2024
+Asumsi APBN 2024 menargetkan pertumbuhan ekonomi 
+sebesar 5,2%. Pemerintah menjaga stabilitas ekonomi makro 
+dengan memastikan situasi kondusif dan damai pada Pemilu 
+dan Pilkada serentak 2024. Indonesia terus melaju menuju 
+negara maju di tengah berbagai gejolak ekonomi dunia dan 
+tantangan global. Tantangan global pascapandemi saat ini 
+terutama bersumber dari tensi geopolitik dan perubahan iklim. 
+Sementara itu, proyeksi ekonomi global tahun 2024 menurut 
+IMF akan tetap berada di level yang sama pada tahun 2023 
+yaitu di level 3,1%.
+Dalam APBN 2024 juga ditargetkan salah satu pembangunan 
+infrastruktur pemerintah adalah dalam hal konektivitas dan 
+transportasi. Diperlukan percepatan peningkatan konektivitas 
+dalam rangka pengembangan sistem jaringan konektivitas 
+nasional, tidak hanya jalan, tapi juga termasuk pengembangan 
+jaringan transportasi melalui peningkatan kapasitas bandara, 
+sebagai salah satu fokus utama di antara pengembangan lainnya. 
+Selain target peningkatan kapasitas bandara, pemerintah juga 
+menargetkan pengembangan 21 lokasi bandara baru. Pemerintah 
+memandang penting hal ini terutama untuk merealisasikan 
+target pembangunan Ibu Kota Negara (IKN) dan memastikan 
+konektivitas nasional dapat terus berkembang dan terjaga. 
+Rencana infrastruktur Pemerintah Indonesia tentu saja 
+membawa kabar baik bagi industri penerbangan dan MRO. 
+Terlebih lagi, prospek industri MRO ke depannya ke depan akan 
+terus berkembang secara positif pascapandemi usai. 
+Sebagai upaya untuk memanfaatkan momentum pertumbuhan 
+usaha pada tahun 2024, Perseroan berfokus pada usaha 
+untuk memperkuat dan memaksimalkan pengembangan 
+Perseroan yang telah dilakukan pada tahun 2023 dengan 
+mengusung tema Growing Together, Striving for Excellence. 
+Adapun strategi-strategi utama yang telah dipersiapkan adalah 
+Bold Strategy dengan tiga aspek utama yaitu Profitability 
+Improvement, Restructuring & Cash Flow Optimization, dan 
+Equity Improvement.
+Adapun proyeksi kinerja yang tertuang dalam penetapan RKAP 
+pada tahun 2024 pada dasarnya disusun berdasarkan Dokumen 
+RKAP 2024 yang disahkan pada tanggal 18 Januari 2024. Berikut 
+merupakan gambaran secara garis besar mengenai proyeksi 
+2024 yang telah dipersiapkan oleh Perseroan.
+Proyeksi 2024
+Projection for 2024
+Uraian
+Description
+Target Nominal (USD)
+Nominal Target (USD)
+Pendapatan/Revenues
+389,146,240
+Laba Usaha/Operating Income 
+41,890, 511
+Laba Bersih/Net Profit
+17,373,324
+BUSINESS PROSPECT AND TARGET FOR 2024
+In the assumptions of 2024 APBN, the economic growth 
+is targeted to be 5.2%. The government aims to maintain 
+macroeconomic stability by ensuring a conducive and peaceful 
+situation during the 2024 simultaneous regional and local 
+elections. Indonesia continues to progress toward becoming a 
+developed country despite facing global economic turmoil and 
+challenges, particularly from geopolitical tensions and climate 
+change after the pandemic era. According to the IMF, the global 
+economic projection for 2023 is expected to remain at the same 
+level as 2022, standing at 3.1%.
+In the 2024 APBN, one of the targets for government 
+infrastructure development is connectivity and transportation. It 
+is necessary to accelerate the increase in connectivity to develop 
+a national network system, covering not only roads but also 
+the expansion of transportation networks by increasing airport 
+capacity, among many others. This focus on enhancing airport 
+capacity is pivotal, alongside the development of 21 new airport 
+locations that the government has targeted. The government 
+deems these initiatives crucial, especially for achieving the 
+development targets of the National Capital City (IKN) and 
+ensuring the continuous development and maintenance of 
+national connectivity.  
+The Indonesian Government’s infrastructure plans undoubtedly 
+bring positive news for the aviation and MRO industries. 
+Moreover, the future prospects for the MRO industry are 
+expected to continue developing positively after the pandemic 
+subsides.  
+In an effort to capitalise on the momentum of business growth 
+in 2024, the Company focuses on efforts to strengthen and 
+maximise the Company’s development that has been carried out 
+in 2023 with the theme Growing Together, Striving for Excellence. 
+The main strategies will be the Bold Strategy with its three main 
+aspects, namely Profitability Improvement, Restructuring & 
+Cash Flow Optimisation, and Equity Improvement.
+The performance projections contained in the determination 
+of the RKAP in 2024 are basically prepared based on the 2024 
+RKAP Document which was approved on January 18, 2024. The 
+following is an outline of the 2024 projections that have been 
+prepared by the Company.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+143
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+INFORMASI DAN FAKTA MATERIAL SETELAH PELAPORAN 
+AKUNTAN
+Information and Material Facts Subsequent to the Accountant’s Report 
+INFORMASI DAMPAK NILAI TUKAR MATA UANG ASING
+Information on the Impact of Foreign Currency Exchange Rate 
+Tidak terdapat informasi keuangan dan fakta material yang 
+terjadi setelah tanggal pelaporan akuntan pada tanggal 28 
+Maret 2024 untuk Laporan Keuangan Perseroan Teraudit Tahun 
+Buku 2023.
+There was no information on financial and material facts 
+subsequent to the date of the report from the accountant on 
+March 28, 2024 for the Audited Financial Statements of the 
+Company for the 2023 Financial Year. 
+Perseroan rentan terhadap risiko nilai tukar mata uang yang 
+timbul dari berbagai eksposur mata uang non-fungsional, 
+terutama terhadap Rupiah. Risiko nilai tukar mata uang non-
+fungsional timbul dari transaksi komersial di masa depan serta 
+aset dan liabilitas yang diakui. Manajemen telah membuat 
+kebijakan untuk mengelola risiko nilai tukar mata uang non-
+fungsional terhadap mata uang fungsional dalam Perseroan.
+Perseroan melakukan transaksi lindung nilai berupa option, 
+sebesar minimum 25% dari selisih antara kewajiban dan harta 
+dalam valuta asing.
+The Company is vulnerable to foreign exchange risk from 
+various exposures on non-functional currency, especially 
+against Rupiah. Non-functional exchange risk came from future 
+commercial transactions and recognized assets and liabilities. 
+The management has made a policy to manage the exchange 
+rate risk of non-functional currencies against the functional 
+currency at the Company.
+The Company’s hedging transaction was through options, at 
+least 25% of the difference between liabilities and assets in 
+foreign currencies.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+144
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+KEBIJAKAN DIVIDEN DAN PEMBAGIANNYA
+Dividend Policy and Disbursement
+KONTRIBUSI KEPADA NEGARA
+Contribution to the State
+KEBIJAKAN DIVIDEN
+Perseroan menentukan rasio pembayaran maksimum sebesar 
+30% dari laba tahun berjalan dengan memperhitungkan laba 
+bersih, ketersediaan dana cadangan, persyaratan belanja modal, 
+hasil usaha, dan kas. Tentunya besaran dividen yang ditentukan 
+harus tetap memperhatikan tingkat kesehatan Perseroan dan 
+tidak mengurangi hak dari Rapat Umum Pemegang Saham 
+(RUPS) untuk menentukan lain sesuai dengan Anggaran Dasar.
+PEMBAGIAN DIVIDEN
+Berdasarkan RUPS Tahunan yang diselenggarakan pada 28 
+Juni 2023, RUPS menyetujui untuk menetapkan Laba Bersih 
+Perseroan yang diperoleh berdasarkan Laporan Keuangan 
+Tahunan Tahun Buku 2022 sebagai Laba Ditahan atau Retained 
+Earning untuk mengurangi akumulasi kerugian Perseroan.
+Kronologis pembagian dan pembayaran dividen tahun dari tahun 
+2021 ke 2023 adalah sebagai berikut:
+Tahun 
+Pembagian
+Distribution Year
+Tahun Dividen
+Dividend Year
+Tanggal 
+Pengumuman
+Announcement 
+Date
+Tanggal 
+Pembayaran
+Payment Date
+Dividen Kas 
+yang Dibagikan
+Cash Dividend 
+Distributed
+(USD)
+Dividen
+(USD/lembar 
+saham)
+Dividend  
+(USD/share)
+Rasio 
+Pembagian 
+Dividen
+Dividend 
+Distribution 
+Ratio
+(%)
+2023*
+-
+-
+-
+-
+-
+-
+2022*
+-
+-
+-
+-
+-
+-
+2021*
+-
+-
+-
+-
+-
+-
+Keterangan | Notes:
+*Berdasarkan RUPS Tahunan yang diselenggarakan, tidak terdapat keputusan mengenai pembagian dividen untuk tahun buku terkait. | Based on 
+the Annual GMS organized, there was no decision concerning dividend distribution for the fiscal year.
+DIVIDEND POLICY 
+The Company determines the payment ratio to be at the maximum 
+of 30% from the profit of the year with consideration on net profit, 
+general reserves, capital expenditure requirements, operating 
+results, and cash. The amount of distributed dividend should 
+consider the Company’s soundness level and does not diminish 
+the authorities of the General Meeting of Shareholders (GMS) 
+to determine otherwise according to the Articles of Association.
+DIVIDEND DISBURSEMENT
+Based on the Annual GMS organized on June 28, 2023, the 
+GMS has agreed to use the Company’s Net Profit based on the 
+Financial Statements for 2022 Financial Year as Retained Earning 
+to reduce the acculumated loss of the Company.
+The chronology of dividend payment and distribution from 2021 
+until 2023 is as follows:
+Perseroan memberikan kontribusi terhadap Negara melalui 
+pembayaran pajak dan bea cukai. Pembayaran pajak antara lain 
+berupa pajak penghasilan (baik PPh Badan maupun withholding 
+tax), PPN, serta pajak lainnya yang berkaitan dengan operasional 
+Perseroan. Adapun nilai kontribusi pajak dan bea cukai Perseroan 
+yang tercatat pada tahun 2023 mencapai Rp157.455.007.908.
+Sebagai bagian dari BUMN Garuda Indonesia, GMF senantiasa 
+memenuhi kewajibannya dalam membayar pajak sesuai aktivitas 
+operasional yang dijalankan dengan berpedoman pada peraturan 
+perundang-undangan yang berlaku. 
+The Company contributed to the State through tax payment and 
+customs.  Tax payment among others are income tax (Corporate 
+Income Tax and withholding tax), VAT, and other taxes related 
+to the Company’s operation. The values of the Company’s tax 
+contribution in 2023 reached Rp 157.455.007.908.
+As a part of SOE Garuda Indonesia, GMF always fulfills its 
+obligations in paying taxes according to operational activities 
+guided by applicable laws and regulations. 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+145
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+REALISASI PENGGUNAAN DANA HASIL PENAWARAN 
+UMUM
+Realization of Proceeds from Public Offering 
+Pada tanggal 10 Oktober 2017, Perseroan melakukan Penawaran 
+Umum Saham Perdana di Bursa Efek Indonesia dan menjadi 
+perusahaan terbuka. Pada penawaran umum tersebut Perseroan 
+melakukan penawaran saham sebanyak 2.823.351.100 lembar 
+pada harga Rp400,- kepada publik.
+Perihal
+Subject
+Jumlah
+Amount
+(Rp)
+Realisasi Nilai Hasil Penawaran Umum Saham Perdana
+Realization of the Value of Initial Public Offering
+Hasil Penawaran Umum Saham Perdana
+Results of Initial Public Offering
+1.129.340.440.000
+Biaya Penawaran Umum
+Public Offering Fee
+23.089.093.675
+Hasil Bersih
+Net Results
+1.106.251.346.325
+Rencana Penggunaan Dana Menurut Prospektus
+Planned Use of Funds According to Prospectus
+Modal Kerja
+Work Capital
+276.562.836.581
+Refinancing
+Refinancing
+165.937.701.949
+Investasi
+Investment
+663.750.807.795
+Jumlah
+Total
+1.106.251.346.325
+Realisasi Penggunaan Dana per 31 Desember 2020
+Actual Use of Funds as of December 31, 2020
+Modal Kerja
+Work Capital
+276.562.836.581
+Refinancing
+Refinancing
+165.937.701.949
+Investasi
+Investment
+663.750.807.795
+Jumlah
+Total
+1.106.251.346.325
+Sisa Dana Hasil Penawaran Umum per 31 Desember 2023
+Remaining Funds from Public Offering as of December 31, 2023
+0
+Dana hasil penawaran umum dikurangi dengan biaya-biaya yang 
+dikeluarkan dalam rangka IPO sekitar 1,871% dari nilai emisi atau 
+sekitar Rp23.089.093.675 sehingga hasil bersih dari IPO adalah 
+sebesar Rp1.106.251.346.325. Dari hasil bersih penawaran 
+umum sebesar Rp1.106.251.346.325 tersebut, pada tanggal 
+11 Oktober 2017, Perseroan melakukan konversi dana dari 
+Rupiah menjadi USD pada kurs Rp13.510 sehingga dana hasil 
+bersih penawaran umum tersebut menjadi USD81.883.889.
+On October 10, 2017, the Company made an Initial Public Offering 
+on the Indonesia Stock Exchange and became a public company. 
+In the public offering, the Company offered 2,823,351,100 
+shares at a price of Rp400 to the public.
+The funding from public offering minus the cost incurred in the 
+context of an IPO of approximately 1.871% of the value of the 
+issuance or around Rp23,089,093,675 so that the net result of the 
+general bidder is Rp1,106,251,346,325. From the net proceeds 
+of the public offering amounting to Rp1,106,251,346,325, on 
+October 11, 2017 the Company converted funds from Rupiah to 
+USD at an exchange rate of Rp13,510 so that the net proceeds 
+from the public offering became USD81,883,889.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+146
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Seluruh dana yang diperoleh dari hasil Penawaran Umum 
+Perdana Saham, setelah dikurangi dengan biaya-biaya  emisi, 
+digunakan oleh Perseroan dengan rincian sebagai berikut:
+1.	 Porsi 60% akan digunakan untuk mendanai investasi 
+Perseroan dalam rangka meningkatkan kapasitas dan 
+kapabilitas di Line Maintenance dan Repair & Overhaul, 
+berupa pembelian aset tetap, antara lain tools, equipment, 
+component, machineries dan sarana prasarana lainnya.
+2.	 Porsi 15% digunakan untuk pembayaran fasilitas  pinjaman 
+bank atau lembaga keuangan, dengan penjelasan sebagai 
+berikut: Pinjaman Kredit Modal Kerja yang diatur dalam Akta 
+Perjanjian Kredit No. 108 pada tanggal 28 April 2016. Saldo 
+pinjaman  atas fasilitas per 31 Maret 2017 adalah sebesar 
+USD31,236,141 yang akan dilunasi sebagian.
+a.	 Tingkat suku bunga: LIBOR 3 bulan + 2,75%
+b.	 Jatuh tempo tanggal: 27 Oktober 2017
+c.	 Penggunaan pinjaman: Pembayaran overdue utang 
+dagang
+d.	 Riwayat utang: Utang KMK BNI bertenor 1 tahun dan 
+saat ini telah diperpanjang selama 6 bulan terhitung 
+sejak tanggal 28 April 2017
+3.	 Porsi 25% digunakan untuk kebutuhan modal kerja Perseroan 
+yang bertujuan untuk mendukung kegiatan operasional 
+berupa pembayaran utang vendor, pembayaran pajak, dan 
+pembayaran utang jangka pendek lainnya.
+Tidak ada perubahan penggunaan dana sampai tanggal 
+pelaporan 31 Desember 2023.
+All funds obtained from the Initial Public Offering, after deducting 
+the issuance costs will be used by the Company with the 
+following details:
+1.	 The 60% portion will be used to fund the Company’s 
+investment in order to increase capacity and capability in Line 
+Maintenance and Repair & Overhaul, in the form of purchases 
+of fixed assets, including tools, equipment, components, 
+machineries and other infrastructure.
+2.	 The 15% portion will be used for repayment of bank 
+or financial institution loan facilities, with the following 
+explanation: Loan for Working Capital Loan as stipulated in 
+Deed of Credit Agreement  No. 108 on April 28, 2016. The 
+loan balance of the facility as of March 31, 2017 amounted 
+to USD31,236,141 which will be paid in part.
+a.	 Interest rates: 3-month LIBOR + 2.75%
+b.	 Due date: October 27, 2017
+c.	 Loan use: Overdue payment of trade debts
+d.	 Debt history: BNI’s KMK debt has a tenor of 1 year and 
+has now been extended for 6 months starting April 
+28, 2017
+3.	 The 25% portion will be used for the Company’s working 
+capital needs which aim to support operational activities in 
+the form of vendor debt payments, tax payments and other 
+short-term debt payments.
+There was no change in the use of funds until the reporting date 
+on December 31, 2023.
+REALISASI PENGGUNAAN DANA HASIL PENAWARAN 
+UMUM OBLIGASI
+Realization of Proceeds from Bond Offering 
+Hingga tanggal 31 Desember 2023, Perseroan tidak menerbitkan 
+obligasi/sukuk/obligasi konversi di bursa efek mana pun.
+As of December 31, 2023, the Company has never issued bonds/
+sharia bonds/convertible bonds on any stock exchange.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+147
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+INFORMASI MATERIAL MENGENAI INVESTASI, EKSPANSI, 
+DIVESTASI, PENGGABUNGAN USAHA, AKUISISI, DAN/
+ATAU RESTRUKTURISASI UTANG/MODAL
+Material Information Regarding Investment, Expansion, Divestment, Business Combina-
+tion, Acquisition, and/or Debt/Capital Restructuring
+INFORMASI TRANSAKSI MATERIAL YANG MENGANDUNG 
+BENTURAN KEPENTINGAN DAN/ATAU TRANSAKSI 
+DENGAN PIHAK AFILIASI/PIHAK BERELASI
+Information on Material Transactions Containing Conflicts of Interest and/or Transac-
+tions with Affiliated/Related Parties
+Pada tahun 2023, Perseroan telah melakukan beberapa 
+restrukturisasi utang dengan kreditur perbankan dan kreditur 
+lainnya. Hal tersebut telah diungkapkan dalam Laporan Keuangan 
+Konsolidasian Tahun Buku 2023 Perseroan pada Catatan Atas 
+Laporan Keuangan (“CALK”) No. 10 terkait dengan Utang Usaha 
+dan CALK No. 13 mengenai Pinjaman Bank Jangka Panjang.  
+In 2023, the Company has conducted several debt restructurings 
+with bank creditors and other creditors. This has been disclosed 
+in the Consolidated Financial Statements for the 2023 Financial 
+Year of the Company in Notes to Financial Statements (“CALK”) 
+No. 10 related to Accounts Payable and CALK No. 13 regarding 
+Long-Term Bank Loans.  
+Perseroan memiliki transaksi dengan pihak-pihak berelasi yang 
+merupakan individu atau entitas berelasi dengan GMF. Transaksi 
+ini membuat Perseroan mengaplikasikan pernyataan standar 
+Akuntansi Keuangan (PSAK) 7 “Pengungkapan Pihak-Pihak 
+Berelasi” dalam Laporan Keuangan tahun 2023 yang telah diaudit 
+oleh Kantor Akuntan Publik Tanudiredja, Wibisana, Rintis & Rekan. 
+Semua transaksi dengan pihak yang berelasi, dilakukan dengan 
+persyaratan, tingkat harga, dan kondisi normal sebagaimana 
+yang dilakukan dengan pihak ketiga dan telah diungkapkan 
+dalam laporan keuangan. Tidak ada perbedaan kebijakan harga 
+dan syarat transaksi antara pihak-pihak berelasi dan pihak 
+ketiga. Mekanisme review dan juga pemenuhan peraturan dan 
+ketentuan terkait semuanya dilakukan berdasarkan Standar 
+Akuntansi Keuangan (SAK) di Indonesia pada PSAK 7 tentang 
+“Pengungkapan Pihak-Pihak Berelasi”.
+Pihak-pihak berelasi di lingkup Perseroan adalah sebagai berikut:
+1.	 Garuda adalah entitas induk Perseroan.
+2.	 Seluruh entitas yang dikendalikan oleh Garuda serta entitas 
+dimana Garuda memiliki pengaruh signifikan.
+3.	 Pemerintah Republik Indonesia melalui Kementerian 
+Keuangan adalah pemegang saham utama Perseroan.
+4.	 Seluruh entitas yang dimiliki dan dikendalikan oleh 
+Kementerian Keuangan Pemerintah Republik Indonesia 
+serta entitas dimana Kementerian Keuangan Pemerintah 
+Republik Indonesia memiliki pengaruh signifikan. 
+5.	 Dewan Komisaris dan Direksi merupakan manajemen kunci.
+The Company is transacting with related parties of individuals 
+or entities related to GMF. This transaction made the Company 
+applied PSAK No. 7 regarding “Disclosure of Related Parties” 
+within the Financial Statements in 2023 which has been audited 
+by the Public Accounting Firm Tanudiredja, Wibisana, Rintis & 
+Partners. All transactions with related parties were performed 
+based on the requirements, price level, and normal condition 
+the same with third parties and have been disclosed in the 
+financial statements. There were no differences of price policy 
+or transaction terms between related and third parties. The 
+review and compliance with rules and provision were based on 
+the Financial Accounting Standard (SAK) in Indonesia on PSAK 
+7 concerning “Disclosure of Related Parties”.
+Related parties within the Company’s coverage are as follows:
+1.	 Garuda is the Company’s parent entity.
+2.	 All entities controlled by Garuda or where Garuda has 
+significant influence are presented as related parties.
+3.	 The Government of the Republic of Indonesia represented by 
+the Ministry of Finance is the majority stockholder of Garuda.
+4.	 All entities that are owned and controlled by the Government 
+of the Republic of Indonesia including entities where the 
+Government of the Republic of Indonesia have significant 
+influence are presented as government - related entities.
+5.	 Commissioners and Directors are considered key 
+management personnel.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+148
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Transaksi yang dilakukan oleh Perseroan dengan pihak berelasi 
+merupakan transaksi yang umum dilakukan oleh Perseroan 
+untuk keperluan operasional bisnis sehari-hari. Transaksi-
+transaksi tersebut tidak termasuk dalam Transaksi yang 
+Mengandung Benturan kepentingan sebagaimana dimaksud 
+dalam Bab III POJK No. 42/POJK.04/2020 Tentang Transaksi 
+Afiliasi dan Transaksi Benturan Kepentingan.
+Pihak yang Berelasi
+Related Parties
+Sifat Hubungan
+Nature of Relationship
+Sifat Transaksi
+Nature of Transaction
+Garuda Indonesia
+Entitas induk
+Parent entity
+Piutang usaha, aset kontrak, utang usaha, akrual, liabilitas 
+kontrak, beban usaha
+Accounts receivable, contract assets, accounts payable, 
+accrual, contract liabilities, operating expenses
+Citilink
+Entitas yang dikendalikan oleh Garuda Indonesia
+Entity under common control of Garuda Indonesia
+Piutang usaha, aset kontrak, utang usaha, liabilitas kontrak
+Accounts receivable, contract assets, accounts payable, 
+contract liabilities
+PT Aero Systems Indonesia
+Entitas yang dikendalikan oleh Garuda Indonesia
+Entity under common control of Garuda Indonesia
+Utang usaha, akrual, beban usaha
+Accounts receivable, accrual, operating expenses
+PT Aerotrans Services Indonesia
+Entitas yang dikendalikan oleh Garuda Indonesia
+Entity under common control of Garuda Indonesia
+Utang usaha, akrual, beban usaha
+Accounts payable, accrual, operating expenses
+PT Gapura Angkasa
+Entitas dimana Garuda Indonesia memiliki 
+pengaruh yang signifikan
+Entity under significant influence of Garuda 
+Indonesia 
+Aset kontrak, utang usaha, beban usaha
+Contract assets, accounts payable, operating expenses
+PT Angkasa Pura II (Persero)
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha, utang usaha, akrual, liabilitas sewa
+Operating expenses, accounts payable, accrual, lease 
+liabilities
+PT Angkasa Pura I (Persero)
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha, liabilitas sewa
+Operating expenses, lease liabilities
+PT Asuransi Jiwa Inhealth 
+Indonesia
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha
+Operating expenses
+BPJS Kesehatan
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha
+Operating expenses
+PT PLN (Persero)
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha
+Operating expenses
+PT Telekomunikasi Indonesia 
+(Persero) Tbk
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Beban usaha
+Operating expenses
+Bank Negara Indonesia
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas serta pinjaman
+Placement of cash and cash equivalents and loans
+Bank Rakyat Indonesia
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas serta pinjaman
+Placement of cash and cash equivalents and loans
+Transactions conducted by the Company with related parties 
+are typically conducted for daily business operational purposes. 
+These transactions are not considered as Transactions Containing 
+Conflicts of Interest as referred to in Chapter III POJK No. 42/
+POJK.04/2020 concerning Affiliate Transactions and Conflict of 
+Interest Transactions.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+149
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+Pihak yang Berelasi
+Related Parties
+Sifat Hubungan
+Nature of Relationship
+Sifat Transaksi
+Nature of Transaction
+PT Bank Mandiri (Persero) Tbk 
+(“Mandiri”)
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas
+Placement of cash and cash equivalents
+PT Bank Syariah Mandiri
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas
+Placement of cash and cash equivalents
+PT Bank BNI Syariah
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas
+Placement of cash and cash equivalents
+PT Bank Tabungan Negara 
+(Persero) Tbk
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia
+Entity owned and controlled by the Indonesian 
+Government
+Penempatan kas dan setara kas
+Placement of cash and cash equivalents
+PT Bank Pembangunan Daerah 
+Jawa Barat dan Banten Tbk
+Entitas yang dimiliki dan dikendalikan oleh 
+Pemerintah Republik Indonesia Entity owned and 
+controlled by the Indonesian Government
+Penempatan kas dan setara kas Placement of cash and 
+cash equivalents
+REALISASI SALDO DAN TRANSAKSI PIHAK-
+PIHAK BERELASI
+Uraian
+Description
+2023
+(USD) 
+2022
+(USD) 
+Persentase dari jumlah aset (liabilitas)
+Percentage of total assets (liabilities)
+2023
+(%)
+2022
+(%)
+Saldo Pihak Berelasi Dalam Aset
+Related Party Balances in Assets
+Kas dan Setara Kas
+Cash and Cash Equivalents
+17,551,419
+4,254,935
+3.90
+1.09
+Kas Dibatasi Pengunaannya
+Restricted Cash
+358,975
+351,784
+0.08
+0.09
+Piutang Usaha
+Accounts Receivable
+61,352,101
+26,866,840 
+13.63
+6.88
+Aset Kontrak
+Contract Assets
+39,738,525
+49,252,149 
+8.83
+12.61
+Saldo Pihak Berelasi Dalam Liabilitas
+Related Party Balances in Liabilities
+Utang Usaha
+Operating Debt
+10.391,617
+10,349,689 
+1.37
+1.43
+Akrual
+Accruals
+3,412,094
+4,071,053 
+0.45
+0.56
+Liabilitas Sewa
+Lease Liabilities
+50,210,105
+49,612,912 
+6.60
+6.87
+Pinjaman Jangka Panjang
+Long-Term Loans
+330,918,257
+337,520,513 
+43.47
+46.77
+Liabilitas Kontrak
+Contract Liabilities
+89,556,217
+30,912,936 
+11.77
+4.28
+Saldo Pihak Berelasi dalam Beban Usaha
+Related Party Balances in Operating Expenses
+Beban Usaha
+Operating Expenses
+21,459,594
+17,011,559 
+6.21
+7.96
+REALIZATION OF BALANCES AND 
+TRANSACTIONS OF RELATED PARTIES
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+150
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Uraian
+Description
+2023
+(USD) 
+2022
+(USD) 
+Persentase dari jumlah aset (liabilitas)
+Percentage of total assets (liabilities)
+2023
+(%)
+2022
+(%)
+Saldo Pihak Berelasi Dalam Beban Keuangan
+Related Party Balances in Financial Expenses
+Beban Keuangan
+Operating Expenses
+12,515,242
+11,936,447 
+52.99
+54.04
+PERNYATAAN DIREKSI DAN DEWAN 
+KOMISARIS
+Direksi Perusahaan, baik secara sendiri-sendiri maupun 
+bersama-sama bertanggung jawab sepenuhnya atas kebenaran 
+dan informasi mengenai serangkaian transaksi afiliasi yang 
+dilakukan Perseroan pada tahun 2023. Dewan Komisaris, 
+bersama-sama dengan Komite Audit, juga telah melakukan 
+pengawasan yang memadai terhadap setiap transaksi afiliasi 
+yang dilakukan di sepanjang tahun 2023.
+Direksi dan Dewan Komisaris telah melakukan analisa secara 
+seksama dan menegaskan bahwa transaksi afiliasi telah melalui 
+prosedur yang memadai dan dilaksanakan sesuai dengan praktik 
+bisnis yang berlaku umum.
+STATEMENT FROM THE BOARD OF 
+DIRECTORS AND THE BOARD OF 
+COMMISSIONERS
+The Board of Directors, either unilaterally or collectively, is fully 
+responsible for the authenticity of the information regarding 
+the affiliated transactions throughout 2023. The Board of 
+Commissioners, together with the Audit Committee, had 
+overseen all of the affiliated transactions throughout 2023.
+The Board of Directors and the Board of Commissioners have 
+made a thorough analysis and therefore declare that all affiliated 
+transactions had gone through the proper process and were 
+conducted according to the general practices of business conduct. 
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+151
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+PERUBAHAN PERATURAN PERUNDANG-UNDANGAN 
+YANG BERPENGARUH SIGNIFIKAN TERHADAP 
+PERSEROAN
+Changes in Law and Regulations that Had Significant Affect to the Company
+INFORMASI KEUANGAN YANG MENGANDUNG KEJADIAN 
+YANG BERSIFAT LUAR BIASA DAN JARANG TERJADI
+Financial Information that Contains Extraordinary and Rare Events
+Pada tahun 2023, tidak terdapat informasi ataupun transaksi 
+keuangan yang mengandung kejadian yang bersifat luar biasa 
+dan jarang terjadi selain dari keseluruhan informasi yang telah 
+disampaikan pada Laporan Keuangan.
+During 2023, there is no financial information or transaction 
+which can be considered as something that is extraordinary 
+or rare other than what has been disclosed in the Financial 
+Statement.
+No.
+Nama Peraturan
+Regulation
+Isi Peraturan
+Content
+Dampak
+Impact
+Penyesuaian
+Adjustment
+1.
+Peraturan Menteri Badan Usaha 
+Milik Negara Nomor PER-1/
+MBU/03/2023 Tahun 2023 
+tentang Penugasan Khusus dan 
+Program Tanggung Jawab Sosial 
+dan Lingkungan Badan Usaha Milik 
+Negara (“Permen BUMN 1/2023”)
+Minister of State-Owned 
+Enterprise Regulation Number 
+PER-1/MBU/03/2023 of 2023 
+concerning Special Assignments 
+and Social and Environmental 
+Responsibility Programs for 
+State-Owned Enterprises ("SOE 
+Ministerial Regulation 1/2023")
+Peraturan ini diterbitkan untuk 
+mewujudkan Peraturan Menteri 
+Badan Usaha Milik Negara yang 
+sinkron dan harmonis guna 
+mendukung pengelolaan Badan 
+Usaha Milik Negara (“BUMN”) 
+yang terencana, terpadu, dan 
+berkelanjutan khususnya yang 
+berkaitan dengan mekanisme 
+mengenai pelaksanaan penugasan 
+khusus dan program tanggung 
+jawab sosial dan lingkungan 
+BUMN. 
+This regulation was issued to realize 
+a synchronous and harmonious 
+Regulation of the Minister of 
+State-Owned Enterprise to support 
+planned, integrated, and continous 
+management of State-Owned 
+Enterprises ("SOE"), especially 
+those relating to mechanisms 
+regarding the implementation of 
+special assignments and social 
+and environmental responsibility 
+programs for SOE.
+Peraturan ini berdampak 
+signifikan pada Perseroan 
+sebagai anak usaha BUMN 
+dalam rangka melaksanakan 
+penugasan khusus dan 
+program tanggung jawab 
+sosial dan lingkungan.
+This regulation has a 
+significant impact on the 
+Company as a subsidiary 
+of SOE, enabling it to carry 
+out special assignments and 
+social and environmental 
+responsibility programs.
+Perseroan telah meratifikasi 
+Permen BUMN 1/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023. Menerapkan 
+ketentuan sebagaimana diatur 
+oleh peraturan tersebut dalam 
+kegiatan usahanya, khususnya 
+yang berkaitan dengan 
+pemrosesan data pribadi 
+penumpang dan melakukan 
+sosialisasi di internal Perseroan 
+terkait dengan regulasi terbaru. 
+The Company ratified the 
+SOE Ministerial Regulation 
+1/2023 at the Annual General 
+Meeting of Shareholders for 
+the 2022 Financial Year, which 
+was held on June 28, 2023. 
+Implemented the provisions 
+regulated by this regulation in 
+its business activities, especially 
+those related to processing 
+passenger personal data and 
+conducting socialization within 
+the Company related to the 
+latest regulations.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+152
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+No.
+Nama Peraturan
+Regulation
+Isi Peraturan
+Content
+Dampak
+Impact
+Penyesuaian
+Adjustment
+2.
+Peraturan Menteri Badan Usaha 
+Milik Negara Nomor PER-2/
+MBU/03/2023 Tahun 2023 
+tentang Pedoman Tata Kelola 
+dan Kegiatan Korporasi Signifikan 
+Badan Usaha Milik Negara
+Minister of State-Owned Enterprise 
+Regulation Number PER-2/
+MBU/03/2023 of 2023 concerning 
+Guidelines for Governance and 
+Significant Corporate Activities of 
+State-Owned Enterprise
+Peraturan ini diterbitkan untuk 
+mewujudkan Peraturan Menteri 
+BUMN yang selaras dan harmonis 
+guna mendukung pengelolaan 
+BUMN yang terencana, terpadu, 
+dan berkelanjutan khususnya 
+yang berkaitan dengan mekanisme 
+mengenai pelaksanaan Tata Kelola 
+dan Kegiatan Korporasi Signifikan 
+BUMN. 
+This regulation was issued 
+to realize a harmonious and 
+synchronized SOE Ministerial 
+Regulation to support planned, 
+integrated, and continous 
+management of SOE, especially 
+those related to mechanisms 
+regarding the implementation 
+of Governance and Significant 
+Corporate Activities of SOE.
+Peraturan ini berdampak 
+signifikan pada Perseroan 
+sebagai anak usaha BUMN 
+dalam rangka pelaksanaan 
+Tata Kelola Perusahaan yang 
+Baik serta kegiatan korporasi 
+signifikan Perseroan.
+This regulation has a 
+significant impact on the 
+Company as a subsidiary of 
+SOE in implementing Good 
+Corporate Governance, 
+the Company's significant 
+corporate activities.
+Perseroan telah meratifikasi 
+Permen BUMN 2/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023.
+The Company ratified the SOE 
+Ministerial Regulation 2/2023 
+at the Annual General Meeting 
+of Shareholders for the 2022 
+Financial Year, which was held 
+on June 28, 2023. 
+3.
+Peraturan Menteri Badan Usaha 
+Milik Negara Nomor Per-3/
+MBU/03/2023 Tahun 2023 
+Tentang Organ dan Sumber Daya 
+Manusia Badan Usaha Milik Negara
+Minister of State-Owned Enterprise 
+Regulation Number PER-3/
+MBU/03/2023 of 2023 concerning 
+Organs and Human Resources of 
+State-Owned Enterprise
+Peraturan ini diterbitkan untuk 
+mewujudkan Peraturan Menteri 
+BUMN yang selaras dan harmonis 
+guna mendukung pengelolaan 
+BUMN yang terencana, terpadu, 
+dan berkelanjutan khususnya yang 
+berkaitan dengan pengangkatan, 
+pemberhentian, dan penghasilan 
+Direksi dan Dewan Komisaris 
+BUMN, Manajemen Talenta, 
+dan Organ Pendukung Dewan 
+Komisaris BUMN.
+This regulation was issued to realize 
+a harmonious and synchronized 
+BUMN Ministerial Regulation 
+to support planned, integrated, 
+and continous management of 
+SOE, especially those related 
+to the appointment, dismissal, 
+and income of SOE’s Directors 
+and Commissioners, Talent 
+Management, and Supporting 
+Organs of SOE’s Commissioners.
+Peraturan ini berdampak 
+signifikan pada Perseroan 
+sebagai anak usaha BUMN 
+dalam rangka melaksanakan 
+pengelolaan Organ dan 
+Sumber Daya Manusia dalam 
+Perseroan.
+This regulation has a 
+significant impact on the 
+Company as a subsidiary 
+of SOE to carry out the 
+m a n a g e m e n t  o f  t h e 
+Company’s Organs and 
+Human Resources.
+Perseroan telah meratifikasi 
+Permen BUMN 3/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023.
+The Company ratified the SOE 
+Ministerial Regulation 3/2023 
+at the Annual General Meeting 
+of Shareholders for the 2022 
+Financial Year, which was held 
+on June 28, 2023.
+4.
+Surat Keputusan Deputi Bidang 
+Keuangan dan Manajemen 
+Risiko BUMN Nomor: SK-3/DKU.
+MBU/05/2023 tentang Petunjuk 
+Teknis Komposisi dan Kualifikasi 
+Organ Pengelola Risiko di 
+Lingkungan BUMN
+Decree of the Deputy for Finance 
+and Risk Management of SOE 
+Number: SK-3/DKU.MBU/05/2023 
+concerning Technical Instructions 
+for the Composition and 
+Qualifications of Risk Management 
+Organs within SOE
+Peraturan ini merupakan 
+petunjuk teknis dari Peraturan 
+Menteri BUMN RI Nomor PER-2/
+MBU/03/2023 tentang Pedoman 
+Tata Kelola dan Kegiatan Korporasi 
+Signifikan BUMN yang mengatur 
+lebih lanjut mengenai kewajiban 
+BUMN untuk memiliki organ 
+pengelola risiko beserta dengan 
+komposisi dan kualifikasi yang 
+menjadi syarat setiap anggota 
+Organ Pengelola Risiko.
+This regulation is a technical 
+guide from the Regulation of the 
+Minister of SOE of the Republic 
+of Indonesia Number PER-2/
+MBU/03/2023 concerning 
+Guidelines for Governance and 
+Significant Corporate Activities of 
+SOE, which further regulates the 
+obligations of SOE to have a risk 
+management organ along with 
+the composition and qualifications 
+required for each member of the 
+Risk Management Organ.
+Peraturan ini berdampak 
+pada Perseroan untuk 
+penyesuaian struktur, 
+komposisi dan kualifikasi 
+organ pengelola risiko 
+mengacu pada peraturan ini.
+This regulation has an impact 
+on the Company to adjust 
+the structure, composition, 
+and qualifications of risk 
+management organs, 
+referring to this regulation.
+Dengan telah diratifikasinya 
+Permen BUMN 2/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023 maka seluruh 
+peraturan terkait PermenBUMN 
+2/2023 berlaku bagi Perseroan.
+With the ratification of SOE 
+Ministerial Regulation 2/2023 
+(Permen BUMN 2/203) at the 
+Annual General Meeting of 
+Shareholders for the 2022 
+Financial Year, which was held 
+on 28 June 2023, all regulations 
+related to Permen BUMN 
+2/2023 apply to the Company.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+153
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+No.
+Nama Peraturan
+Regulation
+Isi Peraturan
+Content
+Dampak
+Impact
+Penyesuaian
+Adjustment
+5.
+Surat Keputusan Deputi Bidang 
+Keuangan dan Manajemen 
+risiko BUMN Nomor: SK-6/DKU.
+MBU/10/2023 tentang Petunjuk 
+Teknis Proses Manajemen Risiko 
+dan Agregasi pada Taksonomi 
+Risiko Portofolio BUMN
+Decree of the Deputy for Finance 
+and Risk Management of SOE 
+Number: SK-6/DKU.MBU/10/2023 
+concerning Technical Instructions 
+for the Risk Management Process 
+and Aggregation in the SPE 
+Portfolio Risk Taxonomy
+Peraturan ini merupakan petunjuk 
+teknis dari Permen BUMN 2/2023 
+yang mengatur lebih lanjut 
+mengenai serangkaian prosedur 
+dan metodologi terstruktur 
+yang meliputi perencanaan, 
+pemantauan dan evaluasi atas 
+risiko yang timbul dari seluruh 
+kegiatan usaha BUMN, mencakup 
+sistem pengendalian intern, tata 
+kelola terintegrasi, pelaporan dan 
+pencapaian kinerja.
+This regulation is a technical 
+guideline from Permen BUMN 
+2/2023, which further regulates 
+a series of structured procedures 
+and methodologies, including 
+planning, monitoring, and 
+evaluating risks arising from all 
+business activities of SOEs. These 
+include internal control systems, 
+integrated governance, reporting, 
+and achievements.
+Peraturan ini berdampak 
+pada Perseroan untuk 
+penyesuaian kebijakan dan 
+standar prosedur manajemen 
+risiko, pelaksanaan proses 
+identifikasi, pengukuran, 
+perlakuan, pencatatan, 
+pemantauan, evaluasi, 
+pelaporan dan sistem 
+informasi manajemen risiko, 
+serta melaksanakan sistem 
+pengendalian intern secara 
+efektif mengacu pada 
+peraturan ini.
+This regulation has an impact 
+on the Company in adjusting 
+risk management policies 
+and standard procedures, 
+implementing identification, 
+measurement, treatment, 
+recording, monitoring, 
+evaluation, reporting, 
+and risk management 
+information systems, as well 
+as implementing an effective 
+internal control system 
+referring to this regulation.
+Dengan telah diratifikasinya 
+Permen BUMN 2/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023 maka seluruh 
+peraturan terkait Permen BUMN 
+2/2023 berlaku bagi Perseroan.
+With the ratification of SOE 
+Ministerial Regulation 2/2023 
+(Permen BUMN 2/203) at the 
+Annual General Meeting of 
+Shareholders for the 2022 
+Financial Year, which was held 
+on 28 June 2023, all regulations 
+related to Permen BUMN 
+2/2023 apply to the Company.
+6. 
+Surat Keputusan Deputi Bidang 
+Keuangan dan Manajemen 
+risiko BUMN Nomor: SK-7/DKU.
+MBU/10/2023 tentang Petunjuk 
+Teknis Pelaporan Manajemen 
+Risiko BUMN
+Decree of the Deputy for Finance 
+and Risk Management of SOE 
+Number: SK-7/DKU.MBU/10/2023 
+concerning Technical Instructions 
+for Risk Management Reporting of 
+SOEs
+Peraturan ini merupakan petunjuk 
+teknis dari Permen BUMN 2/2023 
+yang mengatur lebih lanjut 
+mengenai standarisasi pelaporan 
+manajemen risiko yang merupakan 
+bagian dari proses evaluasi 
+manajemen risiko.
+This regulation is a technical 
+guideline from Permen BUMN 
+2/2023, which further regulates 
+the standardization of risk 
+management reporting, which 
+is part of the risk management 
+evaluation process.
+Peraturan ini berdampak 
+pada Perseroan untuk 
+penyesuaian kebijakan 
+dan prosedur evaluasi dan 
+pelaporan manajemen risiko 
+mengacu pada peraturan ini.
+This regulation has an impact 
+on the Company, requiring it 
+to adjust its risk management 
+evaluation and reporting 
+policies and procedures 
+in accordance with this 
+regulation.
+Dengan telah diratifikasinya 
+Permen BUMN 2/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023 maka seluruh 
+peraturan terkait Permen BUMN 
+2/2023 berlaku bagi Perseroan.
+With the ratification of SOE 
+Ministerial Regulation 2/2023 
+(Permen BUMN 2/203) at the 
+Annual General Meeting of 
+Shareholders for the 2022 
+Financial Year, which was held 
+on 28 June 2023, all regulations 
+related to Permen BUMN 
+2/2023 apply to the Company.
+7.
+Surat Keputusan Deputi Bidang 
+Keuangan dan Manajemen 
+risiko BUMN Nomor: SK-8/
+DKU.MBU/12/2023 tentang 
+Petunjuk Teknis Penilaian Indeks 
+Kematangan Risiko (Risk Maturity 
+Index) BUMN
+Decree of the Deputy for Finance 
+and Risk Management of SOE 
+Number: SK-8/DKU.MBU/12/2023 
+concerning Technical Instructions 
+for Assessment of the SOE Risk 
+Maturity Index
+Peraturan ini merupakan petunjuk 
+teknis dari Permen BUMN 2/2023 
+yang mengatur lebih lanjut 
+mengenai panduan bagi BUMN 
+dalam melakukan Penilaian RMI 
+baik yang dilakukan oleh Tim 
+Penilai Internal maupun Penilai 
+Independen.
+This regulation is a technical 
+guideline from Permen BUMN 
+2/2023, which further regulates 
+guidelines for SOEs in carrying 
+out RMI Assessments, whether 
+conducted by the Internal 
+Assessment Team or Independent 
+Appraisers.
+Peraturan ini berdampak 
+pada Perseroan untuk 
+penyesuaian kebijakan dan 
+prosedur internal mengacu 
+pada peraturan ini.
+This regulation has an impact 
+on the Company, requiring it 
+to adjust internal policies and 
+procedures in accordance 
+with this regulation.
+Dengan telah diratifikasinya 
+Permen BUMN 2/2023 dalam 
+Rapat Umum Pemegang Saham 
+Tahunan Tahun Buku 2022 
+yang dilaksanakan pada tanggal 
+28 Juni 2023 maka seluruh 
+peraturan terkait Permen BUMN 
+2/2023 berlaku bagi Perseroan.
+With the ratification of SOE 
+Ministerial Regulation 2/2023 
+(Permen BUMN 2/203) at the 
+Annual General Meeting of 
+Shareholders for the 2022 
+Financial Year, which was held 
+on 28 June 2023, all regulations 
+related to Permen BUMN 
+2/2023 apply to the Company.
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+154
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+No.
+Nama Peraturan
+Regulation
+Isi Peraturan
+Content
+Dampak
+Impact
+Penyesuaian
+Adjustment
+8.
+Keputusan Menteri BUMN RI 
+Nomor SK-306/MBU/11/2023 
+tentang Petunjuk Teknis 
+Penyusunan Indikator Kinerja 
+Utama (Key Performance Indicator) 
+BUMN
+Decree of the Indonesian 
+Minister of SOE Number SK-
+306/MBU/11/2023 concerning 
+Technical Instructions for 
+Preparing Key Performance 
+Indicators for SOE.
+Peraturan ini merupakan petunjuk 
+teknis dari Permen BUMN 
+2/2023 yang mengatur lebih 
+lanjut mengenai panduan bagi 
+Direksi dalam menyusun dan 
+mengusulkan KPI Direksi secara 
+kolegial dan KPI Direksi secara 
+individual sebagai dasar penilaian 
+kinerja Direksi.
+This regulation is a technical 
+guideline from Permen BUMN 
+2/2023, which further regulates 
+guidelines for Directors in 
+compiling and proposing collegial 
+and individual KPI of Directors as 
+a basis for assessing Directors' 
+performance.
+Perseroan menyesuaikan 
+kebijakan dan prosedur 
+internal mengacu pada 
+peraturan ini.
+This regulation has an impact 
+on the Company, requiring it 
+to adjust internal policies and 
+procedures in accordance 
+with this regulation.
+Penyesuaian pada penyusunan 
+KPI Direksi baik secara kolegial 
+maupun individual.
+Adjustments are made to the 
+preparation of collegial and 
+individual KPI of Directors.
+9.
+K e p u t u s a n  
+S e k r e t a r i s 
+Kementerian BUMN RI Nomor 
+SK-12/S.MBU/08/2023 tentang 
+Pencabutan Keputusan Sekretaris 
+Kementerian BUMN Nomor: SK-
+16/S.MBU/2012 tentang Indikator/
+Parameter Penilaian Dan Evaluasi 
+Atas Penerapan Tata Kelola 
+Perusahaan Yang Baik (Good 
+Corporate Governance) Pada 
+Badan Usaha Milik Negara
+Decree of the Secretary of the 
+Indonesian Ministry of SOE 
+Number SK-12/S.MBU/08/2023 
+concerning the Revocation of the 
+Decree of the Secretary of the 
+Ministry of SOE Number: SK-16/S.
+MBU/2012 concerning Indicators/
+Parameters for Assessment and 
+Evaluation of the Implementation 
+of Good Corporate Governance in 
+State-Owned Enterprises.
+Peraturan ini merupakan tindak 
+lanjut dari Permen BUMN 2/2023 
+yang mencabut Surat Keputusan 
+Sekretaris Kementerian BUMN 
+tentang Indikator/Parameter 
+Penilaian dan Evaluasi Atas 
+Penerapan Tata Kelola Perusahaan 
+yang Baik.
+This regulation is a follow-up to 
+Permen BUMN 2/2023, which 
+revokes the Decree of the 
+Secretary of the Ministry of SOE 
+concerning Indicators/Parameters 
+for Assessment and Evaluation 
+of the Implementation of Good 
+Corporate Governance.
+Perseroan masih menunggu 
+peraturan pengganti 
+terkait proses pengukuran 
+penerapan GCG.
+The Company is still 
+waiting for the replacement 
+regulations regarding the 
+process of measuring GCG 
+implementation.
+Perseroan menggunakan 
+indikator/parameter lain yang 
+berlaku bagi Perusahaan 
+Terbuka dalam penerapan GCG.
+The Company uses other 
+indicators/parameters 
+applicable to Public Companies 
+in implementing GCG.
+10.
+Peraturan Otoritas Jasa Keuangan 
+Republik Indonesia Nomor 9 
+Tahun 2023 tentang Penggunaan 
+Jasa Akuntan Publik dan Kantor 
+Akuntan Publik dalam Kegiatan 
+Jasa Keuangan
+Financial Services Authority 
+Regulation of Indonesia Number 
+9 of 2023 concerning the Use of 
+Public Accountants and Auditing 
+Firms in Financial Services
+Menggantikan Peraturan Otoritas 
+Jasa Keuangan Republik Indonesia 
+Nomor 13/POJK.13/2-17 tentang 
+Penggunaan Jasa Akuntan Publik 
+dan Kantor Akuntan Publik dalam 
+Kegiatan Jasa Keuangan.
+The Company replaced the 
+Financial Services Authority 
+Regulation of Indonesia Number 
+13/POJK.13/2-17 concerning Use of 
+Public Accountants and Auditing 
+Firms in Financial Services in 
+Financial Services Activities.
+Perseroan dalam memenuhi 
+kewajiban-kewajiban 
+di bidang Pasar Modal 
+khususnya terkait Kantor 
+Akuntan Publik wajib 
+memperhatikan ketentuan 
+POJK 9/2023.
+In fulfilling its obligations in 
+the Capital Market sector, 
+especially regarding Public 
+Accounting Firms, the 
+Company must pay attention 
+to the provisions of POJK 
+9/2023.
+Pemenuhan kewajiban di 
+bidang Pasar Modal terkait 
+Akuntan Publik dan Kantor 
+Akuntan Publik dipenuhi 
+berdasarkan peraturan ini.
+The fulfillment of obligations 
+in the Capital Market sector 
+related to Public Accountants 
+and Public Accounting Firms is 
+based on this Regulation.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+155
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+INFORMASI KELANGSUNGAN USAHA
+Business Continuity Information
+Sejalan dengan pertumbuhan industri penerbangan pasca 
+pandemi, Perseroan melakukan berbagai inisiatif untuk 
+terus meningkatkan kinerja keuangan dan menjaga kondisi 
+operasional. Perseroan berhasil melakukan peningkatan nilai 
+transaksi dengan pelanggan selama 2023 yang disebabkan oleh 
+beberapa hal seperti program reaktivasi pesawat, pemberlakuan 
+tarif baru atas kontrak perawatan PBTH (“Power by the Hours”), 
+penambahan kontrak baru atas pelanggan non afiliasi, dan 
+pemeliharaan pesawat dari Kesekretariatan Negara (Setneg). 
+Perseroan membukukan keuntungan sebesar USD20,15 juta 
+pada tahun 2023 (2022: laba USD 3,63 juta), tapi modal kerja 
+negatif sebesar USD 33,10 juta (2022: AS$47,87 juta), dan 
+ekuitas negatif sebesar USD 311,16 juta pada 31 Desember 
+2023 (2022: USD 331,02 juta).
+Selama 2023 dan berlanjut pada 2024, Perseroan melakukan 
+upaya perbaikan kinerja keuangan melalui program peningkatan 
+profitabilitas, restrukturisasi utang, serta perbaikan ekuitas.
+PENINGKATAN PROFITABILITAS
+1.	 Peningkatan Customer Share of Wallet, merupakan inisiatif 
+untuk meningkatkan porsi pendapatan dari pelanggan 
+yang sudah ada saat ini. Pada 2023, Perseroan berhasil 
+meningkatkan nilai transaksi khususnya dari pelanggan di 
+Kawasan Asia Timur dan Asia Tenggara. Saat ini Perseroan 
+juga mendapatkan tambahan kontrak baru dari beberapa 
+pelanggan seperti Setneg, Martin Air, Aerotranscargo, Max 
+Air, Air Atlanta, Korean Air, Tway dan Jin Air.
+n line with the post-pandemic growth of the aviation industry, 
+the Company is undertaking various initiatives to enhance 
+financial performance and maintain operational conditions. 
+During 2023, the Company succeeded in increasing transaction 
+values with customers, caused by several factors including the 
+aircraft reactivation program, implementation of new tariffs 
+for PBTH (“Power by the Hours”) maintenance contracts, 
+acquisition of new contracts from non-affiliated customers, 
+and aircraft maintenance services for the State Secretariat 
+(Setneg). The Company reported a profit of USD20.15 million 
+in 2023 (compared to USD3.63 million in 2022), with negative 
+working capital of USD33.10 million (compared to USD47.87 
+million in 2022), and negative equity of USD311.16 million as of 
+December 31, 2023 (compared to USD331.02 million in 2022).
+Throughout 2023 and continuing into 2024, the Company 
+strives to enhance financial performance through programs 
+aimed at increasing profitability, debt restructuring, and equity 
+improvements.
+INITIATIVES TO INCREASE PROFITABILITY:
+1.	 Increasing Customer Share of Wallet, aims to increase the 
+portion of income from existing customers. Efforts in 2023 
+resulted in increased transaction values, especially from 
+customers in East Asia and Southeast Asia regions. The 
+Company also secured additional contracts from several 
+customers including Setneg, Martin Air, Aerotranscargo, 
+Max Air, Air Atlanta, Korean Air, Tway dan Jin Air.
+PERUBAHAN KEBIJAKAN AKUNTANSI DAN DAMPAKNYA 
+TERHADAP PERSEROAN
+Changes in Accounting Policies and Its Impact on the Company
+Penerapan dari standar, interpretasi baru/revisi standar berikut 
+yang berlaku efektif mulai 1 Januari 2023, tidak menimbulkan 
+perubahan substansial terhadap kebijakan akuntansi Perseroan 
+dan pengaruh yang material atas jumlah yang dilaporkan atas 
+tahun berjalan atau tahun sebelumnya.  
+The implementation of the new/revised interpretations of 
+standards effective starting January 1, 2023, does not cause 
+substantial changes to the Company’s accounting policies and 
+does not have a material impact on the amounts reported for 
+the current or previous year.  
+Laporan Terintegrasi 2023 Integrated Report 
+PT Garuda Maintenance Facility Aero Asia Tbk
+156
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+2.	 “Have Your Own MRO” merupakan inisiatif yang ditawarkan 
+kepada pelanggan dengan memberikan slot khusus dan 
+tenaga kerja untuk perawatan pesawatnya dan sepanjang 
+2023 program ini telah berhasil ditawarkan ke pelanggan.
+3.	 Zero Cost of Poor Quality (“COPQ”) dilakukan guna menjaga 
+kualitas pelayanan melalui berbagai inisiatif perbaikan 
+kualitas sehingga aktivitas operasional bisnis Perseroan 
+dapat berlangsung secara efektif dan efisien tanpa 
+menimbulkan biaya pengerjaan kembali. Selain itu pada 2023 
+Perseroan melakukan berbagai program sosialisasi tentang 
+aspek keselamatan, peningkatan pemahaman karyawan 
+terhadap keselamatan, melakukan pembaharuan terhadap 
+materi pelatihan, serta memasukkan aspek keselamatan 
+dalam program penilaian karyawan.
+4.	 Optimalisasi Supply Chain Management, dilakukan 
+pengawasan secara berkala atas berbagai upaya perbaikan 
+pengelolaan material, subcont, dan persediaan, sehingga 
+tidak menimbulkan kerugian.
+5.	 Optimalisasi Aset dan Persediaan, dilakukan telaah terhadap 
+utilisasi dari seluruh aset yang ada dan persediaan tidak 
+bergerak sehingga dapat memperbaiki tingkat optimalisasi 
+pemanfaatan, maupun penjualan untuk aset/persediaan 
+yang tidak akan digunakan.
+6.	 Pengembangan organisasi dan bisnis Industrial Solution 
+seperti untuk pengembangan Bisnis Industri Mesin Gas 
+Turbin (”IGTE”) dan fabrikasi.
+7.	 Pengembangan sumber daya manusia seperti pengembangan 
+engineer tersertifikasi, program pengembangan 
+kepemimpinan, serta program multiperan. Program 
+multiperan untuk peningkatan produktivitas tenaga kerja 
+dengan memberikan program pengembangan, sehingga 
+dapat saling mengisi apabila terjadi kekurangan tenaga kerja 
+di tipe pekerjaan tertentu.
+RESTRUKTURISASI UTANG
+Perseroan melakukan program Restrukturisasi Utang yang 
+terdiri dari Utang Bank dan juga Utang Pemasok.
+1.	 Restrukturisasi Utang Bank
+Pada tahun 2023, Perseroan melakukan restrukturisasi 
+utang atas kredit modal kerja BRI dan CTBC. Pada tahun 
+2022, Perseroan melakukan restrukturisasi utang Maybank, 
+BNI, dan IIF.
+2.	 Restrukturisasi Utang Pemasok
+Restrukturisasi terus dilakukan melalui skema one-on-one 
+(out of court), dengan status hingga Desember 2023 adalah 
+telah diselesaikan pembayaran utang kepada 376 vendor, 
+menyepakati payment plan dengan 377 pemasok, dan masih 
+dalam proses negosiasi dengan 7 pemasok.
+Selain itu, Perseroan juga melakukan perbaikan likuiditas 
+Perseroan melalui percepatan peningkatan penerimaan kas 
+dari pelanggan, beserta dengan penyelesaian utang pemasok.
+2.	 “Have Your Own MRO” that offers customers special slots 
+and labor for aircraft maintenance, successfully implemented 
+throughout 2023.
+3.	 Zero Cost of Poor Quality (“COPQ”) to maintain service quality, 
+focuses on quality improvement efforts to prevent rework 
+costs. The Company also conducts various outreach programs 
+on safety aspects and updates training materials to enhance 
+employee understanding of safety.
+4.	 Optimizing Supply Chain Management through regular 
+monitoring to improve the management of materials, 
+subcontracts, and supplies to prevent losses.
+5.	 Optimization of Assets and Inventory by reviewing the 
+utilization of existing assets and immovable inventory 
+to enhance optimization levels, including selling assets/
+inventory not in use.
+6.	 Development of Industrial Solution Organization and 
+Business that include the development of the Gas Turbine 
+Engine Industry (“IGTE”) and fabrication business.
+7.	 Human Resource Development: Programs such as certified 
+engineer development, leadership development, and multi-
+role programs are implemented to increase labor productivity.
+DEBT RESTRUCTURING
+The Company is undertaking debt restructuring programs for 
+both Bank Debt and Supplier Debt. 
+1.	 Bank Debt Restructuring 
+In 2023, it includes restructuring for BRI and CTBC working 
+capital loans, following the restructuring of Maybank, BNI, 
+and IIF debt in 2022. 
+2.	 Supplier Debt Restructuring 
+It continues through a one-on-one (out of court) scheme, 
+with payments completed to 376 vendors, payment plans 
+agreed upon with 377 suppliers, and negotiations ongoing 
+with 7 suppliers as of December 2023.
+Additionaly, the Company also improved its liquidity by 
+accelerating the increase in cash receipts from customers, 
+along with resolving supplier debts.
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+157
+PT Garuda Maintenance Facility Aero Asia Tbk
+Laporan Terintegrasi 2023 Integrated Report
+PERBAIKAN EKUITAS
+Melanjutkan rencana untuk melakukan penjualan saham 
+GDPS, sehingga diharapkan ke depannya GDPS dapat lebih 
+mengembangkan bisnis di luar Garuda Grup (melalui dukungan 
+network dan financial dari investor). Perseroan sedang dalam 
+tahap pencarian calon investor yang berminat untuk melakukan 
+pembelian saham Perseroan di GDPS. Selain itu juga akan terus 
+dilakukan penyelarasan dengan Pemegang Saham terkait inisiatif 
+ini.
+Perseroan akan kembali melakukan penjajakan kemitraan baik 
+dengan perusahaan penerbangan, MRO, maupun OEM, dengan 
+tetap mengikuti prosedur yang berlaku.
+Kelangsungan usaha Perseroan dapat terdampak oleh 
+ketidakpastian material yang timbul dari risiko-risiko tersebut 
+dan laporan keuangan tidak termasuk penyesuaian yang timbul 
+dari ketidakpastian tersebut.
+EQUITY IMPROVEMENTS
+Continued the plans to sell GDPS shares, preparing GDPS to 
+develop its business outside the Garuda Group (through network 
+and financial support from investors). The Company is currently 
+searching for potential investors who are interested in purchasing 
+the Company’s shares in GDPS. Additionaly, alignment with 
+Shareholders will also continue regarding this initiative.
+The Company will again explore partnerships with airlines, 
+MROs and OEMs, while still following applicable procedures.
+The Company’s business continuity may be affected by 
+material uncertainties arising from these risks and the financial 
+statements do not include adjustments arising from these 
+uncertainties.

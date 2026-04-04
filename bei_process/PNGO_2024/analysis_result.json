@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PNGO-att2.pdf",
+    "ticker": "PNGO_2024",
+    "mdma_start": "80",
+    "mdma_end": "99",
+    "Positive_Sum": 2250.0,
+    "Negative_Sum": 2236.0,
+    "Total_Matched_Words": 1458,
+    "Total_Word": 10703,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

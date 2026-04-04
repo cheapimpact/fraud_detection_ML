@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DGIK-att1.pdf",
+    "ticker": "DGIK_2024",
+    "mdma_start": "141",
+    "mdma_end": "166",
+    "Positive_Sum": 2906.0,
+    "Negative_Sum": 2403.0,
+    "Total_Matched_Words": 1695,
+    "Total_Word": 10782,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

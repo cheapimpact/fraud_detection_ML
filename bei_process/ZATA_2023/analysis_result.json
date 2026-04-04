@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ZATA-att2.pdf",
+    "ticker": "ZATA_2023",
+    "mdma_start": "33",
+    "mdma_end": "38",
+    "Positive_Sum": 1348.0,
+    "Negative_Sum": 1320.0,
+    "Total_Matched_Words": 829,
+    "Total_Word": 5435,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

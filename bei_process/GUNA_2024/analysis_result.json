@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GUNA-att1.pdf",
+    "ticker": "GUNA_2024",
+    "mdma_start": "70",
+    "mdma_end": "93",
+    "Positive_Sum": 2860.0,
+    "Negative_Sum": 2427.0,
+    "Total_Matched_Words": 1673,
+    "Total_Word": 10715,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

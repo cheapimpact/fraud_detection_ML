@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ENZO-att1.pdf",
+    "ticker": "ENZO_2024",
+    "mdma_start": "59",
+    "mdma_end": "80",
+    "Positive_Sum": 2044.0,
+    "Negative_Sum": 1692.0,
+    "Total_Matched_Words": 1185,
+    "Total_Word": 7908,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

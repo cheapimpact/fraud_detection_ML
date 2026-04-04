@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SRIL-att2.pdf",
+    "ticker": "SRIL_2023",
+    "mdma_start": "120",
+    "mdma_end": "166",
+    "Positive_Sum": 3843.0,
+    "Negative_Sum": 4386.0,
+    "Total_Matched_Words": 2612,
+    "Total_Word": 17169,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

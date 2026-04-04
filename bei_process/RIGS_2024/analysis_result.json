@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-RIGS-att1.pdf",
+    "ticker": "RIGS_2024",
+    "mdma_start": "79",
+    "mdma_end": "103",
+    "Positive_Sum": 2317.0,
+    "Negative_Sum": 2585.0,
+    "Total_Matched_Words": 1596,
+    "Total_Word": 12202,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

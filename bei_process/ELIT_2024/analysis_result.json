@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ELIT-att1.pdf",
+    "ticker": "ELIT_2024",
+    "mdma_start": "110",
+    "mdma_end": "140",
+    "Positive_Sum": 3523.0,
+    "Negative_Sum": 3300.0,
+    "Total_Matched_Words": 2168,
+    "Total_Word": 14533,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

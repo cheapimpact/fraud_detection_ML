@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CHIP-att1.pdf",
+    "ticker": "CHIP_2024",
+    "mdma_start": "53",
+    "mdma_end": "68",
+    "Positive_Sum": 1328.0,
+    "Negative_Sum": 1557.0,
+    "Total_Matched_Words": 890,
+    "Total_Word": 6952,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

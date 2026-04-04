@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-FISH-att1.pdf",
+    "ticker": "FISH_2023",
+    "mdma_start": "89",
+    "mdma_end": "112",
+    "Positive_Sum": 2879.0,
+    "Negative_Sum": 2562.0,
+    "Total_Matched_Words": 1746,
+    "Total_Word": 10339,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

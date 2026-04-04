@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BDKR-att1.pdf",
+    "ticker": "BDKR_2024",
+    "mdma_start": "64",
+    "mdma_end": "76",
+    "Positive_Sum": 1723.0,
+    "Negative_Sum": 1817.0,
+    "Total_Matched_Words": 1128,
+    "Total_Word": 6664,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

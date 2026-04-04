@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MANG-att1.pdf",
+    "ticker": "MANG_2024",
+    "mdma_start": "65",
+    "mdma_end": "78",
+    "Positive_Sum": 1823.0,
+    "Negative_Sum": 1627.0,
+    "Total_Matched_Words": 1102,
+    "Total_Word": 7025,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

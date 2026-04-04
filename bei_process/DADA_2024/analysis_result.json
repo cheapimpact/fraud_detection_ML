@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DADA-att2.pdf",
+    "ticker": "DADA_2024",
+    "mdma_start": "52",
+    "mdma_end": "65",
+    "Positive_Sum": 1215.0,
+    "Negative_Sum": 1399.0,
+    "Total_Matched_Words": 827,
+    "Total_Word": 5954,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

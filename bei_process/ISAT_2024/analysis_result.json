@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ISAT-att1.pdf",
+    "ticker": "ISAT_2024",
+    "mdma_start": "146",
+    "mdma_end": "183",
+    "Positive_Sum": 5025.0,
+    "Negative_Sum": 4805.0,
+    "Total_Matched_Words": 3060,
+    "Total_Word": 17582,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

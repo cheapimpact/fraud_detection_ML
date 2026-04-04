@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ARKA-att3.pdf",
+    "ticker": "ARKA_2024",
+    "mdma_start": "40",
+    "mdma_end": "50",
+    "Positive_Sum": 1109.0,
+    "Negative_Sum": 1188.0,
+    "Total_Matched_Words": 734,
+    "Total_Word": 4985,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BUKA-att1.pdf",
+    "ticker": "BUKA_2024",
+    "mdma_start": "71",
+    "mdma_end": "105",
+    "Positive_Sum": 4983.0,
+    "Negative_Sum": 4559.0,
+    "Total_Matched_Words": 3052,
+    "Total_Word": 18425,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

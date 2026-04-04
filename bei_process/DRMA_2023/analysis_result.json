@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DRMA-att1.pdf",
+    "ticker": "DRMA_2023",
+    "mdma_start": "56",
+    "mdma_end": "73",
+    "Positive_Sum": 3265.0,
+    "Negative_Sum": 2857.0,
+    "Total_Matched_Words": 1929,
+    "Total_Word": 12677,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

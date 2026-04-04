@@ -1,0 +1,1733 @@
+Produksi
+Perusahaan dan Entitas Anak memiliki 2 jenis segmen utama, 
+yaitu segmen Security dan segmen Non-Security. Produk 
+yang masuk ke dalam segmen Security adalah produk yang 
+memerlukan izin khusus dalam produksinya serta menggunakan 
+bahan baku security yang telah sesuai dengan standar yang 
+berlaku, misalnya cek, bilyet giro, smart card, atau surat 
+berharga serta produk digital security lainnya. Sementara 
+itu, produk yang masuk ke dalam segmen Non-Security 
+merupakan produk yang menggunakan bahan standar tanpa 
+teknologi khusus dalam pembuatannya, misalnya surat jalan, 
+faktur, sticky note, dan produk Non-Security lainnya.
+Berdasarkan jenis layanannya, produk Perusahaan terbagi 
+menjadi 4 solusi produk yaitu Pembayaran (Payment), Indentitas 
+(Identity), Perlindungan Merek (Brand Protection), dan 
+Percetakan Komersial (Commercial Printing). Seluruh solusi 
+yang ditawarkan Perusahaan ini disesuaikan dengan dengan 
+kebutuhan pelanggan termasuk fitur dan tingkat pengamanan 
+yang dibutuhkan untuk produk tersebut.
+Berikut ini adalah rincian produksi (kapasitas terpakai) per 
+segmen usaha Perusahaan dan Entitas Anak dalam satuan 
+(pcs) untuk tahun 2023 dan 2022.
+Kapasitas Terpakai berdasarkan Segmen Produk Tahun 2023 dan 2022 
+Used Capacity based on Product Segments in 2023 and 2022
+dalam pcs | in pcs
+Segmen Produk
+Product Segment
+Kapasitas Terpakai
+Used Capacity
+2023
+2022
+Security
+3.804.423.259
+3.406.144.060
+Non-Security
+14.882.878.439
+14.201.079.138
+Pada tahun 2023 terdapat peningkatan kapasitas terpakai 
+baik pada segmen Security maupun Non-security. Di sisi lain, 
+terdapat pergeseran permintaan masyarakat dari produk 
+sekuriti tradisional ke produk sekuriti modern dengan fungsi 
+dan nilai yang lebih tinggi. Manajemen melihat bahwa pada 
+tahun berjalan terjadi pemulihan keadaan ekonomi domestik 
+dan luar negeri yang cukup signifikan dan berdampak pada 
+Production 
+The Company and Subsidiaries have two main segments, 
+namely Security and Non Security. The products included in 
+Security segment are products requiring a special permit in 
+their production and utilising security raw materials based 
+on the existing standards, such as checks, transfer form, 
+smart cards, or Securities and other digital security products. 
+Meanwhile, the products included in Non-Security segment 
+are products with standard materials, without the need for 
+special technology in its manufacturing process, such as 
+travel documents, invoices, sticky notes, and other Non-
+Security products.
+Based on service type, Company products are divided into 
+four product solutions, namely Payment, Identity, Brand 
+Protection, and Commercial Printing. All solutions offered 
+by the Company are adjusted with the customers’ requirements, 
+including the required features and security levels for the 
+product.
+The following is a breakdown of production (used capacity) 
+per business segment of the Company and Subsidiaries in 
+pcs for 2023 and 2022.
+In 2023, there has been an increase in utilized capacity in both 
+the Security and Non-security segments. On the other hand, 
+there is a shift in public demand from traditional security products 
+to modern security products with higher functionality and value. 
+Management sees that in the current year there was a significant 
+recovery in the domestic and foreign economic conditions 
+which had an impact on various business sectors in the country. 
+Tinjauan Operasi Berdasarkan 
+Segmen Usaha
+Overview of Operations Based on Business Segments
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+114
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+berbagai sektor usaha di tanah air. Meningkatnya kebutuhan 
+masyarakat akan produk sekuriti dalam proses aktivitas 
+perekonomian ikut memacu inovasi produk sekuriti Perusahaan. 
+Perusahaan terus melakukan pengembangan secara konsisten 
+atas produk yang memiliki peluang dan nilai tambah bagi 
+para pelaku usaha. Perusahaan juga menyiapkan berbagai 
+strategi inovasi produk yang terintegrasi dengan digital 
+security yang diminati pasar. Perusahaan menggunakan 
+teknologi terkini dengan fitur khusus pada produk yang 
+dihasilkan untuk meningkatkan kenyamanan dan keamanan 
+bertransaksi.
+Kapasitas Produksi 
+Dalam menjalankan proses produksi, Perusahaan memiliki 
+kebijakan dimana setiap jadwal produksi yang dijalankan 
+tidak menggunakan seluruh kapasitas produksi yang tersedia. 
+Hal ini bertujuan untuk mengantisipasi bila terdapat permintaan 
+khusus, permintaan yang sifatnya urgent, atau pengiriman 
+cepat di luar dari jadwal produksi yang telah dijalankan. 
+Kapasitas terpasang yang ada pada Perusahaan mencerminkan 
+kapasitas mesin dalam menghasilkan produk, baik produk 
+dengan fitur dan bahan baku standar (produk Non-Security) 
+maupun produk dengan fitur dan bahan baku khusus (produk 
+Security). Rincian mengenai besar kapasitas produksi terpasang 
+dan utilitas Perusahaan (dalam pcs) adalah sebagai berikut:
+Kapasitas Terpasang Berdasarkan Segmen Produk Tahun 2023 dan 2022  
+Installed Capacity based on Product Segments in 2023 and 2022
+dalam pcs | in pcs
+Segmen Produk
+Product Segment
+Kapasitas Terpakai
+Used Capacity
+2023
+Utilitas
+Utility
+2022
+Utilitas
+Utility
+Security & Non-Security
+21.911.585.367
+85%
+21.227.824.829
+83%
+Pengelolaan yang baik dan terjadwal pada kapasitas produksi 
+dapat meningkatkan kemampuan Perusahaan dalam memenuhi 
+setiap pekerjaan (job-order) secara tepat waktu dan tanpa 
+mengurangi kualitas hasil produksi. Oleh karena itu, Perusahaan 
+secara berkesinambungan melakukan perhitungan intensif 
+terhadap jumlah kapasitas produksi yang terpakai selama 
+The increasing need for security products in the process of 
+economic activity has also spurred innovation in the Company's 
+security products. The Company continues to consistently 
+develop products that have opportunities and added value for 
+business actors. The Company also prepares various product 
+innovation strategies that are integrated with digital security 
+that are in demand by the market. The Company uses the latest 
+technology with special features in the products produced to 
+increase the convenience and security of transactions.
+Production Capacity
+In carrying out the production process, the Company has a 
+policy where every production schedule may not use all 
+available production capacities. This measurement is to 
+anticipate if there are special requests, urgent requests, or 
+requests for shipping ahead of the production schedule. The 
+installed capacity of the Company reflects the machine 
+capacity in producing products, both products with standard 
+features and raw materials (Non-Security products) and 
+products with special features and raw materials (Security 
+products). Details of the installed production capacity and 
+the Company’s utilities in pcs are as follows:
+A good and planned management of production capacity 
+can increase the Company’s ability to fulfil every job order 
+on time and without reducing the quality of production 
+results. Therefore, the Company continuously conducts 
+intensive calculations of the amount of production capacity 
+used during the year based on the schedule prepared by the 
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+115
+setahun sesuai dengan jadwal yang telah disusun oleh 
+departemen terkait untuk menjaga kestabilan dan ketersediaan 
+kapasitas terhadap tingkat produksi yang dibutuhkan. Hal 
+ini untuk menghindari kemungkinan adanya penumpukan 
+antrian proses produksi suatu produk.
+Proses Produksi
+Sebagai Perusahaan yang bergerak di bidang penyediaan 
+produk dengan segmen Security dan Non-Security, proses 
+produksi dijalankan sesuai dengan pesanan pelanggan (job-
+order) yang berasal dari 4 (empat) kategori solusi produk 
+yang ditawarkan Perusahaan.
+Fasilitas Produksi
+Perusahaan dan Entitas Anak memiliki beberapa pabrik dalam 
+rangka menjalankan operasionalnya, antara lain:
+Lokasi Pabrik
+Factories Location
+Keterangan
+Description
+Jl. Raya Betro No. 21 Sedati, Sidoarjo 61253 dengan luas 10.623 m2
+Jl. Raya Betro No. 21, Sedati, Sidoarjo 61253 in an area of 10,623 m2
+Pembuatan produk dengan segmen Non-Security
+Production of Non-Security product segment
+Jl. Raya Lingkar Timur, Desa Banjarsari, Kecamatan Buduran, Sidoarjo 
+61252 dengan luas 39.075 m2
+Jl. Raya Lingkar Timur, Desa Banjarsari, Kecamatan Buduran, Sidoarjo 
+61252 in an area of 39,075 m2
+Pembuatan produk dengan segmen Security (termasuk lokasi pabrik 
+entitas anak untuk pembuatan e-passport)
+Production of Security product segment (including the location of 
+the Subsidiaries’ factories to produce e-Passports)
+Pengendalian Mutu
+Produk yang berkualitas dengan penyematan fitur berteknologi 
+tinggi merupakan salah satu faktor bagi Perusahaan untuk 
+mempertahankan daya saingnya. Pengendalian mutu (Quality 
+Control) dilaksanakan per proses produksi dengan dilakukannya 
+pemeriksaan acak pada hasil akhir dalam setiap proses produksi. 
+Di samping itu, Perusahaan juga melakukan Quality Control 
+final dengan melakukan pemeriksaan acak pada produk akhir.
+relevant departments to maintain the stability and capacity 
+available to the level of production required. This is necessary 
+to avoid the possibility of product production queues buildup.
+Production Process
+As a company engaging as a provider of Security and Non-
+Security products, the production process is adjusted on 
+customer orders (job orders) originating from the sale of 
+four main product categories of the Company.
+Production facilities
+The Company and its Subsidiaries have several factories to 
+carry out their operations, including:
+Quality Control
+Quality product embedded with high-technology features 
+is one of the factors for the Company to maintain its 
+competitiveness. Quality control is carried out in every 
+production process by conducting a random check on the 
+final results in each production process. The Company also 
+conducts final Quality Control by conducting a random check 
+on the final product.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+116
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Riset dan Pengembangan 
+Dalam rangka meningkatkan mutu produksi serta inovasi 
+produk, sekaligus upaya Perusahaan untuk terus mengikuti 
+perkembangan dunia teknologi dokumen, kartu, dan digital 
+sekuriti maka Perusahaan menerapkan beberapa upaya 
+pengembangan di antaranya sebagai berikut:
+1.	 Melakukan riset dan pengembangan dalam hal software, 
+penggunaan bahan baku utama dan substitusi   yang 
+lebih efisien dengan kualitas yang lebih baik, fitur 
+pengamanan produk terbaru, maupun teknologi percetakan 
+lainnya yang dapat memberikan nilai tambah produk 
+yang dihasilkan.
+2.	 Melakukan berbagai kerja sama dan studi banding dengan 
+Perusahaan-perusahaan yang berada di industri yang 
+sama, baik di dalam negeri maupun di luar negeri.
+3.	 Mengunjungi pameran-pameran mesin percetakan dan 
+produk-produk percetakan sekuriti secara berkala, baik 
+di dalam negeri maupun di luar negeri, serta melakukan 
+pertemuan-pertemuan antar anggota asosiasi untuk 
+mendapatkan pengetahuan dan informasi terbaru di 
+industri percetakan sekuriti.
+Research and Development
+In improving production quality and product innovation as 
+well as the Company’s efforts to keep abreast of developments 
+in the world of the document, card, and digital security 
+technology, the Company implements several development 
+efforts, including:
+1.	 Conducting software research and development, the use 
+of main raw materials and more efficient substitutes with 
+better quality, the latest product security features, and 
+other printing technologies that can provide added value 
+to the product.
+2.	 Conducting various collaborations and comparative 
+studies with companies in the same industry, both domestic 
+and abroad.
+3.	 Regularly visit exhibitions of printing machines and 
+security printing products, both domestically and abroad, 
+as well as attending meetings between association 
+members to gain updated knowledge and information 
+in the security printing industry.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+117
+Pendapatan
+Pendapatan Perusahaan untuk tahun yang berakhir pada 
+tanggal 31 Desember 2023 dan 2022 untuk segmen Security 
+masing-masing sebesar Rp 2.053,5 miliar dan Rp1.218,5 
+miliar, sedangkan untuk segmen Non-Security masing-masing 
+sebesar Rp 242,7 miliar dan Rp204,7 miliar. Pendapatan 
+Perusahaan untuk segmen security dan Non-Security yang 
+berakhir pada tanggal 31 Desember 2023 mengalami kenaikan 
+sebesar 61,4%. Segmen Security naik sebesar Rp835,1 miliar 
+atau 68,5% sementara segmen Non-Security naik sebesar 
+Rp38,1 miliar atau sebesar 18,6% dibandingkan periode yang 
+sama tahun sebelumnya. Kenaikan pendapatan pada segmen 
+Security terjadi terutama pada produk komponen passport, 
+kartu pembayaran perbankan dan produk dokumen security 
+lainnya, sedangkan pada segmen Non-Security terjadi 
+peningkatan permintaan produk penunjang operasi usaha 
+dan media promosi pelanggan. Faktor pendukung adanya 
+peningkatan permintaan produk Perusahaan salah satunya 
+akibat meningkatnya mobilitas masyarakat pasca pandemi 
+COVID-19  dan kembali bergeliatnya dunia usaha.
+Pendapatan Security dan Non-Security Tahun 2023 dan 2022
+Security and Non-Security Revenue in 2023 and 2022
+2.500.000
+dalam jutaan Rupiah | in Million Rupiah
+1.500.000
+500.000
+2.000.000
+1.000.000
+0
+Grafik Pertumbuhan Pendapatan
+Chart of Revenue Growth
+Security
+Non Security
+2023
+2022
+2.053.547
+1.218.478
+242.725
+204.664
+Revenue
+The Company's revenue for the years ended 31 December 
+2023 and 2022 for the Security segment amounted to 
+IDR2,053.5 billion and IDR1,218.5 billion, respectively, while 
+for the Non-Security segment amounted to IDR242.7 billion 
+and IDR204.7 billion, respectively. The Company's revenue 
+for the security and Non-Security segments ended December 
+31, 2023 increased by 61.4%. The Security segment increased 
+by IDR835.1 billion or 68.5% while the Non-Security segment 
+increased by IDR38.1 billion or 18.6% compared to the same 
+period last year. The increase in revenue in the Security 
+segment occurred mainly in passport component products, 
+banking payment cards and other security document products, 
+while in the Non-Security segment there was an increase in 
+demand for products supporting business operations and 
+customer promotional media. One of supporting factors for 
+an increase in demand for the Company's products is increased 
+mobility of community after  COVID-19  pandemic and 
+business recovery.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+118
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Profitabilitas
+Laba Kotor
+Laba kotor Perusahaan untuk tahun yang berakhir pada 
+tanggal 31 Desember 2023 adalah sebesar Rp459,5 miliar, 
+sedangkan untuk tahun yang berakhir pada tanggal 31 
+Desember 2022 adalah sebesar Rp326,2 miliar. Kenaikan laba 
+kotor sebesar Rp133,3 miliar atau 40,9% ini merupakan 
+dampak dari adanya peningkatan permintaan pelanggan. 
+Kembalinya daya beli masyarakat dan peningkatan aktivitas 
+bisnis pelanggan serta meningkatnya kesadaran masyarakat 
+akan pentingnya produk yang dapat mendukung keamanan 
+bertransaksi, ikut mendorong peningkatan volume permintaan.
+Penjualan dan Laba Kotor Tahun 2023 dan 2022
+Sales and Gross Profit in 2023 and 2022
+2.296.272
+1.423.143
+459.513
+326.173
+2.400.000
+dalam jutaan Rupiah | in Million Rupiah
+1.200.000
+800.000
+1.600.000
+400.000
+2.000.000
+0
+Grafik Pendapatan dan Laba Kotor
+Chart of Sales and Gross Profit
+Penjualan
+Sales
+Laba Kotor
+Gross Profit
+2023
+2022
+Profitability
+Gross Profit
+The Company's gross profit for the year ended 31 December 
+2023 was IDR459.5 billion, while for the year ended December 
+31, 2022 was IDR326.2 billion. The increase in gross profit of 
+IDR133.3 billion or 40.9% is the result of increased customer 
+demand. The return of people's purchasing power and the 
+increase in customers' business activities as well as the 
+increasing public awareness of the importance of products 
+that can support transaction security, helped drive the increase 
+in demand volume.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+119
+Aset Lancar, Aset Tidak Lancar, 
+dan Total Aset
+Aset Lancar
+Aset lancar Perusahaan dan Entitas Anak pada tanggal 31 
+Desember 2023 dan 2022 masing-masing sebesar Rp1.042,8 
+miliar dan Rp843,8miliar, mengalami kenaikan sebesar Rp199 
+miliar atau 23,6% dibandingkan dengan periode yang sama 
+tahun sebelumnya. Kenaikan ini disebabkan adanya 
+peningkatan yang cukup signifikan pada pos kas dan setara 
+kas sebesar Rp188,7 miliar atau 90,0%. Peningkatan juga 
+terjadi pada pos persediaan yang mengalami kenaikan sebesar 
+Rp34,2 miliar atau 8,8% bila dibandingkan periode sebelumnya. 
+Kenaikan ini diakibatkan adanya peningkatan aktivitas usaha 
+dan operasi Perusahaan.
+Aset Tidak Lancar
+Aset tidak lancar Perusahaan dan Entitas Anak pada 31 
+Desember 2023 dan 2022 masing-masing sebesar Rp747 
+miliar dan Rp719,9 miliar yang mengalami kenaikan sebesar 
+Rp27,1 miliar atau sebesar 3,8% dibandingkan dengan periode 
+yang sama tahun sebelumnya. Kenaikan tersebut disebabkan 
+oleh peningkatan piutang lain-lain berelasi sebesar Rp18,3 
+miliar. Kenaikan pada pos ini disebabkan adanya pinjaman 
+modal kerja oleh entitas asosiasi di tahun berjalan.
+Total Aset
+Total aset Perusahaan dan Entitas Anak pada 31 Desember 
+2023 dan 2022 masing-masing sebesar Rp1,79 triliun dan 
+Rp1,56 triliun yang mengalami kenaikan sebesar Rp226,1 
+miliar atau sebesar 14,5% dibandingkan dengan periode 
+yang sama tahun sebelumnya. Kenaikan ini disumbang 
+terutama oleh pos pada aset lancar yaitu kenaikan yang 
+cukup signifikan pada pos kas dan setara kas yaitu sebesar 
+Rp188,7 miliar atau 90,0% yang diakibatkan oleh peningkatan 
+aktivitas usaha dan operasi Perusahaan.
+Analisis Kinerja Keuangan
+Financial Performance Analysis
+Current Assets, Non-Current 
+Assets, and Total Assets
+Current Assets
+Current assets of the Company and Subsidiaries as of 31 
+December 2023 and 2022 amounted to IDR1,042.8 billion 
+and IDR843.8 billion, respectively, an increase of IDR199 
+billion or 23.6% compared to the same period last year. This 
+increase was due to a significant increase in cash and cash 
+equivalents of IDR188.7 billion or 90.0%. The increase also 
+occurred in inventory which increased by IDR34.2 billion or 
+8.8% when compared to the previous period. This increase 
+was due to an increase in the Company's business activities 
+and operations.
+Non-Current Assets
+Non-current assets of the Company and Subsidiaries as of 
+31 December 2023 and 2022 amounted to IDR747 billion 
+and IDR719.9 billion, respectively, which increased by IDR27.1 
+billion or 3.8% compared to the same period last year. The 
+increase was due to an increase in other related receivables 
+of IDR18.3 billion. The increase in this item was due to working 
+capital loans by associates in the current year.
+Total Assets
+The total assets of the Company and Subsidiaries as of 31 
+December 2023 and 2022 amounted to IDR1.79 trillion and 
+IDR1.56 trillion, respectively, which increased by IDR226.1 
+billion or 14.5% compared to the same period last year. This 
+increase was mainly contributed by items in current assets, 
+namely a significant increase in cash and cash equivalents 
+of IDR188.7 billion or 90.0% due to an increase in the Company's 
+business activities and operations.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+120
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Aset Lancar, Aset Tidak Lancar, dan Total Aset Tahun 2023 dan 2022
+Currnet Assets, Non-Current Assets, and Total Assets in 2023 and 2022
+1.042.773
+843.787
+747.001
+719.851
+1.789.774
+1.563.638
+dalam jutaan Rupiah | in Million Rupiah
+1.200.000
+800.000
+1.600.000
+400.000
+2.000.000
+0
+Grafik Aset Lancar, Aset Tidak Lancar dan Total Aset
+Chart of Current Assets, Non-Current Assets, and Total Assets
+Aset Lancar
+Current assets
+Aset Tidak Lancar
+Non-Current Assets
+Total Aset
+Total Assets
+2023
+2022
+Liabilitas Lancar, Liabilitas Tidak 
+Lancar, dan Total Liabilitas 
+Liabilitas Lancar
+Liabilitas lancar Perusahaan dan Entitas Anak pada tanggal 
+31 Desember 2023 dan 2022 masing-masing sebesar Rp654,1 
+miliar dan Rp488,2 miliar, mengalami kenaikan sebesar 
+Rp165,9 miliar atau 34,0% dibandingkan dengan periode 
+yang sama tahun sebelumnya. Kenaikan tersebut disebabkan 
+oleh meningkatnya saldo utang usaha pihak ketiga di akhir 
+tahun sebesar Rp274,4 miliar atau 89,5% bila dibandingkan 
+dengan saldo tahun sebelumnya. Adanya peningkatan yang 
+cukup signifikan pada pos ini disebabkan oleh volume usaha 
+yang meningkat akibat aktivitas usaha Perusahaan dan Entitas 
+anak di tahun berjalan.
+Liabilitas Tidak Lancar
+Liabilitas tidak lancar Perusahaan dan Entitas Anak pada 31 
+Desember 2023 dan 2022 masing-masing sebesar Rp50,5 
+Current Liabilities, Non-Current 
+Liabilities, and Total Liabilities
+Current Liabilities
+Current liabilities of the Company and Subsidiaries as of 31 
+December 2023 and 2022 amounted to IDR654.1 billion and 
+IDR488.2 billion, respectively, an increase of IDR165.9 billion 
+or 34.0% compared to the same period last year. The increase 
+was due to an increase in the balance of third-party trade 
+payables at the end of the year by IDR274.4 billion or 89.5% 
+when compared to the previous year's balance. The significant 
+increase in this item was due to the increased volume of 
+business due to the Company and its subsidiaries' business 
+activities in the current year.
+Non-Current Liabilities
+Non-current liabilities of the Company and Subsidiaries as 
+of 31 December 2023 and 2022 amounted to IDR50.5 billion 
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+121
+miliar dan Rp53,4 miliar, mengalami penurunan sebesar 
+Rp2,8 miliar atau 5,3% dibandingkan dengan periode yang 
+sama tahun sebelumnya. Penurunan tersebut terutama 
+dikarenakan saldo kewajiban utang bank jangka panjang 
+setelah dikurangi bagian yang jatuh tempo dalam satu tahun 
+yang mengalami penurunan sebesar Rp10,0 miliar atau 35,7% 
+dibandingkan dengan periode sebelumnya. Hal ini dikarenakan 
+pada tahun berjalan, fasilitas kredit investasi yang telah 
+diperoleh Perusahaan kian menurun seiring dengan 
+pembayaran angsuran pokoknya.
+Total Liabilitas
+Total liabilitas Perusahaan dan Entitas Anak pada 31 Desember 
+2023 dan 2022 masing-masing sebesar Rp704,7 miliar dan 
+Rp541,6 miliar mengalami kenaikan sebesar Rp163,1 miliar 
+atau 30,1% dibandingkan dengan periode yang sama tahun 
+sebelumnya. Kenaikan tersebut diakibatkan oleh meningkatnya 
+saldo utang usaha pihak ketiga di akhir tahun sebesar Rp274,4 
+miliar atau 89,5%. Adanya peningkatan yang cukup signifikan 
+pada pos ini disebabkan meningkatnya aktivitas usaha 
+Perusahaan dan Entitas anak yang berdampak pada 
+peningkatan volume usaha.
+Liabilitas Jangka Pendek, Liabilitas Jangka Panjang, dan Total Liabilitas Tahun 2023 dan 2022
+Current Liabilities, Non-Current Liabilities, and Total Liabilities in 2023 and 2022
+654.106
+488.176
+50.549
+53.395
+704.655
+541.571
+dalam jutaan Rupiah | in Million Rupiah
+800.000
+600.000
+400.000
+200.000
+0
+Grafik Liabilitas Lancar, Liabilitas Tidak Lancar dan Total Liabilitas
+Chart of Current Liabilities, Non-Current Liabilities, and Total Liabilities
+Liabilitas Lancar
+Current Liabilities
+Liabilitas Tidak Lancar
+Non-Current Liabilities
+Total Liabilitas
+Total Liabilities
+2023
+2022
+and IDR53.4 billion, respectively, decreased by IDR2.8 billion 
+or 5.3% compared to the same period last year. The decrease 
+was mainly due to the balance of long-term bank debt 
+obligations net of the portion due within one year which 
+decreased by IDR10.0 billion or 35.7% compared to the 
+previous period. This was due to the fact that in the current 
+year, the investment credit facilities obtained by the Company 
+decreased along with the payment of principal installments.
+Total Liabilities
+The total liabilities of the Company and Subsidiaries as of 
+31 December 2023 and 2022 amounted to IDR704.7 billion 
+and IDR541.6 billion, respectively, an increase of IDR163.1 
+billion or 30.1% compared to the same period last year. The 
+increase was due to an increase in the balance of third-party 
+trade payables at the end of the year of IDR274.4 billion or 
+89.5%. The significant increase in this item was due to the 
+increase in business activities of the Company and its 
+subsidiaries which resulted in an increase in business volume.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+122
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Ekuitas
+Ekuitas Perusahaan dan Entitas Anak pada tanggal 31 Desember 
+2023 dan 2022 masing-masing sebesar Rp1.085,1 miliar dan 
+Rp1.022,1 miliar, mengalami kenaikan sebesar Rp63,1 miliar 
+atau 6,2% dibandingkan dengan periode yang sama tahun 
+sebelumnya. Kenaikan tersebut disebabkan oleh peningkatan 
+saldo laba belum dicadangkan yang dicatat pada tahun 
+berjalan sebesar Rp49,3 miliar atau sebesar 7,4%.
+Ekuitas Tahun 2023 dan 2022
+Equity in 2023 and 2022
+996.925
+949.280
+88.194
+72.786
+1.085.120
+1.022.066
+dalam jutaan Rupiah | in Million Rupiah
+1.000.000
+1.200.000
+800.000
+600.000
+400.000
+200.000
+0
+Grafik Ekuitas
+Chart of Equity
+Kepada Pemilik Entitas Induk
+To the Owner of the Parent Entity
+Kepentingan Non-Pengendali
+Non-controlling interests
+Jumlah Ekuitas
+Total Equity
+2023
+2022
+Equity
+The Company and Subsidiaries' equity as of December 31, 
+2023 and 2022 amounted to IDR1,085.1 billion and IDR1,022.1 
+billion, respectively, an increase of IDR63.1 billion or 6.2% 
+compared to the same period last year. The increase was 
+due to an increase in unreserved retained earnings recorded 
+in the current year of IDR49.3 billion or 7.4%.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+123
+Pendapatan, Beban, Laba (Rugi), 
+Pendapatan Komprehensif 
+Lain, dan Total Laba (Rugi) 
+Komprehensif
+Pendapatan
+Pendapatan Perusahaan untuk tahun yang berakhir pada 
+tanggal 31 Desember 2023 dan 2022 adalah masing-masing 
+sebesar Rp2.296,3 miliar dan Rp 1.423,1 miliar. Pendapatan 
+Perusahaan untuk tahun yang berakhir pada tanggal 31 
+Desember 2023 mengalami kenaikan sebesar Rp873,1 miliar 
+atau 61,4% dibandingkan periode yang sama tahun 
+sebelumnya. Kenaikan pendapatan Perusahaan didukung 
+oleh meningkatnya kebutuhan terhadap produk Perusahaan, 
+terutama untuk produk dokumen security, kartu dan solusi 
+digital security. Kembalinya mobilitas dan aktivitas masyarkat 
+baik dalam maupun luar negeri juga ikut berkontribusi 
+terhadap kenaikan pendapatan Perusahaan.
+Beban
+Beban Perusahaan untuk tahun-tahun yang berakhir pada 
+tanggal 31 Desember 2023 dan 2022 masing-masing sebesar 
+Rp153,6 miliar dan Rp141,9 miliar, mengalami kenaikan 
+sebesar Rp11,7 miliar atau 8,2% dibandingkan periode yang 
+sama tahun sebelumnya. Kenaikan beban ini terutama terjadi 
+pada beban umum dan administrasi dan beban penjualan 
+dengan kenaikan masing-masing sebesar Rp10,3 miliar atau 
+9,8% dan Rp7,2 miliar atau 30,5%. Berbanding terbalik dengan 
+beban umum dan administrasi dan beban penjualan, beban 
+bunga tahun berjalan mengalami penurunan yaitu sebesar 
+Rp5,8 miliar atau 47,3% dari tahun sebelumnya. Adanya 
+kenaikan volume pesanan mengakibatkan peningkatan 
+aktivitas usaha yang berdampak pada kenaikan beban umum 
+dan administrasi serta beban penjualan, namun besar kenaikan 
+tersebut berhasil ditekan lewat penerapan program efisiensi 
+oleh manajemen. Sedangkan penurunan beban bunga yang 
+cukup signifikan merupakan hasil dari manajemen cashflow 
+dan modal kerja yang berhasil diterapkan di tahun berjalan.
+Revenue, Expenses, Profit 
+(Loss), Other Comprehensive 
+Income, and Total 
+Comprehensive Profit (Loss)
+Revenue
+The Company's revenue for the years ended 31 December 
+2023 and 2022 amounted to IDR2,296.3 billion and IDR1,423.1 
+billion, respectively. The Company's revenue for the year 
+ended 31 December 2023 increased by IDR873.1 billion or 
+61.4% compared to the same period last year. The increase 
+in the Company's revenue was supported by the increasing 
+demand for the Company's products, especially for document 
+security products, cards and digital security solutions. The 
+return of mobility and community activities both at home 
+and abroad also contributed to the increase in the Company's 
+revenue.
+Expenses
+The Company's expenses for the years ended 31 December 
+2023 and 2022 amounted to IDR153.6 billion and IDR141.9 
+billion, respectively, an increase of IDR11.7 billion or 8.2% 
+compared to the same period last year. The increase in 
+expenses mainly occurred in general and administrative 
+expenses and selling expenses with an increase of IDR10.3 
+billion or 9.8% and IDR7.2 billion or 30.5%, respectively. In 
+contrast to general and administrative expenses and selling 
+expenses, interest expense for the year decreased by IDR5.8 
+billion or 47.3% from the previous year. The increase in order 
+volume resulted in an increase in business activities which 
+resulted in an increase in general and administrative expenses 
+and selling expenses, but the large increase was successfully 
+suppressed through the implementation of efficiency programs 
+by management. Meanwhile, the significant decrease in 
+interest expense was the result of cash flow and working 
+capital management that was successfully implemented in 
+the current year.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+124
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Laba Sebelum Pajak Penghasilan
+Laba sebelum pajak penghasilan Perusahaan untuk tahun-
+tahun yang berakhir pada tanggal 31 Desember 2023 dan 
+2022 masing-masing sebesar Rp287,2 miliar dan Rp181,8 
+miliar yang mengalami kenaikan sebesar Rp105,4 miliar atau 
+57,9% dibandingkan periode yang sama tahun sebelumnya. 
+Kenaikan laba sebelum pajak penghasilan merupakan dampak 
+dari kenaikan pendapatan di tahun berjalan. Besarnya kenaikan 
+laba sebelum pajak penghasilan ini juga dipengaruhi oleh 
+beban yang dikeluarkan Perusahaan baik beban penjualan, 
+umum dan administrasi maupun beban bunga. Faktor lain 
+yang mempengaruhi diantaranya rugi selisih kurs, cadangan 
+penurunan nilai persediaan dan piutang lain-lain/usaha serta 
+rugi pelepasan entitas anak bagian laba entitas asosiasi.
+Laba yang Dapat Diatribusikan 
+kepada Kepentingan Non-Pengendali 
+Laba yang dapat diatribusikan kepada kepentingan non-
+pengendali Perusahaan untuk tahun-tahun yang berakhir 
+pada tanggal 31 Desember 2023 dan 2022 masing-masing 
+sebesar Rp18,0 miliar dan Rp16,4 miliar yang mengalami 
+kenaikan sebesar Rp1,6 miliar atau 9,5% dibandingkan periode 
+yang sama tahun sebelumnya.
+Laba yang Dapat Diatribusikan 
+kepada Pemilik Entitas Induk 
+Laba yang dapat diatribusikan kepada pemilik entitas induk 
+Perusahaan untuk tahun-tahun yang berakhir pada tanggal 
+31 Desember 2023 dan 2022 masing-masing sebesar Rp207,6 
+miliar dan Rp127,3 miliar yang mengalami kenaikan sebesar 
+Rp80,4 miliar atau 63,2% dibandingkan periode yang sama 
+tahun sebelumnya.
+Penghasilan Komprehensif Lain
+Penghasilan komprehensif lain Perusahaan untuk tahun-tahun 
+yang berakhir pada tanggal 31 Desember 2023 dan 2022 
+adalah sebesar minus Rp6,9 miliar dan Rp7,2 miliar yang 
+Profit Before Income Tax
+The Company's profit before income tax for the years ended 
+31 December 2023 and 2022 amounted to IDR287.2 billion 
+and IDR181.8 billion, respectively, which increased by 
+IDR105.4 billion or 57.9% compared to the same period 
+last year. The increase in profit before income tax is a result 
+of the increase in revenue in the current year. The magnitude 
+of the increase in profit before income tax was also influenced 
+by expenses incurred by the Company, both selling, general 
+and administrative expenses and interest expenses. Other 
+influencing factors include foreign exchange losses, allowance 
+for impairment of inventories and other receivables/trade 
+and loss on disposal of subsidiaries share of profit of 
+associates.
+Profit Attributable to Non-Controlling 
+Interests
+Profit attributable to non-controlling interests of the Company 
+for the years ended 31 December 2023 and 2022 amounted 
+to IDR18.0 billion and IDR16.4 billion, respectively, which 
+increased by IDR1.6 billion or 9.5% compared to the same 
+period last year.
+Profit Attributable to Owners of the 
+parent entity
+Profit attributable to owners of the Company for the years 
+ended 31 December 2023 and 2022 amounted to IDR207.6 
+billion and IDR127.3 billion, respectively, which increased by 
+IDR80.4 billion or 63.2% compared to the same period last 
+year.
+Other Comprehensive Income
+The Company's other comprehensive income for the years 
+ended 31 December 2023 and 2022 amounted to minus IDR6.9 
+billion and IDR7.2 billion, respectively, which decreased by 
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+125
+mengalami penurunan sebesar Rp14,1 miliar. Penurunan 
+pendapatan komprehensif lain terutama berasal dari selisih 
+kurs atas penjabaran laporan keuangan sebesar Rp11,9 miliar.
+Laba Komprehensif 
+Laba komprehensif Perusahaan untuk tahun-tahun yang 
+berakhir pada tanggal 31 Desember 2023 dan 2022 masing-
+masing sebesar Rp218,7 miliar dan Rp150,9 miliar, mengalami 
+kenaikan sebesar Rp67,8 miliar dari tahun sebelumnya.
+Laba Bersih per Saham Dasar
+Laba bersih per saham dasar Perusahaan untuk tahun-tahun 
+yang berakhir pada tanggal 31 Desember 2023 dan 2022 
+masing-masing sebesar Rp30,30 dan Rp32,55. Pada tahun 
+2022 telah dilakukan aksi korporasi pemecahan nilai dengan 
+rasio 1:4 (stock split) sehingga jumlah saham yang disetor 
+menjadi 6.852.050.000 saham, dari yang semula dicatat 
+sebesar 1.713.012.500 saham. Oleh karenanya perhitungan 
+laba bersih per saham per 31 Desember 2022 menggunakan 
+perhitungan dengan metode rata-rata tertimbang.
+Arus Kas
+Arus Kas Bersih dari Aktivitas Operasi 
+Arus kas bersih dari aktivitas operasi Perusahaan untuk 
+tahun-tahun yang berakhir pada tanggal 31 Desember 2023 
+dan 2022 masing-masing sebesar Rp473,0 miliar dan Rp157,2 
+miliar. Perubahan sebesar Rp315,8 miliar pada arus kas ini 
+terutama disebabkan oleh kenaikan penerimaan kas dari 
+pelanggan sebesar Rp716,4 miliar diikuti oleh pembayaran 
+kas kepada pemasok dan karyawan yang mengalami penurunan 
+sebesar Rp383,4 miliar.
+Arus Kas Bersih dari Aktivitas Investasi
+Arus kas bersih dari aktivitas investasi Perusahaan untuk 
+tahun-tahun yang berakhir pada tanggal 31 Desember 2023 
+dan 2022 masing-masing sebesar minus Rp59,0 miliar dan 
+IDR14.1 billion. The decrease in other comprehensive income 
+mainly came from foreign exchange differences on translation 
+of financial statements amounting to IDR11.9 billion.
+Comprehensive Income
+The Company's comprehensive income for the years ended 
+31 December 2023 and 2022 amounted to IDR218.7 billion 
+and IDR150.9 billion, respectively, an increase of IDR67.8 
+billion from the previous year.
+Net Profit per Share
+The Company's basic earnings per share for the years ended 
+31 December 2023 and 2022 were IDR30.30 and IDR32.55, 
+respectively. In 2022, a stock split with a ratio of 1:4 (stock 
+split) was carried out so that the number of paid-up shares 
+became 6,852,050,000 shares, from the original 1,713,012,500 
+shares. Therefore, the calculation of net income per share as 
+of 31 December 2022 uses the weighted average method.
+Cash Flows
+Net Cash Flows from Operating Activities
+The Company's net cash flows from operating activities for 
+the years ended 31 December 2023 and 2022 amounted to 
+IDR473.0 billion and IDR157.2 billion, respectively. The change 
+of IDR315.8 billion in cash flows was mainly due to an increase 
+in cash receipts from customers of IDR716.4 billion followed 
+by a decrease in cash payments to suppliers and employees 
+of IDR383.4 billion.
+Net Cash Flows from Investing Activities
+The Company's net cash flows from investing activities for 
+the years ended 31 December 2023 and 2022 were minus 
+IDR59.0 billion and minus IDR136.3 billion, respectively. The 
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+126
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+minus Rp136,3 miliar. Perubahan sebesar Rp77,3 miliar pada 
+arus kas ini terutama disebabkan oleh adanya peningkatan 
+penjualan aset tetap sebesar Rp59,1 miliar di tahun 2023 
+dikarenakan Perusahaan menerima fasilitas Pembiayaan 
+berdasarkan prinsip syariah dengan skema Ijarah Muntahiyah 
+Bittamlik (IMBT) dari bank Syariah Indonesia.
+Arus Kas Bersih dari Aktivitas 
+Pendanaan
+Arus kas bersih dari aktivitas pendanaan Perusahaan untuk 
+tahun-tahun yang berakhir pada tanggal 31 Desember 2023 
+dan 2022 masing-masing sebesar minus Rp224,7 miliar dan 
+Rp11,4 miliar. Perubahan sebesar Rp236,1 miliar pada arus 
+kas pendanaan terutama disebabkan oleh adanya pembayaran 
+pinjaman bank sebesar Rp120 miliar bila dibandingkan 
+dengan periode sebelumnya. Terdapat peningkatan jumlah 
+pembayaran dividen dibanding tahun lalu yaitu sebesar 
+Rp115,7 miliar.
+change of IDR77.3 billion in cash flows was mainly due to 
+an increase in sales of fixed assets of IDR59.1 billion in 2023 
+as the Company received Financing facilities based on sharia 
+principles with Ijarah Muntahiyah Bittamlik (IMBT) scheme 
+from Bank Syariah Indonesia.
+Net Cash Flows from Financing 
+Activities
+The Company's net cash flows from financing activities for 
+the years ended 31 December 2023 and 2022 were minus 
+IDR224.7 billion and IDR11.4 billion, respectively. The change 
+of IDR236.1 billion in financing cash flows was mainly due 
+to the repayment of bank loans amounting to IDR120 billion 
+when compared to the previous period. There was an increase 
+in the amount of dividend payments compared to last year 
+of IDR115.7 billion.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+127
+Liabilitas Jangka Pendek
+Kemampuan Perusahaan membayar liabilitas jangka pendeknya 
+pada saat jatuh tempo untuk tahun-tahun yang berakhir 
+pada tanggal 31 Desember 2023 dan 2022 dapat dilihat 
+melalui rasio-rasio pada tabel di bawah. Salah satu rasio 
+yang dapat menunjukan kemampuan Perusahaan tersebut 
+adalah rasio lancar yang pada tahun 2023 tercatat sebesar 
+1,59 kali dan pada tahun 2022 sebesar 1,73 kali.
+Liabilitas Jangka Pendek 
+Short-Term Liabilities
+Dalam Jutaan Rupiah, kecuali dinyatakan lain | in Million Rupiah, unless otherwise stated
+Keterangan
+Description
+2023
+2022
+Kas dan setara Kas
+Cash and Cash Equivalent
+398.453
+209.758
+Persediaan
+Inventories
+424.370
+390.133
+Aset Lancar
+Current Assets
+1.042.773
+843.787
+Liabilitas Lancar
+Current Liabilities
+654.106
+488.176
+Rasio Lancar
+Current Ratio
+1,59 kali | time
+1,73 kali | time
+Rasio Cepat
+Quick Ratio
+0,95 kali | time
+0,93 kali | time
+Rasio Kas dan setara Kas
+Cash and Cash Equivalent Ratio
+0,61 kali | time
+0,43 kali | time
+Solvabilitas Perusahaan
+Rasio kemampuan Perusahaan untuk membayar seluruh 
+liabilitasnya untuk tahun yang berakhir pada tanggal 31 
+Desember 2023 dan 2022 dapat dilihat melalui rasio-rasio 
+pada tabel di bawah. Salah satu rasio yang dapat menunjukkan 
+kemampuan Perusahaan tersebut adalah Debt to Equity 
+Ratio yang pada tahun 2023 tercatat sebesar 0,65 kali dan 
+pada tahun 2022 adalah sebesar 0,53 kali.
+Analisis Kemampuan Membayar Utang
+Analysis of Solvency
+Short-Term Liabilities
+The Company's ability to pay its short-term liabilities when 
+due for the years ended 31 December 2023 and 2022 can 
+be seen through the ratios in the table below. One of the 
+ratios that can show the Company's ability is the current 
+ratio which in 2023 was recorded at 1.59 times and in 2022 
+at 1.73 times.
+Company Solvency
+The ratio of the Company's ability to pay all its liabilities for 
+the years ended 31 December 2023 and 2022 can be seen 
+through the ratios in the table below. One of the ratios that 
+can show the Company's ability is the Debt to Equity Ratio 
+which in 2023 was recorded at 0.65 times and in 2022 was 
+0.53 times.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+128
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Solvalibilitas Perusahaan 
+Company Solvency
+Dalam Jutaan Rupiah, kecuali dinyatakan lain | in Million Rupiah, unless otherwise stated
+Keterangan
+Description
+2023
+2022
+Total Liabilitas 
+Total Liability
+704.655
+541.571
+Total Ekuitas
+Total Equity
+1.085.120
+1.022.066
+Total Aset
+Total Assets
+1.789.774
+1.563.638
+Rasio Liabilitas terhadap Ekuitas 
+Liability to Equity Ratio
+0,65 kali | time
+0,53 kali | time
+Rasio Liabilitas terhadap Aset
+Liability to Assets Ratio
+0,39 kali | time
+0,35 kali | time
+Rata-rata kolektibilitas piutang Perusahaan untuk tahun-
+tahun yang berakhir pada tanggal 31 Desember 2023 dan 
+2022 masing-masing adalah 20 hari dan 31 hari. Tingkat 
+kolektibilitas piutang Perusahaan dapat dilihat melalui rasio-
+rasio di bawah ini:
+Tingkat Kolektibilitas Piutang 
+Receivables Collectability Rate
+Dalam Jutaan Rupiah, kecuali dinyatakan lain | in Million Rupiah, unless otherwise stated
+Keterangan
+Description
+2023
+2022
+Piutang
+Receivable 
+ 
+ 
+▪	
+Awal
+	
+Beginning
+118.718
+119.942
+▪	
+Akhir
+	
+Ending
+130.229
+118.718
+Rata-rata Piutang
+Average Receivable
+124.474
+119.330
+Pendapatan
+Revenue
+2.296.272
+1.423.143
+Tingkat Perputaran Piutang
+Receivable Turnover
+18,4 kali | times
+11,9 kali | times
+Rata-rata Kolektibilitas Piutang
+Average Receivable Collectability
+20 hari | days
+31 hari | days
+Tingkat Kolektibilitas Piutang
+Receivables Collentability Rate
+The average collectibility of the Company's receivables for 
+the years ended 31 December 2023 and 2022 were 20 days 
+and 31 days, respectively. The collectibility level of the 
+Company's receivables can be seen through the ratios below:
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+129
+Struktur Permodalan dan Kebijakan 
+Manajemen
+Capital Structure and Management Policy
+Struktur modal Perusahaan untuk tahun-tahun yang berakhir 
+pada tanggal 31 Desember 2023 dan 2022 adalah sebagai 
+berikut:
+Struktur Permodalan Perusahaan 
+Company Capital Structure
+Dalam Jutaan Rupiah, kecuali dinyatakan lain | in Million Rupiah, unless otherwise stated
+Keterangan
+Description
+2023
+2022
+2023 (%)
+2022 (%)
+Utang bank jangka pendek 
+Short-term bank loan
+10.344
+69.326
+1,01%
+6,62%
+Utang bank jangka panjang
+Long-term bank loan
+18.000
+28.000
+1,76%
+2,68%
+Jumlah utang bank
+Total bank loan
+28.344
+97.326
+2,76%
+9,30%
+Ekuitas yang dapat diatribusikan kepada pemilik 
+induk
+Equity attributable to the owner of parent entity
+996.925
+949.280
+97,24%
+90,70%
+Jumlah Modal Yang Diinvestasikan
+Total Invested Capital
+1.025.269
+1.046.606
+100,00%
+100,00%
+Rasio Utang Bank terhadap Ekuitas yang dapat diatribusikan kepada pemilik induk
+Bank Loan to Equity attributable to the owner of parent entity Ratio
+2,84%
+10,25%
+Secara berkala, Perusahaan melakukan penilaian utang untuk 
+menilai kemungkinan pembiayaan kembali liabilitas yang 
+ada, salah satunya bila terdapat opsi pembiayaan baru dengan 
+biaya yang lebih efisien dan akan mengarahkan liabilitas 
+Perusahaan pada biaya yang lebih optimal.
+Pada tahun 2023, Perusahaan menargetkan struktur 
+permodalan yang optimal dengan melakukan pengelolaan 
+permodalan yang memperhatikan rasio terbaik di industri 
+Percetakan. Dengan menjaga struktur permodalan ini 
+diharapkan dapat mempertahankan kelangsungan usaha 
+Perusahaan guna memberikan imbal hasil kepada Pemegang 
+Saham dan manfaat kepada pemangku kepentingan lainnya.
+The Company's capital structure for the years ending 31 
+December 2023 and 2022 is as follows:
+Periodically, the Company conducts debt assessment to 
+assess the possibility of refinancing existing liabilities, one 
+of which is if there are new financing options with more 
+efficient costs and will direct the Company's liabilities to a 
+more optimal cost.
+By 2023, the Company is targeting an optimal capital structure 
+by managing capital with the best ratios in the printing 
+industry. By maintaining this capital structure, it is expected 
+to maintain the continuity of the Company's business in 
+order to provide returns to Shareholders and benefits to 
+other stakeholders.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+130
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Di tahun 2023 tidak terdapat ikatan material yang berkaitan 
+dengan investasi barang modal Perusahaan, oleh karenanya 
+tidak terdapat realisasi pada tahun berjalan.
+Informasi dan Fakta Material Setelah 
+Tanggal Laporan Akuntan Publik
+Material Information and Facts Subsequent to the Public 
+Accountant Reporting Date
+Tidak terdapat kejadian signifikan yang terjadi setelah tanggal 
+laporan Akuntan Publik sampai dengan tanggal penerbitan 
+Laporan Tahunan ini.
+Ikatan Material Untuk Investasi 
+Barang Modal
+Material Relation to Capital Goods Investment
+In 2023, there were no material commitments for capital 
+investment in the Company, thus there were no realisation 
+in the current year.
+No significant events have occurred after the date of the 
+Public Accountant's report up to the date of issuance of this 
+Integrated Annual Report.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+131
+Potensi Pasar Lokal
+a.	 Jumlah Penduduk yang Besar di Indonesia
+	
+Penduduk Indonesia tercatat pada Desember 2023 
+mencapai 280,73 juta jiwa, hal ini diyakini merupakan 
+sebuah peluang bagi Perusahaan. Ditopang dengan 
+pertumbuhan sosial ekonomi Indonesia, jumlah populasi 
+ini dapat memberikan potensi pasar yang besar bagi 
+Perusahaan dalam hal pemenuhan kebutuhan akan 
+produk Perusahaan. Permintaan baik dari sektor pemerintah 
+maupun swasta diharapkan akan semakin meningkat 
+diantaranya seperti kartu tanda pengenal, passport dan 
+komponennya, dokumen kependudukan seperti akta 
+kelahiran, dokumen niaga, produk digital maupun produk 
+terintegrasi lainnya.
+b.	 Peralihan Cara Pembayaran Masyarakat 
+	
+Masuknya Indonesia ke era digital perlahan mengubah cara 
+belanja masyarakat serta metode transaksi pembayarannnya. 
+Digitalisasi mendorong masyarakat untuk menggunakan 
+media pembayaran lain selain uang tunai. Hal ini terlihat 
+dari peningkatan yang signifikan terhadap penggunaan 
+uang elektronik sejak tahun 2017 sampai saat ini. Sebagai 
+salah satu Perusahaan penyedia solusi pembayaran, 
+Perusahaan menyambut baik hal ini dengan terus menjaga 
+ketersediaan kapasitas serta pembaharuan yang berkelanjutan 
+terhadap penggunaan teknologi.
+c.	 Perlindungan terhadap Produk
+	
+Masih terdapat banyak produk yang beredar yang belum 
+dilindungi secara tepat dan baik sehingga rentan terhadap 
+adanya tindak pemalsuan dan penyelundupan dalam 
+pendistribusiannya. Perlu adanya fitur pengaman yang 
+dilekatkan pada produk tidak hanya untuk dapat melindungi 
+bisnis pelanggan namun juga memberikan jaminan 
+kepada end user produk tersebut.
+d.	 Sertifikat Elektronik dalam Menjamin Keamanan Dokumen 
+	
+Sebagai penyedia sertifikat Elektronik, Perusahaan 
+menyediakan solusi bagi pelanggan yang membutuhkan 
+tanda tangan digital dan identitas yang menunjukkan 
+Prospek Usaha, Kondisi Industri, dan 
+Ekonomi
+Business Prospect, Industry, and Economic Condition
+Local Market Potential
+a.	 Large Population in Indonesia
+	
+Indonesia's population recorded in December 2023 
+reached 280.73 million people, which is believed to be 
+an opportunity for the Company. Supported by Indonesia's 
+growth, the total population can provide a large market 
+potential for the Company in terms of demand for the 
+Company's product needs. Demand, from both the 
+government and private sector, is expected to increase 
+e.g. identity card, passport and the components,   residence 
+documents such as birth certificate, commercial documents, 
+digital products, and other integrated products.
+b.	 Transition to Community Payment Methods
+	
+Indonesia's entry into the digital era is slowly changing 
+the way people shop and the method of payment 
+transactions. Digitalisation encourages people to use 
+other payment media besides cash. This can be seen 
+from the significant increase in the use of electronic 
+money from 2017 until now. As one of the payment 
+solution provider companies, the Company welcomes 
+this by continuing to maintain capacity availability and 
+sustain updates on the use of technology.
+c.	 Product Protection
+	
+There are plenty of outstanding products that are not 
+protected correctly and well, making them vulnerable to 
+fraud and smuggling in their distribution. Embedded 
+security features are necessary to these products, not 
+only to protect customer business but also to provide a 
+guarantee to the products’ end users.
+d.	 Electronic Certificate to Guarantee Document Security
+	
+As a provider of electronic certificate, the Company 
+provides solution for customer who needs digital signature 
+and identity showing the legal subject status of the parties 
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+132
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+status subjek hukum para pihak dalam transaksi elektronik 
+yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik. 
+Dengan penggunaan tanda tangan digital ini, dokumen 
+transaksi dapat terproteksi dari risiko pemalsuan yang 
+mungkin terjadi.
+e.	 Pengelolaan Dokumen Niaga yang Belum Efisien 
+	
+Masih banyaknya dokumen yang dikelola dengan tidak 
+sepatutnya sehingga menimbulkan inefisiensi serta fungsi 
+dokumen yang seharusnya memiliki sifat security namun 
+dicetak dengan tidak menggunakan teknik security 
+printing sebagaimana seharusnya. Terdapat banyak 
+peluang akan upaya peningkatan efisiensi oleh Perusahaan 
+dalam melayani permintaan dokumen modern. Dokumen 
+modern kini telah disematkan dengan berbagai fitur 
+sekuriti tambahan sebagai upaya pelaku bisnis dalam 
+meningkatkan keamanan transaksi bisnisnya dan 
+permintaannya terus berkembang sampai saat ini.
+Potensi Pasar Ekspor 
+Potensi pasar ekspor untuk industri percetakan sekuriti cukup 
+besar. Masih terdapat banyak negara berkembang yang 
+belum mengembangkan teknologi percetakan sekuritinya. 
+Di samping itu, untuk negara maju, potensi ekspor ini didukung 
+oleh rendahnya biaya produksi produk yang dihasilkan 
+Perusahaan jika dibandingkan dengan biaya produksi produk 
+yang sama di negara tersebut. Oleh karena itu, dengan basis 
+teknologi yang tinggi dan didukung oleh biaya produksi 
+yang relatif lebih murah menjadikan keunggulan Perusahaan 
+dalam melakukan perluasan pasar untuk ekspor ke 
+mancanegara.
+in the electronic transaction held by the Electronic 
+Certification Operator. By using this digital signature, 
+transaction documents can be protected from the risk 
+of forgery that may occur.
+e.	 Inefficient Management of Commercial Documents
+	
+There are still many documents not duly managed, causing 
+inefficiencies and the function of documents that should 
+have security properties but are printed by not using 
+security printing techniques as they should. There will be 
+many opportunities to increase efficiency by the Company 
+in serving the demands for modern documents. Modern 
+documents have now been embedded with a variety of 
+additional security features to improve the security of 
+their business transactions and demand continues to 
+grow to this day.
+Export Market Potential
+The potential of the export market for the security printing 
+industry is quite vast. Many developing countries have not 
+developed their security printing technology. Moreover, in 
+the developed countries, export potentials are supported by 
+the Company’s production costs that are relatively lower 
+compared to the production cost of the same product in 
+those countries. Therefore, with a high technology base and 
+supported by relatively cheaper production costs, the Company 
+has an advantage in expanding its market for exports to 
+foreign countries.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+133
+Perbandingan antara proyeksi dengan realisasi Perusahaan 
+untuk tahun yang berakhir pada tanggal 31 Desember 2023 
+adalah sebagai berikut:
+Perbandingan Target dengan Realisasi 2023
+Comparison between Target and Realisation in 2023
+dalam miliar Rupiah | in billion Rupiah
+Keterangan
+Description
+Aktual
+Actual
+Proyeksi
+Projection
+Kenaikan/Penurunan
+Increase/Decrease
+% dengan Proyeksi
+% with Projection
+Pendapatan
+Revenue
+2.296
+1.565
+731
+47%
+Laba Bersih
+Net Income
+226
+156
+70
+45%
+Berdasarkan tabel di atas, dapat dilihat adanya pertumbuhan 
+pendapatan dan laba bersih, dengan selisih antara aktual 
+dan proyeksi untuk tahun yang berakhir pada tanggal 
+31 Desember 2023 masing-masing sebesar 47% dan 45%. 
+Target awal tahun yang ditetapkan oleh Perusahaan telah 
+tercapai dengan hasil yang memuaskan.
+Perusahaan telah menunjukan kinerja yang baik dengan 
+perolehan pendapatan sebesar Rp2.296 miliar atau tumbuh 
+sebesar 61,4% dari tahun sebelumnya yaitu sebesar Rp1.423 
+miliar. Untuk perolehan laba dicatat sebesar Rp225,6 miliar 
+atau tumbuh sebesar 57,0% dari laba tahun berjalan periode 
+sebelumnya yaitu sebesar Rp143,7 miliar.
+Menyikapi situasi ekonomi nasional dan dunia yang mulai 
+menunjukkan tanda-tanda perbaikan, manajemen telah 
+membekali diri dengan kemampuan yang memadai dalam 
+memenuhi kebutuhan masyarakat. Langkah strategis diterapkan 
+oleh manajemen dengan selalu mempertimbangkan setiap 
+risiko yang mungkin dihadapi. Perusahan terus mempertahankan 
+kondisi bisnis dan keuangan yang sehat untuk memastikan 
+operasional dapat berjalan tanpa kendala berarti.
+Perbandingan Antara Target/
+Proyeksi dan Realisasi 2023 
+Comparison Between Targets/Projection and Realisation in 2023
+The comparison between the projection and realization of 
+the Company for the year ended 31 December 2023 is as 
+follows:
+Based on the table above, it can be seen that there is growth 
+in revenue and net income, with the difference between 
+actual and projected for the year ending 31 December 2023 
+being 47% and 45% respectively. The initial year target set 
+by the Company has been achieved with satisfactory results.
+The Company has shown good performance with revenue 
+of IDR2,296 billion or grew by 61.4% from the previous year 
+of IDR1,423 billion. Income was recorded at IDR225.6 billion 
+or grew by 57.0% from the previous year's income of IDR143.7 
+billion.
+Responding to the national and world economic situation 
+that began to show signs of improvement, management has 
+equipped itself with adequate capabilities in meeting the 
+needs of the community. Strategic steps are implemented 
+by management by always considering any risks that may 
+be faced. The Company continues to maintain healthy business 
+and financial conditions to ensure operations can run without 
+significant obstacles.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+134
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Target pendapatan dan laba bersih Perusahaan yang 
+diproyeksikan untuk tahun 2024 adalah sebagai berikut:
+Target Pendapatan dan Laba Bersih Tahun 2024
+Target of Revenue and Net Income in 2024
+dalam miliar Rupiah | in billion Rupiah
+Keterangan
+Description
+Proyeksi 2024
+Projection in 2024
+% terhadap tahun berjalan
+% of the current year
+Pendapatan
+Revenue
+2.525
+10%
+Laba Bersih
+Net Income
+250
+11%
+Proyeksi pendapatan dan laba bersih untuk tahun 2024 
+didasarkan atas beberapa faktor, antara lain:
+1.	 Pemulihan terhadap kondisi perekonomian Indonesia, 
+termasuk optimisme rancangan program pemerintah di 
+tengah perlambatan ekonomi negara maju. 
+2.	 Masih dibutuhkannya produk bersekuriti tinggi dalam 
+upaya meningkatkan keamanan bertransaksi di setiap 
+industri menjadi peluang bagi Perusahaan yang bergerak 
+di bidang penyedia produk sekuriti.
+3.	 Adanya inovasi produk-produk yang dihasilkan termasuk 
+inovasi produk digital di antaranya sertifikat elektronik (ESign), 
+Brand Protection, dan berbagai produk sekuriti digital 
+terintegrasi lainnya yang dapat memenuhi permintaan pasar.
+4.	 Digiatkannya efisiensi dalam aktivitas operasional 
+Perusahaan.
+Aspek Pemasaran
+Marketing Aspect
+Sebagai salah satu penyedia produk security dan non-security 
+terbesar di Indonesia, Perusahaan telah diakui keberadaannya 
+baik oleh institusi lokal maupun mancanegara, dengan track 
+record yang baik dan mampu menghasilkan produk unggulan 
+dikelasnya. Perusahaan telah dipercaya selama lebih dari 30 
+tahun untuk menyediakan kebutuhan pasar terhadap berbagai 
+produk niaga dan sekuriti dengan berbagai spesifikasi yang 
+diciptakan khusus sesuai dengan kebutuhan masing-masing 
+pelanggan. Dalam memasarkan produknya, Perusahaan 
+menggunakan metode direct selling, dimana para personel 
+pemasaran akan terjun langsung ke para pelanggan potensial 
+Perbandingan Target/Proyeksi Tahun 2024
+Comparison between Targets/Projections in 2024
+Target of the Company’s revenue and net income for 2024 
+is as follows:
+The projection of revenue and net profit for 2024 is based 
+on several factors, including:
+1.	 Recovery of Indonesia's economic condition, including 
+optimism of the government's program design amidst 
+the economic slowdown in developed countries.
+2.	 The necessity of high-security products in increasing 
+transactional security in each industry is an opportunity 
+for the Company which engages in providing security 
+products.
+3.	 Product innovations including digital product innovations 
+e.g. electronic certificates (ESign), Lemihealth, Brand 
+Protection, and other integrated digital security product 
+that can fulfil market demand.
+4.	 The efforts to create efficiency in the Company’s operational 
+activities.
+As one of the biggest Security and Non-Security products 
+providers in Indonesia, the existence of the Company has 
+been recognised both local and global institution, with good 
+track record and the ability to produce excellent product in 
+its level. The Company has been trusted for more than 30 
+years to provide market needs for divers commercial and 
+security products with various specifications that are specially 
+created according to the needs of each customer. In marketing 
+its products, the Company uses direct selling marketing by 
+interact directly with potential customers to provide an 
+introduction to the products produced by the Company 
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+135
+untuk memberikan pengenalan tentang produk-produk yang 
+dihasilkan oleh Perusahaan beserta fitur-fitur tambahan di 
+dalamnya yang dapat menambah kemampuan produk, baik 
+dari sisi teknologi maupun dari sisi keamanan. Awareness, 
+relationship, dan trust merupakan poin penting dalam membina 
+hubungan yang baik dengan pelanggan dalam jangka panjang 
+serta menghasilkan job-order yang berkelanjutan. 
+Dalam rangka menyediakan solusi terintegrasi atas setiap 
+layanan yang ditawarkan, Perusahaan memastikan bahwa 
+setiap produk yang dihasilkan adalah produk yang dapat 
+memberikan kemudahan serta perlindungan lebih bagi para 
+penggunanya. Setiap produk yang dihasilkan dirancang 
+sedemikian rupa dengan menyematkan teknologi terkini, 
+yang pada akhirnya memiliki nilai tambah dalam penggunaan 
+operasi sehari-hari. Hal ini dipercaya menjadi salah satu daya 
+tarik bagi pelanggan dan upaya Perusahaan dalam melakukan 
+penetrasi pasar.
+Dalam upaya memperluas cakupan layanan yang diberikan, 
+Perusahaan terus melengkapi diri dengan berbagai lisensi, 
+sertifikasi, maupun akreditasi yang akan menunjang proses 
+produksi Perusahaan dalam memenuhi keanekaragaman 
+permintaan pelanggan. Dalam operasinya, Perusahaan telah 
+memperoleh izin operasi dari Badan Koordinasi Pemberantasan 
+Rupiah Palsu (Botasupal) untuk berbagai jenis hasil cetakan 
+seperti dokumen sekuriti, pengaman tambahan sekuriti, 
+smart card, dan elektronik cover. Perusahaan telah mengantongi 
+berbagai lisensi seperti MasterCard dan Visa, Sertificate for 
+Manufacturer dari JCB International serta akreditasi National 
+Standard Indonesian Chips Cards (NSICCS) dari Asosiasi 
+Sistem Pembayaran Indonesia (ASPI). Selain itu, Perusahaan 
+juga memperoleh Facility and Merchandise Authorisation 
+dari Walt Disney Indonesia dan Management of Security 
+Printing Processes dari INTERGRAF yang membuat Perusahaan 
+tetap kompetitif dibandingkan dengan perusahaan sejenis 
+dalam industri percetakan security global.
+Pendekatan-pendekatan yang menjadi kunci sukses Perusahaan 
+adalah:
+1.	 Solusi layanan inovatif yang disesuaikan dengan tiap-tiap 
+kebutuhan pelanggan yang dapat memberikan kemudahan 
+serta pemecahan masalah yang dihadapi pelanggan 
+secara efektif dan efisien.
+2.	 Bekerja sama dengan berbagai organisasi internasional 
+yang dapat membantu Perusahaan dalam mengembangkan 
+kemampuan dan mencapai keunggulan produk yang 
+inovatif yang dapat melayani kebutuhan pasar.
+along with additional features in it that can add to the ability 
+of the product both in terms of technology and security. 
+Awareness, relationship, and trust are the key points of 
+building a good and long-term relation with customers to 
+receive continuous job-order.
+In order to provide an integrated solution for every offered 
+service, the Company ensures each product is giving more 
+convenience and protection for the users. Each product is 
+designed by embedding the latest technology, which eventually 
+has added value in daily operation use. This has become one 
+of the attractive points for customers and the Company's 
+efforts in penetrating the market.
+In expanding the scope of provided services, the Company 
+continues to equip itself with various licenses, certifications, 
+and accreditations that will support the Company's production 
+process in meeting the diversity of customer demands. In 
+its operations, the Company has obtained operating licenses 
+from the Coordinating Board for Eradicating Counterfeit 
+Rupiah (Botasupal) for various types of printouts such as 
+security documents, additional security, smart cards, and 
+electronic covers. The Company has also earned various 
+licenses such as MasterCard and Visa, a Certificate for 
+Manufacturer from JCB International, as well as National 
+Standard Indonesian Chips Cards (NSICCS) accreditation 
+from the Indonesian Payment System Association (ASPI). 
+Moreover, the Company also earned the Facility and 
+Merchandise Authorisation from Walt Disney Indonesia and 
+Management of Security Printing Processes from INTERGRAF, 
+which able to retain the Company’s competitiveness compared 
+to similar companies in the global security printing industry.
+The approaches that are key to the success of the Company 
+are:
+1.	 Innovative service solution that is customised based on 
+the customers’ needs to provide convenience and problem 
+solution faced by customer effectively and efficiently.
+2.	 Collaborate with various international organisations that 
+can assist the Company in developing capabilities and 
+achieving innovative product excellence that can serve 
+market needs.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+136
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Tindakan-Tindakan Strategis 
+yang Dilakukan
+Dalam rangka mewujudkan visi dan misi serta pencapaian 
+setiap tujuan Perusahaan, maka manajemen telah melakukan 
+beberapa langkah strategis, di antaranya yaitu:
+Harga Kompetitif
+Harga produk Perusahaan bervariasi tergantung dari jenis 
+layanan, tingkat kesulitan, dan jumlah pesanan. Harga dihitung 
+sesuai dengan biaya per unit dan margin. Hingga saat ini, 
+Perusahaan telah melayani pelanggan dari berbagai segmen 
+usaha, baik Non-Security maupun Security. Para pelanggan 
+tersebut berasal dari beragam jenis usaha, skala usaha, 
+daerah, maupun segmen industri dengan berbagai kebutuhan 
+yang berbeda. Perusahaan terus berupaya memberikan 
+pelayanan maksimal untuk memenuhi kebutuhan pelanggan 
+tersebut dengan menghasilkan produk yang optimal dengan 
+harga terbaik, dan tidak lupa terus membina hubungan baik 
+dengan para pelanggan. Untuk segmen pasar pemerintah 
+dan swasta dengan skala yang cukup besar, perolehan 
+pesanan yang didapat umumnya dilakukan melalui proses 
+tender (open bid).
+Pengembangan Produk
+Dalam rangka mempertahankan kinerjanya, Perusahaan terus 
+menawarkan solusi layanan terpadu sesuai dengan kebutuhan 
+pasar. Pengembangan produk baru dan inovasi dalam 
+spesifikasi produk terus dilakukan. Perusahaan terus 
+menggiatkan pengembangan produk digital dalam rangka 
+menjawab kebutuhan masyarakat di era digital sekarang ini. 
+Hal ini diyakini mampu memberikan nilai tambah tidak hanya 
+pada produk yang dihasilkan, tetapi juga dalam hal komitmen 
+Perusahaan dalam memenuhi kebutuhan pasar akan layanan 
+dengan teknologi terkini. Perusahaan mengedepankan 
+penggunaan serangkaian teknologi yang memadai yang 
+nantinya dapat menciptakan produk berkualitas dan memiliki 
+daya saing yang tinggi.
+Strategic Actions Taken
+In realising the vision and mission and the achievement of 
+each of the Company's objectives, the management has 
+taken several strategic steps, including:
+Competitive Price
+The price of the Company's products varies depending on 
+type of service, level of difficulty, and the number of orders. 
+Prices are calculated based on cost per unit and margin. Until 
+now, the Company has served customers from various 
+business segments, both Non-Security and Security. These 
+customers come from various types of businesses, business 
+scales, regions, and industrial segments with a variety of 
+different needs. The Company continues to provide maximum 
+service to meet the needs of these customers by producing 
+optimal products at the best prices, not forgetting to continue 
+to build good relationships with customers. For government 
+and private market segments with a large scale, the acquisition 
+of orders obtained is generally done through a tender (open 
+bid) process.
+Product Development
+In maintaining its performance, the Company continuously 
+offers integrated service solution in accordance with market 
+needs. The development of new products and innovation in 
+product specifications is continuously conducted. The Company 
+actively develops digital product to counter the community 
+needs in this digital era. This is believed to be able to provide 
+added value not only to the produced products but also in 
+terms of the Company's commitment to meeting the market 
+needs for high-tech documents. The Company prioritises 
+the use of a series of adequate technology, which in turn 
+can create quality products and have high competitiveness.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+137
+Promosi
+Dalam kegiatan promosi, selain melalui media website dan 
+media elektronik lainnya, Perusahaan memperkenalkan 
+produknya melalui sarana penyampaian presentasi langsung 
+kepada calon pelanggan terutama kepada pelanggan potensi 
+besar. Hal ini dinilai efektif, dimana lewat penyampaian 
+langsung ini, personel pemasaran dapat menggali setiap 
+kebutuhan pasar dengan lebih detail sambil mempresentasikan 
+produk Perusahaan yang sesuai dengan bisnis pelanggan. 
+Presentasi dapat berupa penjelasan mengenai penggunaan 
+material, teknologi yang digunakan, tingkat pengamanan 
+yang ada dalam produk, serta fitur-fitur tambahan yang 
+dapat memberikan peningkatan fungsi dari produk tersebut. 
+Usaha memperkenalkan produk dilakukan dengan 
+menyesuaikan sasaran pasar yang dituju dengan 
+mempertimbangkan kebutuhan pangsa pasar yang sebelumnya 
+telah didahului dengan dilakukannya analisis pasar. Hal ini 
+bertujuan agar kegiatan promosi yang dilakukan tepat sasaran 
+dan sesuai dengan spesifikasi kebutuhan pelanggan. 
+Perluasan Pasar Baru
+Perusahaan melakukan ekspansi tidak hanya ke pasar domestik 
+tetapi juga ke pasar ekspor. Pasar ekspor disasar dengan 
+menganalisa berdasarkan kebutuhan negara yang dituju. 
+Hal ini untuk melihat potensi pengembangan dan produk 
+yang akan ditawarkan. Pasar ekspor Perusahaan tersebar di 
+berbagai penjuru dunia seperti di benua Asia, Amerika, Afrika, 
+Australia, dan Eropa.
+Promotion
+In its promotional activities, aside from website and other 
+electronic media, the Company introduces its products 
+through direct presentation to prospective customers especially 
+to the high-potential customers. It is considered effective as 
+the marketing personnels are able to capture the market 
+needs in detail along with presenting the Company products, 
+which matched to the customer’s business. Presentation of 
+the Company's products contains material usage, the 
+technology used, the security level in the product, and 
+additional features that can provide enhanced functionality 
+of the product. Efforts to introduce products are carried out 
+by adjusting the intended target market by considering the 
+needs of those market shares, which have been preceded 
+by conducting a market analysis. It intends to conduct accurate 
+promotion activities based on the customers’ need 
+specifications.
+New Market Expansion
+The Company conducts expansion not only to the domestic 
+market but also to export markets. Export markets are targeted 
+by analysing the needs of the target country. This is to see 
+the development potential and products to be offered. The 
+Company’s export markets are distributed all over the world 
+e.g. in the Asian, American, African, Australian, and European 
+continent.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+138
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perusahaan berkomitmen untuk memberikan pengembalian 
+hasil dari perolehan Perusahaan setiap tahunnya kepada 
+para Pemegang Saham sebagai bentuk apresiasi atas 
+kepercayaan yang diberikan kepada Perusahaan. Berdasarkan 
+hasil Rapat Umum Pemegang Saham Tahunan tanggal 14 
+Juni 2023, Perusahaan menetapkan untuk mendistribusikan 
+dividen final tunai sebesar Rp51,39 miliar atau sebesar Rp7,5 
+per lembar saham dari total laba tahun berjalan yang 
+pendistribusiannya dilaksanakan pada tanggal 3 Juli 2023 
+(setelah stock split rasio 1:4). Sedangkan berdasarkan hasil 
+keputusan Rapat Umum Pemegang Saham Tahunan tanggal 
+29 Juni 2022, Perusahaan menetapkan untuk mendistribusikan 
+dividen final tunai sebesar Rp37,69 miliar atau sebesar Rp22 
+per lembar saham dari total laba tahun berjalan yang 
+pendistribusiannya dilaksanakan pada tanggal 20 Juli 2022 
+(sebelum stock split rasio 1:4). Di tahun 2023, Perusahaan 
+juga melakukan pembagian dividen interim atas tahun buku 
+2023. Pendistribusian dividen interim tunai sebesar Rp102,78 
+miliar atau sebesar Rp15 per lembar saham dilakukan pada 
+30 November 2023.
+Di tahun 2023, Perusahaan menetapkan kebijakan Dividen 
+dengan memperhatikan dan mempertimbangkan tingkat 
+kesehatan keuangan Perusahaan. Atas surplus kas dari 
+kegiatan operasional, dikurangi dengan pemenuhan dana 
+cadangan, kegiatan pendanaan, rencana pengeluaran modal 
+kerja, serta berbagai aspek pendanaan yang disesuaikan 
+dengan rencana  Perusahaan ke depan, maka Direksi dapat 
+mengusulkan kepada pemegang saham dalam Rapat Umum 
+Pemegang Saham terkait rencana pembagian Dividen. 
+Program Kepemilikan Saham oleh Karyawan 
+dan Manajemen
+Employee and Management Share Ownership Programme
+Selama tahun 2023, tidak terdapat program kepemilikan 
+saham oleh karyawan maupun oleh manajemen yang telah 
+dilaksanakan Perusahaan.
+Kebijakan Dividen
+Dividend Policy
+The Company is committed to provide returns from the 
+Company's revenue every year to the Shareholders to 
+appreciate the trust given to the Company. Based on the 
+results of the Annual General Meeting of Shareholders dated 
+14 Juner 2023, the Company determined to distribute final 
+cash dividends of IDR51.39 billion or IDR7.5 per share of the 
+total profit for the year which will be distributed on 3 July 
+2023 (after stock split ratio 1:4). Meanwhile, based on the 
+resolution of the Annual General Meeting of Shareholders 
+dated 29 June 2022, the Company determined to distribute 
+final cash dividends of IDR37.69 billion or IDR22 per share 
+of the total profit for the year which will be distributed on 
+20 July 2022 (before stock split ratio 1:4). In 2023, the Company 
+also distributed interim dividends for the financial year 2023. 
+The interim cash dividend of IDR102.78 billion or IDR15 per 
+share was distributed on 30 November 2023.
+In 2023, the Company set a dividend policy with due regard 
+to the financial soundness of the Company. On cash surplus 
+from operational activities, minus by fulfillment of reserve 
+funds, plans for working capital expenditures, as well as 
+various funding aspects tailored to the Company’s plans for 
+the future, the Board of Directors can propose to the 
+Shareholders within General Meeting of Shareholders 
+concerning dividend distribution plan.
+Throughout 2023, there are no employee or management 
+shareholder programmes implemented by the Company.
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+139
+Selama tahun 2023, tidak terdapat informasi material 
+Perusahaan yang dapat mempengaruhi saham maupun 
+operasional dan keberlangsungan Perusahaan. Tidak terdapat 
+transaksi material yang mengandung benturan kepentingan 
+ataupun transaksi pihak afiliasi. Seluruh transaksi berelasi 
+selama tahun berjalan telah disajikan dalam laporan keuangan 
+tahunan.
+Sebagaimana pengungkapan pada laporan keuangan tahunan, 
+atas transaksi berelasi antara Perseroan dengan PT Cardsindo 
+Tiga Perkasa tidak memenuhi kriteria sebagaimana yang 
+diatur dalam ketentuan POJK Nomor 42/POJK.04/2020 
+tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan. 
+Hal ini dikarenakan Perseroan bukan merupakan pemegang 
+saham utama maupun pengendali PT Cardsindo Tiga Perkasa 
+berdasarkan definisi Pengendali Perusahaan pada POJK 
+nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan 
+Terbuka. Pada Perseroan maupun PT Cardsindo Tiga Perkasa 
+juga tidak memiliki anggota Direksi atau Dewan Komisaris 
+yang sama.
+Perubahan Peraturan Perundang-Undangan
+Amendments to the Laws and Regulations
+Selama tahun 2023, tidak terdapat perubahan perundang-
+undangan yang berpengaruh signifikan terhadap Perusahaan.
+Perubahan Kebijakan Akuntansi
+Changes in Accounting Policy
+Selama tahun 2023, tidak terdapat perubahan kebijakan 
+akuntansi yang berpengaruh signifikan terhadap Perusahaan.
+Informasi dan Transaksi Material Perusahaan
+Company Material Information and Transaction
+Throughout 2023, there is no material information about the 
+Company that could affect the Company's shares or operations, 
+and sustainability. There are also no material transactions 
+that contain conflicts of interest or transactions of material 
+affiliates during the year. All related parties transaction are 
+disclosed in the annual financial statements.
+As disclosed in the annual financial statements, related 
+transactions between the Company and PT Cardsindo Tiga 
+Perkasa do not comply with criteria as stipulated in POJK 
+provisions Number 42/POJK.04/2020 concerning Affiliated 
+Transactions and Transactions with Conflicts of Interest. This 
+is because the Company is not the main or controlling 
+shareholder of PT Cardsindo Tiga Perkasa as defined by the 
+Controlling Company in POJK number 9/POJK.04/2018 
+concerning Takeover of Public Companies. Neither the 
+Company nor PT Cardsindo Tiga Perkasa has the same 
+members of the Board of Directors or Board of Commissioners.
+Throughout 2023, there are no changes in the regulations 
+that have significant effect to the Company.
+Throughout 2023, there are no changes in accounting policy 
+that have a significant effect to the Company.
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+140
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Annual Report & Sustainability Report 2023 I PT JASUINDO TIGA PERKASA Tbk
+141
+Laporan Tahunan & Laporan Keberlanjutan 2023 I PT JASUINDO TIGA PERKASA Tbk
+142

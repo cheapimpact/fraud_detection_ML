@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-HDFA-att2.pdf",
+    "ticker": "HDFA_2023",
+    "mdma_start": "110",
+    "mdma_end": "130",
+    "Positive_Sum": 2213.0,
+    "Negative_Sum": 2035.0,
+    "Total_Matched_Words": 1321,
+    "Total_Word": 9315,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

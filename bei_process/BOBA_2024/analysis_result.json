@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BOBA-att1.pdf",
+    "ticker": "BOBA_2024",
+    "mdma_start": "66",
+    "mdma_end": "85",
+    "Positive_Sum": 1723.0,
+    "Negative_Sum": 1736.0,
+    "Total_Matched_Words": 1076,
+    "Total_Word": 8179,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

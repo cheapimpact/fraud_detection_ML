@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SMCB-att1.pdf",
+    "ticker": "SMCB_2024",
+    "mdma_start": "110",
+    "mdma_end": "152",
+    "Positive_Sum": 5499.0,
+    "Negative_Sum": 4518.0,
+    "Total_Matched_Words": 3333,
+    "Total_Word": 22314,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

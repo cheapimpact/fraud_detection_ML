@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-AMMN-att1.pdf",
+    "ticker": "AMMN_2023",
+    "mdma_start": "79",
+    "mdma_end": "103",
+    "Positive_Sum": 2661.0,
+    "Negative_Sum": 3190.0,
+    "Total_Matched_Words": 1897,
+    "Total_Word": 12869,
+    "processed_at": "2026-03-11",
+    "status": "Success"
+}

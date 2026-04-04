@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SOCI-att1.pdf",
+    "ticker": "SOCI_2024",
+    "mdma_start": "45",
+    "mdma_end": "60",
+    "Positive_Sum": 1973.0,
+    "Negative_Sum": 2645.0,
+    "Total_Matched_Words": 1498,
+    "Total_Word": 9019,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

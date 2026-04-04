@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SGRO-att2.pdf",
+    "ticker": "SGRO_2023",
+    "mdma_start": "90",
+    "mdma_end": "127",
+    "Positive_Sum": 4261.0,
+    "Negative_Sum": 4575.0,
+    "Total_Matched_Words": 2824,
+    "Total_Word": 20396,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

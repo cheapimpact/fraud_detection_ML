@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BBLD-att1.pdf",
+    "ticker": "BBLD_2023",
+    "mdma_start": "76",
+    "mdma_end": "109",
+    "Positive_Sum": 4360.0,
+    "Negative_Sum": 4297.0,
+    "Total_Matched_Words": 2783,
+    "Total_Word": 19066,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

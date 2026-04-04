@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-NPGF-att1.pdf",
+    "ticker": "NPGF_2024",
+    "mdma_start": "82",
+    "mdma_end": "105",
+    "Positive_Sum": 2294.0,
+    "Negative_Sum": 2036.0,
+    "Total_Matched_Words": 1390,
+    "Total_Word": 9814,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

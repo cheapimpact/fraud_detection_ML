@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CNKO-att1.pdf",
+    "ticker": "CNKO_2023",
+    "mdma_start": "33",
+    "mdma_end": "39",
+    "Positive_Sum": 556.0,
+    "Negative_Sum": 885.0,
+    "Total_Matched_Words": 444,
+    "Total_Word": 3264,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

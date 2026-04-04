@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BFIN-att2.pdf",
+    "ticker": "BFIN_2023",
+    "mdma_start": "116",
+    "mdma_end": "167",
+    "Positive_Sum": 6091.0,
+    "Negative_Sum": 7401.0,
+    "Total_Matched_Words": 4135,
+    "Total_Word": 17308,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

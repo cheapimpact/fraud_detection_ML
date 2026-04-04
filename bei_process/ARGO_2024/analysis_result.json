@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ARGO-att2.pdf",
+    "ticker": "ARGO_2024",
+    "mdma_start": "70",
+    "mdma_end": "93",
+    "Positive_Sum": 2425.0,
+    "Negative_Sum": 2212.0,
+    "Total_Matched_Words": 1462,
+    "Total_Word": 9587,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

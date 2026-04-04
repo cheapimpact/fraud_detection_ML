@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-AEGS-att1.pdf",
+    "ticker": "AEGS_2024",
+    "mdma_start": "89",
+    "mdma_end": "120",
+    "Positive_Sum": 1814.0,
+    "Negative_Sum": 2541.0,
+    "Total_Matched_Words": 1382,
+    "Total_Word": 10323,
+    "processed_at": "2026-02-24",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MINE-att2.pdf",
+    "ticker": "MINE_2024",
+    "mdma_start": "47",
+    "mdma_end": "66",
+    "Positive_Sum": 3104.0,
+    "Negative_Sum": 2639.0,
+    "Total_Matched_Words": 1835,
+    "Total_Word": 12166,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

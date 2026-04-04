@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PURE-att1.pdf",
+    "ticker": "PURE_2023",
+    "mdma_start": "66",
+    "mdma_end": "74",
+    "Positive_Sum": 830.0,
+    "Negative_Sum": 991.0,
+    "Total_Matched_Words": 549,
+    "Total_Word": 3335,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

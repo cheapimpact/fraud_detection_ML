@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TRGU-att1.pdf",
+    "ticker": "TRGU_2023",
+    "mdma_start": "52",
+    "mdma_end": "60",
+    "Positive_Sum": 1069.0,
+    "Negative_Sum": 954.0,
+    "Total_Matched_Words": 665,
+    "Total_Word": 5067,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

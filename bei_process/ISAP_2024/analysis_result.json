@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ISAP-att2.pdf",
+    "ticker": "ISAP_2024",
+    "mdma_start": "54",
+    "mdma_end": "73",
+    "Positive_Sum": 1725.0,
+    "Negative_Sum": 1698.0,
+    "Total_Matched_Words": 1107,
+    "Total_Word": 8537,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

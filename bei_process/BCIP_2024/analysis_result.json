@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BCIP-att1.pdf",
+    "ticker": "BCIP_2024",
+    "mdma_start": "60",
+    "mdma_end": "83",
+    "Positive_Sum": 1736.0,
+    "Negative_Sum": 2108.0,
+    "Total_Matched_Words": 1242,
+    "Total_Word": 9079,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

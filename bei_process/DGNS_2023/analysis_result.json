@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DGNS-att1.pdf",
+    "ticker": "DGNS_2023",
+    "mdma_start": "90",
+    "mdma_end": "122",
+    "Positive_Sum": 3869.0,
+    "Negative_Sum": 3351.0,
+    "Total_Matched_Words": 2370,
+    "Total_Word": 14108,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

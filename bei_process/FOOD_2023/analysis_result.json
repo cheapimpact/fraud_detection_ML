@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-FOOD-att1.pdf",
+    "ticker": "FOOD_2023",
+    "mdma_start": "45",
+    "mdma_end": "60",
+    "Positive_Sum": 1555.0,
+    "Negative_Sum": 2048.0,
+    "Total_Matched_Words": 1175,
+    "Total_Word": 8686,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

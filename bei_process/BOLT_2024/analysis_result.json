@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BOLT-att1.pdf",
+    "ticker": "BOLT_2024",
+    "mdma_start": "91",
+    "mdma_end": "140",
+    "Positive_Sum": 4933.0,
+    "Negative_Sum": 5148.0,
+    "Total_Matched_Words": 3271,
+    "Total_Word": 22352,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

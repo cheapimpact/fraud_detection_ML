@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MOLI-att1.pdf",
+    "ticker": "MOLI_2023",
+    "mdma_start": "71",
+    "mdma_end": "80",
+    "Positive_Sum": 1355.0,
+    "Negative_Sum": 1656.0,
+    "Total_Matched_Words": 999,
+    "Total_Word": 6441,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

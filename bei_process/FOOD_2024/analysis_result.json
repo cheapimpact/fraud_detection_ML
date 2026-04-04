@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-FOOD-att1.pdf",
+    "ticker": "FOOD_2024",
+    "mdma_start": "45",
+    "mdma_end": "58",
+    "Positive_Sum": 1446.0,
+    "Negative_Sum": 1805.0,
+    "Total_Matched_Words": 1053,
+    "Total_Word": 7734,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

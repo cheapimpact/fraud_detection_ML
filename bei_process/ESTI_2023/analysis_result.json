@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-ESTI-att2.pdf",
+    "ticker": "ESTI_2023",
+    "mdma_start": "66",
+    "mdma_end": "85",
+    "Positive_Sum": 2114.0,
+    "Negative_Sum": 1722.0,
+    "Total_Matched_Words": 1235,
+    "Total_Word": 9183,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

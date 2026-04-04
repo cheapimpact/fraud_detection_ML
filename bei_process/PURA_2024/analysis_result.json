@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-PURA-att1.pdf",
+    "ticker": "PURA_2024",
+    "mdma_start": "49",
+    "mdma_end": "70",
+    "Positive_Sum": 1963.0,
+    "Negative_Sum": 2180.0,
+    "Total_Matched_Words": 1304,
+    "Total_Word": 8327,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

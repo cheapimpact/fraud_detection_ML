@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CGAS-att1.pdf",
+    "ticker": "CGAS_2023",
+    "mdma_start": "86",
+    "mdma_end": "111",
+    "Positive_Sum": 2198.0,
+    "Negative_Sum": 2654.0,
+    "Total_Matched_Words": 1540,
+    "Total_Word": 8912,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MTMH-att2.pdf",
+    "ticker": "MTMH_2024",
+    "mdma_start": "62",
+    "mdma_end": "81",
+    "Positive_Sum": 3211.0,
+    "Negative_Sum": 2464.0,
+    "Total_Matched_Words": 1807,
+    "Total_Word": 10816,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ENRG-att1.pdf",
+    "ticker": "ENRG_2024",
+    "mdma_start": "142",
+    "mdma_end": "185",
+    "Positive_Sum": 4424.0,
+    "Negative_Sum": 5758.0,
+    "Total_Matched_Words": 3259,
+    "Total_Word": 20434,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

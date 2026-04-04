@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SCCO-att1.pdf",
+    "ticker": "SCCO_2024",
+    "mdma_start": "31",
+    "mdma_end": "37",
+    "Positive_Sum": 759.0,
+    "Negative_Sum": 875.0,
+    "Total_Matched_Words": 515,
+    "Total_Word": 4212,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-UNIQ-att2.pdf",
+    "ticker": "UNIQ_2024",
+    "mdma_start": "66",
+    "mdma_end": "91",
+    "Positive_Sum": 2203.0,
+    "Negative_Sum": 3030.0,
+    "Total_Matched_Words": 1697,
+    "Total_Word": 12005,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

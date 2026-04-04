@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TALF-att1.pdf",
+    "ticker": "TALF_2023",
+    "mdma_start": "65",
+    "mdma_end": "98",
+    "Positive_Sum": 3568.0,
+    "Negative_Sum": 2506.0,
+    "Total_Matched_Words": 1959,
+    "Total_Word": 12998,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MYOH-att1.pdf",
+    "ticker": "MYOH_2023",
+    "mdma_start": "62",
+    "mdma_end": "91",
+    "Positive_Sum": 3677.0,
+    "Negative_Sum": 3435.0,
+    "Total_Matched_Words": 2286,
+    "Total_Word": 15420,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-NCKL-att2.pdf",
+    "ticker": "NCKL_2024",
+    "mdma_start": "108",
+    "mdma_end": "139",
+    "Positive_Sum": 3946.0,
+    "Negative_Sum": 4288.0,
+    "Total_Matched_Words": 2699,
+    "Total_Word": 18378,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

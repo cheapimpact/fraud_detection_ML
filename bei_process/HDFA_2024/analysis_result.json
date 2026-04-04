@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-HDFA-att2.pdf",
+    "ticker": "HDFA_2024",
+    "mdma_start": "92",
+    "mdma_end": "109",
+    "Positive_Sum": 2395.0,
+    "Negative_Sum": 2089.0,
+    "Total_Matched_Words": 1387,
+    "Total_Word": 9447,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

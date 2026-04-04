@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MPOW-att2.pdf",
+    "ticker": "MPOW_2023",
+    "mdma_start": "31",
+    "mdma_end": "39",
+    "Positive_Sum": 813.0,
+    "Negative_Sum": 823.0,
+    "Total_Matched_Words": 548,
+    "Total_Word": 4124,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

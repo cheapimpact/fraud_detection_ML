@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-PJAA-att1.pdf",
+    "ticker": "PJAA_2023",
+    "mdma_start": "86",
+    "mdma_end": "123",
+    "Positive_Sum": 4005.0,
+    "Negative_Sum": 3833.0,
+    "Total_Matched_Words": 2577,
+    "Total_Word": 17708,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

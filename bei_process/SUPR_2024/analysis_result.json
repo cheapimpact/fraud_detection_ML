@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SUPR-att2.pdf",
+    "ticker": "SUPR_2024",
+    "mdma_start": "48",
+    "mdma_end": "78",
+    "Positive_Sum": 6781.0,
+    "Negative_Sum": 5205.0,
+    "Total_Matched_Words": 3800,
+    "Total_Word": 23530,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

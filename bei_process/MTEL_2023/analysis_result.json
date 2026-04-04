@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MTEL-att2.pdf",
+    "ticker": "MTEL_2023",
+    "mdma_start": "104",
+    "mdma_end": "135",
+    "Positive_Sum": 3938.0,
+    "Negative_Sum": 3472.0,
+    "Total_Matched_Words": 2421,
+    "Total_Word": 16890,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

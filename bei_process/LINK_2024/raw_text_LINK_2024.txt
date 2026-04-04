@@ -1,0 +1,3980 @@
+104
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Tinjauan Perekonomian dan Industri
+Economic and Industry Overview
+Perekonomian dunia di sepanjang tahun 2024 menunjukkan 
+stabilitasnya meskipun masih memperlihatkan kesan yang 
+mengkhawatirkan. International Monetary Fund (IMF) dalam 
+World Economic Outlook (WEO) memproyeksikan pertumbuhan 
+perekonomian dunia tahun 2024 sebesar 3,2%, atau sama dengan 
+tahun sebelumnya. Perekonomian negara maju mencatat 
+pertumbuhan sebesar 1,8% atau hanya tumbuh melandai dari 
+tahun sebelumnya sebesar 1,7%; sedangkan negara berkembang 
+mencatat penurunan dari 4,4% di tahun 2023 menjadi 4,2% di 
+tahun 2024.
+Kondisi ini tak lepas dari berbagai tekanan atas produksi dan 
+logistik komoditas serta masih maraknya berbagai konflik serta 
+peristiwa cuaca ekstrem dan perubahan iklim. Deflasi juga 
+menjadi topik penting yang mewarnai tahun 2024. Penyesuaian 
+rantai pasokan yang cukup timpang pada periode 2022-2023 yang 
+ditunjukkan dengan inflasi yang cukup tinggi menjadi penyebab 
+utama terciptanya deflasi di berbagai negara. Indonesia sendiri 
+masih menunjukkan perekonomian yang cukup baik di tengah 
+perekonomian dunia yang masih bergejolak. Badan Pusat 
+Statistik (BPS) merilis perekonomian Indonesia tahun 2024 
+mampu tumbuh 5,03%, sedikit melambat dibanding tahun 2023 
+sebesar 5,05% (c-to-c). Pemilihan Umum (Pemilu) nasional yang 
+dilaksanakan secara serentak pada Februari 2024 menjadi faktor 
+penting dalam menjaga pertumbuhan ekonomi Indonesia di atas 
+5%.
+Situasi perekonomian yang masih menunjukkan kekhawatiran 
+juga diwarnai dengan peristiwa deflasi sebagai dampak dari 
+ketimpangan ekonomi antar negara serta penyesuaian pasca 
+inflasi yang cukup tinggi pada periode tahun sebelumnya. Inflasi, 
+di sepanjang tahun 2024 menunjukkan penurunan sejalan dengan 
+penerapan kebijakan moneter suku bunga di berbagai negara.
+Industri teknologi informasi dunia juga menunjukkan dinamika 
+yang cukup tinggi. Optimalisasi jaringan yang digerakkan oleh 
+Artificial intelligence (AI) mampu meningkatkan efisiensi, 
+mengurangi 
+biaya, 
+dan 
+menyempurnakan 
+pengalaman 
+pelanggan. Selain itu, inovasi tanpa henti terus terjadi yang 
+berimbas pada persaingan pelaku usaha penyedia internet, 
+sebagaimana terlihat dari kasus Starlink dengan teknologi 
+internet satelit-nya menawarkan solusi pita lebar alternatif, 
+khususnya di daerah terpencil. Inovasi juga terlihat dari penelitian 
+dan pengembangan jaringan 6G, sementara jaringan 5G masih 
+terus mengalami dinamika perkembangannya.
+The global economy in 2024 maintained a degree of stability, 
+although concerns remained. The International Monetary 
+Fund (IMF), in its World Economic Outlook (WEO), projected 
+global economic growth for 2024 at 3.2%, unchanged from the 
+previous year. Advanced economies recorded modest growth of 
+1.8%, slightly higher than 1.7% in 2023, while emerging markets 
+experienced a slowdown, with growth declining from 4.4% in 
+2023 to 4.2% in 2024.
+This situation was largely influenced by various pressures on 
+commodity production and logistics, ongoing conflicts, extreme 
+weather events, and climate change. Deflation also became 
+a significant topic throughout 2024. The imbalance in supply 
+chain adjustments during the 2022–2023 period, marked by high 
+inflation, was the primary cause of deflation in several countries. 
+Despite the global economic turbulence, Indonesia continued 
+to show relatively strong economic performance. The Central 
+Statistics Agency (BPS) reported that Indonesia’s economy grew 
+by 5.03% in 2024, slightly slowing down compared to 5.05% 
+(c-to-c) in 2023. The nationwide General Election (Pemilu) held in 
+February 2024 was an important factor in maintaining Indonesia’s 
+economic growth above 5%.
+The concerning global economic situation was further 
+characterized by deflation, driven by economic disparities 
+between countries and adjustments after the high inflation of 
+previous years. Inflation in 2024 decreased in response to the 
+implementation of monetary policies, particularly interest rate 
+changes, across various nations.
+The global information technology industry also experienced 
+significant dynamics. Network optimization driven by Artificial 
+Intelligence (AI) enhanced efficiency, reduced costs, and 
+improved 
+customer 
+experiences. 
+Additionally, 
+relentless 
+innovation intensified competition among internet service 
+providers, as demonstrated by the case of Starlink, whose satellite 
+internet technology offered an alternative broadband solution, 
+particularly in remote areas. Innovations were also evident in the 
+research and development of 6G networks, while the 5G network 
+continued to undergo dynamic growth.
+105
+PT Link Net Tbk 2024 Annual Report
+Penyedia layanan komputasi awan juga terus memperlihatkan 
+ekspansinya, terutama melalui kerja sama dengan perusahaan 
+telekomunikasi. Perkembangan komputasi awan serta inovasi 
+teknologi informasi pada umumnya juga semakin mendorong 
+pertumbuhan Internet of Things (IoT) dan kota cerdas, atau smart 
+city, di mana penyedia layanan telekomunikasi mengintegrasikan 
+solusi IoT untuk industri seperti logistik, perawatan kesehatan, 
+dan inisiatif kota cerdas. Di sisi lain, perusahaan telekomunikasi 
+juga dihadapkan pada tantangan meningkatnya belanja modal 
+untuk meningkatkan jaringan, yang mengharuskan mereka untuk 
+merumuskan potensi pendapatan baru dalam layanan digital 
+yang diberikan.
+Dinamika industri teknologi informasi dunia juga memberikan 
+dampak 
+tersendiri 
+bagi 
+Indonesia. 
+Indonesia 
+terus 
+mengembangkan jaringan 5G dengan beberapa faktor penentu 
+seperti kebijakan pemerintah serta investasi para operator 
+pada infrastruktur. Pemerintah Indonesia memberikan prioritas 
+pengembangan jaringan untuk mempercepat konektivitas 
+wilayah pedesaan untuk menjembatani kesenjangan digital.
+Sejalan dengan perkembangan jaringan, Pemerintah Indonesia 
+telah memperketat perlindungan data dengan mengeluarkan 
+Undang-undang RI No. 27 Tahun 2022 tentang Pelindungan 
+Data Pribadi, atau UU PDP, di mana UU ini justru memengaruhi 
+investasi asing di bidang telekomunikasi. Meskipun demikian, 
+ancaman keamanan siber dan kebocoran data telah menjadi 
+perhatian seluruh pihak, di mana perusahaan telekomunikasi 
+terus berupaya meningkatkan kerangka kerja keamanan dan 
+kepatuhan terhadap regulasi baru.
+Cloud service providers also expanded aggressively, particularly 
+through collaborations with telecommunications companies. 
+The development of cloud computing and general IT innovations 
+further accelerated the growth of the Internet of Things (IoT) and 
+smart cities, where telecommunications providers integrated IoT 
+solutions for industries such as logistics, healthcare, and smart city 
+initiatives. On the other hand, telecommunications companies 
+faced challenges related to increasing capital expenditures for 
+network upgrades, compelling them to formulate new revenue 
+streams through the digital services they offer.
+The dynamics of the global information technology industry 
+also had an impact on Indonesia. Indonesia continued to 
+develop its 5G network, with key determining factors such as 
+government policies and operator investments in infrastructure. 
+The Indonesian government prioritized network development to 
+accelerate rural connectivity and bridge the digital divide.
+In line with network development, the Indonesian government 
+tightened data protection measures by enacting Law of 
+the Republic of Indonesia No. 27 of 2022 on Personal Data 
+Protection (PDP Law), which has influenced foreign investment 
+in the telecommunications sector. Nevertheless, cybersecurity 
+threats and data breaches have become major concerns, with 
+telecommunications companies continually striving to strengthen 
+their security frameworks and comply with new regulations.
+106
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Tinjauan Operasi per Segmen Usaha
+Operational Overview per Business Segment
+Pada bagian ini akan menjelaskan proses bisnis dan rantai 
+nilai yang dikembangkan Perseroan, yang pada akhirnya 
+akan memberikan pendapatan bagi kinerja keuangan. Untuk 
+profitabilitas kinerja keuangan, sehubungan dengan penerapan 1 
+(satu) segmen saja, Perseroan tidak menyajikan profitabilitas per 
+segmen. Kinerja keuangan atas proses bisnis dan rantai nilai yang 
+dikembangkan Perseroan dapat dilihat pada bagian “Analisis 
+Kinerja Keuangan” di bawah.
+Sebagaimana telah dijelaskan dalam bab “Profil Perusahaan”, 
+Perseroan merupakan pelaku usaha yang bergerak dalam 
+bidang jasa internet dan televisi berbayar. Untuk itu, Perseroan 
+senantiasa memberikan layanan yang berkualitas dan setara 
+kepada seluruh konsumen di Indonesia. Hingga akhir tahun 2024, 
+komitmen Perseroan terealisasi dengan beragam jenis produk 
+dan layanan yang dapat mencakup beragam segmen konsumen 
+seperti layanan residensial atau perumahan tinggal, korporasi 
+besar maupun Small Medium Enterprise (SME). Sasaran utama 
+Perseroan melalui komitmen ini untuk memajukan tingkat 
+konektivitas digital di Indonesia yang dapat memajukan literasi 
+digital untuk masyarakat Indonesia.
+Tahun 2024 menjadi salah satu tonggak penting perjalanan 
+Perseroan, di mana pada Kuartal Ketiga 2024 terjadi transaksi 
+pengalihan unit bisnis residensial atau B2C (business-to-
+consumer) – ServeCo Perseroan kepada PT XL Axiata Tbk.
+This section will describe the Company’s business processes 
+and value chain, which ultimately contribute to the Company’s 
+financial performance. In terms of financial performance 
+profitability, due to the application of a single operating segment, 
+the Company does not present profitability by segment. The 
+financial performance resulting from the Company’s business 
+processes and value chain can be found in the “Financial 
+Performance Analysis” section below.
+As outlined in the “Company Profile” chapter, Link Net is a 
+business entity engaged in internet and pay television services. 
+To that end, the Company consistently delivers high-quality 
+and equitable services to all customers across Indonesia. As of 
+the end of 2024, the Company’s commitment has been realized 
+through a diverse range of products and services that cater to 
+various customer segments, including residential households, 
+large corporations, and Small Medium Enterprises (SMEs). The 
+Company’s primary objective through this commitment is to 
+enhance digital connectivity in Indonesia, thereby advancing 
+digital literacy among the Indonesian population.
+ 
+The year 2024 marked an important milestone in the Company’s 
+journey, with the transfer of the Company’s residential or B2C 
+(business-to-consumer) business unit – ServeCo – to PT XL Axiata 
+Tbk taking place in the third quarter of 2024.
+107
+PT Link Net Tbk 2024 Annual Report
+Sampai dengan Kuartal Ketiga 2024, pendapatan dari layanan 
+untuk pelanggan residensial masih menjadi pendapatan 
+mayoritas bagi Perseroan, yang terutama terdiri dari biaya 
+berlangganan dan biaya penggunaan serta pendapatan lainnya 
+dari bisnis Perseroan melalui layanan internet broadband, 
+layanan TV Kabel, layanan nilai tambah lainnya. Perseroan 
+mengutamakan strategi bundling produk yang diyakini 
+merupakan proposisi nilai yang menarik bagi konsumen.
+Up to the third quarter of 2024, revenue from services for 
+residential customers continued to represent the majority of 
+the Company’s income, mainly derived from subscription fees, 
+usage fees, and other revenues from the Company’s broadband 
+internet services, cable TV services, and other value-added 
+services. The Company focuses on a product bundling strategy, 
+which is considered to provide an attractive value proposition for 
+consumers.
+Pelanggan Perumahan/Residensial
+Residential Customers
+Pada produk internet residensial, Perseroan menawarkan 
+berbagai tingkatan layanan internet broadband yang disesuaikan 
+untuk memenuhi kebutuhan pelanggan residensial yang berbeda. 
+Layanan ini ditawarkan melalui sembilan paket combo yang terdiri 
+dari TV Kabel dan internet broadband, dengan kecepatan unduhan 
+mulai dari 10 Mbps hingga 1 Gbps. Dari segi aspek teknologi 
+Perseroan menggunakan teknologi Hybrid-Fiber-Coaxial (“HFC”) 
+dan Fiber-To-The-Home (“FTTH”) untuk memberikan layanan 
+FastNet kepada pelanggan. Pelanggan juga dapat membeli speed 
+booster untuk meningkatkan kecepatan unduhan dalam setiap 
+paket combo. Semua paket layanan internet broadband Perseroan 
+menawarkan penggunaan data yang tak terbatas (unlimited).  
+For its residential internet products, the Company offers various 
+tiers of broadband internet services tailored to meet the diverse 
+needs of residential customers. These services are provided 
+through nine combo packages that include both cable TV and 
+broadband internet, with download speeds ranging from 10 
+Mbps to 1 Gbps. From a technological standpoint, the Company 
+utilizes Hybrid-Fiber-Coaxial (“HFC”) and Fiber-To-The-Home 
+(“FTTH”) technologies to deliver its FastNet service to customers. 
+Customers also have the option to purchase speed boosters to 
+enhance download speeds within any combo package. All of the 
+Company’s broadband internet packages offer unlimited data 
+usage.
+FastNet
+Layanan untuk Pelanggan Residensial
+Services for Residential Customers
+108
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Perseroan memasarkan layanan TV Kabelnya dengan merek 
+“HomeCable”. Layanan TV kabel Perseroan tersedia melalui paket 
+combo TV Kabel dengan jaringan internet broadband. Dalam 
+penawaran TV kabel, Perseroan telah menyediakan berbagai 
+kanal menarik yang memberikan hiburan kepada pelanggan 
+selama di rumah dengan kanal TV yang terdiri atas kanal yang 
+berkualitas SD (Standard Definition), HD (High Definition), dan 
+4K. Dari segi teknologi layanan TV Kabel Perseroan disalurkan 
+melalui set-top-box yang disewakan kepada pelanggan dimana 
+saat ini tersedia set-top-box generasi terbaru yang dinamakan 
+Smart Box X1 4K yang merupakan set-top-box interaktif berbasis 
+Android yang mendukung video streaming, cloud rekaman video 
+pribadi (Personal Video Recording), timeshift, dan catch-up TV 
+sampai dengan 7 hari ke belakang, serta menikmati konten TV 
+dengan kualitas 4K.
+The Company markets its cable TV services under the brand 
+name “HomeCable.” These services are available as part of 
+combo packages that bundle cable TV with broadband internet. 
+In its cable TV offerings, the Company provides a wide range of 
+engaging channels that offer home entertainment, including 
+channels in Standard Definition (SD), High Definition (HD), and 
+4K quality. From a technological perspective, the Company’s 
+cable TV services are delivered through set-top boxes rented to 
+customers. Currently, the latest generation set-top box available 
+is the Smart Box X1 4K—an interactive, Android-based device that 
+supports video streaming, cloud-based personal video recording, 
+timeshift, and catch-up TV for up to 7 days, as well as 4K-quality 
+TV content.
+HomeCable (Konten TV)
+(TV Content)
+Layanan Streamtainment
+(Streamtainment Service)
+Layanan konten berbayar telah dikembangkan lebih jauh dengan 
+menghadirkan layanan Over-The-Top (“OTT”) yang diwakili nama 
+dagang “FirstMediaX”, yang merupakan sub-brand turunan dari 
+kategori produk TV berbayar. Perseroan telah menawarkan 
+layanan OTT sebagai bagian dari penawaran HomeCable sejak 
+tahun 2014. Penawaran OTT saat ini diberikan melalui aplikasi 
+FMX (awalnya ditawarkan pada tahun 2014 sebagai First Media 
+Go), yang diluncurkan pada tahun 2015 dan memberi pelanggan 
+akses ke layanan HomeCable mereka melalui perangkat pribadi 
+seperti ponsel dan tablet. 
+Perseroan merupakan operator pertama di Indonesia yang 
+menawarkan layanan TV Everywhere dengan jajaran konten 
+dengan skala FMX. FMX memungkinkan pelanggan menonton 
+program favoritnya kapan saja dan dimana saja. FMX juga 
+mendukung video-on-demand dan catch-up TV.
+The paid content service was further developed through 
+the introduction of an Over-The-Top (“OTT”) service under 
+“FirstMediaX” brand, a sub-brand derived from the pay TV 
+product category. The Company has been offering OTT services as 
+part of its HomeCable offering since 2014. The current OTT service 
+is provided through the FMX application (initially introduced in 
+2014 as First Media Go), which was launched in 2015 and allows 
+customers to access their HomeCable services via personal 
+devices such as mobile phones and tablets.  
+The Company was the first operator in Indonesia to offer a TV 
+Everywhere service with a content lineup on the scale of FMX. FMX 
+enables customers to watch their favorite programs anytime and 
+anywhere. FMX also supports video-on-demand and catch-up TV.
+109
+PT Link Net Tbk 2024 Annual Report
+Layanan Smart Living (First Living)
+Smart Living (First Living) Services
+First+ Cloud
+Untuk memberikan rasa nyaman bagi pelanggan, dan sebagai 
+wujud optimalisasi layanan, Perseroan menyediakan layanan 
+Smart Living dengan nama dagang “First Living”. First Living 
+adalah produk dari Perseroan dengan layanan berbasis Internet 
+of Things (“IoT”) yang menghadirkan konsep Smart Living di 
+rumah pelanggan. First Living menciptakan berbagai kemudahan 
+dan kenyamanan dalam rumah. Perseroan menyediakan aplikasi 
+Mobile First Living untuk mengendalikan berbagai perangkat 
+pintar di rumah. 
+To provide customers with greater comfort and to optimize its 
+services, the Company offers a Smart Living service under the 
+brand name “First Living.” First Living is the Company’s Internet 
+of Things (“IoT”)-based product that brings the Smart Living 
+concept into customers’ homes, offering ease and convenience in 
+everyday life. The Company also provides the First Living Mobile 
+application, which allows users to control various smart devices 
+at home.
+First+ Cloud
+First+ Cloud adalah layanan Cloud Storage, layanan ini akan 
+menghilangkan rasa khawatir akan kehilangan data di perangkat 
+pelanggan. Dengan First+ Cloud, menyimpan foto, video, musik, 
+dokumen dan data lainnya dapat dilakukan dengan mudah, 
+penyimpanan data dapat dilakukan secara bebas, kapanpun 
+dan dimanapun. First+ Cloud hadir di berbagai macam platform, 
+mulai dari dekstop hingga mobile (multiplatform). Selain itu, 
+layanan ini memberikan berbagai kemudahan diantaranya 
+fitur Family Sharing, keamanan yang terjamin, dan harga yang 
+terjangkau.
+Setelah resminya pengalihan atau transfer bisnis B2C untuk 
+pelanggan residential Perseroan akan lebih berfokus pada 
+bisnis FiberCo (segmen bisnis jaringan), serta pengembangan 
+segmen bisnis usaha EnterpriseCo (segmen bisnis pelanggan B2B/
+koporasi) dan MediaCo (segmen bisnis media). 
+First+ Cloud
+First+ Cloud is a cloud storage service designed to eliminate 
+concerns over data loss on customer devices. With First+ Cloud, 
+storing photos, videos, music, documents, and other data can 
+be done easily, with the flexibility to save data anytime and 
+anywhere. First+ Cloud is available across multiple platforms, 
+from desktop to mobile (multiplatform). In addition, the service 
+offers various features such as Family Sharing, guaranteed 
+security, and affordable pricing.
+ 
+Following the completion of the B2C business transfer for 
+residential customers, the Company will shift its focus to the 
+FiberCo business (network business segment), as well as the 
+development of the EnterpriseCo business segment (B2B/
+corporate customer segment) and MediaCo (media business 
+segment).
+110
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Strategi Pengembangan Usaha dan Strategi Pemasaran Segmen 
+Residensial Tahun 2024
+Business Development Strategy and Marketing Strategy for the 
+Residential Segment in 2024
+Sampai dengan kuartal ketiga 2024, Perseroan melakukan 
+strategi pengembangan usaha dan strategi pemasaran segmen 
+residensial. Beberapa pengembangan usaha yang dilakukan 
+Perseroan diantaranya dengan melakukan diversifikasi produk, 
+pemanfaatan teknologi wilayah, serta kemitraan strategis.
+Strategi pemasaran dilakukan dengan melakukan segmentasi 
+pelanggan, optimalisasi pemasaran digital, program promosi 
+dan pemberian insentif beserta branding dan positioning atas 
+produk. 
+Pada tanggal 27 September 2024, segmen residensial Perseroan 
+secara resmi berpindah ke PT XL Axiata Tbk.
+Produktivitas Segmen Residensial
+Pendapatan Perseroan dari segmen residensial masih menjadi 
+kontributor terbesar bagi pendapatan konsolidasian Perseroan, 
+dengan kontribusi di tahun 2024 mencapai 63,12% sebagaimana 
+akan djelaskan pada bagian Analisis Kinerja Laba/(Rugi) dan 
+Penghasilan Komprehensif Konsolidasian.
+Bisnis Perseroan pada segmen residensial terutama dipengaruhi 
+oleh beberapa aspek produktivitas sebagaimana dapat dilihat di 
+bawah ini.
+Produktivitas 
+Layanan 
+Perseroan 
+pada 
+Segmen 
+Residensial, Periode 2023-2024
+Produktivitas layanan First Media pada segmen residensial 
+mengalami perbaikan dan tahun ke tahun. Perseroan melakukan 
+beberapa perbaikan dalam meningkatkan layanannya di 
+antaranya dengan melakukan digitalisasi proses dan sistem 
+ticketing otomatis untuk mempercepat penanganan gangguan 
+dan permintaan layanan, penambahan kapasitas bandwith 
+dan upgrade perangkat untuk meningkatkan stabilitas koneksi, 
+meningkatkan kualitas sumber daya manusia untuk mempercepat 
+instalasi dan perbaikan, melakukan preventive maintenance, dan 
+peningkatan kanal layanan pelanggan.
+As of the third quarter of 2024, the Company has implemented 
+business development strategies and marketing strategies for the 
+residential segment. Some of the business developments carried 
+out by the Company include product diversification, utilization of 
+regional technology, and strategic partnerships.
+The marketing strategy involves customer segmentation, 
+optimization of digital marketing, promotional programs, and 
+the provision of incentives along with branding and positioning 
+of the products.
+On September 27, 2024, the Company’s residential segment 
+officially transferred to PT XL Axiata Tbk.
+Residential Segment Productivity
+The Company’s revenue from the residential segment remains the 
+largest contributor to its consolidated revenue, accounting for 
+63.12% in 2024, as further detailed in the section on Analysis of 
+Consolidated Profit/(Loss) and Comprehensive Income.  
+The Company’s business in the residential segment is primarily 
+influenced by several productivity aspects, as outlined below.
+Company Service Productivity in the Residential 
+Segment, Period 2023–2024
+The productivity of First Media’s services in the residential segment 
+has improved year on year. The Company has made several 
+improvements to enhance its services, including digitalizing 
+processes and implementing an automated ticketing system 
+to expedite the handling of disruptions and service requests, 
+increasing bandwidth capacity and upgrading equipment to 
+enhance connection stability, improving human resources 
+to speed up installations and repairs, conducting preventive 
+maintenance, and enhancing customer service channels.
+111
+PT Link Net Tbk 2024 Annual Report
+Pelanggan Korporasi
+Corporate Customers
+Linknet Enterprise (ServeCo)
+Layanan untuk pelanggan korporasi dengan nama dagang “Link 
+Net Enterprise” telah bertransformasi dari solusi konektivitas 
+dasar menjadi solusi terpadu konektivitas dan Teknologi, 
+Informasi, Komunikasi (“TIK”) hingga solusi industri. Link Net 
+Enterprise didukung dengan jaringan yang dimiliki Perseroan dan 
+jangkauan layanan VSAT yang telah meliputi seluruh daerah di 
+Indonesia. 
+Link Net Enterprise menawarkan solusi bagi pelanggan korporasi 
+sesuai kebutuhan yang diperlukan dan telah melayani berbagai 
+sektor industri, di antaranya Pemerintahan, Jasa Keuangan 
+dan Perbankan, Operator Telekomunikasi, Perhotelan, Institusi 
+Pendidikan, dan Sumber Daya Energi. Perseroan percaya dengan 
+pertumbuhan yang signifikan dari produk Link Net Enterprise akan 
+membuka peluang pertumbuhan yang lebih besar lagi dalam 
+memperkuat posisi Link Net Enterprise di pasar. Sebagai penyedia 
+jasa layanan internet terpadu, Perseroan dalam melayani pasar 
+korporasi, senantiasa menempatkan diri sebagai ‘mitra bisnis’ 
+bagi seluruh calon pelanggan dengan menghadirkan layanan 
+solusi bisnis bagi pelanggan. Realisasi dalam memberikan solusi 
+bisnis dengan menghadirkan sejumlah layanan profesional 
+seperti layanan data komunikasi/konektivitas, solusi TIK 
+(Teknologi, Informasi dan Komunikasi) dan layanan profesional.
+•	 Konektivitas
+	
+Melalui layanan konektivitas, Perseroan menawarkan solusi 
+untuk koneksi bagi industri baik di kota-kota besar maupun di 
+pelosok daerah, di antaranya:
+•	 Layanan Komunikasi Data (Datacomm Services)
+	
+Menawarkan kemudahan dalam komunikasi data dengan 
+dukungan akses cepat dan koneksi stabil. Termasuk dalam 
+layanan ini, produk yang ditawarkan:
+-	 Multiprotocol Label Switching (MPLS); dengan Quality of 
+Service (QoS) dan tingkat ketersediaan yang lebih baik 
+efektif, memastikan transmisi data stabil dan aman.
+-	 Dense Wavelength Division Multiplexing (DWDM); 
+kapasitas besar dengan pilihan port 1Gbps atau 100Gbps, 
+dan memiliki kemampuan DWDM Business continuity.
+The service for corporate customers, branded “Link Net 
+Enterprise,” has transformed from basic connectivity solutions 
+into a comprehensive suite of connectivity and Information 
+and Communication Technology (“ICT”) solutions, extending to 
+industry-specific offerings. Link Net Enterprise is supported by the 
+Company’s own network and VSAT service coverage, which spans 
+across all regions of Indonesia.  
+Link Net Enterprise provides customized solutions to meet the 
+needs of corporate clients, having served a variety of industries, 
+including 
+Government, 
+Financial 
+Services 
+and 
+Banking, 
+Telecommunications 
+Operators, 
+Hospitality, 
+Educational 
+Institutions, and Energy. The Company believes that the continued 
+growth of Link Net Enterprise products will open up even greater 
+opportunities to enhance its market position.  As an integrated 
+internet service provider for the corporate sector, the Company 
+positions itself as a ‘business partner’ to potential customers by 
+delivering tailored business solutions. This is achieved by offering 
+a range of professional services, including data communication/
+connectivity services, ICT solutions, and professional services.
+•	 Connectivity  
+	
+Through its connectivity services, the Company offers solutions 
+for connectivity in both major cities and remote areas, 
+including the following:
+•	 Data Communication Services (Datacomm Services)  
+	
+Provides easy data communication with fast access and 
+stable connections. The products offered under this service 
+include:  
+-	 Multiprotocol Label Switching (MPLS): With Quality of 
+Service (QoS) and higher availability levels, ensuring 
+effective data transmission that is stable and secure.  
+-	 Dense Wavelength Division Multiplexing (DWDM): Large 
+capacity with port options of 1Gbps or 100Gbps, offering 
+DWDM business continuity capabilities.  
+112
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+-	 International Private Leased Circuit (IPLC); dedicated 
+point-to-point berskala global, kemampuan monitoring 
+dan manajemen jaringan selama 24/7, dan single point 
+of contact untuk transfer kualitas komunikasi data 
+terbaik dimanapun.
+•	 Layanan Internet (Internet Services)
+	
+Menawarkan solusi sarana penuh dari internet akses tanpa 
+gangguan apapun seberapapun kapasitasnya:
+-	 Dedicated Internet; kecepatan upload dan download 
+simetris, akses data lebih aman, SLA (Service Level 
+Agreement) 
+dengan 
+standar 
+yang 
+tinggi, 
+serta 
+kemudahan menambah kapasitas jaringan.
+-	 IP TRANSIT; Point-of-Presence (PoP) serat optik di 
+sejumlah lokasi dengan jangkauan global, serta 
+memberikan akses ke berbagai pilihan penyedia 
+bandwidth 
+international, 
+sehingga 
+lebih 
+leluasa 
+mengelola koneksi sesuai dengan kebutuhannya. 
+Perusahaan bisa lebih berkonsentrasi menjalankan 
+bisnis karena infrastruktur akan dikelola dan siap 
+memberikan bantuan 24x7.
+•	 Solusi VSAT (VSAT Services)
+	
+Didukung dengan teknologi High Throughput Satellite 
+(HTS), yang dapat mengoptimalisasi akses ke, dari dan 
+di area pelosok, transmisi melalui Satellite Ka Band yang 
+kuat serta menjangkau daerah terpencil, memberikan 
+kapasitas bandwidth hingga 100 Mbps untuk akses internet 
+kebutuhan bisnis, serta 56 spot beams yang tersebar di 
+berbagai pulau di Indonesia.
+•	 Data Center
+	
+Data Center sangat krusial dalam penggunaan aplikasi dan 
+sistem operasi digital agar bisnis lebih adaptif. Layanan 
+data center Perseroan menawarkan fleksibilitas tinggi dan 
+keamanan untuk media penyimpanan data digital penting 
+suatu perusahaan. Dengan dukungan tingkat ketersediaan 
+99,9% dan sudah memiliki multiple active power dan cooling 
+distribution path dengan 1 path (jalur) yang aktif termasuk 
+komponen untuk redundant (N+1), dukungan Dedicated 
+Internet via serat optik yang stabil dan aman untuk kelancaran 
+akses ke Data Center, serta fasilitas pemeliharaan dapat 
+disesuaikan dengan kebutuhan perusahaan dengan pelayanan 
+yang maksimal.
+•	 IT Managed Service
+	
+Managed Service Perseroan akan memberikan efisiensi 
+pemeliharaan infrastruktur IT melalui tenaga profesional dan 
+terlatih untuk segala operasional bisnis serta dapat membantu 
+mengurangi downtime yang berkepanjangan. Keunggulan 
+yang ditawarkan berupa  dukungan teknologi untuk 
+kelancaran operasional dengan Engineer On Site, perangkat 
+ICT berkualitas tinggi, serta biaya upfront yang terjangkau 
+didukung dengan standar pemeliharaan yang tinggi dan 
+respon lebih optimal dengan Network Administrative yang 
+andal.
+•	 Corporate TV
+	
+Perseroan menawarkan solusi ideal bagi kebutuhan portal 
+TV yang interaktif, intuitif dan menyajikan pengalaman 
+visual berkelas. Dengan portal berbasis TV Platform yang 
+dirancang khusus untuk segmentasi grade enterprise. Dengan 
+pengalaman visual yang jernih, koneksi stabil, pilihan kanal, 
+serta dukungan teknisi yang profesional.
+-	 International Private Leased Circuit (IPLC): Dedicated 
+point-to-point connectivity on a global scale, offering 
+network monitoring and management 24/7, and a single 
+point of contact for the best quality data communication 
+transfer anywhere.  
+•	 Internet Services  
+	
+Provides full-service solutions for uninterrupted internet 
+access, regardless of capacity:  
+-	 Dedicated Internet: Symmetric upload and download 
+speeds, secure data access, high-standard Service Level 
+Agreements (SLA), and easy network capacity expansion.
+  
+-	 IP Transit: Optical fiber Points-of-Presence (PoP) in 
+multiple locations with global coverage, offering access 
+to a variety of international bandwidth providers, 
+allowing businesses to manage connections as needed. 
+Companies can focus more on their operations as 
+infrastructure management and 24/7 support are 
+provided.  
+•	 VSAT Services  
+	
+Supported by High Throughput Satellite (HTS) technology, 
+optimizing access to and from remote areas. The service 
+uses strong Ka Band satellite transmission, covering remote 
+areas and providing bandwidth capacity of up to 100 Mbps 
+for business internet needs. It also offers 56 spot beams 
+distributed across several islands in Indonesia.
+•	 Data Center  
+	
+Data Centers are crucial for the use of digital applications and 
+operating systems, enabling businesses to be more adaptive. 
+The Company’s data center services offer high flexibility and 
+security for storing a company’s critical digital data. With 
+support for 99.9% availability and multiple active power and 
+cooling distribution paths, including one active path with 
+redundant components (N+1), the service provides stable and 
+secure Dedicated Internet via fiber optics for smooth access 
+to the Data Center. Additionally, maintenance facilities can be 
+tailored to meet the company’s needs with maximum service.
+•	 IT Managed Service  
+	
+The Company’s Managed Services provide IT infrastructure 
+maintenance 
+efficiency 
+through 
+skilled 
+and 
+trained 
+professionals for all business operations, helping to reduce 
+prolonged downtime. The advantages offered include support 
+for technology to ensure smooth operations with on-site 
+engineers, high-quality ICT equipment, affordable upfront 
+costs, high maintenance standards, and optimal response 
+times with reliable Network Administrative.
+•	 Corporate TV  
+	
+The Company offers the ideal solution for interactive TV portals 
+that are intuitive and provide a premium visual experience. 
+With a TV platform-based portal specifically designed for the 
+enterprise segment, it offers clear visual experiences, stable 
+connections, channel options, and support from professional 
+technicians.
+113
+PT Link Net Tbk 2024 Annual Report
+	
+Strategi Perseroan dalam meningkatkan kekuatan pemasaran 
+dengan mengupayakan berbagai strategi sebagai berikut: 
+1.	 Pendekatan 
+konsumen 
+secara 
+intensif 
+(customer 
+engagement) melalui kunjungan secara regular kepada 
+pelanggan untuk membahas kerjasama strategis dan 
+mengadakan loyalty event. 
+2.	 Memperbesar sumber daya layanan seperti memperkaya 
+kapasitas produk solusi TIK dan cakupan jaringan lebih luas 
+melalui adanya PreWired Building. 
+3.	 Ekspansi pasar di berbagai industri usaha seperti 
+pemerintah daerah, militer, sektor finansial, dan daerah 
+terpencil.
+	
+The Company’s strategy to strengthen its marketing efforts 
+involves implementing various approaches, as follows:  
+1.	 Intensive customer engagement through regular visits to 
+customers to discuss strategic collaborations and organize 
+loyalty events.
+2.	 Expanding service resources by enhancing the capacity of 
+ICT solution products and broadening network coverage 
+through PreWired Buildings.  
+3. Market expansion into various business sectors, including 
+regional government, military, financial sector, and remote 
+areas.
+114
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Menghadirkan pengalaman dan konektivitas internet terbaik 
+melalui teknologi serat optik mutakhir, menawarkan kecepatan, 
+keandalan, dan kinerja yang tak tertandingi, serta memastikan 
+konektivitas yang lancar untuk semua kebutuhan online. 
+Solusi serat optik yang menyediakan bandwidth yang kuat dan 
+latensi rendah yang diperlukan untuk pengalaman digital yang 
+sempurna.
+Komitmen 
+terhadap 
+inovasi 
+dan 
+kepuasan 
+pelanggan 
+membedakan kami, menjadikan kami pilihan utama bagi mereka 
+yang menginginkan yang terbaik.
+Providing the best internet experience and connectivity 
+through advanced fiber optic technology, offering unmatched 
+speed, reliability, and performance, while ensuring seamless 
+connectivity for all online needs. Our fiber optic solutions provide 
+the strong bandwidth and low latency required for a flawless 
+digital experience.  
+Our commitment to innovation and customer satisfaction sets us 
+apart, making us the top choice for those seeking the best.
+FiberCo
+•	 Cakupan Luas dan Meningkat dengan Mitra 
+Terpercaya
+	
+Basis eksisting 4 juta homes passed di area 
+yang menarik, Jaringan homes passed yang 
+kuat, akses kontraktor terbaik tanpa perlu 
+pembelajaran baru, hak untuk banyak saluran 
+utama internasional dan lokal.
+•	 Extensive Coverage and Growth with Trusted 
+Partners  
+	
+With an existing base of 4 million homes passed 
+in attractive areas, a strong network of homes 
+passed, access to top contractors without the 
+need for new training, and rights to numerous 
+international and local main channels.
+•	 Lebih Berpengalaman
+	
+Mengelola jaringan terbesar kedua, berfokus 
+pada penggelaran dan pengelolaan jaringan 
+setelah pemisahan bisnis ritel yang sedang 
+berlangsung, tim penggelaran yang sangat 
+berpengalaman dan terbukti yang memberikan 
+sebagian besar jejak saat ini.
+•	 More Experienced  
+	
+Managing the second-largest network, focusing 
+on deployment and network management after 
+the retail business separation, with a highly 
+experienced and proven deployment team 
+that has contributed significantly to the current 
+network footprint.
+•	 Layanan yang Unggul
+	
+Memiliki pengalaman bisnis ritel, sehingga 
+dapat memberikan layanan yang jauh lebih 
+baik dibandingkan dengan FiberCos lainnya, 
+kualitas jaringan dan model operasi yang 
+unggul,  kemampuan untuk menyediakan 
+bandwidth dengan harga yang menarik (jika 
+diperlukan), portofolio saluran terbesar untuk 
+TV kabel yang menawarkan jajaran saluran 
+yang lengkap.
+•	 Superior Service  
+	
+With retail business experience, the Company 
+is able to provide services that are far superior 
+to other FiberCos, offering excellent network 
+quality and operational models, the ability 
+to provide bandwidth at competitive prices 
+(if needed), and the largest cable TV channel 
+portfolio with a complete range of channels.
+Link Net Fiber
+f iber
+115
+PT Link Net Tbk 2024 Annual Report
+Sepanjang tahun 2024 unit bisnis FiberCo Perseroan telah 
+menyelesaikan pemasangan lebih dari 0,6 juta homes passed 
+baru, melampaui target 4 juta homes passed di seluruh wilayah 
+Indonesia. Selain itu juga, Perseroan telah memiliki komitmen 
+untuk bekerjasama dengan beberapa penyelenggara layanan 
+jasa intenet lainnya untuk menggunakan atau memanfaatkan 
+jaringan dan akses terbuka untuk jaringan Perseroan.  
+Throughout 2024, the Company’s FiberCo business unit completed 
+the installation of over 0.6 million new homes passed, exceeding 
+the 4 million homes passed target across Indonesia. Additionally, 
+the Company has committed to collaborating with several other 
+internet service providers to use or leverage the Company’s open 
+network and access.
+2
+3
+1
+Strategic partnerships
+Open access
+Anchor tenant for 
+every new build 
+(any ISP or MNO)
+FiberCo - Strategi GTM untuk Penciptaan Nilai (Value Creation)
+FiberCo - GTM Strategy for Value Creation
+Untuk menciptakan nilai atau value creation bagi bisnis FiberCo, 
+Perseroan menetapkan strategi pertumbuhan di antaranya:
+•	 Target utama segmen kelas atas dan kelas menengah;
+•	 Pengembangan kerjasama strategis dengan ISP pengembang 
+real estate;
+•	 Optimalisasi biaya pemasangan dengan kriteria pemilihan 
+area yang ketat;
+•	 Penawaran Open Access pada jaringan yang telah ada dan B2S 
+baru dengan beberapa ISP dengan panawaran jangka waktu 
+eksklusif;
+•	 Penggelaran Selektif Open Access seperti ibu kota baru di 
+Kalimantan;
+•	 Solusi end-to-end open access.
+To create value for the FiberCo business, the Company has 
+established several growth strategies, including:  
+•	 Focusing primarily on the upper and middle-class segments;  
+•	 Developing strategic partnerships with ISPs and real estate 
+developers;  
+•	 Optimizing installation costs by applying strict area selection 
+criteria;  
+•	 Offering Open Access on existing networks and new B2S 
+networks to several ISPs with exclusive time-based offers;  
+•	 Selectively deploying Open Access in key areas, such as the new 
+capital city in Kalimantan;  
+•	 Providing end-to-end Open Access solutions;
+116
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+MediaCo
+Dengan unit bisnis MediaCo ini, Perseroan menyediakan kanal-
+kanal pilihan untuk mendukun layanan baik TV kabel untuk bisnis 
+ServeCo, EnterpriseCo, serta FiberCo.
+Perseroan 
+menyediakan 
+berbagai 
+kanal 
+menarik 
+yang 
+memberikan hiburan. Kanal TV terdiri atas kanal yang berkualitas 
+SD, HD maupun 4K. Di bawah ini adalah tabel jumlah distribusi 
+kanal yang disediakan Perseroan kepada pelanggan dalam 2 
+(dua) tahun terakhir.
+Through its MediaCo business unit, the Company provides a 
+selection of channels to support cable TV services for the ServeCo, 
+EnterpriseCo, and FiberCo businesses.  
+The Company offers a variety of engaging channels that deliver 
+entertainment, including TV channels in SD, HD, and 4K quality. 
+Below is a table showing the distribution of channels provided to 
+customers over the past 2 (two) years.
+Jumlah Kanal
+Numbers of Channel
+2024
+2023
+Jumlah Kanal Terdistribusi
+Numbers of Distributed Channel
+195
+216
+Kanal Standard Definition
+Standard Definition Channel
+109
+118
+Kanal High Definition
+High Definition Channel
+85
+94
+Kanal 4K
+4K Channel
+1
+4
+Nama Kanal TV
+Numbers of Channel
+Genre
+Ktrenz HD
+General Entertainment
+Kartoon HD
+Kids
+IndonesianaTV HD
+General Entertainment
+FirstFaith
+Religi
+Religious
+Pada tahun 2024 Perseroan telah menambah variasi kanal baru 
+sebanyak 4 kanal dari berbagai jenis hiburan.
+In 2024, the Company added 4 new channels from various 
+entertainment genres.
+Disamping itu, Perseroan juga menghadirkan kolaborasi dengan 
+penyedia layanan OTT, dimana sampai dengan 31 Desember 
+2024 Perseroan telah bekerja sama dengan beberapa penyedia 
+layanan OTT di antaranya Catchplay, HBO Go (pada 19 November 
+2024 berubah nama menjadi MAX), Lionsgate Play, Cinemaworld-
+On-Demand, MOLA, Vidio, Vision+ dan VIU.
+In addition, the Company has established collaborations with OTT 
+service providers, and as of 31 December 2024, it has partnered 
+with several OTT platforms, including Catchplay, HBO Go (which 
+rebranded to MAX on November 19, 2024), Lionsgate Play, 
+Cinemaworld-On-Demand, MOLA, Vidio, Vision+, and VIU.
+media
+117
+PT Link Net Tbk 2024 Annual Report
+Produktivitas Segmen Korporasi
+Di tahun 2024, pendapatan Perseroan dari segmen korporasi 
+berkontribusi hingga 36,88% terhadap jumlah pendapatan, 
+sebagaimana akan djelaskan pada bagian analisis kinerja 
+Laba/ (Rugi) dan Penghasilan Komprehensif Konsolidasian.
+Corporate Segment Productivity
+In 2024, the Company’s revenue from the corporate segment 
+contributed 36.88% to total revenue, as further detailed in 
+the section on Analysis of Consolidated Profit/(Loss) and 
+Comprehensive Income. 
+Aspek Pemasaran
+Marketing Aspect
+Strategi Pemasaran
+Perseroan mengembangkan strategi pemasaran sesuai dengan 
+bisnis dan segmen yang dituju, yaitu:
+•	 FiberCo–segmen bisnis fiber, akan melanjutkan marketing 
+campaign “open access” sehubungan dengan fokus utama 
+Perseroan sebagai penyedia infrastruktur terbuka untuk 
+berbagai Internet Service Provider di berbagai area.
+•	 EnterpriseCo–segmen bisnis pelanggan B2B, memberikan 
+layanan kepada klien utama kepada pelanggan Perseroan 
+dengan berfokus pada tiga layanan yaitu Connectivity, ICT dan 
+Cyber security solution, dan Corporate TV.
+•	 MediaCo–segmen bisnis Media, melakukan kerjasama dengan 
+penyedia konten serta menawarkan layanan kepada penyedia 
+layanan internet lainnya, serta keperluan EnterpriseCo sendiri 
+bagi layanan hotel dan rumah sakit.
+Pangsar Pasar
+Pangsar pasar Perseroan tercermin dari homes passed yang 
+berhasil dikembangkan. Hingga akhir tahun 2024, Perseroan 
+berhasil mengembangkan jaringan mencapai 4,07 juta homes 
+passed mencakup 27 provinsi, atau lebih kurang 7% dari seluruh 
+homes passed yang berhasil dikembangkan secara nasional. 
+Perseroan berkomitmen untuk dapat terus meningkatkan 
+jaringannya, khususnya dalam rangka memberikan nilai tambah 
+secara berkelanjutan bagi aksesibilitas pengguna internet, yang 
+pada akhirnya meningkatkan nilai Perseroan.
+Marketing Strategy
+The Company develops marketing strategies tailored to its 
+businesses and target segments, as follows:  
+•	 FiberCo–the fiber business segment, will continue its “open 
+access” marketing campaign, in line with the Company’s main 
+focus as an open infrastructure provider for various Internet 
+Service Providers across different areas.  
+•	 EnterpriseCo–the B2B customer segment, provides services 
+to key clients by focusing on three main offerings, namely 
+Connectivity, ICT and Cybersecurity Solutions, and Corporate 
+TV.
+•	 MediaCo–the media business segment, collaborates with 
+content providers and offers services to other internet service 
+providers, as well as supporting EnterpriseCo’s needs for hotel 
+and hospital services.
+Market Share
+The Company’s market share is reflected in the number of homes 
+passed that it has successfully developed. By the end of 2024, the 
+Company had expanded its network to reach 4.07 million homes 
+passed across 27 provinces, representing approximately 7% of the 
+total homes passed developed nationally. The Company remains 
+committed to continuously expanding its network, particularly 
+to provide sustainable added value for internet accessibility, 
+ultimately enhancing the Company’s overall value.
+118
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Analisis Kinerja Keuangan
+Financial Performance Analysis
+Laporan Posisi Keuangan Konsolidasian
+Consolidated Statement of Financial Position
+Posisi Keuangan memberikan gambaran sekilas tentang kekuatan aset 
+dan permodalan Perseroan. Di tahun 2024, jumlah aset Perseroan 
+mencapai Rp13,92 triliun. Sedangkan struktur permodalan terdiri dari 
+liabilitas sebesar 64,03% dan ekuitas sebesar 35,97%.
+The financial position provides a snapshot of the Company’s asset strength and 
+capital structure. In 2024, The Company’s total assets reached Rp 13.92 trillion. 
+The capital structure consisted of 64.03% liabilities and 35.97% equity.
+Posisi Keuangan Konsolidasian, Periode 2023-2024
+Consolidated Financial Position, Period 2023-2024
+Pos Akun
+Account
+2024
+(Rp-juta)
+(Rp-million)
+2023
+(Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Aset
+Assets
+Jumlah Aset
+Total Assets
+13.916.787
+12.636.281
+1.280.506,00
+10,13
+Liabilitas dan Ekuitas
+Liabilities and Equity
+Liabilitas
+Liabilities
+8.911.584
+8.320.175
+      591.409,00 
+7,11
+Ekuitas
+Equity
+5.005.203
+4.316.106
+689.097,00
+15,97
+Jumlah Liabilitas dan Ekuitas
+Total Liabilities and Equity
+13.916.787
+12.636.281
+1.280.506,00
+10,13
+“
+119
+PT Link Net Tbk 2024 Annual Report
+Aset
+Assets
+Aset Konsolidasian, Periode 2023-2024
+Consolidated Assets, Period 2023-2024
+Pos Akun
+Account
+2024
+(Rp-juta)
+(Rp-million)
+2023
+(Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Aset Lancar
+Current Assets
+Kas dan Setara Kas
+Cash and cash equivalents
+436.038
+236.829
+199.209
+84,12
+Piutang usaha
+Trade receivables
+938.354
+362.692
+575.662
+158,72
+Pajak dibayar di muka 
+Prepaid taxes
+68.290
+96.055
+(27.765)
+(28,91)
+Biaya dibayar di muka – bagian lancar
+Prepaid expenses - current portion
+82.153
+87.300
+(5.147)
+(5,90)
+Aset lancar lainnya
+Other current assets
+20.804
+21.280 
+(476)
+(2,24)
+Jumlah aset lancar
+Total current assets
+1.545.639
+804.156
+741.483
+92,21
+Aset Tidak Lancar
+Non-Current Assets
+Aset pajak tangguhan
+Deferred tax assets
+209.852
+162.941
+46.911
+28,79
+Aset tetap
+Property and equipment
+9.936.493
+9.394.810
+541.683
+5,77
+Peralatan untuk instalasi
+Equipment for installation
+1.926.039
+1.960.405
+(34.366)
+(1,75)
+Aset tak berwujud
+Intangible assets
+194.087
+133.964
+60.123
+44,88
+Aset tidak lancar lainnya
+Other non-current assets
+104.677
+180.005
+(75.328)
+(41,85)
+Jumlah aset tidak lancar
+Total non-current assets
+12.371.148
+11.832.125
+539.023
+4,56
+Jumlah Aset
+Total Assets
+13.916.787
+12.636.281
+1.280.506
+10,13
+120
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Secara komposisi, aset Perseroan terutama didominasi oleh aset 
+tidak lancar yang bersifat jangka panjang, dengan komposisi di 
+tahun 2024 mencapai 88,89% terhadap jumlah aset konsolidasian. 
+Hal ini tak lepas dari sifat bisnis Perseroan yang berinvestasi pada 
+berbagai jenis barang modal dalam bentuk yang cukup besar, 
+dengan pemeliharaan yang optimal yang akan berdampak besar 
+bagi kualitas layanan kepada pelanggan.
+Jumlah aset Perseroan di tahun 2024 mencapai Rp13,92 
+triliun, meningkat 10,13% atau setara Rp1,28 miliar dari tahun 
+sebelumnya dengan nilai aset mencapai Rp12,64 triliun. Kenaikan 
+ini terutama terlihat pada meningkatnya saldo aset lancar 
+Perseroan.
+Jumlah aset lancar yang dimiliki Perseroan di tahun 2024 
+sebesar Rp1,55 triliun meningkat 92,21% atau setara dengan 
+Rp741,48 miliar dibandingkan dengan tahun sebelumnya sebesar 
+Rp804,16 miliar. Kenaikan ini terutama disebabkan terlihat pada 
+meningkatnya saldo aset lancar Perseroan.
+Di sisi lain, jumlah aset tidak lancar Perseroan di tahun 2024 
+sebesar Rp12,37 triliun meningkat 4,56% atau setara dengan 
+Rp1,28 triliun dibandingkan dengan tahun sebelumnya sebesar 
+Rp11,92 triliun. Kenaikan ini terutama disebabkan kenaikan aset 
+tetap Perseroan.
+In terms of composition, the Company’s assets are primarily 
+dominated by long-term non-current assets, which accounted 
+for 88.89% of total consolidated assets in 2024. This reflects the 
+nature of the Company’s business, which involves substantial 
+investments in various types of capital goods, supported by 
+optimal maintenance that significantly contributes to service 
+quality for customers.
+In 2024, the Company’s total assets amounted to Rp13.92 trillion, 
+marking an increase of 10.13% or Rp1.28 trillion compared to the 
+previous year’s total of Rp12.64 trillion. This growth was mainly 
+driven by an increase in the Company’s current assets.
+The Company’s current assets in 2024 reached Rp1.55 trillion, a 
+significant increase of 92.21% or Rp741.48 billion compared to 
+Rp804.16 billion in the previous year. This increase was primarily 
+due to the higher balance of current assets.
+Meanwhile, the Company’s non-current assets in 2024 amounted 
+to Rp12.37 trillion, an increase of 4.56% or Rp448.34 billion 
+from the previous year’s Rp11.92 trillion. The growth was mainly 
+attributable to the increase in the Company’s fixed assets.
+2023
+2024
+6,36%
+93,64%
+Aset Lancar | Current Assets
+Aset Tidak Lancar | Non-Current Assets
+11,11%
+88,89%
+121
+PT Link Net Tbk 2024 Annual Report
+Liabilitas
+Liabilities
+Liabilitas Konsolidasian, Periode 2023-2024
+Consolidated Liabilities, Period 2023-2024
+Pos Akun
+Account 
+2024 (Rp-juta)
+(Rp-million)
+2023 (Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Liabilitas Jangka Pendek
+Current Liabilities
+Pinjaman bank jangka pendek
+Short-term bank loans
+1.025.000
+1.000.000
+25.000
+2,50
+Utang usaha
+Trade payables
+1.004.964
+874.694
+130.270
+14,89
+Utang lain-lain
+Other payables
+592.868
+11.729
+581.139
+4.954,72
+Utang pajak
+Taxes payable
+191.478
+24.329
+167.149
+687,04
+Akrual
+Accruals
+403.315
+227.302
+176.013
+77,44
+Biaya berlangganan diterima di muka
+Unearned subscription fees
+2,286
+47.914
+(47.912)
+(100,00)
+Liabilitas imbalan kerja jangka pendek
+Short-term employee benefit liabilities
+61.137
+92.642
+(31.505)
+(34,01)
+Bagian jangka pendek dari liabilitas jangka panjang:
+Current portion of long-term liabilities:
+Pinjaman bank
+Bank loans
+760.161
+862.587
+(102.426)
+(11,87)
+Liabilitas sewa
+Lease liabilities
+1.427
+62.502
+(61.075)
+(97,72)
+Liabilitas imbalan kerja
+Employee benefit liabilities
+7.532
+85.422
+(77.890)
+(91,18)
+Jumlah liabilitas jangka pendek
+Total current liabilities
+4.050.168
+3.289.121
+761.047
+23,14
+Liabilitas Jangka Panjang
+Non-Current Liabilities
+ 
+Pinjaman bank
+Bank loans
+4.783.460
+4.949.210
+(165.750)
+(3,35)
+Liabilitas sewa
+Lease liabilities
+1.547
+735
+812
+110,48
+Liabilitas imbalan kerja jangka panjang
+Long-term employee benefit liabilities
+76.409
+81.109
+(4.700)
+(5,79)
+Jumlah liabilitas jangka panjang
+Total non-current liabilities
+4.861.416
+5.031.054
+(169.638)
+(3,37)
+Jumlah Liabilitas
+Total Liabilities
+8.911.584
+8.320.175
+591.409
+7,11
+122
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Secara komposisi, liabilitas Perseroan sebagian besar merupakan 
+liabilitas jangka panjang, dengan komposisi di tahun 2024 
+mencapai 54,55% terhadap jumlah liabilitas konsolidasian. 
+Tingginya liabilitas jangka panjang ini terutama ditopang oleh 
+pinjaman bank yang mencapai Rp4,78 triliun di tahun 2024. Hal 
+ini kemudian berdampak pada rasio solvabilitas.
+Jumlah liabilitas Perseroan di tahun 2024 mencapai Rp8,91 
+triliun, meningkat 7,11% atau setara Rp591,41 miliar dari tahun 
+sebelumnya dengan saldo liabilitas mencapai Rp8,30 triliun. 
+Kenaikan ini terutama terlihat pada meningkat saldo liabilitas 
+jangka pendek Perseroan.
+Jumlah liabilitas jangka pendek yang dimiliki Perseroan di tahun 
+2024 sebesar Rp4,05 triliun meningkat 23,14% atau setara dengan 
+Rp761,05 miliar dibandingkan dengan tahun sebelumnya sebesar 
+Rp3,29 triliun. Kenaikan ini terutama disebabkan karena kenaikan 
+utang lain-lain pihak berelasi dan kenaikan utang usaha.
+Di sisi lain, jumlah liabilitas jangka panjang Perseroan di tahun 
+2024 sebesar Rp4,86 triliun mengalami penurunan 3,37% atau 
+setara dengan Rp169,64 miliar dibandingkan dengan tahun 
+sebelumnya sebesar Rp5,03 triliun. Penurunan ini terutama 
+disebabkan karena penurunan pinjaman bank.
+In terms of composition, the Company’s liabilities were primarily 
+comprised of non-current liabilities, accounting for 54.55% of 
+total consolidated liabilities in 2024. The high proportion of 
+non-current liabilities was mainly driven by bank loans, which 
+amounted to Rp4.78 trillion in 2024. This, in turn, impacted the 
+Company’s solvency ratios.
+In 2024, the Company’s total liabilities reached Rp8.91 trillion, an 
+increase of 7.11% or Rp591.41 billion from Rp8.30 trillion in the 
+previous year. This increase was primarily attributable to the rise 
+in current liabilities.
+The Company’s current liabilities in 2024 amounted to Rp4.05 
+trillion, representing a 23.14% increase or Rp761.05 billion from 
+Rp3.29 trillion in the prior year. This growth was mainly due to an 
+increase in related party payables and trade payables.
+On the other hand, the Company’s non-current liabilities in 2024 
+amounted to Rp4.86 trillion, a decrease of 3.37% or Rp169.64 
+billion compared to Rp5.03 trillion in the previous year. This 
+decline was primarily due to a reduction in bank loans.
+60,47%
+39,53%
+2023
+2024
+54,55%
+45,45%
+Ekuitas
+Equity
+Ekuitas Konsolidasian, Periode 2023-2024
+Consolidated Equity, Period 2023-2024
+Pos Akun
+Account 
+2024 (Rp-juta)
+(Rp-million)
+2023 (Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Ekuitas yang Diatribusikan kepada Pemilik Entitas Induk
+Equity Attributable to Owners of the Parent Entity
+Modal saham
+Share capital
+286.320
+286.320
+-
+-
+Tambahan modal disetor
+Additional paid-in capital
+3.207.687
+1.341.144
+1.866.543
+139,18
+Liabilitas Jangka Pendek | Current Liabilities
+Liabilitas Jangka Panjang | Non-Current 
+Liabilities
+123
+PT Link Net Tbk 2024 Annual Report
+Pos Akun
+Account 
+2024 (Rp-juta)
+(Rp-million)
+2023 (Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Saham Treasuri
+Treasury shares
+(410.259)
+(410.259)
+-
+-
+Saldo laba
+Retained earnings
+ 
+ 
+Dicadangkan
+Appropriated
+600
+600
+-
+-
+Belum Dicadangkan
+Unappropriated
+1.920.849
+3.098.295
+(1.177.446)
+(38,00)
+Subjumlah
+Subtotal
+5.005.197
+4.316.100
+689.097
+15,97
+Ekuitas yang Diatribusikan kepada Kepentingan Non Pengendali
+Equity Attributable to Non-Controlling Interests
+Subjumlah
+Subtotal
+6
+6
+-
+-
+Jumlah Ekuitas
+Total Equity
+5.005.203
+4.316.106
+689.097
+15,97
+Jumlah ekuitas Perseroan di tahun 2024 mencapai Rp5,01 
+triliun, meningkat 15,97% atau setara Rp689,10 miliar dari 
+tahun sebelumnya dengan nilai ekuitas mencapai Rp4,32 triliun. 
+Kenaikan ini terutama disebabkan kenaikan tambahan modal 
+disetor atas dampak dari aktivitas transaksi pengalihan unit 
+bisnis residensial atau B2C (business-to-consumer).
+The Company’s total equity in 2024 reached Rp5.01 trillion, an 
+increase of 15.97% or Rp689.10 billion from Rp4.32 trillion in the 
+previous year. This increase was primarily driven by additional 
+paid-in capital resulting from the transfer of the residential or B2C 
+(business-to-consumer) business unit.
+Laporan Laba/(Rugi) dan Penghasilan Komprehensif Lain Konsolidasian
+Consolidated Statement of Profit/(Loss) and Other Comprehensive Income
+Pendapatan Perseroan mengalami penurunan dibandingkan tahun 
+2023 karena terdapat perpindahan segmen bisnis residensial 
+Perseroan pada bulan September 2024.
+The Company’s revenue declined compared to 2023 due to the transfer of its 
+residential business segment in September 2024.
+“
+124
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Laba/(Rugi) dan Penghasilan Komprehensif Lain Konsolidasian, Periode 2023-2024
+Consolidated Laba/(Rugi) and Other Comprehensive Income, Period 2023-2024
+Pos Akun
+Account 
+2024 (Rp-juta)
+(Rp-million)
+2023 (Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Pendapatan
+Revenue
+3.658.905
+3.925.581
+(266.676)
+(6,79)
+Beban atas operasi dan usaha (termasuk 
+penyusutan dan amortisasi)
+Expenses from operations and business 
+(including depreciation and amortization)
+(4.056.813)
+(4.005.543)
+(51.270)
+1,28
+Pendapatan/(beban) keuangan
+Finance income/(expenses)
+(620.053)
+(508.250)
+(111.803)
+22,00
+Pendapatan/(beban) lainnya
+Other income/(expenses)
+(27.220)
+  1.967
+(29.187)
+(1.483,83)
+Laba/(rugi) sebelum pajak penghasilan
+Profit/(loss) before income tax
+(1.045.181)
+(586.245)
+(458.936)
+78,28
+Manfaat/(beban) pajak penghasilan
+Income tax benefits/(expenses)
+(140.121)
+53.262
+(193.383)
+(363,08)
+Laba/(rugi) tahun berjalan
+Profit/(loss) for the year
+(1.185.302)
+(532.983)
+(652.319)
+122,39
+Penghasilan komprehensif lain
+Other comprehensive income
+7.856
+5.998
+1.858
+30,98
+Jumlah penghasilan/(rugi) komprehensif 
+tahun berjalan
+Total comprehensive income/(loss) for the 
+year
+(1.177.446)
+(526.985)
+(650.461)
+123,43
+Laba/(rugi) tahun berjalan yang dapat diatribusikan kepada:
+Profit/(loss) for the year attributable to:
+Pemilik entitas induk
+Owners of the parent entity
+(1.185.302)
+(532.984)
+(632.318)
+122,39
+Kepentingan non-pengendali
+Non-controlling interest
+-
+1
+(1)
+(100,00)
+(1.185.302)
+(532.983)
+(652.319)
+122,39
+Jumlah penghasilan/(rugi) komprehensif tahun berjalan yang dapat diatribusikan kepada:
+Total comprehensive income/(loss) for the year attributable to:
+Pemilik entitas induk
+wners of the parent entity
+(1.177.446)
+(526.986)
+650.460
+123,43
+Kepentingan non-pengendali
+Non-controlling interest
+-
+1
+(1)
+(100,00)
+(1.177.446)
+(526.985)
+(650.460)
+123,43
+Laba/(rugi) bersih per saham dan dilusian 
+(Rupiah penuh)
+Net Earnings/(Loss) per Share and Diluted 
+(full Rupiah)
+(431)
+(194)
+(237)
+122,16
+125
+PT Link Net Tbk 2024 Annual Report
+Pendapatan Perseroan dicatat dari pendapatan berdasarkan jenis 
+pelanggan, dengan rincian sebagai berikut ini.
+The Company’s revenue is recorded based on customer type, with 
+the following breakdown.
+Pendapatan Konsolidasian Berdasarkan Jenis Pelanggan, Periode 2023-2024
+Consolidated Revenue By Customer Type, Period 2023-2024 
+Pos Akun
+Account
+2024
+2023
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Residensial 
+Residential
+Internet broadband 
+830.061
+32,93
+868.621
+34,04
+(38.560)
+(4,44)
+Televisi kabel 
+Cable television
+277.586
+11,01
+42.613
+1,67
+234.973
+551,41
+Lain-lain 
+Others
+483.411
+19,18
+99620
+3,90
+383.791
+385,25
+Subjumlah
+Subtotal
+1.591.058
+63,12
+1.010.854
+39,61
+580.204
+57,40
+Korporasi 
+Corporate
+Internet broadband 
+-
+-
+-
+-
+-
+-
+Televisi kabel 
+Cable television
+929.628
+36,88
+1.541.039
+60,39
+(611.411)
+(39,68)
+Lain-lain 
+Others
+-
+-
+-
+-
+-
+-
+Subjumlah
+Subtotal
+929.628
+36,88
+1.541.039
+60,39
+(611.411)
+(39,68)
+Jumlah Pendapatan
+Total Revenue
+2.520.686
+100,00
+2.551.893
+100,00
+(31.207)
+(1,22)
+2023
+2024
+60,39%
+36,88%
+39,61%
+63,12%
+Residensial | Residential
+Korporasi | Corporate
+126
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Pendapatan Konsolidasian Berdasarkan Layanan, Periode 2023-2024
+Consolidated Revenue by Service, Period 2023-2024 
+Pos Akun
+Account
+2024
+2023
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Layanan Berlangganan
+Subscription Services
+Internet broadband 
+dan jaringan
+Broadband internet 
+and networks
+830.061
+32,93
+868.621
+34,04
+(38.560)
+(4,44)
+Televisi kabel 
+Cable television
+1.207.214
+47,89
+1.583.652
+62,06
+(376.438)
+(23,77)
+Subjumlah
+Subtotal
+2.037.275
+80,82
+2.452.273
+96,10
+(414.998)
+(16,92)
+Lain-lain
+Others
+ 
+ 
+ 
+ 
+ 
+ 
+Subjumlah
+Subtotal
+483.411
+19,18
+99.620
+3,90
+383.791
+385,25
+Jumlah Pendapatan
+Total Revenue
+2.520.686
+100,00
+2.551.893
+100,00
+(31.207)
+(1,22)
+2023
+2024
+62,06%
+47,89%
+3,90%
+19,18%
+62,06%
+32,93%
+Sebagaimana telah dijelaskan pada bagian “Tinjauan Operasi 
+per Segmen Usaha” di atas, pendapatan Perseroan dipengaruhi 
+oleh perubahan bisnis model Perseroan yang terdampak oleh 
+adanya aktivitas transaksi pengalihan unit bisnis residensial atau 
+B2C (business-to-consumer) sehingga terjadi penurunan pada 
+pendapatan total Perseroan.
+As previously explained in the “Operational Overview per Business 
+Segment” section above, the Company’s revenue was affected by a 
+change in the Company’s business model due to the transfer of its 
+residential (B2C or business-to-consumer) business unit, resulting 
+in a decline in the Company’s total revenue.
+Internet broadband dan jaringan | Broadband 
+internet and networks
+Televisi kabel | Cable television
+Lain-lain | Others
+127
+PT Link Net Tbk 2024 Annual Report
+Beban atas Operasi dan Usaha
+Expenses from Operations and Business
+Beban atas Operasi dan Usaha, Periode 2023-2024
+Expenses from Operations and Business, Period 2023-2024
+Pos Akun
+Account 
+2024 (Rp-juta)
+(Rp-million)
+2023 (Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal (Rp-juta)
+Nominal (Rp-million)
+Persentase (%)
+Percentage (%)
+Beban penyusutan
+Depreciation expenses
+1.691,983
+1.622.079
+69.904
+4,31
+Beban jaringan dan beban langsung lainnya
+Network expenses and other direct 
+expenses
+1.064,391
+693.652
+370.739
+53,45
+Beban gaji dan kesejahteraan karyawan
+Salaries and employee benefits expenses
+264.163
+355.838
+(91.675)
+(25,76)
+Beban umum dan administrasi
+General and administrative expenses
+452.877
+374.186
+78.691
+21,03
+Beban penjualan dan pemasaran
+Sales and marketing expenses
+50.870
+50.854
+16
+0,03
+Penurunan nilai piutang usaha
+Impairment of trade receivables
+46.454
+203.012
+(156.558)
+(77,12)
+Beban amortisasi
+Amortisation expenses
+74.501
+67.802
+6.699
+9,88
+Jumlah Beban atas Operasi dan Usaha
+Total Expenses from Operations and 
+Business
+3.645.239
+3.367.423
+277.816
+8,25
+Jumlah beban atas operasi dan usaha di tahun 2024 sebesar Rp3,65 
+triliun meningkat 8,25% atau setara dengan Rp277,82 miliar 
+dibandingkan dengan tahun sebelumnya sebesar Rp3,37 triliun. 
+Kenaikan ini terutama disebabkan oleh kenaikan beban jaringan 
+dan beban langsung lainnya dan beban umum dan administrasi 
+Perseroan yang terdampak oleh aktivitas transaksi pengalihan 
+unit bisnis residensial atau B2C (business-to-consumer).
+The total expenses from operations and business in 2024 
+amounted to Rp3.65 trillion, an increase of 8.25% or equivalent to 
+Rp277.82 billion compared to the previous year’s Rp3.37 trillion. 
+This increase was primarily due to higher network and other direct 
+expenses, as well as general and administrative expenses, which 
+were impacted by the transaction activity related to the transfer 
+of the residential or B2C (business-to-consumer) business unit.
+128
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Pendapatan/(Beban) Keuangan
+Finance Income/(Expenses)
+Beban Konsolidasian, Periode 2023-2024
+Consolidated Expenses, Period 2023-2024
+Pos Akun
+Account
+2024
+(Rp-juta)
+(Rp-million)
+2023
+(Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Penghasilan keuangan
+Finance income
+12,363
+6.131
+6.232
+101,65
+Beban keuangan
+Finance Expenses
+(632,395)
+(514.381)
+(118.014)
+22,94
+Jumlah
+Total
+(620.023)
+(508.250)
+(111.773)
+21,99
+Pendapatan keuangan diperoleh melalui imbal hasil dari kas atas 
+investasi jangka pendek.
+Beban keuangan didapatkan dari beban bunga atas pinjaman 
+bank dan biaya administrasi keuangan.
+Secara keseluruhan, di tahun 2024 Perseroan membukukan beban 
+keuangan sebesar Rp620,02 miliar meningkat 21,99% atau setara 
+dengan Rp111,77 miliar dibandingkan dengan tahun sebelumnya 
+di mana Perseroan mencatat beban keuangan sebesar Rp508,25 
+miliar. Kenaikan ini terutama disebabkan kenaikan beban bunga 
+Perseroan.
+Pendapatan/(Beban) Lainnya
+Di tahun 2024, Perseroan membukukan beban keuangan sebesar 
+Rp27,2 miliar mengalami penurunan 1.438,58% dibandingkan 
+dengan tahun sebelumnya di mana Perseroan mencatat 
+pendapatan lainnya sebesar Rp2,03 miliar. Penurunan ini 
+terutama disebabkan oleh kenaikan beban lainnya Perseroan.
+Manfaat/(Beban) Pajak Penghasilan
+Perseroan mencatat manfaat pajak penghasilan di tahun 2024 
+sebesar Rp16,85 miliar mengalami penurunan 67,28% atau setara 
+dengan Rp34,65 miliar dibandingkan dengan tahun sebelumnya 
+di mana Perseroan mencatat manfaat pajak penghasilan sebesar 
+Rp53,26 miliar. Penurunan ini terutama disebabkan aktivitas 
+transaksi pengalihan unit bisnis residensial atau B2C (business-
+to-consumer).
+Finance income was generated from returns on cash from short-
+term investments.  
+Finance expenses were incurred from interest expenses on bank 
+loans and financial administration fees.
+Overall, in 2024 the Company recorded finance expenses 
+amounting to Rp620.02 billion, an increase of 21.99% or equivalent 
+to Rp111.77 billion compared to the previous year, when the 
+Company recorded finance expenses of Rp508.25 billion. This 
+increase was primarily due to the rise in the Company’s interest 
+expenses.
+Other Income/(Expenses)
+In 2024, the Company recorded other expenses amounting to 
+Rp27.2 billion, representing a decrease of 1,438.58% compared to 
+the previous year, when the Company recorded other income of 
+Rp2.03 billion. This decline was primarily due to an increase in the 
+Company’s other expenses.
+Income Tax Benefit/(Expense)
+In 2024, the Company recorded an income tax benefit of Rp16.85 
+billion, a decrease of 67.28% or equivalent to Rp34.65 billion 
+compared to the previous year, when the Company recorded an 
+income tax benefit of Rp53.26 billion. This decline was primarily 
+due to the business transfer activity of the residential or B2C 
+(business-to-consumer) unit.
+129
+PT Link Net Tbk 2024 Annual Report
+Laba/(Rugi) Tahun Berjalan
+Dengan kinerja yang dihasilkan atas pendapatan dan beban-
+beban di atas, di tahun 2024 Perseroan membukukan rugi 
+tahun berjalan sebesar Rp1,75 triliun meningkat 38,16% atau 
+setara dengan Rp484,70 miliar dibandingkan dengan tahun 
+sebelumnya di mana Perseroan mencatat rugi tahun berjalan 
+sebesar Rp1,27 triliun. Sebagaimana terlihat pada berbagai 
+analisis di atas, kerugian tahun berjalan ini tak lepas dari aktivitas 
+transaksi pengalihan unit bisnis residensial atau B2C (business-to-
+consumer). 
+Kerugian tahun berjalan juga turut berpengaruh pada rugi tahun 
+berjalan yang diatribusikan kepada pemilik entitas induk tahun 
+2024 sebesar Rp1,18 triliun, yang kemudian juga berdampak 
+negatif atas kinerja rugi per saham dan dilusian yang tercatat 
+meningkat, dari Rp194 per lembar saham di tahun 2023 menjadi 
+Rp431 per lembar saham di tahun 2024.
+Penghasilan Komprehensif Lain
+Perseroan mencatat penghasilan komprehensif lain di tahun 2024 
+sebesar Rp7,22 miliar mengalami peningkatan 68,06% atau setara 
+dengan Rp2,92 miliar dibandingkan dengan tahun sebelumnya 
+di mana Perseroan mencatat penghasilan komprehensif lain 
+sebesar 4,29 miliar. 
+Jumlah Penghasilan/(Rugi) Komprehensif Konsolidasian 
+Tahun Berjalan
+Atas kinerja penghasilan komprehensif tahun berjalan, di 
+tahun 2024 Perseroan membukukan jumlah rugi komprehensif 
+konsolidasian tahun berjalan sebesar Rp1,18 triliun meningkat 
+123,43% atau setara dengan Rp650,481 miliar dibandingkan 
+dengan tahun sebelumnya di mana Perseroan mencatat 
+rugi komprehensif konsolidasian tahun berjalan sebesar 
+Rp526,98 miliar.
+Profit/(Loss) for the Year
+Based on the performance from the aforementioned revenues 
+and expenses, in 2024 the Company recorded a loss for the year 
+of Rp1.75 trillion, an increase of 38.16% or equivalent to Rp484.70 
+billion compared to the previous year, when the Company posted 
+a loss for the year of Rp1.27 trillion. As outlined in the various 
+analyses above, this loss for the year was primarily driven by the 
+business transfer activity of the residential or B2C (business-to-
+consumer) unit.
+This loss also affected the loss for the year attributable to the 
+owners of the parent entity, which reached Rp1.18 trillion in 2024. 
+Consequently, it had a negative impact on the basic and diluted 
+loss per share, which increased from Rp194 per share in 2023 to 
+Rp431 per share in 2024.
+Other Comprehensive Income
+In 2024, the Company recorded other comprehensive income 
+of Rp7.22 billion, an increase of 68.06% or equivalent to Rp2.92 
+billion compared to the previous year, when the Company 
+recorded other comprehensive income of Rp4.29 billion.
+Total Consolidated Comprehensive Income/(Loss) for 
+the Year
+Reflecting the comprehensive income performance for the year, in 
+2024 the Company recorded a consolidated total comprehensive 
+loss of Rp1.18 trillion, an increase of 123.43% or equivalent to 
+Rp650.481 billion compared to the previous year, when the 
+Company recorded a consolidated total comprehensive loss of 
+Rp526.98 billion.
+Laporan Arus Kas Konsolidasian
+Consolidated Cash Flow Statement
+Arus kas Perseroan mengalami penurunan karena adanya penurunan 
+pendapatan dari pelanggan sehubungan dengan perpindahan 
+pelanggan segmen residensial.
+The Company’s cash flow decreased due to a decline in revenue from customers following 
+the transfer of the residential segment’s customers.
+“
+130
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Arus Kas dari Aktivitas Operasi
+Arus kas yang diperoleh dari aktivitas operasi tahun 2024 sebesar 
+Rp1,70 triliun mengalami penurunan 28,32% atau setara dengan 
+Rp672,62 miliar dibandingkan arus kas yang diperoleh dari 
+aktivitas operasi tahun 2023 sebesar Rp2,37 triliun. Penurunan ini 
+disebabkan oleh penurunan penerimaan dari pelanggan.
+Arus Kas dari Aktivitas Investasi
+Arus kas yang digunakan untuk aktivitas investasi tahun 2024 
+sebesar Rp546,41 miliar, mengalami penurunan 82,99% atau 
+setara dengan Rp2,67 triliun dibandingkan arus kas yang 
+digunakan untuk aktivitas investasi tahun 2023 sebesar Rp3,21 
+triliun. Penurunan ini disebabkan oleh adanya penerimaan dari 
+pelepasan bisnis B2C dan penurunan pembelian aset tetap.
+Arus Kas dari Aktivitas Pendanaan
+Arus kas yang digunakan untuk aktivitas pendanaan tahun 
+2024 sebesar Rp957,10 miliar mengalami penurunan 203,97% 
+atau setara dengan Rp1,88 triliun dibandingkan arus kas yang 
+diperoleh untuk aktivitas pendanaan tahun 2023 sebesar Rp920,57 
+miliar. Penurunan ini disebabkan oleh penurunan penerimaan 
+dari pinjaman bank dan kenaikan pembayaran bunga.
+Saldo Kas dan Setara Kas
+Atas kinerja arus kas dari aktivitas operasi, investasi, dan 
+pendanaan, sebagaimana telah disampaikan di atas, di sepanjang 
+tahun 2024 saldo kas dan setara kas Perseroan meningkat 84,12% 
+atau setara Rp199,21 miliar dari saldo di akhir tahun 2023 sebesar 
+Rp236,83 miliar menjadi Rp436,04 miliar di akhir tahun 2024. Hal 
+ini terutama disebabkan oleh adanya penerimaan dari pelepasan 
+bisnis B2C.
+Cash Flows from Operating Activities
+Cash flows generated from operating activities in 2024 amounted 
+to Rp1.70 trillion, representing a decrease of 28.32% or equivalent 
+to Rp672.62 billion compared to the cash flows from operating 
+activities in 2023, which amounted to Rp2.37 trillion. This decline 
+was primarily due to a decrease in receipts from customers.
+Cash Flows from Investing Activities
+Cash flows used in investing activities in 2024 amounted to 
+Rp546.41 billion, representing a decrease of 82.99% or equivalent 
+to Rp2.67 trillion compared to the cash flows used in investing 
+activities in 2023, which amounted to Rp3.21 trillion. This decrease 
+was primarily due to proceeds from the transfer of the B2C 
+business and a decline in the purchase of fixed assets.
+Cash Flows from Financing Activities
+Cash flows used in financing activities in 2024 amounted to 
+Rp957.10 billion, a decrease of 203.97% or equivalent to Rp1.88 
+trillion compared to cash flows generated from financing activities 
+in 2023, which amounted to Rp920.57 billion. This decline was 
+mainly due to a decrease in proceeds from bank loans and an 
+increase in interest payments.
+Cash and Cash Equivalents Balance
+Based on the performance of cash flows from operating, investing, 
+and financing activities as previously described, the Company’s 
+cash and cash equivalents balance increased by 84.12% or 
+equivalent to Rp199.21 billion throughout 2024, from Rp236.83 
+billion at the end of 2023 to Rp436.04 billion at the end of 2024. 
+This increase was primarily driven by proceeds from the transfer 
+of the B2C business.
+Arus Kas Konsolidasian, Periode 2023-2024
+Consolidated Cash Flow, Period 2023-2024
+Pos Akun
+Account
+2024
+(Rp-juta)
+(Rp-million)
+2023
+(Rp-juta)
+(Rp-million)
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Arus kas diperoleh dari/(digunakan untuk) aktivitas 
+operasi
+Cash flows generated from/(used in) operating 
+activities
+1.702.214
+2.374.838
+(672.624)
+(28,32)
+Arus kas diperoleh dari/(digunakan untuk) Investasi
+Cash flows generated from/(used in) Investing 
+activities
+(546.411)
+(3.212.879)
+2.666.468
+(82,99)
+Arus kas diperoleh dari/(digunakan untuk) pendanaan
+Cash flows generated from/(used in) financing 
+activities
+(957.098)
+920.574 
+(1.877.672)
+(203,97)
+Kenaikan (penurunan) bersih kas dan setara kas
+Net increase (decrease) in cash and cash equivalents
+198.705
+82.533
+116.172
+140,76
+Kas dan setara kas awal tahun
+Cash and cash equivalents at the beginning of the 
+year
+236.829
+155.344
+81.485
+52,45
+Kas dan setara kas akhir tahun
+Cash and cash equivalents at the end of the year
+436.038
+236.829
+199.209
+84,12
+131
+PT Link Net Tbk 2024 Annual Report
+Kemampuan Menghasikan Keuntungan
+Ability to Generate Profit
+Perseroan mengukur kemampuannya dalam menghasilkan 
+keuntungan melalui beberapa rasio yang tersajikan pada tabel di 
+bawah ini.
+The Company evaluates its ability to generate profit through 
+several profitability ratios, as presented in the table below.
+Rasio Profitabilitas Konsolidasian, Periode 2023-2024
+Consolidated Profitability Ratio, Period 2023-2024
+Rasio Profitabilitas
+Profitability Ratio
+Satuan
+Unit
+2024
+2023
+Selisih 2023-2024 (%)
+Difference 2023-2024 (%)
+Rentabilitas aset
+Return on assets
+%
+(8,52)
+(4,22)
+(101,93)
+Rentabilitas modal
+Return on equity
+%
+(23,68)
+(12,35)
+(91,77)
+Marjin laba tahun berjalan
+Profit for the year margin
+%
+(32,39)
+(13,58)
+(138,60)
+Berdasarkan tabel di atas, terjadi penurunan rasio profitabilitas 
+yang terdampak oleh adanya aktivitas transaksi pengalihan unit 
+bisnis residensial atau B2C (business-to-consumer).
+Based on the table above, there was a decline in profitability 
+ratios, which was impacted by the transaction activity related 
+to the transfer of the residential or B2C (business-to-consumer) 
+business unit.
+Kemampuan Membayar Utang
+Debt Repayment Ability
+Rasio Likuiditas 
+Tanggung jawab utama manajemen risiko likuiditas terletak pada 
+Direksi, yang telah membangun kerangka manajemen risiko 
+likuiditas yang sesuai untuk persyaratan manajemen likuiditas 
+dan pendanaan jangka pendek, menengah dan jangka panjang. 
+Perseroan mengelola risiko likuiditas dengan menjaga kecukupan 
+simpanan, fasilitas bank dan cadangan fasilitas pinjaman dengan 
+terus menerus memantau perkiraan dan arus kas aktual dan 
+mencocokkan profil jatuh tempo aset dan liabilitas keuangan
+Perseroan memantau proyeksi persyaratan likuiditas untuk 
+memastikan bahwa Perseroan memiliki saldo kecukupan kas 
+untuk memenuhi keperluan operasi serta menjaga kecukupan 
+dalam fasilitas pinjaman yang belum ditarik sepanjang waktu 
+sehingga Perseroan memenuhi semua batas atau persyaratan 
+fasilitas pinjaman. 
+Tabel di bawah ini menganalisa liabilitas keuangan Perseroan 
+pada tanggal pelaporan dan ke kelompok jatuh tempo yang 
+relevan berdasarkan tahun yang tersisa sampai dengan tanggal 
+jatuh tempo kontrak. Jumlah yang diungkapkan dalam tabel 
+adalah arus kas kontraktual yang tidak didiskontokan. 
+Liquidity Ratio
+The primary responsibility for liquidity risk management lies with 
+the Board of Directors, which has established a suitable liquidity 
+risk management framework for managing the Company’s short-, 
+medium-, and long-term liquidity and funding requirements. 
+The Company manages liquidity risk by maintaining sufficient 
+reserves, banking facilities, and reserve loan facilities, while 
+continuously monitoring forecasted and actual cash flows and 
+aligning the maturity profiles of financial assets and liabilities.
+The Company monitors projected liquidity requirements to ensure 
+it maintains sufficient cash balances to support operational needs 
+and retains adequate unused credit facilities at all times so that 
+the Company complies with all facility limits or loan covenants.
+The table below analyzes the Company’s financial liabilities 
+as of the reporting date and categorizes them into relevant 
+maturity groupings based on the remaining years to contractual 
+maturity. The amounts disclosed in the table are the contractual 
+undiscounted cash flows.
+132
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Perihal
+Subject
+Dalam 1 Tahun
+(Rp-juta)
+In 1 Year
+(Rp-million)
+Antara 1-2 Tahun
+(Rp-juta)
+Between 1-2 Years
+(Rp-million)
+Antar 2-5 Tahun
+(Rp-juta)
+Between 2-5 Years
+(Rp-million)
+Arus Kas yang tidak 
+Didiskontokan
+(Rp-juta)
+Undiscounted Cash 
+Flow (Rp-million)
+Utang Usaha
+Trade Payables
+1,004,964
+-
+-
+1,004,964
+Utang non usaha
+Non-trade payables
+592,868
+-
+-
+592,868
+Akrual
+Accruals
+365,193
+-
+-
+365,193
+Utang sewa pembiayaan
+Finance lease payables
+1,606
+1,088
+562
+3,256
+Utang Bank
+Bank Loan
+1,040,293
+-
+-
+1,040,293
+Bunga Pinjaman Bank
+Bank Loan Interest
+1,213,200
+1,323,111
+4,303,035
+6,839,346
+Jumlah
+Total
+4,218,124
+1,324,199
+4,303,597
+9,845,920
+Rasio Likuiditas Konsolidasian, Periode 2023-2024
+Consolidated Liquidity Ratio, Period 2023-2024
+Rasio Likuiditas
+Liquidity Ratio
+Satuan
+Unit
+2024
+2023
+Selisih 2023-2024 (%)
+Difference 2023-2024 (%)
+Rasio lancar
+Current ratio
+%
+38,16
+24,45
+56,09
+Berdasarkan tabel di atas terjadi penurunan rasio lancar yang 
+kemungkinan akan membuat Perseroan lebih sulit untuk 
+memenuhi kewajiban jangka pendeknya dibandingkan tahun 
+sebelumnya.
+Rasio Solvabilitas 
+Rasio solvabilitas menunjukkan kemampuan Perseroan untuk 
+memenuhi kewajiban secara keseluruhan, yang mana dapat 
+dilihat dari rasio liabilitas terhadap aset (liability to asset ratio) 
+dan rasio liabilitas terhadap ekuitas (liability to equity ratio).
+Based on the table above, there was a decline in the current ratio, 
+which may indicate that the Company could face greater difficulty 
+in meeting its short-term obligations compared to the previous 
+year.
+Solvency ratio
+The solvency ratio reflects the Company’s ability to meet its 
+overall obligations. This is measured through the liability to asset 
+ratio and the liability to equity ratio.
+Rasio Solvabilitas Konsolidasian, Periode 2023-2024
+Consolidated Solvency Ratio, Period 2023-2024
+Rasio Solvabilitas
+Solvency Ratio
+Satuan
+Unit
+2024
+2023
+Selisih 2023-2024 (%)
+Difference 2023-2024 (%)
+Rasio kewajiban terhadap ekuitas
+Liability to equity ratio
+%
+178,05
+192,77
+(7,64)
+Rasio kewajiban terhadap aset
+Liabilities to assets ratio
+%
+64,03
+65,84
+(2,75)
+133
+PT Link Net Tbk 2024 Annual Report
+Berdasarkan tabel di atas terjadi penurunan solvabilitas yang 
+disebabkan adanya kebutuhan Perseroan untuk mendanai 
+capital expenditure Perseroan sehubungan dengan perubahan 
+fokus bisnis Perseroan menjadi perusahaan FiberCo.
+Based on the table above, there was a decline in solvency due 
+to the Company’s need to finance its capital expenditures in 
+connection with the shift in business focus to becoming a FiberCo 
+company.
+Tingkat Kolektibilitas Piutang
+Receivables Collectibility
+Tingkat Kolektibilitas Piutang dapat dilihat dari rasio lama 
+penagihan rata-rata (average collection period) yang menunjukkan 
+waktu rata-rata yang dibutuhkan Perseroan dalam menagih 
+piutangnya. Rata-rata rasio lama penagihan adalah sebesar 
+37 hari di tahun 2024 dan 34 hari di tahun 2023. Hal ini disebabkan 
+karena adanya kebijakan masing-masing perusahaan dalam 
+melakukan pembayaran. 
+Perseroan menerapkan kebijakan piutang usaha yang cermat 
+dan konsisten, didukung oleh proses pemantauan secara berkala 
+terhadap kualitas kredit dan kemampuan pelanggan untuk 
+memenuhi kewajiban.
+The collectibility level of receivables is reflected in the average 
+collection period ratio, which indicates the average time required 
+by the Company to collect its receivables. The average collection 
+period was 37 (thirty-seven) days in 2024 and 34 (thirty-four) 
+days in 2023. This was attributable to the payment policies 
+implemented by each respective company.
+The Company applies a prudent and consistent accounts receivable 
+policy, supported by regular monitoring of credit quality and the 
+customers’ ability to meet their obligations. The aging analysis of 
+the Company’s accounts receivable is presented below.
+Umur Piutang Usaha, Periode 2023-2024
+Accounts Receivable Aging, Period 2023-2024
+Umur Piutang
+Accounts Receivable 
+Aging
+2024
+2023
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Lancar
+Current
+717.933
+33,64
+125.293
+34,55
+592.640
+473,00
+Telah jatuh tempo, setelah 
+penyisihan
+Past due, after allowance
+ 
+ 
+ 
+ 
+ 
+ 
+31-60 hari
+31-60 days
+57.747
+2,71
+14.225
+3,92
+43.522
+305,95
+61-90 hari
+61-90 days
+26.786
+1,26
+29.582
+8,16
+(2.796)
+(9,45)
+Lebih dari 90 hari
+>90 days
+1.331.814
+62,40
+193.592
+53,38
+1.138.222
+587,95
+Jumlah
+Total
+2.134.280
+100
+362.692
+100
+1.771.588
+488,46
+134
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Berdasarkan tabel di atas, terjadi kenaikan Piutang Lancar yang 
+menyebabkan terlambatnya kas yang diharapkan dapat diterima 
+oleh Perseroan, sehingga arus kas Perseroan menjadi terhambat.
+Based on the table above, the increase in current receivables led 
+to delays in expected cash inflows, which in turn impacted the 
+Company’s cash flow performance.
+Struktur Modal dan Kebijakan Manajemen 
+atas Struktur Modal
+Capital Structure and Management Policy on Capital Structure
+Struktur permodalan Perseroan pada tanggal 31 Desember 2024 
+dan 2023 masing-masing tercatat sebesar 56,77% dan 61,43% 
+berupa utang serta sebesar 43,23% dan 38,57% berupa modal 
+atau ekuitas, dengan rincian sebagai berikut:
+The Company’s capital structure as of December 31, 2024 and 2023 
+consisted of 56.77% and 61.43% debt, respectively, and 43.23% 
+and 38.57% capital or equity, respectively, with details as follows:
+Struktur Permodalan, Periode 2023-2024
+Capital Structure, Period 2023-2024
+Pos Akun
+Account
+2024
+2023
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Utang Berbunga
+Interest-bearing Debt
+Bagian lancar atas utang 
+sewa pembiayaan
+Current portion of finance 
+lease liabilities
+1.427
+0,01
+62.502
+0,57
+(61.075)
+(97,72)
+Utang sewa pembiayaan
+Finance lease liabilities
+1.547
+0,01
+735
+0,01
+812
+110,48
+Utang bank
+Bank loans
+6.568.621
+58,96
+6.811.797
+62,18
+(243.176)
+(3,57)
+2023
+2024
+34,55%
+33,64%
+3,92%
+2,71%
+8,16%
+1,26%
+53,38%
+62,4%
+Lancar | Current
+Telah jatuh tempo, setelah penyisihan | Past 
+due, after allowance
+31-60 hari | 31-60 days
+61-90 hari | 61-90 days
+Lebih dari 90 hari | >90 days
+135
+PT Link Net Tbk 2024 Annual Report
+Pos Akun
+Account
+2024
+2023
+Kenaikan (Penurunan) 2023-2024
+Increase (Decrease) 2023-2024
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Jumlah
+(Rp-juta)
+Total
+(Rp-million)
+Komposisi
+(%)
+Composition
+(%)
+Nominal
+(Rp-juta)
+Nominal
+(Rp-million)
+Persentase
+(%)
+Percentage
+(%)
+Subjumlah utang berbunga
+Subtotal of Interest-bearing 
+debt 
+6.571.595
+58,99
+6.875.034
+62,76
+(303.439)
+(4,41)
+Dikurangi: kas dan setara 
+kas
+Less: cash and cash 
+equivalents
+(436.038)
+(3,9)
+(236.829
+(2,16)
+(199.209)
+84,12
+Subjumlah utang berbunga 
+– bersih
+Subtotal of interest-bearing 
+debt - net
+6.135.557
+55,07
+6.638.205
+60,6
+(502.648)
+(7,57)
+Ekuitas/permodalan sendiri
+Equity
+ 
+ 
+ 
+ 
+ 
+ 
+Subjumlah
+Subtotal
+5.005.203
+44,93
+4.316.106
+39,4
+689.097
+15,97
+Jumlah struktur modal
+Total capital structure
+11140760
+100
+10.954.311
+100
+186.449
+1,70
+Rasio utang berbunga - 
+bersih terhadap ekuitas (%)
+Interest-bearing debt - net 
+to equity ratio (%)
+122,58
+ 
+153,8
+ 
+(72,94)
+ 
+Berdasarkan tabel di atas, ekuitas mengalami kenaikan dampak 
+dari adanya penambahan modal disetor atas keuntungan dari 
+aktivitas transaksi pengalihan unit bisnis residensial atau B2C 
+(business-to-consumer).
+Based on the table above, equity increased as a result of additional 
+paid-in capital from the gains arising from the transfer of the 
+residential or B2C (business-to-consumer) business unit.
+60,60%
+55,07%
+39,40%
+44,93%
+2023
+2024
+Subjumlah utang berbunga – bersih
+Subtotal of interest-bearing debt - net
+Ekuitas/permodalan sendiri | Equity
+136
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Ikatan yang Material untuk Investasi 
+Barang Modal
+Sepanjang tahun 2024, Perseroan melakukan investasi untuk 
+mendukung pencapaian bisnis Perseroan berupa pembelian 
+peralatan dan perlengkapan yang dijual dan disewakan kepada 
+pelanggan dan perbaikan sistem untuk keperluan internal. 
+Sumber dana yang digunakan berasal dari internal Perseroan, 
+mata uang yang digunakan adalah Rupiah.
+Throughout 2024, the Company made investments to support its 
+business objectives, including the purchase of equipment and 
+supplies to be sold and leased to customers, as well as system 
+improvements for internal purposes. The funds used for these 
+investments came from the Company’s internal sources, and the 
+currency used was Indonesian Rupiah.
+Realisasi Investasi Barang Modal
+Realization of Capital Goods Investment
+Bisnis 
+Perseroan 
+bersifat 
+padat 
+modal 
+karena 
+pada 
+operasionalnya Perseroan memerlukan perluasan, pemeliharaan, 
+dan peningkatan jaringan kabel serat optik maupun kabel coaxial. 
+Kemampuan Perseroan untuk berhasil melaksanakan rencana 
+belanja modal berdampak langsung pada pendapatan dan 
+tingkat keuntungannya. 
+Sejak Juni 2011, Perseroan telah memulai program perluasan 
+jaringan, meningkatkan jumlah home passed dari sekitar 553.000 
+rumah pada 30 Juni 2011 menjadi 4.07 juta rumah pada 31 
+Desember 2024. Perseroan pertama kali melakukan operasinya di 
+Jabodetabek dan Bali, kemudian berkembang menjadi Surabaya 
+dan sekitarnya, Bandung dan sekitarnya, Malang, Medan, Batam. 
+Saat ini Perseroan terus memperluas jaringannya baik di wilayah 
+jangkauan utamanya maupun di wilayah lainnya. Belanja modal 
+Perseroan yang terkait dengan penggelaran jaringan terdiri dari 
+83% dari jumlah belanja modal pada tahun 2023 dan 84% pada 
+tahun 2024. Perseroan memiliki komitmen modal masing-masing 
+sebesar Rp2,4 triliun dan Rp2,2 trilliun masing-masing pada 
+tanggal 31 Desember 2023 dan 31 Desember 2024.
+Pada kuartal ketiga tahun 2017, Perseroan memperoleh hak guna 
+usaha selama 15 tahun untuk menggunakan Java Fiber Backbone 
+yang terdiri dari kabel serat optik khusus yang tersedia khusus 
+untuk penggunaan Perseroan. Setelah masa 15 tahun, Perseroan 
+akan tetap memiliki hak penggunaan tanpa biaya tambahan 
+selama Java Fiber Backbone tetap dalam kondisi baik. Java 
+Fiber Backbone menyediakan akses ke sekitar 43 kota baru yang 
+sebelumnya belum dimanfaatkan oleh Perseroan. Perseroan 
+percaya bahwa Java Fiber Backbone berpotensi mengurangi 
+biaya internet broadband dengan mengurangi jumlah tambahan 
+bandwidth yang diperoleh Perseroan dari pihak ketiga dan dapat 
+menjadi pondasi bagi perluasan jaringan di masa depan. 
+The Company’s business is capital-intensive, as its operations 
+require the expansion, maintenance, and upgrading of both 
+fiber optic and coaxial cable networks. The Company’s ability to 
+successfully execute its capital expenditure plans has a direct 
+impact on its revenue and profitability.
+Since June 2011, the Company has initiated a network expansion 
+program, increasing the number of home-passed units from 
+approximately 553,000 homes as of June 30, 2011 to 4.07 million 
+homes as of December 31, 2024. The Company initially operated 
+in the Greater Jakarta area (Jabodetabek) and Bali, and has since 
+expanded to Surabaya and surrounding areas, Bandung and its 
+vicinity, Malang, Medan, and Batam. Currently, the Company 
+continues to expand its network in both its core coverage areas 
+and other regions. Capital expenditures related to network 
+deployment accounted for 83% of total capital expenditures in 
+2023 and 84% in 2024. The Company had capital commitments 
+of Rp2.4 trillion and Rp2.2 trillion as of December 31, 2023 and 
+December 31, 2024, respectively.
+In the third quarter of 2017, the Company obtained a 15 year right 
+of use of the Java Fiber Backbone, which consists of dedicated 
+fiber optic cables exclusively available for the Company’s use. 
+After the 15-year period, the Company will retain usage rights at 
+no additional cost as long as the Java Fiber Backbone remains 
+in good condition. The Java Fiber Backbone provides access to 
+approximately 43 new cities that were previously untapped by the 
+Company. The Company believes that the Java Fiber Backbone has 
+the potential to reduce broadband internet costs by decreasing 
+the amount of additional bandwidth it procures from third parties 
+and could serve as a foundation for future network expansion.
+137
+PT Link Net Tbk 2024 Annual Report
+Atas hak untuk menggunakan Java Fiber Backbone tersebut, 
+Perseroan menargetkan untuk meningkatkan jumlah home 
+passed menjadi 4.07 juta pada akhir 2024 yang berfokus pada 
+rumah tanggal di wilayah cakupan inti yang sudah ada dan kota-
+kota baru lainnya di Indonesia. Untuk mencapai target tersebut, 
+Perseroan memperkirakan belanja modalnya untuk penggelaran 
+jaringan sampai terhubung dengan pelanggan (last mile) 
+mencapai lebih kurang USD105 per rumah, atau setara Rp1,68 
+juta per rumah, selain pengeluaran barang modal yang berkaitan 
+dengan perangkat yang berada di sisi pelanggan (customer 
+premises equipment), dan kebutuhan untuk penggelaran jaringan 
+lainnya. 
+Perkiraan ini didasarkan pada biaya rata-rata historis Perseroan 
+dari penggelaran jaringan last mile di wilayah cakupan inti 
+yang ada dan biaya-biaya tersebut dapat bervariasi, antara 
+lain tergantung oleh perubahan geografis wilayah yang dipilih 
+Perseroan untuk peluncuran di masa mendatang, biaya peralatan 
+dan tenaga kerja untuk roll-out, inflasi, dan kondisi ekonomi 
+secara umum.
+With the right to use the Java Fiber Backbone, the Company 
+has targeted to increase its number of home-passed units to 
+4.07 million by the end of 2024, focusing on residential homes 
+in its existing core coverage areas and other new cities across 
+Indonesia. To achieve this target, the Company estimates its capital 
+expenditure for last-mile network deployment (connecting to 
+customers) to be approximately USD 105 per home, or equivalent 
+to Rp1.68 million per home, in addition to capital expenditures 
+related to customer premises equipment and other network 
+deployment needs.
+This estimate is based on the Company’s historical average cost of 
+last-mile network rollout in existing core areas, and these costs 
+may vary depending on several factors, including geographical 
+variations in the areas selected for future rollout, equipment and 
+labor costs, inflation, and general economic conditions.
+Investasi Belanja Modal, Periode 2024
+Capital Expenditure Investment, Period 2024
+No.
+Jenis Investasi
+Types of Investment
+Tujuan Investasi
+Investment Objective
+Nilai (Rp-juta)
+Value (Rp-million)
+1
+Penggelaran Jaringan Dan Pengeluaran 
+Terkait
+Network Rollouts And Related Expenditures
+Ekspansi Cakupan Area
+Coverage
+1,871
+2
+Perangkat Yang Berada Di Sisi Pelanggan
+Customer Premises Equipment (CPE)
+Ekspansi Pelanggan
+Subscriber Growth
+265
+3
+Lainnya
+Others
+Sarana Penunjang
+Supporting Facilities
+86
+Jumlah
+Total
+2,222
+Perseroan berharap untuk membiayai pengeluaran barang modal 
+melalui kas yang dihasilkan dari operasional dan fasilitas utang 
+yang tersedia, sebagaimana disampaikan pada bagian “Struktur 
+Modal” di atas. Perseroan secara aktif memantau persyaratan 
+pendanaannya untuk mengoptimalkan struktur permodalannya 
+dan memastikan bahwa Perseroan memiliki dana yang cukup 
+dari sumber internal dan memiliki fasilitas utang. Sebagian besar 
+belanja modal Perseroan untuk ekspansi jaringan dilakukan 
+dalam mata uang Rupiah dan sisanya dalam dolar AS.
+The Company expects to finance capital expenditures through 
+cash generated from operations and available debt facilities, 
+as stated in the “Capital Structure” section above. The Company 
+actively monitors its funding requirements to optimize its 
+capital structure and ensure that it has sufficient funds from 
+internal sources and access to debt facilities. The majority of the 
+Company’s capital expenditures for network expansion are made 
+in Rupiah, with the remainder in US dollars.
+138
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Dampak Nilai Tukar Mata Uang Asing Terhadap 
+Kinerja Keuangan Perusahaan
+Impact of Foreign Exchange Rates on the Company’s Financial Performance
+Risiko nilai tukar mata uang terutama timbul dari kas dan bank, 
+piutang usaha, utang usaha, akrual dan pinjaman jangka panjang 
+dalam mata uang ASD. Manajemen telah menetapkan kebijakan 
+yang mewajibkan Perseroan untuk mengelola risiko mata uang 
+asing terhadap Rupiah yang timbul dari transaksi komersil di masa 
+depan serta aset dan kewajiban yang diakui. Perseroan mengelola 
+risiko mata uang asing dengan melakukan pengawasan fluktuasi 
+kurs mata uang secara berkelanjutan sehingga Perseroan dapat 
+melakukan tindakan yang tepat.
+Pada tanggal 31 Desember 2024 dan 2023 jika Rupiah melemah/
+menguat sebesar 5% terhadap ASD dengan semua variabel 
+lainnya dianggap tetap, rugi tahun berjalan akan menjadi masing-
+masing sebesar Rp2.125 dan Rp2.496 lebih tinggi/lebih rendah. 
+Dampak terhadap ekuitas akan menjadi sama seperti dampak 
+pada rugi untuk tahun ini.
+Foreign exchange risk mainly arises from cash and bank balances, 
+trade receivables, trade payables, accruals, and long-term loans 
+denominated in USD. Management has established a policy 
+requiring the Company to manage foreign currency risk against 
+the Rupiah arising from future commercial transactions as well 
+as recognized assets and liabilities. The Company manages 
+foreign exchange risk by continuously monitoring currency rate 
+fluctuations, enabling the Company to take appropriate actions.
+As of December 31, 2024 and 2023, if the Rupiah had weakened/
+strengthened by 5% against the USD with all other variables 
+held constant, the loss for the year would have been Rp2,125 and 
+Rp2,496 higher/lower, respectively. The impact on equity would 
+be the same as the impact on the loss for the year.
+Informasi dan Fakta Material yang Terjadi Setelah 
+Tanggal Laporan Akuntan
+Material Information and Facts Subsequent to the Date of the Accountant’s Report
+Pencapaian Target Tahun 2024
+Target Achievement in 2024
+Pada tanggal 23 Januari 2025 Perseroan mengadakan RUPS Luar 
+Biasa sehubungan dengan pengunduran diri Edward Sanusi selaku 
+Direktur Perseroan dan Dr. Shridhir Sariputta Hansa Wijayasuriya 
+dan Jonathan Limbong Parapak selaku Presiden Komisaris dan 
+Komisaris Independen Perseroan.
+On January 23, 2025, the Company held an Extraordinary General 
+Meeting of Shareholders (EGMS) in connection with the resignation 
+of Edward Sanusi as the Company’s Director, and Dr. Shridhir 
+Sariputta Hansa Wijayasuriya and Jonathan Limbong Parapak as 
+the President Commissioner and Independent Commissioner of 
+the Company.
+Pada tahun 2024 menjadi salah satu tonggak penting perjalanan 
+Perseroan, 
+sebelumnya 
+Perseroan 
+menjalankan 
+bisnis 
+fixed broadband untuk pelanggan residential (“ServeCo”). 
+Setelah pengalihan segmen bisnis unit ServeCo pada tanggal 
+27 September 2024, Perseroan fokus pada pengembangan 
+kompetensi bisnis inti yaitu pengembangan jaringan, yang akan 
+menjadikan Perseroan sebagai perusahaan infrastruktur atau 
+FiberCo yang mengoperasikan jaringan fiber akses terbuka yang 
+dapat digunakan oleh berbagai ISP di Indonesia. 
+Melalui perbaikan kerja dan adaptasi yang dilakukan, Perseroan 
+berhasil menjalankan proses pengalihan segmen bisnis 
+residensial dengan cukup baik. Perpindahan segmen bisnis 
+The year 2024 marked an important milestone in the Company’s 
+journey. Previously, the Company operated a fixed broadband 
+business for residential customers (“ServeCo”). Following the 
+transfer of the ServeCo business unit on September 27, 2024, the 
+Company shifted its focus toward developing its core business 
+competencies, particularly network expansion, positioning itself 
+as an infrastructure company or FiberCo that operates an open-
+access fiber network available for use by various ISP in Indonesia. 
+ 
+Through operational improvements and adaptation, the 
+Company successfully managed the transition of the residential 
+business segment. This transition impacted the Company’s 
+139
+PT Link Net Tbk 2024 Annual Report
+residensial ini berdampak terhadap pencapaian pendapatan 
+dan laba Perseroan apabila dibandingkan dengan target yang 
+ditentukan pada awal tahun, di mana terdapat pendapatan dan 
+laba Perseroan yang telah dialihkan. Selain itu, fokus baru atas 
+segmen bisnis korporasi membutuhkan proses penyesuaian dari 
+cara Perseroan menjalankan bisnis di tahun-tahun sebelumnya, 
+yang kemudian berdampak pada belum tercapainya target 
+pendapatan dan laba.
+Di sisi lain, Perseroan terus memperkuat infrastruktur jaringan 
+yang dimiliki, yang terlihat dari realisasi sebanyak 4,07 homes 
+passed. Pencapaian ini tidak terlepas dari upaya Perseroan 
+untuk memberikan layanan akses terbuka (open access) dengan 
+bekerja sama dengan beberapa Internet Service Provider (ISP) di 
+Indonesia.
+revenue and profit achievement compared to the targets set at 
+the beginning of the year, as certain revenues and profits were 
+transferred along with the business segment. Moreover, the new 
+focus on the corporate business segment required adjustments in 
+the Company’s business operations compared to previous years, 
+which also contributed to not fully achieving the initial revenue 
+and profit targets.
+On the other hand, the Company continued to strengthen its 
+network infrastructure, as reflected by the realization of 4.07 
+million homes passed. This achievement was driven by the 
+Company’s efforts to provide open access services through 
+partnerships with several Internet Service Providers (ISPs) across 
+Indonesia.
+Kebijakan Dividen dan Pembagiannya
+Dividend Policy and Distribution
+Kebijakan Dasar tentang Pembagian Dividen
+Keputusan 
+mengenai 
+jumlah 
+dan 
+pembagian 
+dividen 
+direkomendasikan oleh Direksi Perseroan dan disetujui oleh 
+Dewan Komisaris dan tergantung pada sejumlah faktor pada 
+waktu tersebut, termasuk laba bersih Perseroan, ketersediaan 
+cadangan, kebutuhan belanja modal, hasil operasi, arus kas, 
+pembayaran dividen kas oleh Entitas Anak, pembatasan-
+pembatasan kontraktual, dan posisi keuangan Perseroan secara 
+keseluruhan. Hal ini, pada akhirnya, tergantung pada beragam 
+faktor, seperti kesuksesan penerapan stategi bisnis Perseroan, 
+keuangan, kompetisi dan regulasi, keadaan ekonomi secara 
+umum dan faktor-faktor lain yang lebih spesifik bagi Perseroan 
+atau industrinya. Sebagian besar dari faktor-faktor ini berada di 
+luar kontrol Perseroan.
+Persyaratan untuk Mendistribusikan Dividen
+Berdasarkan hukum Indonesia dan Anggaran Dasar Perusahaan, 
+Pemegang Saham harus menyetujui pembagian dividen pada 
+Rapat Umum Pemegang Saham atas rekomendasi Direksi. 
+Pemegang saham pada tanggal pencatatan yang relevan berhak 
+menerima seluruh jumlah dividen yang disetujui, dengan 
+dikenakan pajak penghasilan sesuai peraturan di Indonesia. 
+Dividen yang diterima oleh pemegang saham non-Indonesia 
+dikenai pajak penghasilan sebesar 20% di Indonesia kecuali 
+pemegang saham tersebut menggunakan tarif berdasarkan 
+persetujuan Penghindaran Pajak Berganda yang berlaku (“Double 
+Taxation Avoidance Agreement – DTAA”).
+Pembagian Dividen yang Dilakukan di Tahun 2024 dan 
+Kronologis Pembagian Dividen
+Berdasarkan RUPST tahun buku 2023 yang diselenggarakan pada 
+tanggal 3 Juni 2024, pada mata acara ke-3, pemegang saham 
+menyetujui bahwa untuk tahun buku 2023 tidak dilakukan 
+penyisihan dana cadangan dan pembagian dividen kepada 
+pemegang saham.
+Di bawah ini merupakan kronologis pembayaran dividen yang 
+telah dilakukan Perseroan dalam 5 (lima) tahun terakhir.
+Basic Policy on Dividend Distribution
+Decisions regarding the amount and distribution of dividends 
+are recommended by the Company’s Board of Directors and 
+approved by the Board of Commissioners. These decisions 
+depend on several factors at the time, including the Company’s 
+net income, availability of reserves, capital expenditure 
+requirements, operating results, cash flow, cash dividend 
+payments from subsidiaries, contractual restrictions, and the 
+Company’s overall financial position. Ultimately, this is influenced 
+by various factors such as the success of the Company’s business 
+strategy implementation, financial conditions, competition and 
+regulations, general economic conditions, and other factors 
+specific to the Company or its industry. Many of these factors are 
+beyond the Company’s control.
+Requirements for Dividend Distribution
+Under Indonesian law and the Company’s Articles of Association, 
+dividend distribution must be approved by the shareholders at the 
+General Meeting of Shareholders based on the recommendation 
+of the Board of Directors. Shareholders recorded on the relevant 
+record date are entitled to receive the full amount of the 
+approved dividends, subject to income tax in accordance with 
+Indonesian regulations. Dividends received by non-Indonesian 
+shareholders are subject to a 20% income tax in Indonesia, unless 
+the shareholder qualifies for a reduced rate under an applicable 
+Double Taxation Avoidance Agreement (DTAA).
+Dividend Distribution in 2024 and Dividend Distribution 
+Chronology
+Based on the Annual GMS for fiscal year 2023 held on June 3, 2024, 
+under the third agenda item, the shareholders approved that no 
+reserve allocation or dividend distribution would be made to 
+shareholders for fiscal year 2023.
+Below is the chronology of dividend payments made by the 
+Company over the past 5 (five) years.
+140
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Kronologi Pembagian Dividen Periode 2020-2024
+Chronology of Dividend Distribution Period 2020-2024
+Tahun 
+Dividen
+Dividend year
+Tanggal 
+Pengumuman
+Announcement 
+Date
+Tanggal Pembayaran
+Payment date
+Rasio Pembayaran*
+(%)
+Payout Ratio*
+(%)
+Jumlah Dividen
+(Rp)
+Total Dividend
+(Rp)
+Dividen per 
+Lembar Saham
+(Rp per saham)
+Dividend per 
+Share (Rp per 
+share)
+2023
+3 Juni 2024
+June 3, 2024
+Berdasarkan keputusan pemegang saham dalam RUPST tanggal 3 Juni 2024, disetujui 
+untuk tahun buku 2023 tidak dilakukan penyisihan dana cadangan dan pembagian dividen 
+kepada pemegang saham.
+Based on the shareholders’ resolution at the AGMS held on Juni 3, 2024, it was approved 
+that for fiscal year 2023, no allocation for reserve funds and no dividend distribution to 
+shareholders would be made.
+2022
+5 Mei 2023
+May 5, 2023
+5 Juni 2023
+June 5, 2023
+52
+124.949.292.484
+45,41
+2021
+14 November 2022
+November 14, 2022
+2 Desember 2022
+December 2, 2022
+60
+537.192.708.961
+193,05
+2020
+7 Juni 2021
+June 7, 2021
+9 Juli 2021
+July 9, 2021
+30
+282.587.367.057
+102,70
+2019
+9 Juni 2020
+June 9, 2020
+10 Juli 2020
+July 10, 2020
+55
+491.992.417.228
+178,80
+*) Rasio pembayaran merupakan persentase laba yang dibayar ke pemegang saham sebagai dividen.
+*) The payout ratio represents the percentage of profit paid to shareholders as dividends.
+Realisasi Penggunaan Dana Hasil 
+Penawaran Umum
+Realization of Proceeds from the Public Offering
+Perseroan telah mendaftarkan sahamnya di Bursa Efek Indonesia 
+pada tanggal 2 Juni 2014. Sebagaimana diungkapkan dalam 
+dokumen prospektus penawaran umum perdana saham 
+Perseroan yang diterbitkan pada tanggal 21 Mei 2014, seluruh 
+saham yang ditawarkan dalam penawaran umum perdana 
+Perseroan, adalah sebanyak 304.265.000 saham biasa atas 
+nama dengan nilai nominal masing-masing sebesar Rp100,- 
+yang merupakan saham Perseroan yang dimiliki oleh PT First 
+Media Tbk. Sehingga seluruh dana hasil Penawaran Umum akan 
+diterima oleh First Media selaku pemegang saham Perseroan, 
+dan Perseroan tidak menerima dana hasil Penawaran Umum.
+Terkait dengan hal di atas, maka sebagaimana telah diungkapkan 
+Perseroan dalam dokumen prospektus dan surat No. SB064/CSL/
+LN/IDX/VII/14 tanggal 15 Juli 2014, Perseroan tidak berkewajiban 
+untuk melaporkan realisasi penggunaan dana kepada Otoritas 
+Jasa Keuangan (OJK) sesuai dengan Peraturan OJK No. 30/
+POJK.04/2016 tentang tentang Laporan Realisasi Penggunaan 
+Dana Hasil Penawaran Umum (d/h Peraturan No. X.K.4 Lampiran 
+Keputusan Ketua Bapepam No. Kep-27/ PM/2003 tanggal 17 
+Juli 2003 tentang Laporan Realisasi Penggunaan Dana Hasil 
+Penawaran Umum).
+The Company listed its shares on the Indonesia Stock Exchange on 
+June 2, 2014. As disclosed in the Company’s initial public offering 
+(IPO) prospectus dated May 21, 2014, all shares offered in the IPO—
+totaling 304,265,000 registered common shares with a nominal 
+value of Rp100 each—were shares owned by PT First Media Tbk. As 
+such, all proceeds from the public offering were received by First 
+Media as the shareholder, and the Company did not receive any 
+funds from the public offering.
+In connection with the above, and as disclosed in the Company’s 
+prospectus and letter No. SB064/CSL/LN/IDX/VII/14 dated July 
+15, 2014, the Company is not obligated to report the realization 
+of the use of proceeds to the Financial Services Authority (OJK) in 
+accordance with OJK Regulation No. 30/POJK.04/2016 regarding 
+the Report on the Realization of the Use of Proceeds from Public 
+Offering (formerly Regulation No. X.K.4 Attachment to the Decree 
+of the Chairman of Bapepam No. Kep-27/ PM/2003 dated July 
+17, 2003 regarding the Report on the Realization of the Use of 
+Proceeds from Public Offering).
+141
+PT Link Net Tbk 2024 Annual Report
+Informasi Material Mengenai Investasi, Ekspansi, 
+Divestasi, Penggabungan Usaha, Akuisisi, dan/atau 
+Restrukturisasi Utang/Modal, Transaksi Material, 
+Transaksi Afiliasi, dan Transaksi yang Mengandung 
+Benturan Kepentingan
+Material Information Regarding Investment, Expansion, Divestment, Business 
+Merger, Acquisition, and/or Debt/Capital Restructuring, Material Transactions, 
+Affiliated Transactions, and Transactions Containing Conflict of Interest
+Transaksi Afiliasi dan/atau Transaksi Material sebagai 
+Transaksi Rutin, Berulang dan Berkelanjutan
+Dalam kegiatan usahanya, Perseroan juga telah melakukan 
+transaksi 
+dengan 
+pihak-pihak 
+terafiliasi 
+sebagaimana 
+didefinisikan dalam Undang-undang RI No. 8 Tahun 1995 Undang-
+Undang Pasar Modal Indonesia, dan Peraturan OJK No. 42/
+POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan 
+Kepentingan, yang dilaksanakan pada kondisi dan prasyaratan 
+yang disepakati oleh pihak-pihak tersebut.
+Laporan keuangan teraudit Perseroan untuk tahun buku 2024 
+yang telah diaudit oleh Kantor Akuntan Publik Rintis, Jumadi, 
+Rianto dan Rekan memberikan informasi tentang saldo dan 
+transaksi pihak-pihak berelasi sebagaimana dapat dilihat 
+pada catatan no. 27a . Saldo dan transaksi yang tercatat dalam 
+Laporan keuangan teraudit Perseroan untuk tahun buku 2024 
+pada catatan no. 27b tersebut merupakan transaksi afiliasi atau 
+transaksi material yang dijalankan dalam rangka menghasilkan 
+pendapatan usaha dan dijalankan secara rutin, berulang, dan/
+atau berkelanjutan.
+Transaksi Afiliasi dan/atau Transaksi Material yang 
+Membutuhkan 
+Persetujuan 
+Pemegang 
+Saham 
+Independen
+Di tahun 2024, Perseroan memiliki transaksi berelasi yang wajib 
+mendapatkan persetujuan dari pemegang saham independen. 
+Melalui penyelenggaraan RUPS Luar Biasa tanggal 23 September 
+2024, Perseroan mengajukan rencana untuk melakukan transaksi 
+pengalihan segmen usaha, yang merupakan transaksi afiliasi 
+sebagaimana dimaksud dalam Peraturan OJK No. 42/POJK.04/2020 
+tentang Transaksi Afiliasi dan Benturan Kepentingan, dan juga 
+merupakan transaksi material sebagaimana dimaksud dalam 
+Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material 
+dan Perubahan Kegiatan Usaha.
+RUPS Luar Biasa ini dihadiri para pemegang saham independen 
+dan/atau kuasanya sebanyak 30.439.426 saham yang merupakan 
+72,52% dari jumlah seluruh saham yang dimiliki para pemegang 
+saham independen Perseroan, karenanya ketentuan mengenai 
+kuorum Rapat sebagaimana diatur dalam Pasal 14  ayat (6) 
+Anggaran Dasar Perusahaan dan Pasal 44 Peraturan OJK No. 15/
+POJK.04/2020 tentang Rencana dan Penyelenggaraan Rapat 
+Umum Pemegang Saham Perusahaan Terbuka, telah terpenuhi.
+RUPS Luar Biasa ini secara musyarawarah mufakat telah 
+mengambil keputusan sebagai berikut:
+Affiliated and/or Material Transactions as Routine, 
+Recurring, and Ongoing Transactions
+In the course of its business activities, the Company has also 
+engaged in transactions with affiliated parties as defined under 
+Law of the Republic of Indonesia No. 8 of 1995 on the Indonesian 
+Capital Market Law, and OJK Regulation No. 42/POJK.04/2020 
+concerning Affiliated Transactions and Conflict of Interest 
+Transactions, which were conducted under terms and conditions 
+agreed upon by the respective parties.
+The Company’s audited financial statements for fiscal year 2024, 
+audited by Public Accounting Firm Rintis, Jumadi, Rianto & Rekan, 
+provide information on balances and transactions with related 
+parties as disclosed in Note 27a. The balances and transactions 
+recorded in the Company’s audited financial statements for fiscal 
+year 2024 in Note 27b represent affiliated or material transactions 
+carried out in order to generate business revenue and are 
+conducted on a routine, recurring, and/or ongoing basis.
+Affiliated and/or Material Transactions Requiring 
+Approval from Independent Shareholders
+In 2024, the Company conducted a related-party transaction that 
+required approval from independent shareholders. Through the 
+Extraordinary GMS held on September 23, 2024, the Company 
+proposed a plan to transfer a business segment, which qualifies 
+as an affiliated transaction as referred to in OJK Regulation 
+No. 42/POJK.04/2020 on Affiliated Transactions and Conflict of 
+Interest Transactions, and also as a material transaction under 
+OJK Regulation No. 17/POJK.04/2020 on Material Transactions and 
+Changes in Business Activities.
+The 
+Extraordinary 
+GMS 
+was 
+attended 
+by 
+independent 
+shareholders and/or their proxies representing 30,439,426 shares, 
+equivalent to 72.52% of the total shares held by the Company’s 
+independent shareholders. Therefore, the quorum requirements 
+for the meeting, as stipulated in Article 14 paragraph (6) of 
+the Company’s Articles of Association and Article 44 of OJK 
+Regulation No. 15/POJK.04/2020 concerning the Planning and 
+Implementation of the General Meeting of Shareholders of Public 
+Companies, were met.
+The Extraordinary GMS unanimously reached the following 
+resolutions:
+142
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Menyetujui rencana Perseroan untuk melakukan transaksi 
+pengalihan unit bisnis residensial atau B2C (business-to-
+consumer) dan transaksi terkait, yakni penyewaan jaringan hybrid 
+fixed-coaxial (HCF)/fiber to the home (FTTH) kepada PT XL Axiata 
+Tbk untuk kepentingan penyediaan produk HFC/FTTH kepada 
+para pelanggan residensial yang dialihkan dari Perseroan kepada 
+PT XL Axiata Tbk, yang merupakan Transaksi Afiliasi sebagaimana 
+dimaksud dalam Peraturan OJK No. 42/POJK.04/2020 tentang 
+Transaksi Afiliasi dan Benturan Kepentingan, dan juga merupakan 
+Transaksi Material sebagaimana dimaksud dalam Peraturan OJK 
+No 17/POJK.04/2020 tentang Transaksi Material dan Perubahan 
+Kegiatan Usaha.
+Memberikan kuasa dan wewenang dengan hak substitusi kepada 
+Direksi Perseroan untuk melaksanakan segala tindakan yang 
+diperlukan berkaitan dengan Rencana Transaksi, termasuk tetapi 
+tidak terbatas untuk melakukan penyesuaian-penyesuaian dan/
+atau perubahan-perubahan yang diperlukan atas dokumen 
+Rencana Transaksi, menyatakan kembali keputusan-keputusan 
+dalam Rapat ini, baik sebagian maupun seluruhnya dalam 
+bentuk akta notaris, membuat atau meminta dibuatkan segala 
+akta-akta, 
+surat-surat 
+maupun 
+dokumen-dokumen 
+yang 
+diperlukan, hadir di hadapan pihak/pejabat yang berwenang 
+termasuk notaris, mengajukan permohonan kepada pihak/atau 
+pejabat yang berwenang untuk memperoleh persetujuan atau 
+melaporkan hal tersebut kepada pihak/pejabat yang berwenang 
+serta mendaftarkannya dalam daftar perusahaan sebagaimana 
+dimaksud dalam peraturan perundangan yang berlaku hingga 
+diterimanya permohonan tersebut, tanpa ada yang dikecualikan, 
+dan seluruh tindakan lainnya untuk memenuhi ketentuan 
+peraturan perundang-undangan. 
+a.	 Tanggal transaksi pengalihan hak dan kepentingan bisnis B2C 
+yang dimiliki Perseroan kepada PT XL Axiata Tbk (“Transaksi”) 
+dilakukan pada tanggal 27 September 2024 dengan nilai 
+Transaksi sebesar Rp 1.875.000.000.000,-
+b.	 Nama pihak yang melakukan transaksi adalah Perseroan dan 
+PT XL Axiata Tbk. 
+c.	 PT XL Axiata Tbk  merupakan pemilik 19,22% (sembilan belas 
+koma dua puluh dua persen) saham di dalam Perseroan. Selain 
+itu Perseroan dan PT XL Axiata Tbk merupakan kedua entitas 
+yang dikendalikan secara tidak langsung oleh Axiata Group 
+Berhad dan terdapat kesamaan anggota-anggota manajemen 
+antara Perseroan dan PT XL Axiata Tbk.
+d. Perseroan menunjuk Kantor Jasa Penilai Publik Kusnanto 
+dan Rekan (“KJPP”) sebagai pihak independen untuk menilai 
+kewajaran Transaksi. Berdasarkan data dan informasi 
+yang digunakan dalam laporan pendapat kewajaran, KJPP 
+independen berpendapat bahwa Transaksi adalah wajar.
+e.	 Transaksi ini merupakan Transaksi Material yang mengandung 
+Transaksi 
+Afiliasi 
+sehingga 
+memerlukan 
+persetujuan 
+Pemegang Saham Independen sesuai dengan ketentuan POJK 
+17/POJK.04/2020 Tahun 2020. 
+	
+Direksi dan Dewan Komisaris Perseroan menyatakan bahwa 
+Transaksi merupakan transaksi afiliasi dan Transaksi tidak 
+mengandung benturan kepentingan sebagaimana dimaksud 
+dalam POJK 42/POJK.04/2020 Tahun 2020.
+1. Transaksi bukan merupakan suatu Transaksi Benturan 
+Kepentingan karena tidak terdapat perbedaan kepentingan 
+ekonomis Perseroan, baik dengan kepentingan ekonomis 
+pribadi anggota Direksi, anggota Dewan Komisaris, 
+Approved the Company’s plan to carry out the transfer of its 
+residential or B2C (business-to-consumer) business unit and 
+related transactions, namely the lease of the hybrid fixed-coaxial 
+(HFC)/fiber to the home (FTTH) network to PT XL Axiata Tbk 
+for the purpose of providing HFC/FTTH products to residential 
+customers being transferred from the Company to PT XL Axiata 
+Tbk. This constitutes an Affiliated Transaction as referred to in OJK 
+Regulation No. 42/POJK.04/2020 on Affiliated Transactions and 
+Conflict of Interest Transactions, and also a Material Transaction 
+as referred to in OJK Regulation No. 17/POJK.04/2020 on Material 
+Transactions and Changes in Business Activities.
+Granted authority and power of attorney, with substitution 
+rights, to the Company’s Board of Directors to take all necessary 
+actions related to the Transaction Plan, including but not limited 
+to making any necessary adjustments and/or amendments to 
+the Transaction Plan documents, restating the resolutions of 
+this Meeting, in part or in full, in a notarial deed, preparing or 
+requesting the preparation of any necessary deeds, letters, and 
+documents, appearing before relevant parties/officials including 
+notaries, submitting applications to or notifying relevant parties/
+officials to obtain the necessary approvals or reports, and 
+registering them in the company registry as stipulated by the 
+prevailing laws and regulations—without exception—and carrying 
+out any other actions required to comply with applicable laws and 
+regulations.
+a.	 The date of the business rights and interests transfer 
+transaction of the B2C segment owned by the Company to PT 
+XL Axiata Tbk (“Transaction”) was carried out on September 27, 
+2024, with a transaction value of Rp 1,875,000,000,000.
+b.	 The parties involved in the transaction are the Company and PT 
+XL Axiata Tbk.
+c.	 PT XL Axiata Tbk owns 19.22% (nineteen point twenty-two 
+percent) of shares in the Company. Additionally, both the 
+Company and PT XL Axiata Tbk are entities indirectly controlled 
+by Axiata Group Berhad, and there is a shared management 
+team between the Company and PT XL Axiata Tbk.
+ 
+d.	 The Company appointed the Public Appraisal Service Office 
+(“KJPP”) Kusnanto and Partners as an independent party 
+to assess the fairness of the Transaction. Based on the data 
+and information used in the fairness opinion report, the 
+independent KJPP concluded that the Transaction is fair.
+e.	 This transaction is a Material Transaction involving an Affiliate 
+Transaction, which requires approval from Independent 
+Shareholders in accordance with the provisions of POJK 17/
+POJK.04/2020 of 2020.
+	
+The Board of Directors and the Board of Commissioners of the 
+Company state that the Transaction is an affiliate transaction 
+and does not involve a conflict of interest as defined in POJK 
+42/POJK.04/2020 of 2020.
+1.	 The Transaction is not considered a Conflict of Interest 
+Transaction because there is no economic interest conflict 
+between the Company and the personal economic interests 
+of the members of the Board of Directors, Board of 
+143
+PT Link Net Tbk 2024 Annual Report
+pemegang saham utama, atau pengendali Perseroan, yang 
+dapat merugikan Perseroan. 
+	
+Direksi menyatakan bahwa Transaksi telah melalui prosedur 
+yang memadai untuk memastikan bahwa transaksi afiliasi 
+dilaksanakan sesuai dengan praktik bisnis yang berlaku 
+umum antara lain dilakukan dengan memenuhi prinsip 
+transaksi yang wajar (arm’s-length principle); dan
+2.	 Peran Dewan Komisaris dan komite audit dalam 
+melakukan prosedur yang memadai untuk memastikan 
+bahwa transaksi afiliasi dilaksanakan sesuai dengan praktik 
+bisnis yang berlaku umum antara lain dilakukan dengan 
+memenuhi prinsip transaksi yang wajar (arm’s-length 
+principle).
+Commissioners, major or controlling shareholders of the 
+Company, which could harm the Company.
+	
+The Board of Directors states that the Transaction has gone 
+through adequate procedures to ensure that the affiliate 
+transaction is carried out in accordance with generally 
+accepted business practices, including the arms-length 
+principle; and
+2.	 The role of the Board of Commissioners and the audit 
+committee in ensuring that adequate procedures are 
+followed to ensure the affiliate transaction is executed in 
+line with commonly accepted business practices, including 
+adherence to the arms-length principle, has been carried 
+out.
+Perubahan Peraturan Perundang-undangan yang 
+Berpengaruh Signifikan Terhadap Perusahaan
+Changes in Laws and Regulations that Significantly Affect the Company
+Peraturan Otoritas Jasa Keuangan Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan 
+Saham Perusahaan Terbuka dan Laporan Aktivitas Menjaminkan Saham Perusahaan Terbuka
+Financial Services Authority Regulation Number 4 of 2024 concerning Reports on Ownership or Any Changes in Ownership of 
+Shares in Public Companies and Reports on Public Companies’ Share Collateral Activities
+Penjelasan atas Peraturan dan/atau Perundang-
+undangan yang Diberlakukan
+Short Description the Regulation and/or 
+Legislation
+:
+Sebagai pengganti Peraturan Otoritas Jasa Keuangan Nomor 11/
+POJK.04/2017 tentang Laporan Kepemilikan atau Setiap Perubahan 
+Kepemilikan Saham Perusahaan Terbuka, sebagai peningkatan kualitas 
+keterbukaan informasi oleh pemegang saham tertentu dan pengawasan 
+atas laporan kepemilikan atau setiap perubahan kepemilikan saham 
+Perusahaan Terbuka yang berlaku saat ini sesuai dengan praktik terbaik 
+yang berlaku di negara lain.
+As a replacement for the Financial Services Authority Regulation Number 
+11/POJK.04/2017 concerning Reports on Ownership or Any Changes 
+in Ownership of Shares in Public Companies, this regulation aims to 
+improve the quality of information disclosure by certain shareholders 
+and enhance supervision of the reports on ownership or any changes 
+in ownership of shares in Public Companies in accordance with best 
+practices applied in other countries.
+Dampak Terhadap Perusahaan
+Impact on the Company
+:
+Perseroan akan senantiasa memperhatikan dalam hal terdapat atau 
+terjadi perubahan kepemilikan saham di dalam Perseroan.   
+The Company will always pay attention in the event of any changes in 
+share ownership within the Company.
+144
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Peraturan PT Bursa Efek Indonesia Nomor I-I tentang Pemecahan Saham dan Penggabungan Saham oleh Perusahaan tercatat 
+yang Menerbitkan Efek Bersifat Ekuitas
+Indonesia Stock Exchange Regulation Number I-I concerning Stock Splits and Mergers of Shares by Listed Companies Issuing 
+Equity Securities
+Penjelasan atas 
+Peraturan dan/atau 
+Perundang-undangan 
+yang Diberlakukan
+Short Description the 
+Regulation and/or 
+Legislation
+:
+Sebagai pendukung Peraturan Ototritas Jasa Keuangan Nomor 15/POJK.04/2022 tentang 
+Pemecahan Saham dan Penggabungan Sahan oleh Perusahan Terbuka, dan sebagai pengaturan 
+lebih lanjut mengenai mekanisme pemecahan saham dan penggabungan saham.
+As a supporting regulation for the Financial Services Authority Regulation Number 15/POJK.04/2022 
+concerning Stock Splits and Mergers of Shares by Public Companies, and as further regulation 
+regarding the mechanism for stock splits and mergers of shares.
+Dampak Terhadap 
+Perusahaan
+Impact on the 
+Company
+:
+Perseroan akan senantiasa memperhatikan dalam hal terdapat corporate action dalam hal 
+pemecahan saham dan penggabungan saham di dalam Perseroan.
+The Company will always pay attention to any corporate action regarding stock splits and mergers 
+of shares within the Company.
+Peraturan PT Bursa Efek Indonesia Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting)
+Regulation of the Indonesia Stock Exchange No. I-N concerning the Delisting and Relisting of Securities
+Penjelasan atas 
+Peraturan dan/atau 
+Perundang-undangan 
+yang Diberlakukan
+Short Description the 
+Regulation and/or 
+Legislation
+:
+Sehubungan dengan diterbitkannya Peraturan Otoritas Jasa Keuangan Nomor 3/POJK.04/2021 
+tentang Penyelenggaraan Kegiatan di Bidang Pasar Modal, maka dipandang perlu untuk 
+menyelaraskan ketentuan penghapusan pencatatan (delisting) dan pencatatan kembali (relisting) di 
+Bursa sesuai dengan Peraturan Otoritas Jasa Keuangan.
+In connection with the issuance of the Financial Services Authority Regulation No. 3/POJK.04/2021 
+on the Implementation of Activities in the Capital Market Sector, it is deemed necessary to align 
+the provisions on delisting and relisting on the Exchange in accordance with the Financial Services 
+Authority Regulation.
+Dampak Terhadap 
+Perusahaan
+Impact on the 
+Company
+:
+Perseroan akan senantiasa memperhatikan dalam hal terdapat corporate action dalam hal 
+penghapusan pencatatan (delisting) dan pencatatan kembali (relisting) di Bursa.
+The Company will always pay attention to any corporate action related to delisting and relisting on 
+the Stock Exchange.
+Peraturan PT Bursa Efek Indonesia Nomor I-A tentang Perdagangan Efek Bersifat Ekuitas
+Regulation of the Indonesia Stock Exchange Number I-A regarding Trading of Equity Securities
+Penjelasan atas 
+Peraturan dan/atau 
+Perundang-undangan 
+yang Diberlakukan
+Short Description the 
+Regulation and/or 
+Legislation
+:
+Memperhatikan perkembangan bisnis Pasar Modal, baik secara global maupun di Indonesia dan 
+untuk meningkatkan efisiensi serta likuiditas perdagangan Efek Bersifat Ekuitas di Bursa, serta 
+memperkuat kewenangan dan mempertahankan integritas Data Transaksi Bursa.
+Considering the development of the capital market business, both globally and in Indonesia, and 
+to improve efficiency and liquidity in the trading of equity securities on the Exchange, as well as to 
+strengthen authority and maintain the integrity of Exchange Transaction Data.
+Dampak Terhadap 
+Perusahaan
+Impact on the 
+Company
+:
+Perseroan akan senantiasa memperhatikan dalam hal terdapat aksi korporasi dalam hal pembelian 
+dan/atau penjualan saham Perseroan
+The Company will always pay attention in the event of a corporate action involving the purchase 
+and/or sale of the Company’s shares.
+Peraturan Otoritas Jasa Keuangan Nomor 45 Tahun 2024 tentang Pengembangan dan Penguatan Emiten dan 
+Perusahaan Publik
+Financial Services Authority Regulation Number 45 of 2024 concerning the Development and Strengthening of Issuers and 
+Public Companies
+Penjelasan atas 
+Peraturan dan/atau 
+Perundang-undangan 
+yang Diberlakukan
+Short Description the 
+Regulation and/or 
+Legislation
+:
+Merupakan peraturan pelaksanaan Undang-Undang Nomor 4 tahun 2023 tentang Pengembangan 
+dan Penguatan Sektor Keuangan, diharapkan memberikan kontribusi positif dan mendukung 
+pertumbuhan ekonomi yang inklusif dan berkelanjutan (sustainable) khususnya di bidang Pasar 
+Modal.
+It is an implementing regulation of Law Number 4 of 2023 concerning the Development and 
+Strengthening of the Financial Sector, expected to make a positive contribution and support 
+inclusive and sustainable economic growth, particularly in the Capital Market sector.
+Dampak Terhadap 
+Perusahaan
+Impact on the 
+Company
+:
+Perseroan akan senantiasa memperhatikan dalam hal terdapat perubahan status Perusahaan 
+Terbuka menjadi Perseroan yang tertutup, kewajiban penyampaian laporan informasi dan fakta 
+material serta kedudukan pemegang saham publik dalam likuidasi.
+The Company will always pay attention in the event of any changes in the status of a Public 
+Company becoming a Closed Company, including the obligation to submit reports on material 
+information and facts, as well as the position of public shareholders in liquidation.
+145
+PT Link Net Tbk 2024 Annual Report
+Peraturan PT Kustodian Sentral Efek Indonesia Nomor VI-D tentang Biaya Layanan Jasa Sistem Electronic General Meeting 
+System KSEI (eASY.KSEI)
+Regulation of PT Kustodian Sentral Efek Indonesia Number VI-D on Service Fees for the Electronic General Meeting System 
+(eASY.KSEI) Services.
+Penjelasan atas Peraturan dan/atau Perundang-
+undangan yang Diberlakukan
+Short Description the Regulation and/or 
+Legislation
+:
+Dalam rangka meningkatkan performa, dukungan teknis, perbaikan 
+fitur secara berkelanjutan terhadap sistem eASY.KSEI dan memberikan 
+layanan yang terbaik kepada Pengguna eASY.KSEI EBE, KSEI selaku 
+Penyedia eASY.KSEI memandang perlu adanya pengaturan pembiayaan 
+dengan menggunakan standar yang wajar dan efisien dengan tetap 
+memperhatikan prinsip transparansi dan tata kelola perusahaan yang 
+baik.
+In order to improve performance, technical support, and continuous 
+feature enhancements for the eASY.KSEI system and provide the best 
+service to eASY.KSEI EBE users, KSEI, as the provider of eASY.KSEI, 
+deems it necessary to regulate the financing with reasonable and 
+efficient standards while maintaining transparency and good corporate 
+governance principles.
+Dampak Terhadap Perusahaan
+Impact on the Company
+:
+Perseroan akan senantiasa memperhatikan serta mempersiapkan 
+dalam hal terdapat penyelenggaraan Rapat Umum Pemegang Saham 
+Perseroan.
+The Company will always pay attention to and prepare for the 
+organization of the General Meeting of Shareholders.
+Amendemen PSAK 201 (sebelumnya PSAK 1)
+Amendment to PSAK 201 (previously PSAK 1)
+Penjelasan atas Perubahan Kebijakan Akuntansi 
+yang Diberlakukan
+Description of the Changes in Accounting 
+Policies
+:
+Penyajian Laporan Keuangan
+Presentation of Financial Statements
+Dampak Terhadap Perusahaan
+Impact on the Company
+:
+Tidak memiliki pengaruh material terhadap laporan keuangan 
+konsolidasian Perseroan
+Do not result in material impact to the Company’s consolidated
+financial statements
+Amendemen PSAK 116 (sebelumnya PSAK 73)
+Amendment to PSAK 116 (previously PSAK 73)
+Penjelasan atas Perubahan Kebijakan Akuntansi 
+yang Diberlakukan
+Description of the Changes in Accounting 
+Policies
+:
+Sewa
+Leases
+Dampak Terhadap Perusahaan
+Impact on the Company
+:
+Tidak memiliki pengaruh material terhadap laporan keuangan 
+konsolidasian Grup
+Do not result in material impact to the Company’s consolidated
+financial statements
+Perubahan Kebijakan Akuntansi dan Dampaknya 
+Terhadap Perusahaan
+Changes in Accounting Policies and Their Impact on the Company
+146
+Laporan Tahunan 2024 PT Link Net Tbk
+Analisa dan Pembahasan Manajemen
+Management Discussion and Analysis
+01
+02
+03
+04
+05
+06
+07
+Prospek Usaha Tahun 2025 
+Business Prospects in 2025
+Rencana Strategis dan Proyeksi Kinerja 
+Perusahaan Tahun 2025 
+Strategic Plan and Performance Projections for 2025
+Perekonomian di tahun 2025 diproyeksikan masih akan 
+mengalami berbagai tekanan. Dalam Anggaran Pendapatan dan 
+Belanja Negara (APBN) tahun 2025, Pemerintah Indonesia optimis 
+untuk dapat mencapai pertumbuhan ekonomi pada level 5,2%. 
+Bauran kebijakan fiskal, dan moneter, serta sektor keuangan 
+dirancang untuk dapat mendorong pertumbuhan ekonomi 
+domestik yang kuat dan berkelanjutan.
+Menariknya, optimisme Indonesia ini dibangun di tengah 
+perekonomian dunia yang masih akan memperlihatkan tensi 
+yang cukup tinggi. Dalam dokumen WEO yang dirilis IMF pada 
+Januari 2025, perekonomian dunia di tahun 2025 diproyeksikan 
+tumbuh sebesar 3,3% atau tumbuh melandai dibandingkan 
+tahun 2024 sebesar 3,2%. Pertumbuhan minim ini terutama 
+akan didorong perekonomian negara maju, khususnya Amerika 
+Serikat, yang berupaya menjalankan kebijakan proteksionisme 
+oleh pemerintahan baru dalam rangka mengoptimalkan sumber 
+daya internalnya. Di sisi lain, kebijakan ekonomi Amerika Serikat 
+ini akan berdampak langsung pada perang tarif dengan Tiongkok, 
+rantai pasokan dan inflasi, serta neraca perdagangan dunia.
+Pada sektor telekomunikasi, berbagai tantangan akan menjadi 
+fokus dan perhatian bagi pelaku usaha di sektor ini. Persaingan yang 
+ketat, perubahan regulasi khususnya dari Pemerintah Indonesia 
+yang baru terpilih pada Februari 2024 yang akan berdampak pada 
+investasi modal asing, serta perkembangan Artificial intelligence 
+(AI) dan persaingan teknologi semikonduktor, akan membentuk 
+perkembangan sektor telekomunikasi di sepanjang tahun 2025.
+Selain itu, persaingan yang cukup ketat telah telah mendorong 
+berbagai 
+perusahaan 
+telekomunikasi 
+untuk 
+melakukan 
+merger dan konsolidasi untuk dapat memperkuat posisinya, 
+yang telah dilakukan dalam beberapa tahun terakhir. Hal ini 
+juga yang melatarbelakangi implementasi delayering antara 
+Perseroan dan PT XL Axiata Tbk, untuk memperkuat posisi dalam 
+mengoptimalkan peluang di pasar Fixed Broadband (FBB) dan 
+Fixed Mobile Convergence (FMC) Indonesia yang masih rendah 
+penetrasinya.
+The economic outlook for 2025 is expected to face various 
+challenges. In the 2025 State Budget (APBN), the Indonesian 
+government remains optimistic about achieving an economic 
+growth rate of 5.2%. A balanced mix of fiscal, monetary, and 
+financial sector policies has been designed to support robust and 
+sustainable domestic economic growth.
+This optimism comes amid a global economy that is likely to 
+experience ongoing tensions. According to the World Economic 
+Outlook (WEO) report released by the IMF in January 2025, 
+global economic growth is projected to moderate to 3.3% in 
+2025, slightly higher than the 3.2% growth forecast for 2024. This 
+subdued growth will primarily be driven by advanced economies, 
+particularly the United States, which is pursuing protectionist 
+policies under its new administration to optimize domestic 
+resources. This shift will directly impact the trade war with China, 
+global supply chains, inflation, and the global trade balance.
+In the telecommunications sector, industry players will face a 
+number of challenges. Intense competition, regulatory changes 
+especially from the newly elected Indonesian government in 
+February 2024, which is expected to impact foreign investment, 
+and developments in Artificial Intelligence (AI) and the 
+competition in semiconductor technologies will all shape the 
+telecommunications landscape throughout 2025.
+Furthermore, the competitive pressures have prompted 
+telecommunications companies to pursue mergers and 
+consolidations to strengthen their market positions, a trend 
+that has been observed over recent years. This also underpins 
+the delayering strategy between the Company and PT XL Axiata 
+Tbk, aimed at reinforcing their position and capitalizing on 
+opportunities in the underdeveloped Fixed Broadband (FBB) and 
+Fixed Mobile Convergence (FMC) markets in Indonesia.
+Setelah Perseroan menyelesaikan pemindahan segmen bisnis 
+ServeCo, Perseroan akan lebih berfokus pada bisnis FiberCo, dan 
+mengembangkan segmen bisnis usaha EnterpriseCo dan MediaCo 
+yang telah dijalankan selama ini. 
+After completing the transfer of the ServeCo business segment, the 
+Company will focus more on the FiberCo business and continue to 
+develop the EnterpriseCo and MediaCo business segments that 
+that have been operational thus far.
+147
+PT Link Net Tbk 2024 Annual Report
+Peta Jalan Usaha: Rencana Perusahaan ke Depan 
+Business Roadmap: The Company’s Future Plans
+FiberCo (segmen bisnis jaringan) dengan ketersediaan jaringan 
+yang dimiliki lebih dari 4 juta homes passed akan berfokus pada 
+penggelaran jaringan dan bekerja sama dengan Internet Service 
+Provider lain untuk dijadikan open access yang diharapkan dapat 
+mempeluas akses internet serta meningkatkan konektivitas 
+masyarakat. Bisnis FiberCo yang dijalankan Perseroan pada tahun 
+2025 diharapkan mampu menambah 400 ribu homes passed 
+untuk dapat meningkatkan kemampuan jaringannya.
+EnterpriseCo (segmen bisnis Pelanggan B2B) akan tetap 
+mempertahankan dan memberikan layanan kepada klien utama 
+yang telah menjadi pelanggan Perseroan dengan berfokus 
+pada tiga layanan yang telah dijalankan sebelumnya yaitu 
+Connectivity, ICT dan Cyber security solution, dan Corporate TV 
+serta meningkatkan layanan managed service - SDWAN.
+MediaCo (segmen bisnis Media), sebelumnya Perseroan 
+memenuhi sendiri kebutuhan akan ketersediaan kanal hiburan. 
+Dengan adanya perubahan bisnis dari retail ke wholesale, 
+MediaCo akan menjadi penyedia media hiburan bagi pelanggan 
+residential PT XL Axiata Tbk, serta akan menawarkan kepada 
+penyedia layanan internet lainnya, serta keperluan EnterpriseCo 
+sendiri bagi layanan hotel dan rumah sakit.
+Perseroan akan terus mengembangkan Data Analytic dan 
+otomatisasi proses sebagai nilai-nilai kompetitif yang bernilai 
+tambah dalam memberikan user experience yang lebih baik bagi 
+pelanggan. Dengan memanfaatkan keahlian di sektor teknologi 
+digital dan memperluas portofolio layanan, Perseroan optimis 
+dapat memenuhi kebutuhan pasar yang terus berkembang dan 
+meningkatkan pangsa pasar di industri teknologi informasi.
+Proyeksi kinerja keuangan juga akan terus bertransformasi 
+atas proses transisi dan peralihan bisnis Perseroan, di mana 
+pendapatan dan laba bersih akan mengalami koreksi dan 
+penyesuaian.
+Untuk dividen, sejalan dengan kerugian yang masih dicatatkan 
+Perseroan atas hasil usaha tahun 2024, manajemen mengajukan 
+usulan dan mengalokasikan untuk tidak membayarkan dividen 
+pada RUPS Tahunan tahun buku 2024.
+FiberCo (network business segment), with a network covering 
+more than 4 million homes passed, will focus on network 
+deployment and collaborate with other Internet Service Providers 
+to create open access, which is expected to expand internet access 
+and enhance connectivity for the public. In 2025, the FiberCo 
+business is expected to add 400 thousand homes passed to 
+further enhance its network capabilities.
+EnterpriseCo (B2B customer business segment) will continue to 
+maintain and provide services to its key clients, focusing on three 
+core services: Connectivity, ICT and Cybersecurity solutions, and 
+Corporate TV, while also expanding managed services such as 
+SDWAN.
+MediaCo (Media business segment), previously the Company 
+fulfilled its own needs for entertainment channel availability. 
+With the business shift from retail to wholesale, MediaCo will 
+become the entertainment media provider for PT XL Axiata Tbk’s 
+residential customers, as well as offering to other internet service 
+providers, and EnterpriseCo’s own needs for hotel and hospital 
+services.
+The Company will continue to develop data analytics and process 
+automation as competitive value-added elements to provide a 
+better user experience for customers. By leveraging expertise in 
+the digital technology sector and expanding its service portfolio, 
+the Company is optimistic about meeting the ever-evolving 
+market demand and increasing market share in the information 
+technology industry.
+Financial performance projections will also continue to transform 
+as the Company undergoes business transition and realignment, 
+where revenues and net profits will experience corrections and 
+adjustments.
+Regarding dividends, in line with the losses recorded by the 
+Company from its operations in 2024, management proposes 
+and allocates for no dividend distribution at the Annual General 
+Meeting of Shareholders for fiscal year 2024.
+Fokus utama Perseroan ke depan adalah pada model bisnis 
+wholesale 
+untuk 
+infrastruktur 
+fiber, 
+dimana 
+Perseroan 
+berencana membuka jaringan untuk setiap operator yang ingin 
+memanfaatkan infrastruktur fiber Perseroan. Guna meningkatkan 
+penggunaan jaringan fiber pada tahun 2025, Perseroan membuka 
+diri bagi operator lain yang akan bekerjasama dengan Perseroan.
+The Company’s primary focus going forward is on a wholesale 
+business model for fiber infrastructure, where the Company 
+plans to open its network to any operator wishing to utilize 
+the Company’s fiber infrastructure. To increase fiber network 
+utilization in 2025, the Company is welcoming collaboration 
+opportunities with other operators.
+148
+Laporan Tahunan 2024 PT Link Net Tbk
+148
+Laporan Tahunan 2024 PT Link Net Tbk
+148
+Laporan Tahunan 2024 PT Link Net Tbk

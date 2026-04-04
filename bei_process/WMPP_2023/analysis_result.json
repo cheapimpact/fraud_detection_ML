@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-WMPP-att1.pdf",
+    "ticker": "WMPP_2023",
+    "mdma_start": "56",
+    "mdma_end": "69",
+    "Positive_Sum": 1759.0,
+    "Negative_Sum": 2303.0,
+    "Total_Matched_Words": 1323,
+    "Total_Word": 8239,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

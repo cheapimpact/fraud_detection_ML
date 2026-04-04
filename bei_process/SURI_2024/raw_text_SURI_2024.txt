@@ -1,0 +1,1732 @@
+58
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+TINJAUAN MAKROEKONOMI
+Macroeconomic Overview
+Pada 
+tahun 
+2024, 
+ekonomi 
+global 
+menunjukkan 
+tren 
+pertumbuhan yang stabil meskipun masih menghadapi 
+tantangan yang cukup signifikan. Berdasarkan laporan World 
+Economic Outlook (WEO) yang dirilis oleh International 
+Monetary Fund (IMF) pada Januari 2025, pertumbuhan 
+ekonomi dunia diperkirakan mencapai 3,2%, sedikit lebih tinggi 
+dibandingkan dengan proyeksi sebelumnya sebesar 3,1% yang 
+dipublikasikan dalam laporan WEO Oktober 2024. Meskipun 
+angka ini mengindikasikan perbaikan dibandingkan tahun-
+tahun sebelumnya, pertumbuhan tersebut masih lebih rendah 
+dibandingkan dengan rata-rata historis sebesar 3,7% pada 
+periode 2000–2019. Perlambatan ini dipengaruhi oleh berbagai 
+faktor eksternal, termasuk konflik geopolitik, kebijakan 
+moneter yang ketat, serta perubahan struktur perdagangan 
+internasional. Beberapa negara telah mulai melonggarkan 
+kebijakan suku bunga guna mendorong investasi dan konsumsi 
+domestik, namun pemulihan ekonomi masih berlangsung 
+secara bertahap dan tidak merata di berbagai wilayah.
+Dari perspektif pertumbuhan regional, terdapat variasi yang 
+cukup besar dalam pencapaian ekonomi di berbagai kawasan 
+dunia. Asia Timur dan Pasifik diproyeksikan mengalami 
+perlambatan dari 5,1% pada 2024 menjadi 4,6% pada 2025, 
+dan lebih lanjut turun menjadi 4,1% pada 2026, yang sebagian 
+besar disebabkan oleh perlambatan pertumbuhan ekonomi 
+Tiongkok akibat ketidakstabilan di sektor properti dan 
+penurunan investasi domestik. Sebaliknya, Timur Tengah dan 
+Afrika Utara diperkirakan mengalami akselerasi pertumbuhan 
+dari 1,8% pada 2024 menjadi 3,4% pada 2025 dan 4,1% pada 
+2026, didukung oleh meningkatnya permintaan domestik dan 
+kenaikan harga minyak dunia. Sementara itu, Amerika Latin dan 
+Karibia diperkirakan mempertahankan pertumbuhan ekonomi 
+yang moderat dalam kisaran 2,2% hingga 2,8%, seiring dengan 
+tekanan inflasi dan keterbatasan ruang fiskal dalam pemberian 
+stimulus ekonomi. 
+Perekonomian 
+Indonesia 
+pada 
+tahun 
+2024 
+mencatat 
+pertumbuhan 
+sebesar 
+5,03%, 
+sedikit 
+lebih 
+rendah 
+dibandingkan dengan pertumbuhan tahun sebelumnya sebesar 
+5,05%, sebagaimana dilaporkan oleh Badan Pusat Statistik 
+(BPS). Meskipun terjadi sedikit perlambatan, perekonomian 
+nasional tetap menunjukkan stabilitas yang kuat. Dari sisi 
+produksi, sektor dengan pertumbuhan tertinggi adalah Jasa 
+Lainnya yang meningkat sebesar 9,80%, diikuti oleh sektor 
+Transportasi dan Pergudangan (8,69%), serta Penyediaan 
+Akomodasi dan Makan Minum (8,56%). Selain itu, sektor Industri 
+Pengolahan, yang memiliki kontribusi dominan dalam struktur 
+Produk Domestik Bruto (PDB) nasional, tumbuh sebesar 4,43%, 
+menegaskan peran strategis sektor ini dalam perekonomian 
+Indonesia. (Sumber: Badan Pusat Statistik, 2025).
+Sumber: World Economic Outlook (WEO) oleh International Monetary Fund (IMF) 
+pada Januari 2025, Global Economic Prospects oleh The World Bank pada Januri 
+2025, Badan Pusat Statistik (BPS).
+In 2024, the global economy showed a stable growth trend 
+although it still faced significant challenges. Based on the World 
+Economic Outlook (WEO) report released by the International 
+Monetary Fund (IMF) in January 2025, world economic growth 
+is estimated to reach 3.2%, slightly higher than the previous 
+projection of 3.1% published in the WEO report in October 
+2024. Although this figure indicates an improvement compared 
+to the previous years, the growth is still lower than the historical 
+average of 3.7% in the 2000–2019 period. This slowdown is 
+influenced by various external factors, including geopolitical 
+conflicts, tight monetary policy, and changes in the structure 
+of international trade. Several countries have begun to relax 
+interest rate policies to encourage domestic investment 
+and consumption, but economic recovery is still gradual and 
+uneven across regions.
+From a regional growth perspective, there is considerable 
+variation in economic performance across the world. East 
+Asia and the Pacific is projected to slow from 5.1% in 2024 to 
+4.6% in 2025, and further down to 4.1% in 2026, largely due 
+to a slowdown in China’s economic growth due to instability 
+in the property sector and a decline in domestic investment. 
+In contrast, the Middle East and North Africa is expected to 
+accelerate from 1.8% in 2024 to 3.4% in 2025 and 4.1% in 
+2026, supported by rising domestic demand and rising global 
+oil prices. Meanwhile, Latin America and the Caribbean is 
+expected to maintain moderate economic growth in the range 
+of 2.2% to 2.8%, in line with inflationary pressures and limited 
+fiscal space for economic stimulus.
+The Indonesian economy in 2024 recorded a growth of 5.03%, 
+slightly lower than the previous year’s growth of 5.05%, as 
+reported by the Statistics Indonesia (BPS). Despite a slight 
+slowdown, the national economy continues to show strong 
+stability. In terms of production, the sector with the highest 
+growth was Other Services which increased by 9.80%, followed 
+by the Transportation and Warehousing sector (8.69%), and 
+the Provision of Accommodation and Food and Beverages 
+(8.56%). In addition, the Manufacturing Industry sector, which 
+has a dominant contribution to the structure of the national 
+Gross Domestic Product (GDP), grew by 4.43%, confirming 
+the strategic role of this sector in the Indonesian economy. 
+(Source: Statistics Indonesia, 2025).
+Source: World Economic Outlook (WEO) by the International Monetary Fund (IMF) 
+in January 2025, Global Economic Prospects by The World Bank in January 2025, 
+Central Bureau of Statistics (BPS).
+PT. MAJA AGUNG LATEXINDO Tbk
+59
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+TINJAUAN INDUSTRI
+Industrial Overview
+Industri karet Indonesia mengalami berbagai tantangan 
+dalam beberapa tahun terakhir. Berdasarkan data Gabungan 
+Perusahaan Karet Indonesia (Gapkindo), produksi karet alam 
+nasional mengalami penurunan dari 3,68 juta ton pada 2017 
+menjadi 2,24 juta ton pada 2023, dengan proyeksi lebih lanjut 
+turun menjadi 2,15 juta ton pada akhir 2024. Sejalan dengan 
+tren ini, ekspor karet alam juga mengalami kontraksi, dari 3,27 
+juta ton pada 2017 menjadi 1,79 juta ton pada 2023, dengan 
+proyeksi 1,55 juta ton pada akhir 2024. Penurunan produksi dan 
+ekspor ini disebabkan oleh rendahnya harga karet alam dalam 
+beberapa tahun terakhir, yang dipengaruhi oleh ketidakstabilan 
+geopolitik global dan lemahnya permintaan internasional 
+terhadap komoditas tersebut. 
+Untuk meningkatkan ketahanan industri alat kesehatan 
+dalam negeri, Pemerintah melalui Kementerian Kesehatan 
+mendorong percepatan produksi alat kesehatan lokal. Salah 
+satu langkah strategis yang diambil adalah mengoptimalkan 
+pemanfaatan bahan baku dalam negeri dengan target lebih 
+dari 50% bahan baku dan komponen alat kesehatan diproduksi 
+secara lokal. Kebijakan ini bertujuan untuk memperkuat rantai 
+pasok nasional serta menciptakan dampak ekonomi yang lebih 
+luas di dalam negeri. Selain itu, penerapan Industri 4.0 di sektor 
+farmasi diharapkan dapat meningkatkan kualitas dan kuantitas 
+produksi, serta mendorong pertumbuhan jumlah perusahaan 
+yang bergerak di bidang produksi farmasi dan alat kesehatan.
+Di sektor medis, kebutuhan akan Alat Pelindung Diri (APD), 
+khususnya sarung tangan medis, terus meningkat seiring 
+dengan 
+meningkatnya 
+kesadaran 
+masyarakat 
+terhadap 
+kesehatan. Dalam standar prosedur medis, tenaga kesehatan 
+diwajibkan menggunakan sarung tangan baru untuk setiap 
+pemeriksaan 
+pasien 
+guna 
+memastikan 
+sterilitas 
+dan 
+keselamatan pasien. Dengan semakin banyaknya masyarakat 
+yang rutin melakukan pemeriksaan kesehatan di fasilitas medis, 
+permintaan terhadap sarung tangan diproyeksikan akan terus 
+mengalami peningkatan, yang pada akhirnya memberikan 
+peluang pertumbuhan bagi industri alat kesehatan dalam 
+negeri.
+Sumber: Gabungan Perusahaan Karet Indonesia (Gapkindo) dan Kementerian 
+Kesehatan
+The Indonesian rubber industry has experienced various 
+challenges in recent years. Based on data from the Indonesian 
+Rubber Companies Association (Gapkindo), national natural 
+rubber production decreased from 3.68 million tons in 2017 to 
+2.24 million tons in 2023, with a further decline projected to 2.15 
+million tons by the end of 2024. In line with this trend, natural 
+rubber exports have also contracted, from 3.27 million tons in 
+2017 to 1.79 million tons in 2023, with a projection of 1.55 million 
+tons by the end of 2024. This decline in production and exports 
+is due to low natural rubber prices in recent years, influenced by 
+global geopolitical instability and weak international demand 
+for the commodity.
+To improve the resilience of the domestic medical device 
+industry, the Government through the Ministry of Health 
+is encouraging the acceleration of local medical device 
+production. One of the strategic steps taken is to optimize 
+the use of domestic raw materials with a target of more than 
+50% of raw materials and components of medical devices 
+being produced locally. This policy aims to strengthen the 
+national supply chain and create a broader economic impact 
+domestically. In addition, the implementation of Industry 4.0 in 
+the pharmaceutical sector is expected to improve the quality 
+and quantity of production, as well as encourage the growth 
+of the number of companies engaged in the production of 
+pharmaceuticals and medical devices.
+In the medical sector, the need for Personal Protective 
+Equipment (PPE), especially medical gloves, continues to 
+increase along with increasing public awareness of health. In 
+standard medical procedures, health workers are required to 
+use new gloves for each patient examination to ensure sterility 
+and patient safety. With more and more people routinely 
+undergoing health checks at medical facilities, the demand for 
+gloves is projected to continue to increase, which ultimately 
+provides growth opportunities for the domestic medical 
+device industry.
+Source: Indonesian Rubber Companies Association (Gapkindo) and Ministry of 
+Health
+60
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+KEBIJAKAN DAN STRATEGI USAHA
+Business Policy and Strategy 
+Dalam menjalankan kegiatan usahanya, Perseroan mempunyai 
+strategi agar Perseroan dapat mencapai performa yang 
+diinginkan. Berikut adalah beberapa strategi yang ditetapkan:
+1.	
+Menggunakan teknologi produksi terbaru yang efisien dan 
+ramah lingkungan;
+2.	 Penelitian dan Pengembangan yang Berkelanjutan;
+3.	 Melakukan penambahan kapasitas produksi;
+4.	 Memanfaatkan sinergi grup Perseroan;
+5.	 Melakukan pengembangan karyawan yang berkelanjutan;
+6.	 Meningkatkan kerjasama produk OEM;
+7.	
+Meningkatkan dampak sosial dan lingkungan.
+In carrying out its business activities, the Company has a 
+strategy to achieve the desired performance. The following are 
+some of the strategies that have been set:
+1.	
+Using the latest efficient and environmentally friendly 
+production technology;
+2.	 Continuous Research and Development;
+3.	 Increasing production capacity;
+4.	 Utilizing the synergy of the Company’s group;
+5.	 Conducting sustainable employee development;
+6.	 	Increasing OEM product cooperation;
+7.	
+Increasing social and environmental impacts.
+TINJAUAN PEMASARAN
+Marketing Overview
+Pangsa Pasar
+Market Share
+Perseroan 
+telah 
+melakukan 
+distribusi 
+dan 
+pemasaran 
+untuk seluruh wilayah/ provinsi di Indonesia. Sedangkan 
+untuk distribusi dan pemasaran di luar negeri mencakup 
+Amerika dan Amerika Latin diantaranya Guatemala, Eropa 
+Timur dan Uni Eropa, Timur Tengah – Dubai, Asia – Jepang, 
+Korea Selatan, Singapore, Hongkong, dan Mongolia. Dalam 
+rangka memperluas pemasaran Perseroan secara rutin 
+berpartisipasi dalam pameran domestik dan internasional 
+untuk meningkatkan pengakuan merek dan produk Perseroan 
+serta untuk memperluas jaringan pemasok dan pelanggan 
+Perseroan.
+The Company has distributed and marketed to all regions/
+provinces in Indonesia. Meanwhile, overseas distribution 
+and marketing include America and Latin America including 
+Guatemala, Eastern Europe and the European Union, the Middle 
+East - Dubai, Asia - Japan, South Korea, Singapore, Hong Kong, 
+and Mongolia. In order to expand marketing, the Company 
+routinely participates in domestic and international exhibitions 
+to increase brand and product recognition of the Company 
+and to expand the Company’s supplier and customer network.
+Strategi Pemasaran
+Marketing Strategy
+Strategi pemasaran senantiasa ditingkatkan oleh Perseroan 
+untuk memperluas pasar dan meningkatkan kinerja keuangan 
+maupun operasional, di antaranya dengan cara:
+1.	
+Mengikuti kegiatan pameran bidang alat Kesehatan dan 
+perawatan diri untuk skala nasional dan internasional;
+2.	 Menjaga kualitas, konsistensi serta kontinuitas hasil 
+produksi;
+3.	 Menjaga stabilitas stok bahan baku yang cukup;
+4.	 Senantiasa menjalin komunikasi yang baik dengan seluruh 
+pelanggan, serta menerima masukan dari pelanggan terkait 
+peningkatan kualitas produk; dan
+5.	 Melakukan optimalisasi sumber daya dan cadangan melalui 
+program pelatihan.
+The Company continuously improves its marketing strategy 
+to expand the market and improve financial and operational 
+performance, including by:
+1.	
+Participating in national and international health and 
+personal care equipment exhibitions;
+2.	 Maintaining 
+quality, 
+consistency, 
+and 
+continuity 
+of 
+production results;
+3.	 Maintaining sufficient raw material stock stability;
+4.	 Always 
+maintaining 
+good 
+communication 
+with 
+all 
+customers, and receiving input from customers regarding 
+product quality improvements; and
+5.	 Optimizing resources and reserves through training 
+programs.
+PT. MAJA AGUNG LATEXINDO Tbk
+61
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+TINJAUAN PER SEGMEN USAHA
+Overview Per Business Segment
+Berikut disajikan tahapan dan gambaran terkait proses produksi 
+sarung tangan medis Perseroan:
+1.	
+Peracikan Lateks
+Lateks 
+dicampur 
+dengan 
+bahan 
+kimia 
+lain 
+untuk 
+memfasilitasi vulkanisasi untuk memastikan kinerja yang 
+benar dari film lateks.
+2.	 Membersihkan pembentuk (cetakan) dari residu
+Larutan alkali, zat pengoksidasi dan surfaktan digunakan 
+untuk memastikan kualitas semua sarung tangan yang 
+diproduksi.
+The following are the stages and descriptions related to the 
+Company’s medical glove production process:
+1.	
+Latex Compounding
+Latex is mixed with other chemicals to facilitate vulcanization 
+to ensure proper performance of the latex film.
+2.	 Cleaning the former (mold) from Residue
+Alkali solutions, oxidizing agents and surfactants are used 
+to ensure the quality of all gloves produced. 
+Kegiatan Pemasaran
+Marketing Activities
+Sebagai 
+upaya 
+memperluas 
+pasar 
+dan 
+meningkatkan 
+pengakuan merek, Perseroan secara rutin berpartisipasi 
+dalam pameran domestik dan internasional, yang tidak hanya 
+bertujuan untuk memperkenalkan produk kepada pasar yang 
+lebih luas, tetapi juga untuk memperkuat jaringan dengan 
+pemasok dan pelanggan guna mendorong pertumbuhan bisnis 
+yang berkelanjutan.
+Sebagai contoh, Perseroan berpartisipasi dalam MEDICA 
+(pameran perdagangan kesehatan terbesar di Jerman), China 
+International Medical Equipment Fair di Shanghai, Medical 
+Design & Manufacturing West (diselenggarakan di berbagai 
+lokasi di Amerika Serikat seperti Philadelphia), Arab Health 
+di Dubai, Medical Fair Asia di Singapura, Hospitalar di Brazil, 
+dan Hospital Expo di Jakarta. Pameran-pameran ini juga 
+memperluas basis pengetahuan Perseroan dan memungkinkan 
+Perseroan untuk terus mengikuti tren pasar terkini serta produk-
+produk, teknologi, dan inovasi baru.
+In an effort to expand the market and increase brand 
+recognition, the Company regularly participates in domestic 
+and international exhibitions, which not only aim to introduce 
+products to a wider market, but also to strengthen networks 
+with suppliers and customers to drive sustainable business 
+growth.
+For example, the Company participates in MEDICA (the largest 
+healthcare trade fair in Germany), China International Medical 
+Equipment Fair in Shanghai, Medical Design & Manufacturing 
+West (held in various locations in the United States such 
+as Philadelphia), Arab Health in Dubai, Medical Fair Asia in 
+Singapore, Hospitalar in Brazil, and Hospital Expo in Jakarta. 
+These exhibitions also expand the Company’s knowledge base 
+and enable the Company to keep abreast of the latest market 
+trends and new products, technologies, and innovations.
+Pada tahun 2024, Perseroan berhasil memproduksi sarung 
+tangan medis sebanyak 236.000.000 unit.
+In 2024, the Company succeeded in producing 236,000,000 
+units of medical gloves.
+Kinerja Produksi
+Production Performance
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Produksi (Unit)
+Production (Unit)
+236.000.000
+324.061.108
+(27,17)%
+(88.061.108)
+62
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+3.	 Proses Koagulan
+Koagulan (biasanya kalsium nitrat) digunakan untuk 
+mengontrol jumlah lateks yang disimpan dan oleh karena itu 
+ketebalan sarung tangan.
+4.	 	Proses Dipping
+Perendaman atau pencelupan cetakan dalam larutan lateks. 
+Kuratif, antioksidan, dan stabilisator digunakan. Kemudian 
+dilanjutkan dengan pencucian air panas. Ini menghilangkan 
+sisa kalsium nitrat dan protein larut.
+5.	 	Proses Pengeringan
+Oven pengeringan dan vulkanisasi - molekul lateks 
+dipanaskan, menghasilkan perubahan sifat material yang 
+menghasilkan peningkatan elastisitas dan kekuatan.
+6.	 Proses Leaching
+Pencucian pasca vulkanisasi. Ini menghilangkan protein 
+alami yang dapat menyebabkan alergi di antara pengguna 
+individu yang sensitif.
+7.	 Proses Coating
+Perawatan permukaan sarung tangan. Sarung tangan 
+berbentuk bubuk atau (untuk sarung tangan bebas bedak) 
+dilapisi dengan polimer agar lebih mudah dipakai.
+8.	 Proses Stripping (Pengupasan)
+Sarung tangan dilepas dari pembentuknya. Setiap sarung 
+tangan dibalik dengan kombinasi penggunaan udara 
+terkompresi yang memungkinkan pekerja melepaskan 
+sarung tangan secara manual dari cetakan. Pengupasan 
+semi-otomatis sedang diperkenalkan secara bertahap.
+9.	 Proses Pemeriksaan Muti dan Pengemasan
+Setelah pemeriksaan jaminan kualitas, sarung tangan 
+kemudian akan dikemas. Pengujian sampel secara teratur 
+dilakukan untuk mengevaluasi permeabilitas dan untuk 
+mendeteksi residu protein lateks.
+3.	 Coagulant Process
+A coagulant (usually calcium nitrate) is used to control the 
+amount of latex deposited and therefore the thickness of 
+the glove.
+4.	 Dipping Process
+Soaking or immersing the mold in a latex solution. Curatives, 
+antioxidants and stabilizers are used. This is followed by hot 
+water washing. This removes residual calcium nitrate and 
+soluble proteins.
+5.	 Drying Process
+Drying and vulcanization oven - the latex molecules are 
+heated, resulting in changes in the material properties 
+resulting in increased elasticity and strength.
+6.	 Leaching Process
+Post-vulcanization washing. This removes natural proteins 
+that can cause allergies among sensitive individual users.
+7.	 Coating Process
+Glove surface treatment. Gloves are powdered or (for 
+powder-free gloves) coated with polymer to make them 
+easier to put on.
+8.	 Stripping Process
+The gloves are removed from the former. Each glove is 
+turned inside out using a combination of compressed air 
+that allows the worker to manually remove the glove from 
+the mold. Semi-automatic stripping is being gradually 
+introduced.
+9.	 Muti-Inspection and Packaging Process
+After the quality assurance inspection, the gloves are then 
+packaged. Regular sample testing is carried out to evaluate 
+permeability and to detect latex protein residues.
+Kinerja Penjualan per Segmen 
+Sales Performance by Segment
+Tabel Kinerja Penjualan 
+Table of Sales Performance
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Lokal | Local
+26.523.900.175
+7.095.756.545
+273,80%
+19.428.143.630 
+Ekspor | Export
+90.146.513.314
+74.622.402.703
+20,80%
+15.524.110.611 
+Jumlah Penjualan | Total Sales
+116.670.413.489
+81.718.159.248
+42,77%
+34.952.254.241 
+dalam Rupiah | in Rupiah
+PT. MAJA AGUNG LATEXINDO Tbk
+63
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+Kinerja Penjualan per Segmen 
+Statement of Financial Position
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Jumlah Aset Lancar
+Total Current Assets
+210.300.903.901
+292.292.287.158 
+(28,05)%
+(81.991.383.257)
+Jumlah Aset Tidak Lancar
+Total Non Current Assets
+188.314.462.572 
+115.667.436.841 
+62,81%
+ 72.647.025.731 
+Jumlah Aset | Total Assets
+398.615.366.473
+407.959.723.999
+(2,29)%
+ (9.344.357.526)
+Jumlah Liabilitas Jangka Pendek
+Total Current Liabilities
+50.490.996.182
+56.513.639.722
+(10,66)%
+(6.022.643.540)
+Jumlah Liabilitas Jangka Panjang
+Total Non-Current Liabilities
+4.955.691.541 
+4.873.283.778
+1,69%
+ 82.407.763 
+Jumlah Liabilitas | Total Liabilities
+55.446.687.723
+61.386.923.500
+(9,68)%
+ (5.940.235.777)
+Jumlah Ekuitas | Total Equity
+343.168.678.750 
+346.572.800.499
+(0,98)%
+ (3.404.121.749)
+Jumlah Liabilitas dan Ekuitas
+Total Liabilities and Equity
+398.615.366.473
+407.959.723.999
+(2,29)%
+ (9.344.357.526)
+dalam Rupiah | in Rupiah
+Profitabilitas 
+Profitability 
+Tabel Profitabilitas 
+Table of Profitability
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Penjualan Bersih
+Net Sales
+116.670.413.489 
+81.718.159.248
+2,77%
+ 34.952.254.241
+Beban Pokok Penjualan
+Cost of Goods Sold
+(106.201.767.164)
+(66.783.701.107)
+59,02%
+(39.418.066.057)
+Laba Kotor | Gross Profit
+10.468.646.325
+14.934.458.141
+(29,90)%
+ (4.465.811.816)
+dalam Rupiah | in Rupiah
+TINJAUAN KEUANGAN
+Financial Overview
+Tinjauan keuangan merujuk pada Laporan Keuangan Perseroan 
+yang telah ditinjau dan diaudit oleh Kantor Akuntan Publik 
+Morhan & Rekan (member of Allinial Global) sesuai dengan 
+standar akuntansi yang berlaku, untuk tahun buku 31 Desember 
+2024 dan 31 Desember 2023 dengan opini Wajar Tanpa 
+Pengecualian.
+Financial overview refers to the examination of the Company’s 
+Financial Statements that have been reviewed and audited 
+by Morhan and Associates Public Accounting Firm (member 
+of Allinial Global) in accordance with applicable accounting 
+standards, for the fiscal years ended December 31, 2024, and 
+December 31, 2023, with an Unqualified Opinion.
+64
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+Jumlah Aset 
+Jumlah aset Perseroan pada tahun 2024 adalah sebesar 
+Rp398,62 miliar, yaitu mengalami penurunan sebesar 2,29% 
+atau Rp9,34 miliar dibandingkan tahun 2023 sebesar Rp407,96 
+miliar. Penurunan ini terutama disebabkan oleh realisasi 
+penerimaan piutang Hal ini berdampak pada penurunan saldo 
+piutang usaha.
+Aset Lancar
+Aset lancar pada tahun 2024 adalah sebesar Rp210,30 miliar, 
+yaitu mengalami penurunan sebesar 28.05% atau Rp81,99 
+miliar dibandingkan tahun 2023 sebesar Rp292,29 miliar. 
+Penurunan ini terutama disebabkan oleh pembayaran uang 
+muka untuk proyek sesuai dengan penggunaan dana hasil IPO 
+dan realisasi penerimaan piutang usaha Hal ini berdampak pada 
+penurunan saldo kas dan bank dan piutang usaha.
+Aset Tidak Lancar
+Aset tidak lancar pada tahun 2024 adalah sebesar Rp188,31 
+miliar, yaitu mengalami peningkatan sebesar 62,81% atau 
+Rp72,65 miliar dibandingkan tahun 2023 sebesar Rp115,67 
+miliar. Peningkatan ini terutama disebabkan oleh penambahan 
+construction-in progress atas pekerjaan pembangunan pabrik. 
+Hal ini berdampak pada kenaikan saldo aset tetap-neto.
+Jumlah Liabilitas 
+Jumlah liabilitas Perseroan pada tahun 2024 adalah sebesar 
+Rp55,45 miliar, yaitu mengalami penurunan sebesar 9,68% 
+atau Rp5,94 miliar dibandingkan tahun 2023 sebesar Rp61,39 
+miliar. Penurunan ini terutama disebabkan oleh realisasi biaya 
+yang masih harus dibayar dan uang muka penjualan. Hal ini 
+berdampak pada penurunan saldo biaya yang masih harus 
+dibayar dan uang muka penjualan.
+Liabilitas Jangka Pendek
+Liabilitas jangka pendek pada tahun 2024 adalah sebesar 
+Rp50,49 miliar, yaitu mengalami penurunan sebesar 10,66% 
+atau Rp6,02 miliar dibandingkan tahun 2023 sebesar Rp56,51 
+miliar. Penurunan ini terutama disebabkan oleh realisasi biaya 
+yang masih harus dibayar dan uang muka penjualan. Hal ini 
+berdampak pada penurunan saldo biaya yang masih harus 
+dibayar dan uang muka penjualan.
+Liabilitas Jangka Panjang
+Liabilitas jangka panjang pada tahun 2024 adalah sebesar 
+Rp4,96 miliar, yaitu mengalami peningkatan sebesar 1,69% 
+atau Rp82,41 juta dibandingkan tahun 2023 sebesar Rp4,87 
+miliar. Peningkatan ini terutama disebabkan oleh pencadangan 
+liabilitas imbalan kerja. Hal ini berdampak pada kenaikan saldo 
+liabilitas diestimasi imbalan kerja karyawan.
+Jumlah Ekuitas
+Jumlah ekuitas Perseroan pada tahun 2024 adalah sebesar 
+Rp343,17 miliar, yaitu mengalami penurunan sebesar 0,98% 
+atau Rp3,40 miliar dibandingkan tahun 2023 sebesar Rp346,57 
+miliar. Penurunan ini terutama disebabkan oleh penurunan saldo 
+laba. Hal ini berdampak pada penurunan saldo laba.
+Total Assets
+The Company’s total assets in 2024 amounted to Rp398.62 
+billion, which experienced a decrease of 2.29% or Rp9.34 billion 
+compared to that of 2023 of Rp407.96 billion. This decrease 
+was mainly due to the realization of receivables. This has an 
+impact on the reduction of the accounts receivable balance.
+Current Assets
+Current assets in 2024 amounted to Rp210.30 billion, which 
+experienced a decrease of 28.05% or Rp81.99 billion compared 
+to that of 2023 of Rp293.48 billion. This decrease was mainly 
+due to the payment of advances for the project in accordance 
+with the use of funds from the IPO and the realization of 
+accounts receivable. This has an impact on the reduction of 
+cash and bank balances as well as accounts receivable.
+Non-Current Assets
+Non-current assets in 2024 amounted to Rp188.31 billion, which 
+experienced an increase of 62.81% or Rp72.65 compared to 
+that of 2023 of Rp115.67 billion. This increase was mainly due 
+to the addition of construction-in-progress for the factory 
+development work. This has an impact on the increase in the net 
+fixed asset balance.
+Total Liabilities
+The Company’s total liabilities in 2024 were Rp55.45 billion, 
+which is a decrease of 9.68% or Rp5.94 billion compared to that 
+of 2023 of Rp61.39 billion. This decrease was mainly due to the 
+realization of accrued expenses and advance payments from 
+sales. This has an impact on the reduction of accrued expenses 
+and advance payments from sales balances.
+Current Liabilities
+Current liabilities in 2024 were Rp50.49 billion, which is a 
+decrease of 10.66% or Rp6.02 billion compared to that of 
+2023 of Rp56.51 billion. This decrease was mainly due to the 
+realization of accrued expenses and advance sales payments. 
+This has an impact on the reduction of the accrued expenses 
+and advance sales payment balances.
+Non-Current Liabilities
+Non-current liabilities in 2024 were Rp4,96 billion, which is an 
+increase of 1.69% or Rp82.41 million compared to that of 2023 
+of Rp4.87 billion. This increase was mainly due to the provision 
+for employee benefits liabilities. This has an impact on the 
+increase in the employee benefits liability balance.
+Total Equity
+The Company’s total equity in 2024 was Rp343.17 billion, which 
+is a decrease of 0.98% or Rp3.40 billion compared to that of 
+2023 of Rp346.57 billion. This decrease was mainly due to 
+the reduction in retained earnings. This has an impact on the 
+decrease in the retained earnings balance.
+PT. MAJA AGUNG LATEXINDO Tbk
+65
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+Penjualan Bersih
+Perseroan berhasil mencatatkan jumlah penjualan bersih pada 
+tahun 2024 adalah sebesar Rp116,67 miliar, yaitu mengalami 
+peningkatan sebesar 42,77% atau Rp34,95 dibandingkan 
+tahun 2023 sebesar Rp81,72 miliar. Peningkatan ini terutama 
+disebabkan oleh peningkatan penjualan ekspor. Hal ini 
+berdampak pada peningkatan penjualan bersih.
+Beban Pokok Penjualan
+Jumlah beban pokok penjualan pada tahun 2024 adalah 
+sebesar Rp106,20 miliar, yaitu mengalami kenaikan sebesar 
+59,02% atau Rp39,42 miliar dibandingkan tahun 2023 
+sebesar Rp66,78 miliar. Peningkatan ini terutama disebabkan 
+oleh kenaikan pemakaian bahan baku yang sejalan dengan 
+peningkatan penjualan. Hal ini berdampak pada kenaikan saldo 
+harga pokok penjualan.
+Laba Kotor
+Perolehan laba kotor pada tahun 2024 adalah sebesar Rp10,47 
+miliar, yaitu mengalami penurunan sebesar 29,90% atau 
+Rp4,47 miliar dibandingkan tahun 2023 sebesar Rp14,93 miliar. 
+Penurunan ini terutama disebabkan oleh kenaikan harga bahan 
+baku. Hal ini berdampak pada penurunan laba kotor.
+Laba (Rugi) Bersih Tahun Berjalan
+Rugi bersih pada tahun 2024 adalah sebesar Rp3,87 miliar dan 
+laba bersih pada tahun 2023 adalah sebesar Rp5,47 miliar. Hal 
+ini terutama disebabkan oleh adanya biaya provisi atas piutang 
+Net Sales
+The Company successfully recorded net sales in 2024 
+amounting to Rp116.67 billion, which is an increase of 42.77% 
+or Rp34.95 billion compared to that of 2023 of Rp81.72 billion. 
+This increase was mainly due to the growth in export sales. This 
+has an impact on the rise in net sales.
+Cost of Goods Sold
+The amount of cost of goods sold in 2024 amounted to 
+Rp106.20 billion, which is an increase of 59.02% or Rp39.42 
+billion compared to that of 2023 of Rp66.78 billion. This 
+increase was mainly due to the rise in raw material usage in line 
+with the increase in sales. This has an impact on the increase in 
+the cost of goods sold balance.
+Gross Profit
+Gross profit in 2024 amounted to Rp10.47 billion, which is a 
+decrease of 29.90% or Rp4.47 billion compared to that of 2023 
+of Rp14.93 billion. This decrease was mainly due to the rise in raw 
+material prices. This has an impact on the decline in gross profit.
+Net Income (Loss) for The Year
+The Company recorded a net loss in 2024 of Rp3.87 billion, 
+which is a decrease of 170.75% or Rp9.34 billion compared to 
+that of 2023 of Rp5.47 billion. This decrease was mainly due 
+Laporan Laba Rugi dan Penghasilan Komprehensif Lain
+Statement of Profit and Loss and Other Comprehensive Income
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Penjualan Bersih | Net Sales
+116.670.413.489
+81.718.159.248
+42,77%
+ 34.952.254.241 
+Beban Pokok Penjualan | Cost of Goods Sold
+(106.201.767.164)
+(66.783.701.107)
+59,02%
+(39.418.066.057)
+Laba Kotor | Gross Profit
+10.468.646.325
+14.934.458.141
+(29,90)%
+ (4.465.811.816)
+Laba (Rugi) Usaha
+Income (Loss) from Operations
+(3.861.704.343)
+744.638.583
+(618,60)%
+ (4.606.342.926)
+Laba (Rugi) Sebelum Pajak Penghasilan
+Income (Loss) Before Income Tax
+(3.973.930.587)
+7.386.004.219
+(153,80)%
+(11.359.934.806)
+Manfaat (Beban) Pajak Penghasilan - Bersih
+Income Tax Benefit (Expense) - Net
+100.415.948
+(1.917.641.004)
+(105,24)%
+ 2.018.056.952 
+Laba (Rugi) Bersih Tahun Berjalan
+Net Income (Loss) For The Year
+(3.873.514.639)
+5.468.363.215
+(170,83)%
+ (9.341.877.854)
+Penghasilan Komprehensif Lain
+Other Comprehensive Income
+469.392.890
+222.159.664
+111,29%
+ 247.233.226 
+Jumlah Laba (Rugi) Komprehensif Tahun Berjalan
+Total Comprehensive Income (Loss) For The Year
+(3.404.121.749)
+5.690.522.879
+(159,82)%
+ (9.094.644.628)
+Laba (Rugi) Dasar dan Dilusian Per Saham
+Basic and Diluted Earnings (Rugi) Per Share
+(0,61)
+1,17
+(152,14)%
+ (2)
+dalam Rupiah | in Rupiah
+66
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+usaha dan menerima Surat Tagihan Pajak untuk periode 2023 
+dan 2024. Hal ini berdampak pada peningkatan biaya pada 
+periode 31 Desember 2024.
+Penghasilan Komprehensif Lain
+Perolehan penghasilan komprehensif lain pada tahun 2024 
+adalah sebesar Rp469,39 juta, yaitu mengalami peningkatan 
+sebesar 111,29% atau Rp247,23 juta dibandingkan tahun 2023 
+sebesar Rp222,16 juta.
+Jumlah Laba (Rugi) Komprehensif Tahun Berjalan
+Rugi komprehensif tahun berjalan pada tahun 2024 adalah 
+sebesar Rp3,40 miliar dan laba komprehensif tahun berjalan 
+pada tahun 2023 adalah sebesar Rp5,69 miliar. Hal ini terutama 
+disebabkan oleh adanya biaya provisi atas piutang usaha dan 
+menerima Surat Tagihan Pajak untuk periode 2023 dan 2024. 
+Hal ini berdampak pada peningkatan biaya pada periode 31 
+Desember 2024.
+to the provision for accounts receivable and the receipt of tax 
+assessment letters for the periods of 2023 and 2024. This has 
+an impact on the increase in expenses for the period ending 
+December 31, 2024.
+Other Comprehensive Income
+Other comprehensive income in 2024 was recorded at 
+Rp469.39 million, which is a an increase of 111.29% or Rp247.23 
+million compared to that of 2023 of Rp222.16 million. 
+Total Comprehensive Income For The Year
+The Company recorded a comprehensive loss for the year in 
+2024 of Rp3.40 billion, compared to a comprehensive income 
+for the year in 2023 of Rp5.69 billion. This decrease was mainly 
+due to the provision for accounts receivable and the receipt of 
+tax assessment letters for the periods of 2023 and 2024. This 
+has an impact on the increase in expenses for the period ending 
+December 31, 2024.
+Jumlah kas dan bank pada tahun 2024 adalah sebesar Rp1,26 
+miliar, yaitu mengalami penurunan sebesar 98,19% atau 
+Rp68,65 miliar dibandingkan tahun 2023 sebesar Rp69,92 
+miliar. Penurunan ini terutama disebabkan oleh pembayaran 
+atas uang muka proyek. Hal ini berdampak pada penurunan 
+saldo kas dan bank pada akhir tahun.
+The amount of cash on hand and in banks in 2024 was Rp1.26 
+billion, which is a decrease of 98.19% or Rp68.65 billion 
+compared to that of 2023 which was Rp69.92 billion. This 
+decrease is mainly due to the payment of advance project 
+funds. This has an impact on the reduction of the cash and bank 
+balance at the end of the year.
+Laporan Arus Kas
+Statement of Cash Flows
+Pertumbuhan | Growth
+Uraian
+Description
+2024
+2023
+Persentase
+Percentage
+Nominal
+Kas Bersih Diperoleh dari (Digunakan untuk) 
+Aktivitas Operasi
+Net Cash Provided by (Used In) Operating 
+Activities
+4.644.925.942
+(93.459.020.133)
+(104,97)%
+ 98.103.946.075 
+Kas Bersih Digunakan untuk Aktivitas Investasi
+Net Cash Used in Investing Activities
+(73.282.154.134)
+(50.139.340.500)
+46,16%
+ (23.142.813.634)
+Kas Bersih Diperoleh dari (Digunakan untuk) 
+Aktivitas Pendanaan
+Net Cash Provided by (Used In) Financing 
+Activities
+16.000.000
+213.223.920.461
+(100,01)%
+(213.239.920.461)
+Kenaikan (Penurunan) Bersih Kas dan Bank
+Net Increase (Decrease) in Cash on Hand and in 
+Banks
+(68.653.228.192)
+69.625.559.828
+(198,60)%
+ (138.278.788.020)
+Kas dan Bank Awal Tahun
+Cash on Hand and in Banks At Beginning of Year
+69.917.711.394
+292.151.566
+23.832,00%
+ 69.625.559.828 
+Kas dan Bank Akhir Tahun
+Cash on Hand and in Banks at End of Year
+1.264.483.202
+69.917.711.394
+(98,19)%
+ (68.653.228.192)
+dalam Rupiah | in Rupiah
+PT. MAJA AGUNG LATEXINDO Tbk
+67
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+Indikator 
+yang 
+digunakan 
+Perseroan 
+untuk 
+mengukur 
+kemampuan dalam membayar utang adalah menggunakan 
+rasio likuiditas dan rasio solvabilitas. 
+Rasio likuiditas yang diukur melalui rasio lancar menunjukkan 
+nilai 416,51% pada tahun 2024 dan 517,21% pada tahun 2023. 
+Nilai pada tahun 2024 lebih rendah dibandingkan tahun 2023. 
+Perseroan mampu memenuhi kewajiban jangka pendek 
+dengan baik.
+Sedangkan nilai rasio solvabilitas tahun 2024 yang diukur 
+melalui rasio liabilitas terhadap ekuitas adalah sebesar 16,16% 
+dan rasio liabilitas terhadap aset sebesar 13,91%. Perseroan 
+mampu memenuhi kewajiban jangka pendek dan jangka 
+panjang dengan baik.
+The indicators used by the Company to measure the ability to 
+pay debts are the liquidity ratio and solvency ratio.
+The liquidity ratio measured through the current ratio shows a 
+value of 416.51% in 2024 and 517.21% in 2023. The value in 2024 
+is lower than in 2023. The Company is able to meet short-term 
+obligations well.
+While the solvency ratio value in 2024 measured through the 
+ratio of liabilities to equity is 16.16% and the ratio of liabilities to 
+assets is 13.91%. The Company is able to meet short-term and 
+long-term obligations well.
+Kemampuan Membayar Utang
+Debt Service Ability
+RASIO KEUANGAN
+Financial Ratio
+Tabel Rasio Keuangan 
+Table of Financial Ratio
+Uraian
+Description
+2024
+2023
+Rasio Likuiditas | Liquidity Ratio
+Rasio Lancar | Current Ratio
+416,51
+517,21 
+Rasio Kas | Cash Ratio
+2,50
+ 123,72 
+Rasio Solvabilitas | Solvency Ratio
+Rasio Liabilitas terhadap Ekuitas | Debt to Equity Ratio (DER)
+16,16
+ 17,71 
+Rasio Liabilitas terhadap Aset  | Debt to Asset Ratio (DAR)
+13,91
+ 15,05 
+Rasio Ekuitas terhadap Aset  | Equity to Asset Ratio (EAR)
+86,09
+ 84,95 
+Rasio Profitabilitas | Profitability Ratio
+Laba Kotor terhadap Penjualan Bersih | Gross Profit Margin (GPM)
+8,97
+ 18,28 
+Laba Usaha terhadap Penjualan Bersih | Operating Profit Margin (OPM)
+(3,31)
+ 0,91 
+Laba Bersih terhadap Penjualan Bersih | Net Profit Margin (NPM)
+(3,32)
+ 6,69 
+Laba Bersih terhadap Ekuitas | Return on Equity (ROE)
+(1,13)
+ 1,58 
+Laba Bersih terhadap Aset | Return on Asset (ROA)
+(0,97)
+ 1,34 
+68
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+Rasio yang digunakan Perseroan untuk mengukur tingkat 
+kolektibilitas piutang adalah rata-rata penagihan piutang 
+dalam satuan hari. 
+Rata-rata penagihan piutang Perseroan pada tahun 2024 dan 
+pada tahun 2023 adalah selama 30-60 hari.
+The ratio used by the Company to measure the level of 
+receivables collectability is the average collection of 
+receivables in days.
+The average collection of receivables by the Company in 2024 
+and 2023 was for 30-60 days.
+Tingkat Kolektibilitas Piutang
+Receivables Turnover Ratio
+Rasio profitabilitas Perseroan tahun 2024 terdiri dari rasio laba 
+bersih terhadap penjualan bersih mencapai (3,32)%, rasio laba 
+bersih terhadap ekuitas sebesar (1,13)%, dan rasio laba bersih 
+terhadap aset sebesar (0,97)%. 
+The Company’s profitability ratios for 2024 include a net profit 
+margin to net sales ratio of (3.32)%, a net profit margin to equity 
+ratio of (1.13)%, and a net profit margin to assets ratio of (0.97)%.
+Kemampuan Menghasilkan Laba
+Profit Generating Ability
+STRUKTUR MODAL DAN KEBIJAKAN 
+STRUKTUR MODAL
+Capital Structure and Capital Structure Policy
+Tujuan utama pengelolaan modal adalah untuk memastikan 
+pemeliharaan rasio modal yang sehat untuk mendukung 
+usaha dan memaksimalkan imbalan bagi pemegang saham. 
+Perseroan mengelola struktur permodalan dan melakukan 
+penyesuaian, 
+berdasarkan 
+perubahan 
+kondisi 
+ekonomi. 
+Untuk memelihara atau menyesuaikan struktur permodalan, 
+Perseroan dapat menyesuaikan pembayaran dividen kepada 
+pemegang saham, imbalan modal kepada pemegang saham 
+atau menerbitkan saham baru.
+Perseroan mengawasi modal dengan menggunakan rasio 
+pengungkit, dengan membagi utang bersih dengan jumlah 
+modal. 
+The primary objective of capital management is to ensure the 
+maintenance of a sound capital ratio to support the business 
+and maximize shareholder returns. The Company manages its 
+capital structure and makes adjustments based on changes in 
+economic conditions. To maintain or adjust its capital structure, 
+the Company may adjust dividend payments to shareholders, 
+capital returns to shareholders or issue new shares.
+The Company monitors capital using the gearing ratio, by 
+dividing net payables by total capital.
+PT. MAJA AGUNG LATEXINDO Tbk
+69
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+IKATAN MATERIAL UNTUK INVESTASI 
+BARANG MODAL
+Material Commitment for Capital Goods Investment
+Perseroan tidak mempunyai ikatan material yang berkaitan 
+dengan investasi barang modal sepanjang tahun 2024.
+The Company had no material commitment related to 
+investment in capital goods throughout 2024.
+INVESTASI BARANG MODAL YANG
+DIREALISASIKAN
+Realization of Capital Goods Investment
+Investasi barang modal yang direalisasikan pada tahun 
+2024 mencakup pembelian material bahan baku untuk 
+pengoptimalan produksi, operasional dan kantor. Perseroan 
+juga terus berupaya untuk melakukan peningkatan efisiensi 
+pada proses produksi dan meningkatkan kualitas hasil 
+produksi. Total nilai dari barang modal berupa pembelian bahan 
+baku produksi untuk tahun 2024 sebesar Rp82.669.750.257 
+dan untuk tahun 2023 adalah sebesar Rp47.863.654.323.
+Capital goods investment realized in 2024 included the 
+purchase of raw materials for optimizing production, operations 
+and offices. The Company also continues to strive to improve 
+efficiency in the production process and improve the quality 
+of production results. The total value of capital goods in the 
+form of purchases of raw materials for production for 2024 was 
+Rp82,669,750,257, and for 2023 was Rp47,863,654,323.
+Tabel Rasio Pengungkit 
+Table of Gearing Ratio
+Uraian
+Description
+2024
+2023
+Jumlah liabilitas | Total liabilities
+37.152.175.313
+30.815.934.871
+Dikurangi kas dan bank | Less cash on hand and in banks
+1.264.483.202 
+69.917.711.394
+Utang bersih | Net payables
+35.887.692.111
+(39.101.776.523)
+Jumlah ekuitas | Total equity
+343.168.678.750 
+346.572.800.499
+Rasio Pengungkit | Gearing Ratio
+0,10 
+(0,11)
+dalam Rupiah | in Rupiah
+70
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+KEBIJAKAN DIVIDEN 
+Dividend Policy
+Berdasarkan Undang-undang Pereroan Terbatas (UUPT), 
+kebijakan pembagian dividen kas dilakukan berdasarkan 
+keputusan Rapat Umum Pemegang Saham (RUPS) Tahunan. 
+Perseroan hanya dapat membagikan dividen kas apabila 
+Perseroan memiliki saldo laba positif. Laba periode berjalan 
+yang tersedia, setelah dikurangi oleh jumlah cadangan yang 
+diwajibkan berdasarkan UUPT, akan dialokasikan sebagai 
+dividen. 
+UUPT 
+mewajibkan 
+Perseroan 
+mengalokasikan 
+dana cadangan sampai dengan minimal 20% dari modal 
+ditempatkan dan disetor.
+Besarnya pembagian dividen kas akan diputuskan melalui 
+RUPS Tahunan berdasarkan rekomendasi Direksi.Keputusan 
+untuk membayar dividen kas dilakukan dengan memperhatikan 
+hal-hal sebagai berikut:
+1.	
+Hasil operasi, arus kas, kecukupan modal dan kondisi 
+keuangan Perseroan dalam rangka mencapai tingkat 
+pertumbuhan yang optimal di masa yang akan datang; 
+2.	 Kepatuhan hukum dan peraturan perundang-undangan 
+yang berlaku dan persetujuan dari RUPS Tahunan sesuai 
+dengan ketentuan Anggaran Dasar Perseroan.
+Berdasarkan RUPS Tahunan Tahun 2024 atas Kinerja Tahun 
+Buku 2023 yang diselenggarakan pada tanggal 15 Mei 2024, 
+Penetapan Penggunaan Laba Bersih Perseroan untuk tahun 
+buku yang berakhir pada tanggal 31 Desember 2023 adalah 
+sebagai berikut:
+1.	
+Menetapkan bahwa sesuai dengan Neraca dan Perhitungan 
+Laba Rugi Perseroan untuk tahun buku yang berakhir pada 
+tanggal 31 Desember 2023, yang telah diaudit oleh Kantor 
+Morhan dan Rekan, laba bersih perseroan dalam tahun buku 
+yang berakhir pada tanggal 31 Desember 2023 adalah 
+sebesar Rp5.468.363.215.
+2.	 Menetapkan penggunaan Laba Bersih 2023, sebagai 
+berikut:
+a.	 	Sebesar Rp1.000.000.000 disisihkan sebagai dana 
+cadangan.
+b.	 Sisa 
+Laba 
+Bersih 
+2023 
+yang 
+tidak 
+ditentukan 
+penggunaannya akan digunakan dan dicatat sebagai 
+laba ditahan.
+Sehingga tidak terdapat pembagian dividen tunai atas 
+kinerja tahun buku 2023.
+Based on the Limited Liability Company Law (UUPT), the 
+cash dividend distribution policy is carried out based on the 
+resolution of the Annual General Meeting of Shareholders 
+(RUPS). The Company can only distribute cash dividends if the 
+Company has a positive profit balance. The current period’s 
+profit available, after being reduced by the amount of reserves 
+required under UUPT, will be allocated as dividends. The UUPT 
+requires the Company to allocate reserve funds of up to a 
+minimum of 20% of the issued and paid-up capital.
+The amount of cash dividends will be resolved by the Annual 
+GMS based on the recommendation of the Board of Directors. 
+The resolution to pay cash dividends is made with due regard to 
+the following matters:
+1.	
+Operating results, cash flow, capital adequacy and financial 
+condition of the Company in order to achieve optimal 
+growth rate in the future;
+2.	 Compliance with applicable laws and regulations and 
+approval from the Annual General Meeting of Shareholders 
+in accordance with the provisions of the Company’s Articles 
+of Association.
+Based on the 2024 Annual GMS on the Performance of the 
+2023 Financial Year held on May 15, 2024, the Determination 
+of the Use of the Company’s Net Profit for the financial year 
+ending on December 31, 2023 is as follows:
+1.	
+Determining that in accordance with the Company’s 
+Balance Sheet and Profit and Loss Calculation for the 
+financial year ending on December 31, 2023, which has 
+been audited by Morhan and Rekan Office, the Company’s 
+net income in the financial year ending on December 31, 
+2023 was Rp5,468,363,215.
+2.	 Determining the use of the 2023 Net Income, as follows:
+a.	 	Rp1,000,000,000 is set aside as a reserve fund.
+b.	 The remaining unappropriated of the 2023 Net Income 
+will be used and recorded as retained earnings.
+Thus, that there was no distribution of cash dividends for 
+the performance of the 2023 financial year.
+PT. MAJA AGUNG LATEXINDO Tbk
+71
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+PROSPEK USAHA
+Business Outlook
+Industri sarung tangan lateks telah menjadi bagian penting dari 
+sektor medis, industri makanan, laboratorium, dan sejumlah 
+sektor lainnya. Permintaan yang terus meningkat untuk sarung 
+tangan lateks merupakan hasil dari kesadaran global tentang 
+kebersihan, kesehatan, dan keselamatan kerja. Pasar sarung 
+tangan lateks telah berkembang pesat selama beberapa 
+dekade terakhir. Pertumbuhan industri medis dan farmasi, 
+peningkatan kesadaran tentang kebersihan, serta penggunaan 
+sarung tangan di berbagai sektor, termasuk makanan dan 
+minuman, industri otomotif, dan lainnya, telah mendorong 
+permintaan global. Negara-negara dengan populasi besar 
+dan meningkatnya kesadaran akan pentingnya kesehatan dan 
+keselamatan kerja, seperti China, India, dan Amerika Serikat, 
+menjadi konsumen utama sarung tangan lateks.
+Tren 
+pertumbuhan 
+yang 
+signifikan 
+di 
+industri 
+sarung 
+tangan lateks adalah hasil dari beberapa faktor. Pertama, 
+peningkatan 
+angka 
+infeksi 
+nosokomial 
+dan 
+kepedulian 
+terhadap pencegahan infeksi di rumah sakit dan fasilitas 
+medis lainnya telah mendorong permintaan untuk sarung 
+tangan medis. Kedua, kesadaran akan pentingnya kebersihan 
+dan perlindungan diri di sektor industri, seperti makanan dan 
+minuman, telah meningkatkan permintaan untuk sarung tangan 
+dalam lingkungan produksi dan pengolahan makanan.
+The latex glove industry has become an important part of the 
+medical, food industry, laboratory, and other sectors. The 
+growing demand for latex gloves is a result of global awareness 
+about hygiene, health, and safety in the workplace. The latex 
+glove market has grown rapidly over the past few decades. 
+The growth of the medical and pharmaceutical industries, 
+increasing awareness about hygiene and the use of gloves in 
+various sectors including food and beverages, automotive 
+industry and others have driven the global demand. Countries 
+with large populations and increasing awareness of the 
+importance of health and safety in the workplace such as China, 
+India and the United States are the major consumers of latex 
+gloves.
+The significant growth trend in the latex glove industry is a result 
+of several factors. First, the increasing number of nosocomial 
+infections and the concern for infection prevention in hospitals 
+and other medical facilities have driven the demand for medical 
+gloves. Second, the awareness of the importance of hygiene 
+and personal protection in industrial sectors such as food 
+and beverages has increased the demand for gloves in food 
+production and processing environments.
+PERBANDINGAN TARGET/ PROYEKSI
+DENGAN HASIL PENCAPAIAN TAHUN 2024
+Comparison of Targets/Projections with 
+Achieved Results in 2024
+Pencapaian kinerja keuangan Perseroan pada tahun 2024 
+menunjukkan 
+hasil 
+yang 
+positif, 
+didukung 
+oleh 
+upaya 
+berkelanjutan dalam peningkatan efisiensi operasional dan 
+optimalisasi proses bisnis. Perseroan terus berkomitmen 
+untuk melakukan perbaikan strategis guna meningkatkan 
+kinerja di periode mendatang, memastikan pertumbuhan yang 
+berkelanjutan serta daya saing yang lebih kuat di industri.
+The Company’s financial performance achievement in 2024 
+showed positive results, supported by ongoing efforts 
+to improve operational efficiency and optimize business 
+processes. The Company continues to be committed to 
+making strategic improvements to improve performance in 
+the coming period, ensuring sustainable growth and stronger 
+competitiveness in the industry.
+Tabel Pencapaian Target Keuangan
+Table of Financial Target Achievement 
+Uraian
+Description
+Target 2024
+Realisasi 2024
+Realization in 2024
+Pencapaian
+Achievement
+Penjualan | Sales
+280.932.776.640
+116.670.413.489
+41,53%
+Laba Bersih Tahun Berjalan | Net Income of The Year
+22.208.482.866
+(3.873.514.639)
+(17,44)%
+Jumlah Aset | Total Assets
+442.128.955.233
+398.615.366.473
+90,16%
+dalam Rupiah | in Rupiah
+72
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+Industri sarung tangan lateks juga memiliki sejumlah peluang 
+yang 
+menarik. 
+Pertama-tama, 
+peningkatan 
+kesadaran 
+masyarakat 
+tentang 
+pentingnya 
+perlindungan 
+diri 
+dan 
+kebersihan di berbagai sektor akan terus mendorong 
+permintaan untuk sarung tangan lateks. Selain itu, peningkatan 
+pendapatan dan standar hidup di negara-negara berkembang 
+akan menyebabkan lebih banyak orang memiliki akses ke 
+perawatan medis, yang pada gilirannya akan meningkatkan 
+permintaan untuk sarung tangan medis. Kemajuan teknologi 
+juga membuka peluang baru. Inovasi dalam teknologi 
+manufaktur 
+dan 
+pengembangan 
+bahan 
+baru 
+dapat 
+meningkatkan efisiensi produksi dan kualitas produk. Selain 
+itu, aplikasi sarung tangan lateks di sektor-sektor baru, seperti 
+industri kosmetik dan kecantikan, penelitian dan laboratorium, 
+serta olahraga ekstrim, juga dapat menjadi potensi pasar baru 
+yang menjanjikan. 
+Berdasarkan data yang dipublikasikan Global Market Insights, 
+Medical Gloves Market diperkirakan mengalami Tingkat 
+Pertumbuhan Tahunan lebih dari 18,2% dari 2022 hingga 2030 
+karena meningkatnya kesadaran mengenai keselamatan dan 
+kebersihan yang disebabkan oleh meningkatnya prevalensi 
+beberapa penyakit menular. Jumlah fasilitas kesehatan yang 
+meningkat di negara-negara berkembang, bertumbuhnya 
+prevalensi berbagai penyakit kronis dan kemajuan signifikan 
+yang berhubungan dengan sarung tangan diproyeksikan 
+meningkatkan peluang pertumbuhan pasar.
+The latex glove industry also has several exciting opportunities. 
+First of all, increasing public awareness about the importance 
+of personal protection and hygiene in various sectors will 
+continue to drive the demand for latex gloves. In addition, rising 
+incomes and living standards in developing countries will lead 
+to more people having access to medical care, which in turn 
+will increase the demand for medical gloves. Technological 
+advancements are also opening up new opportunities. 
+Innovations in manufacturing technology and development of 
+new materials can improve production efficiency and product 
+quality. In addition, the application of latex gloves in new 
+sectors, such as the cosmetic and beauty industry, research 
+and laboratories, and extreme sports, can also be a promising 
+new market potential.
+According to the data published by Global Market Insights, the 
+Medical Gloves Market is expected to experience an Annual 
+Growth Rate of over 18.2% from 2022 to 2030 due to the 
+increasing awareness regarding safety and hygiene caused 
+by the increasing prevalence of several infectious diseases. 
+The increasing number of healthcare facilities in developing 
+countries, the growing prevalence of various chronic diseases 
+and significant advancements related to gloves are projected 
+to enhance the growth opportunities of the market.
+TARGET/ PROYEKSI 2025
+Target/ Projection for 2025
+Dengan mempertimbangkan aspek makroekonomi, posisi 
+Perseroan, optimalisasi sumber daya internal, serta strategi 
+bisnis yang diterapkan, Perseroan menyongsong tahun 2025 
+dengan optimisme, meyakini bahwa kinerja yang dicapai akan 
+lebih baik dibandingkan dengan tahun 2024.
+Taking into account macroeconomic aspects, the Company’s 
+position, optimization of internal resources, and the business 
+strategies implemented, the Company welcomes 2025 with 
+optimism, believing that the performance achieved will be 
+better than in 2024.
+Tabel Target Tahun 2025
+Table of Target for 2025 
+Uraian
+Description
+Target 2025
+Penjualan | Sales
+150.000.000.000
+Laba Bersih Tahun Berjalan | Net Income For The Year
+5.000.000.000
+Jumlah Aset | Total Assets
+419.300.000.000
+dalam Rupiah | in Rupiah
+PT. MAJA AGUNG LATEXINDO Tbk
+73
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+INFORMASI MATERIAL TERKAIT INVESTASI, 
+EKSPANSI, DIVESTASI, PENGGABUNGAN/ 
+PELEBURAN USAHA, AKUISISI, DAN 
+RESTRUKTURISASI UTANG/ MODAL
+Material Information Related to Investment, Expansion, 
+Divestment, Business Merger/ Consolidation, 
+Acquisition, and Debt/ Capital Restructuring
+Tidak terdapat Informasi material terkait investasi, ekspansi, 
+divestasi, penggabungan/peleburan usaha, akuisisi, dan 
+restrukturisasi utang/modal selama tahun 2024.
+There was no material information related to investment, 
+expansion, divestment, merger/consolidation, acquisition, and 
+debt/capital restructuring in 2024.
+TRANSAKSI MATERIAL YANG 
+MENGANDUNG BENTURAN KEPENTINGAN 
+ATAU TRANSAKSI DENGAN PIHAK AFILIASI
+Material Transactions Containing Conflict of 
+Interest or Transactions with Affiliated Parties
+Seluruh transaksi material baik yang mengandung benturan 
+kepentingan dan transaksi dengan pihak berelasi dilakukan 
+Perseroan dengan merujuk pada peraturan dan ketentuan yang 
+berlaku.
+Pada tahun 2024, tidak terdapat transaksi material yang 
+mengandung 
+benturan 
+kepentingan. 
+Sedangkan 
+untuk 
+transaksi dengan pihak berelasi disajikan sebagai berikut 
+sebagaimana telah diuraikan dan dijelaskan secara lebih 
+lengkap dalam Laporan Keuangan Audit Perseroan Catatan No. 
+27 yang dimuat dalam lampiran Laporan ini.
+All material transactions, both those containing conflicts of 
+interest and transactions with related parties, are carried out 
+by the Company with reference to applicable regulations and 
+provisions.
+In 2024, there were no material transactions containing 
+conflicts of interest. Meanwhile, transactions with related 
+parties are presented as follows as described and explained 
+in more detail in the Company’s Audited Financial Statements 
+Note No. 27 which is included in the attachment to this Report.
+Tabel Sifat Hubungan, Saldo Akun dan Transaksi dengan Pihak Berelasi
+Table of Nature of Relationships, Account Balances, and Transactions with Related Parties
+Pihak-Pihak Berelasi
+Related Parties
+Sifat Hubungan
+Nature of Relationship
+Sifat Saldo Akun dan Transaksi
+Nature of Account Balances and 
+Transactions
+Hansen Jap
+Pemegang Saham | Shareholder
+Liabilitas sewa | Lease liabilities
+PT Anata Watashi Wha
+Kesamaan Pemegang Saham
+Similar Shareholder
+Utang lain-lain dan penjualan bersih
+Other payables and net sales
+PT Darsum
+Kesamaan Pemegang Saham
+Similar Shareholder
+Utang usaha dan pembelian
+Trade payable and purchases
+PT Haloni Jane Tbk
+Kesamaan Pemegang Saham
+Similar Shareholder
+Uang muka penjualan dan penjualan bersih
+Sales advances and net sales
+74
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+Pihak-Pihak Berelasi
+Related Parties
+Sifat Hubungan
+Nature of Relationship
+Sifat Saldo Akun dan Transaksi
+Nature of Account Balances and 
+Transactions
+PT Hevea Eka Asia
+Kesamaan Pemegang Saham
+Similar Shareholder
+Piutang lain-lain
+Other receivables
+PT Hevea Anugrah Natura
+Kesamaan Pemegang Saham
+Similar Shareholder
+Piutang lain-lain dan uang muka 
+Other receivables and advances 
+PT Ikon Makmur Abadi
+Kesamaan Pemegang Saham
+Similar Shareholder
+Piutang lain-lain, uang muka penjualan dan 
+penjualan bersih 
+Other receivables, sales advances and net sales
+PT Melania Indonesia
+Kesamaan Pemegang Saham
+Similar Shareholder
+Piutang lain-lain, utang usaha, utang lain-lain 
+dan pembelian
+Other receivables, trade payables, other 
+payables, and purchases
+PT Perusahaan Perkebunan Industri dan Dagang 
+Sri Rahayu Agung
+Kesamaan Pemegang Saham
+Similar Shareholder
+Utang usaha dan pembelian
+Trade payable and purchases
+PT Shamrock Manufacturing Corpora
+Kesamaan Pemegang Saham
+Similar Shareholder
+Utang usaha, penjualan bersih dan pembelian
+Trade payables, net sales, and purchases
+Komisaris dan Direksi
+Commissioners and Directors
+Personil Manajemen Kunci
+Key Management Personnel
+Gaji dan tunjangan
+Salary and allowances
+Tabel Saldo Transaksi dengan Pihak Berelasi
+Table of Related Party Transaction Balance 
+Uraian
+Description
+2024
+2023
+Piutang lain-lain
+Other receivables
+487.037.562
+999.960.000
+Uang muka 
+Advances 
+-
+2.252.543.954
+Utang usaha
+Trade payables
+23.949.829.365
+13.684.247.772
+Utang lain-lain
+Other payables
+400.000.000
+416.000.000
+Uang muka penjualan
+Sales advances
+3.528.556.927
+17.284.075.000
+Liabilitas sewa
+Lease liabilities
+1.134.230.310
+-
+Penjualan bersih
+Net sales
+24.340.784.230
+6.439.641.200
+Pembelian
+Purchases
+33.766.038.321
+29.372.909.745
+dalam Rupiah | in Rupiah
+PT. MAJA AGUNG LATEXINDO Tbk
+75
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+INFORMASI MATERIAL SETELAH TANGGAL 
+LAPORAN KEUANGAN
+Material Information after the Financial 
+Statements’ Date
+Tidak terdapat informasi material setelah tanggal laporan 
+keuangan.
+There is no material information available after the financial 
+statement date.
+PENGGUNAAN DANA HASIL PENAWARAN 
+UMUM
+Use of Proceeds from Public Offering
+Berikut adalah laporan penggunaan dana hasil penawaran 
+umum saham:
+The following is a report on the use of proceeds from the public 
+offering:
+Tabel Realisasi Penggunaan Dana Hasil Penawaran Umum
+Table of Realization of Use of Proceeds from Public Offering
+Tanggal Penawaran 
+Umum
+Public Offering Date
+Jumlah Hasil 
+Penawaran Umum
+Total Public Offering 
+Proceeds
+Biaya Penawaran 
+Umum
+Public Offering Fees
+Dana Bersih 
+Penawaran Umum
+Net Proceeds of 
+Public Offering
+Dana Penawaran 
+Umum Digunakan
+Public Offering Funds 
+Used
+Sisa Dana Hasil 
+Penawaran Umum
+Remaining Proceeds 
+from Public Offering
+7 Desember 2023
+215.368.750.000
+2.509.446.237
+212.859.303.763
+212.859.303.763
+-
+Tabel Rincian Realisasi Penggunaan Dana Penawaran Umum 
+Table of Details of Realization of Use of Public Offering Proceeds 
+Hasil Realisasi Bersih
+Net Realization Results
+Uraian
+Description
+Jumlah
+Persentase
+212.859.303.763
+Pengembangan Bangunan Pabrik, Gudang, Kantor
+Development of Factory, Warehouse, Office Buildings
+39.839.860.237
+18,72%
+Penambahan Mesin
+Addition of Machines
+48.278.052.743
+22,68%
+Pengolahan Limbah
+Waste Treatment
+6.106.960.000
+2,87%
+Pengembangan Software
+Software Development
+3.000.000.000
+1,41%
+Penambahan Daya Listrik
+Additional Electricity Power
+18.904.522.750
+8,88%
+Working Capital
+96.729.908.033
+45,44%
+76
+Analisis & Pembahasan Manajemen
+Management Analysis & Discussion
+PERUBAHAN KEBIJAKAN AKUNTANSI
+Changes in Accounting Policies
+Sejak 1 Januari 2024, penomoran PSAK dan ISAK telah 
+diubah sebagaimana disahkan oleh DSAK IAI. Perusahaan 
+menerapkan amendemen PSAK yang wajib diberlakukan mulai 
+1 Januari 2024. Penerapan amendemen PSAK berikut tidak 
+mengakibatkan perubahan substansial terhadap kebijakan 
+akuntansi Perusahaan dan tidak memiliki pengaruh material 
+terhadap jumlah yang dilaporkan untuk periode keuangan saat 
+ini atau sebelumnya:
+1.	
+Amendemen PSAK 116, “Sewa”, tentang Liabilitas Sewa 
+pada Transaksi Jual dan Sewa-Balik;
+2.	 Amendemen PSAK 201, “Penyajian Laporan Keuangan”, 
+tentang Klasifikasi Liabilitas sebagai Jangka Pendek atau 
+Jangka Panjang;
+3.	 Amendemen PSAK 201, “Penyajian Laporan Keuangan”, 
+tentang Liabilitas Jangka Panjang dengan Kovenan; dan
+4.	 Amendemen PSAK 207, “Laporan Arus Kas”, dan PSAK 
+107, 
+“Instrumen 
+Keuangan: 
+Pengungkapan”, 
+tentang 
+Pengaturan Pembiayaan Pemasok.
+Amendemen PSAK di atas tidak mengakibatkan perubahan 
+substansial terhadap kebijakan akuntansi Perusahaan dan tidak 
+berdampak material terhadap jumlah yang dilaporkan untuk 
+periode keuangan saat ini atau sebelumnya.
+Commencing January 1, 2024, the numbering of PSAK and 
+ISAK has been changed as published by DSAK IAI.  The 
+Company applied amendments to PSAK that are mandatory 
+for application from January 1, 2024. The application of these 
+amendments to PSAK did not result in substantial changes to 
+the Company’s accounting policies and had no material effect 
+on the amounts reported for the current or prior financial period:
+1.	
+Amendments to PSAK 116, “Leases”, on Lease Liability in a 
+Sale and Leaseback;
+2.	 Amendments to PSAK 201, “Presentation of Financial 
+Statements”, on Classification of Liabilities as Current or 
+Non-Current;
+3.	 Amendments to PSAK 201, “Presentation of Financial 
+Statements”, on Non-Current Liabilities with Covenants; 
+and
+4.	 Amendments to PSAK 207, “Statements of Cash Flows”, 
+and PSAK 107, “Financial Instruments: Disclosure”, on 
+Supplier Finance Arrangements.
+The above PSAK changes do not result in substantial changes to 
+the Company’s accounting policies and do not have a material
+impact on the amounts reported for the current or previous 
+financial periods.
+PERUBAHAN PERATURAN PERUNDANG- 
+UNDANGAN YANG BERPENGARUH 
+SIGNIFIKAN
+Amendments to Laws and Regulations with 
+Significant Impacts
+Terdapat perubahan peraturan perundang-undangan yang 
+berlaku dan berdampak pada Perseroan yaitu terkait dengan 
+Ketenagakerjaan dan kenaikan Upah Minimum Kabupaten/
+Kota (UMK) Medan.
+There are amendments to the applicable laws and regulations 
+that have an impact on the Company on Employment and the 
+increase in Medan Regency/City Minimum Wage (UMK).
+PT. MAJA AGUNG LATEXINDO Tbk
+77
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+Halaman ini sengaja dikosongkan
+This page is intentionally left blank
+78
+Tata Kelola Perusahaan
+Good Corporate Governance
+PT. MAJA AGUNG LATEXINDO Tbk
+79
+Laporan Tahunan dan Laporan Keberlanjutan
+Annual Report and Sustainability Report
+20
+24 
+Tata Kelola
+Perusahaan
+Good Corporate Governance
+05

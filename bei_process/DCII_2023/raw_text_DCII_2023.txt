@@ -1,0 +1,1397 @@
+DCI Laporan Tahunan 2023
+Management Discussion & Analysis
+Analisis & 
+Pembahasan 
+Manajemen
+04
+01
+02
+03
+04
+05
+06
+Business and Operational Review
+Financial Performance Review
+Capital Structure
+Industry Prospect Outlook
+Marketing Strategy
+Dividend Policy and Distribution
+Ulasan Bisnis dan Operasional
+Tinjauan Kinerja Keuangan 
+Struktur Modal
+Prospek Industri Pusat Data
+Strategi Pemasaran
+Kebĳakan Distribusi Dividen
+DCI Laporan Tahunan 2023
+Total Kapasitas 
+Pusat Data 2023
+83 MW 
+Ulasan Bisnis 
+dan Operasional
+Perseroan berhasil menutup tahun 2023 dengan kualitas 
+operasional unggulan, ekspansi total kapasitas layanan yang 
+signiﬁkan, pertumbuhan ﬁnansial yang solid, dan berhasil 
+mempertahankan dominasi pasar pusat data di Indonesia. 
+Dari sisi operasional, Perseroan berhasil mempertahankan 100% 
+power uptime sejak pertama kali beroperasi pada tahun 2013. 
+Pencapaian kinerja operasional membuat Perseroan dipercaya 
+oleh lebih dari 200 pelanggan yang berasal dari berbagai 
+sektor industri, baik pelanggan domestik maupun internasional. 
+Kepercayaan tersebut menghasilkan ekosistem digital yang 
+beragam pada pusat data milik Perseroan. 
+Melalui ekspansi DCI Platform, Perseroan telah berhasil 
+mengembangkan total kapasitas layanan pusat data sebesar 83 
+MW dan oleh karenanya, Perseroan berhasil mempertahankan 
+posisinya sebagai market leader di industri layanan pusat data.1
+The company proudly closed 2023 by achieving exceptional 
+operational quality, substantial expansion in total service capacity, 
+solid ﬁnancial growth, and continued to maintain its market 
+dominance in the Indonesian data center market. 
+From the operational side, the company has again achieved a 
+remarkable milestone by maintaining 100% power uptime since 
+its inception in 2013. This operational excellence has earned 
+the trust of over 200 customers from a diverse range of industry 
+sectors, both domestically and internationally. This trust has 
+fostered a diverse digital ecosystem within the company’s data 
+centers.
+Through strategic expansion of the DCI Platform, the company 
+has successfully increased its total data center service capacity 
+to 83 MW. Consequently, it has solidiﬁed its position as market 
+leader in the Indonesian data center service industry.
+Business and Operational Review 
+1  2023 Data Center Market Report: Jakarta by Structure Research
+Upaya-upaya yang telah dilakukan oleh Perseroan dalam 
+meningkatkan mutu layanan dan ekspansi usaha sepanjang 
+tahun 2023 adalah sebagai berikut: 
+• 
+Pembangunan dan pengoperasian gedung pusat data 
+DCI E1 Jakarta dengan kapasitas 19 MW.
+• 
+Pembangunan gedung pusat data JK6 di DCI H1 Cibitung 
+dengan kapasitas 36 MW. 
+• 
+Menambah kapasitas layanan pusat data DCI Platform 
+dengan merencanakan pembangunan pusat data di area 
+Jabodetabek dan Bintan. 
+• 
+Penambahan layanan konektivitas dan layanan penunjang 
+lainnya.
+Dari sisi keuangan, Perseroan berhasil mencatatkan kinerja 
+ﬁnansial yang kuat di tahun 2023. Total pendapatan tumbuh 
+sebesar 25,1%, EBITDA naik sebesar 24,3%, dan laba bersih 
+meningkat 39,9%. Hasil kinerja ini merupakan bukti nyata 
+Perseroan dalam menjalankan strategi bisnis Perseroan.
+This achievement underscores our commitment to excellence 
+and leadership in the digital infrastructure sector, setting new 
+benchmarks for operational efficiency and customer trust.
+• 
+The development and operation of the DCI E1 Jakarta data 
+center building, with a capacity of 19 MW.
+• 
+The construction of the data center building JK6 at DCI H1 
+Cibitung, boasting a capacity of 36 MW.
+• 
+In line with our strategic growth objectives, we are planning 
+the expansion of the DCI Platform’s data center service 
+capacity by exploring new development projects in the 
+Jabodetabek and Bintan areas.
+• 
+Additionally, we have broadened our service offerings 
+to include enhanced connectivity solutions and other 
+support services.
+From a ﬁnancial perspective, the company achieved a robust 
+ﬁnancial performance in 2023. Total revenue grew by 25,1%, 
+EBITDA increased by 24,3%, and net proﬁt rose by 39,9%. These 
+results are a tangible testament to the company's successful 
+execution of its business strategy.
+P. 122-123
+Pendapatan
+⁺25,1%   
+EBITDA 2023
+⁺24,3% 
+Laba Bersih 2023
+⁺39,9% 
+Pertumbuhan: 
+DCI Laporan Tahunan 2023
+Selanjutnya, Perseroan juga telah melanjutkan komitmen 
+penerapan strategi usaha berkelanjutan. Beberapa inisiatif yang 
+telah dijalankan oleh Perseroan diantaranya: 
+• 
+Mengadopsi Automation untuk meningkatkan eﬁsiensi 
+penggunaan energi  di pusat data yang berkontribusi pada 
+Power Usage Effectiveness (PUE) dan meminimalkan 
+emisi karbon.
+• 
+Menginstalasikan panel surya sebagai sumber energi 
+alternatif di kompleks pusat data DCI H2 Karawang
+• 
+Memberdayakan pemasok lokal dengan mengadakan kerja 
+sama dengan pemasok domestik dan pemilik Usaha Mikro 
+Kecil Menengah (UMKM) untuk pelaksanaan proyek dan 
+program Perseroan
+Furthermore, the company has continued its commitment to 
+implementing a sustainable business strategy. Several initiatives 
+undertaken by the company include:
+• 
+Adopting automation to enhance energy usage efficiency 
+in data centers, contributing to improved Power Usage 
+Effectiveness (PUE) and minimizing carbon emissions.
+• 
+Installing solar panels as an alternative energy source at the 
+DCI H2 Karawang data center complex.
+• 
+Empowering local suppliers by engaging in collaborations 
+with domestic suppliers and owners of Micro, Small, and 
+Medium Enterprises (MSMEs) for the execution of the 
+company’s projects and programs.
+Hasil kinerja bisnis dan operasional Perseroan telah diakui 
+dan diapresiasi oleh institusi internasional melalui beberapa 
+penghargaan dan sertiﬁkasi yang kami terima pada tahun 
+2023, antara lain:  
+• 
+Sertiﬁkasi Tier IV Gold Certiﬁcation of Operational 
+Sustainability (TCOS) dari Uptime Institute 
+• 
+Sertiﬁkasi B Corporation dari B Lab Global 
+• 
+Sertiﬁkasi Sustainability Rating dengan peringkat Silver 
+dari Ecovadis
+• 
+Penghargaan sebagai Indonesia Data Center Services of 
+the Year 2023 oleh Frost & Sullivan 
+• 
+Penghargaan sebagai Digital Technology in the Data 
+Center in Southeast Asia oleh W.Media 
+• 
+Penghargaan sebagai Most Innovative Data Center Provide 
+2023 - Southeast Asia dari Acquisition International
+Pencapaian yang berhasil diperoleh merupakan bukti nyata 
+atas dedikasi  Perseroan dalam menjalankan strategis 
+bisnis 
+Perseroan 
+dan 
+memberikan 
+pelayanan 
+terbaik   
+untuk Pelanggan.
+The company’s business and operational performance has 
+been recognized and appreciated by international institutions 
+through various awards and certiﬁcations received in 2023, 
+including:
+• 
+Tier IV Gold Certiﬁcation of Operational Sustainability 
+(TCOS) from Uptime Institute
+• 
+Earned the B Corporation certiﬁcation from B Lab 
+Global.
+• 
+Received a Sustainability Rating with a Silver ranking from 
+Ecovadis.
+• 
+Awarded “Indonesia Data Center Services of the Year 
+2023” by Frost & Sullivan.
+• 
+Recognized for “Digital Technology in the Data Center in 
+Southeast Asia” by W.Media.
+• 
+Named “Most Innovative Data Center Provider 2023 - 
+Southeast Asia” by Acquisition International.
+The achievements attained are a concrete testament to the 
+company’s dedication to executing its business strategy and 
+delivering the highest quality of service to our customers.
+“Pencapaian yang 
+berhasil diperoleh 
+merupakan bukti 
+nyata atas dedikasi 
+Perseroan dalam 
+menjalankan strategis 
+bisnis Perseroan dan 
+memberikan
+pelayanan terbaik 
+untuk Pelanggan.” 
+P. 124-125
+DCI Laporan Tahunan 2023
+Tinjauan 
+Kinerja Keuangan
+Financial Performance Review
+Analisis tinjauan kinerja keuangan berikut ini adalah pembahasan yang 
+terperinci mengenai kinerja keuangan Perseroan untuk tahun buku 2023 
+dibandingkan dengan tahun buku 2022. Analisis ini disusun berdasarkan 
+Laporan Keuangan PT DCI Indonesia Tbk untuk tahun buku yang berakhir 
+pada 31 Desember 2023 yang telah diaudit oleh KAP Purwantono, Sungkoro 
+& Surja (ﬁrma anggota jaringan global Ernst & Young) berdasarkan standar 
+audit yang ditetapkan Institut Akuntan Publik Indonesia, dengan opini wajar 
+dalam semua hal yang material pada laporannya tertanggal 18 Maret 2024 
+yang ditandatangani oleh Arief Somantri CPA.
+Biaya jasa audit atas laporan keuangan konsolidasian kepada KAP 
+Purwantono, Sungkoro & Surja untuk periode 1 Januari 2023 - 31 Desember 
+2023 adalah sebesar Rp 630 Juta.
+The following ﬁnancial performance review analysis provides a detailed 
+discussion of the Company’s ﬁnancial performance for the ﬁscal year 2023 
+compared to the ﬁscal year 2022. This analysis is based on the Financial 
+Statements of PT DCI Indonesia Tbk for the ﬁscal year ended December 
+31, 2023, which have been audited by KAP Purwantono, Sungkoro & Surja 
+(a member ﬁrm of the global Ernst & Young network) in accordance with 
+the auditing standards established by the Indonesian Institute of Certiﬁed 
+Public Accountants, with a fair opinion on all material aspects in its report 
+dated March 18, 2024 signed by Arief Somantri CPA.
+The audit fee for the consolidated ﬁnancial statements to KAP Purwantono, 
+Sungkoro & Surja for the period 1 January 2023 - 31 December 2023 is 
+IDR 630 million.
+“Perseroan akan selalu berupaya untuk menjaga 
+hubungan industrial yang produktif, melakukan 
+proses perekrutan  dari bakat-bakat terbaik, 
+serta mempertahankan bakat-bakat tersebut.”
+441.994
+691.453
+56,4%
+2022
+Posisi Keuangan
+Financial Position
+*2023
+YoY%
+Aset Lancar
+Current Assets
+2.775.570
+2.985.031
+7,5%
+3.217.564
+3.676.484
+14,3%
+Aset Tidak Lancar
+Non-Current Asset
+Total Aset
+Total Assets
+468.215
+517.732
+10,6%
+Liabilitas Lancar
+Current Liabilities
+1.164.152
+951.802
+-18,2%
+1.632.367
+1.469.534
+-10,0%
+Liabilitas Tidak Lancar
+Non-Current Liabilities
+Total Liabilitas
+Total Liabilities
+1.585.197
+2.206.950
+39,2%
+Total Ekuitas
+Total Equity
+(dalam juta Rupiah/In million Rupiah)
+Aset, Liabilitas, dan Ekuitas
+Assets, Liabilities, and Equity
+Aset
+Asset
+Per 31 Desember 2023, total aset tercatat sebesar   
+Rp3,676,484 juta, meningkat sebesar 14,3% dibandingkan 
+dengan tahun sebelumnya sebesar Rp3,217,564 juta. 
+Peningkatan aset tersebut terutama disebabkan oleh
+• 
+Peningkatan aset tersebut terutama disebabkan 
+oleh:peningkatan dari kas dan setara kas sebesar 
+Rp 166,677 juta karena peningkatan penerimaan 
+kas operasional yang sejalan dengan pertumbuhan 
+bisnis.
+• 
+Peningkatan aset tetap sebesar Rp 209,001 juta 
+terkait perluasan investasi terhadap gedung JK5 
+untuk memenuhi kebutuhan kapasitas terkontrak 
+Perseroan dan melakukan akuisisi saham PT Sarana 
+Megatama sebesar 50,005% guna kebutuhan 
+ekspansi Perseroan kedepannya.
+As of December 31 2023, the aggregate value of assets 
+amounted to IDR3.676.484 million, marking a 14,3% 
+increase from the preceding year’s total of IDR3.217.564 
+million. The signiﬁcant portion of this surge in asset value 
+is attributable to:
+• 
+An increase of IDR166.677 million in cash and cash 
+equivalents due to higher operating cash receipts in 
+accordance with  business expansion.
+• 
+The increase in ﬁxed assets amounted to Rp 209.001 
+million, attributed to the expansion investment in 
+the JK5 building to fulﬁll the company contracted 
+capacity needs and the shares acquisition of 
+50.005% in PT Sarana Megatama for the company 
+future expansion purposes.
+*) Terkonsolidasi / Consolidated
+P. 126-127
+DCI Laporan Tahunan 2023
+Liabilitas
+Ekuitas
+Liability
+Equity
+Jumlah liabilitas pada tanggal 31 Desember 2023 
+tercatat sebesar Rp1,469,534 juta, menurun 10,0% 
+dari tahun 2022 sebesar Rp1,632,367 juta. Penurunan 
+liabilitas tersebut diatribusikan pada penurunan saldo 
+liabilitas tidak lancar, terutama pada saldo hutang bank   
+jangka panjang.
+Sejalan dengan perolehan laba Grup, Grup mencatat 
+jumlah ekuitas tahun 2023 sebesar Rp2,206,950 juta, 
+meningkat 39,2% dari Rp1,585,197 juta di tahun 2022.
+As of 31 December 2023, total liabilities were reported at 
+IDR 1.469.534 million, a drop of 10,0% from 2022’s ﬁgure 
+of IDR 1.632.367 million. Majority of the drop is attributed 
+to the decrease in Non-current liabilities Bank loan on 
+higher principal repayment.
+In line with the Group proﬁt earnings, the Group 
+recorded the equity amount for the year 2023 stood at 
+Rp2.206.950 million, reﬂecting a 39,2% increase from 
+Rp1.585.197 million in 2022.
+Pendapatan, Laba Rugi, EBITDA,  
+dan Total Penghasilan Komprehensif
+Revenue, Proﬁt or Loss, EBITDA, and 
+Total Comprehensive Income 
+1.043.955
+1.305.846
+25,1%
+2022
+Posisi Keuangan
+Financial Position
+*2023
+YoY%
+Pendapatan
+Revenues
+444.380
+534.235
+20,2%
+Beban Pokok Pendapatan
+Cost of Revenues
+599.575
+771.611
+28,7%
+Laba Bruto
+Gross Proﬁt
+526.783
+684.015
+29,8%
+702.853
+873.557
+24,3%
+367.842
+514.487
+39,9%
+370,243
+514.460
+39,0%
+Laba Usaha
+Operating Proﬁt
+EBITDA
+EBITDA
+Laba Bersih
+Proﬁt for the year
+Total Penghasilan Komprehensif tahun berjalan
+Total Comprehensive Income for the year
+(dalam juta Rupiah/In million Rupiah)
+*) Terkonsolidasi / Consolidated
+Pendapatan
+Beban Pokok Pendapatan
+Laba Bruto
+EBITDA
+Revenues
+Cost of Revenue
+Gross Proﬁt
+EBITDA
+Pada tahun 2023, Grup mencatat pendapatan sebesar 
+Rp1,305,846 juta di mana 94,5% dari pendapatan 
+ini 
+datang 
+dari 
+layanan 
+colocation. 
+Recurring 
+revenues meningkat sebesar  25,6%. Peningkatan ini 
+dikontribusikan oleh perkembangan bisnis baik dari basis 
+pelanggan Perseroan existing maupun pelanggan baru. 
+Di saat yang sama, beban pokok pendapatan (termasuk 
+depresiasi dan amortisasi) meningkat sebesar 20,2% 
+menjadi Rp 534,235 juta. Peningkatan ini sejalan dengan 
+pertumbuhan pendapatan Grup.
+Grup berhasil mencatat pertumbuhan Laba Bruto 
+sebesar 28,7%, dari Rp 599,575 juta menjadi Rp 771,611 
+juta di tahun 2023. Pendapatan Grup berhasil tumbuh 
+lebih tinggi 25,1% dibandingkan dengan peningkatan 
+Beban Pokok Pendapatan 20,2%.
+EBITDA Grup mencapai Rp873,557 juta, tumbuh 24,3% 
+sepanjang tahun 2023 dari Rp702,853 juta di tahun 
+sebelumnya. Strategi untuk terus melakukan investasi 
+pada automation dan artiﬁcial intelligence menghasilkan 
+operasional 
+eﬁsiensi 
+dan 
+meningkatkan 
+marjin 
+proﬁtabilitas Perseroan.
+In the year 2023, the Group reported a revenue of   
+IDR 1.305.846 juta, with colocation services accounting 
+for 94,5% of the total revenue. Recurring revenues 
+increased by 25,6%, driven by the Company’s efforts to 
+foster business development among both its existing 
+and new customers. 
+Simultaneously, the cost of revenue, inclusive of 
+depreciation and amortization, escalated by 20,2% to 
+IDR 534.235 million, aligning with the Group’s growth   
+in revenue.
+ 
+The Group EBITDA surged by 24,3% from IDR 
+702.853million in the previous year to IDR 873.557 million. 
+The strategic focus on investing in automation and 
+artiﬁcial intelligence has yielded operational efficiency 
+and bolstered the Company’s proﬁtability margins.
+The Group EBITDA surged by 24,3%, from IDR702.853 
+million in the previous year to IDR873.557 million. The 
+strategic focus on investing in automation and artiﬁcial 
+intelligence has yielded operational efficiency and 
+bolstered the Company’s proﬁtability margins.
+P. 128-129
+DCI Laporan Tahunan 2023
+Laba Bersih
+Penghasilan Komprehensif lain
+Total Penghasilan Komprehensif tahun berjalan
+Net Proﬁt
+Other Comprehensive Income
+Total Comprehensive Income for the Year
+Sepanjang tahun 2023, Grup membukukan laba tahun 
+berjalan sebesar Rp514,487, meningkat sebesar 39,9% 
+dibandingkan tahun sebelumnya. Selain peningkatan 
+dari sisi kinerja operasional, Grup juga berupaya untuk 
+menjaga  biaya beban bunga dengan melakukan 
+evaluasi secara berkala terhadap proyeksi kas dengan   
+keadaan aktual.
+Pada tahun 2023, Grup membukukan penghasilan 
+komprehensif lain berupa nilai pengukuran kembali atas 
+imbalan kerja karyawan setelah pajak sebesar Rp384 
+juta dan perubahan atas nilai wajar tanah sebesar Rp 411 
+juta. Sedangkan, pada tahun 2022 Perseroan mencatat 
+kerugian pengukuran kembali atas penyisihan imbalan 
+kerja karyawan setelah pajak sebesar Rp300 juta dan 
+perubahan atas nilai wajar tanah sebesar Rp2,701 juta. 
+Grup mencatatkan laba komprehensif tahun berjalan 
+sebesar Rp514,460 juta, meningkat sebesar 39,0% dari 
+tahun 2022 sebesar Rp 370,243 juta. 
+Throughout the year 2023, the Group recorded a proﬁt 
+of IDR514.487 million, marking a 39,9% increase from 
+the previous year. In addition to enhancing operational 
+performance, the Group endeavors to minimize interest 
+expenses by conducting regular assessments of cash 
+projections against actual conditions.
+In 2023, the Group recorded other comprehensive 
+income, including a remeasurement value on employee 
+beneﬁt obligations after tax of IDR 384 million and 
+change in fair value of land of IDR 411 million. Meanwhile 
+in 2022, the Company recorded a remeasurement 
+value on employee beneﬁt obligations after tax of 
+IDR 300 million and change in fair value of land of   
+IDR2.701 million.
+The Group recorded a comprehensive proﬁt for the year 
+of IDR514.460 million, an increase of 39,0% from 2022 of 
+IDR370.243 million.
+Arus kas kegiatan Operasi
+Arus kas kegiatan Investasi
+Cash Flow from Operating Activities
+Cash Flow from Investing Activities
+Pada tahun 2023, arus kas bersih yang dihasilkan 
+dari kegiatan operasi tercatat sebesar Rp741.401 juta, 
+meningkat sebesar Rp67.746  juta atau 10,1%. Peningkatan 
+ini 
+terutama 
+berasal 
+dari 
+kenaikan 
+penerimaan 
+dari 
+pelanggan, 
+sejalan 
+dengan 
+bertumbuhnya   
+bisnis perseroan.
+Arus kas dari aktivitas investasi merupakan arus kas 
+terhadap penambahan aset tetap. Selama tahun 2023, 
+DCI mencatat kas neto yang digunakan untuk aktivitas 
+investasi sebesar Rp309.594 juta yang digunakan untuk 
+melanjutkan belanja modal keperluan Fit-out gedung 
+JK5 untuk memenuhi kapasitas terkontrak pelanggan 
+dan melakukan akuisisi sebesar 50,005% PT Sarana 
+Megahtama untuk pengembangan gedung pusat   
+data kedepannya.
+Per akhir 2023, DCI melaporkan saldo kas dan setara kas 
+sebesar Rp 403,869 juta. Sementara saldo kas dan setara 
+kas periode sebelumnya, tercatat sebesar Rp237,192 juta, 
+sehingga total saldo kas dan setara kas periode 2023 
+naik sebesar 70.27% atau Rp 166,677 juta.
+In 2023, there was a recorded net cash ﬂow of IDR 741.401 
+million generated from operating activities, indicating a 
+substantial increase of IDR 67.746 million or 10,1%. The rise 
+in net cash ﬂow was primarily attributed to an increase in 
+receipts from customers, aligning with the Company’s 
+business expansion.
+Cash ﬂows from investing activities represent cash 
+ﬂows used for the acquisition of ﬁxed assets. In 2023, 
+DCI reported a net cash outﬂow of IDR309.594 million 
+from investing activities, which was utilized for ongoing 
+capital expenditures to fulﬁll the contracted capacity of 
+customers by ﬁtting out the JK5 building and acquired 
+50.005% shares in PT Sarana Megahtama for future data 
+center expansion plan.
+By the end of 2023, DCI reported cash and cash 
+equivalent balance of IDR 403.869 million. While the cash 
+and cash equivalents balance for the previous period 
+was recorded at IDR237.192 million, the total cash and 
+cash equivalents balance for the 2023 period increased 
+by 70.27% or IDR166.677 million.
+Arus Kas
+Cash Flow 
+673.655
+741.401
+10,1%
+2022
+Posisi Keuangan
+Financial Position
+*2023
+YoY%
+Arus Kas dari Aktivitas Operasional
+Cash Flow from Operating Activities
+(316.713)
+(309.594)
+-2.2%
+Arus Kas dari Aktivitas Investasi
+Cash Flow from Investing Activities
+(170,247)
+(265.130)
+55.7%
+Arus Kas dari Aktivitas Pendanaan
+Cash Flow from Financing Activities
+50.497
+237.192
+369.7%
+237.192
+403.869
+70.3%
+Kas dan Setaranya di Awal Tahun
+Cash and Cash Equivalent at Beginning of the Year
+Kas dan Setaranya di Akhir Tahun
+Cash and Cash Equivalent at End of the Year
+(dalam juta Rupiah/In million Rupiah)
+*) Terkonsolidasi / Consolidated
+P. 130-131
+DCI Laporan Tahunan 2023
+Arus kas kegiatan Pendanaan
+Cash Flow from Financing Activities
+Arus kas dari aktivitas pendanaan merupakan arus 
+kas yang terdiri dari penerimaan dari hutang bank, 
+pembayaran hutang bank yang telah jatuh tempo, 
+pembayaran beban bunga dan juga pembayaran 
+liabilitas sewa.
+Perseroan mencatat kas neto yang dikeluarkan dari 
+aktivitas pendanaan sebesar Rp265,130 juta. Mayoritas 
+dari pengeluaran tersebut adalah untuk membayar 
+hutang bank yang telah jatuh tempo dan pembayaran 
+beban bunga atas hutang bank.
+Rasio proﬁtabilitas Perseroan mengalami kemajuan 
+di semua aspek. Dengan pertumbuhan pendapatan 
+Perseroan, 
+rasio 
+proﬁtabilitas 
+pun 
+mengalami 
+peningkatan. Ini menunjukkan bahwa inisiatif-inisiatif 
+strategis yang telah dijalankan DCI selama beberapa 
+tahun terakhir mulai menunjukkan hasilnya di laporan 
+keuangan. Laba Kotor, Laba Operasional, dan rasio 
+EBITDA 
+semua 
+mengalami 
+peningkatan 
+bersama 
+dengan tumbuhnya bisnis Perseroan.
+Perseroan 
+juga 
+menilai 
+kemampuannya 
+untuk 
+menghasilkan pendapatan menggunakan aset dan 
+sumber daya lain yang dimiliki. Pengembalian atas Aset 
+(Return on Assets) dan Ekuitas meningkat sepanjang 
+tahun 2023. 
+Cash inﬂows and outﬂows from ﬁnancing activities 
+encompass the cash receipts from bank loans, the 
+repayments of overdue bank loans, the settlements 
+of interest expenses, as well as the payments of   
+lease liabilities.
+DCI reported a net outﬂow of cash amounting to   
+IDR 265.130 million from its ﬁnancing activities, primarily 
+attributed to the settlement of delinquent bank loans 
+and payment of interest expenses associated with   
+bank loans.
+The Company’s proﬁtability ratios have progressed in 
+all aspects. With the growth in the Company’s revenue, 
+proﬁtability ratios have also increased. This indicates 
+that the strategic initiatives implemented by DCI over the 
+past few years are starting to yield results in the ﬁnancial 
+reports. Gross Proﬁt, Operating Proﬁt, and EBITDA ratios 
+all experienced growth along with the expansion of the 
+Company’s business.
+The Company also evaluates its ability to generate 
+revenue using its assets and other resources. Return 
+on Assets (ROA) and Equity increased throughout the   
+year 2023.
+Rasio Keuangan 
+Financial Ratios
+57,43%
+59,09%
+2022
+Rasio Profitabilitas
+Profitability Ratios
+2023
+Marjin Laba Bruto
+Gross Proﬁt Margin
+50,46%
+52,38%
+Marjin Laba Usaha
+Operating Proﬁt Margins
+67.33%
+66,90%
+Marjin EBITDA
+EBITDA Margin
+11.43%
+13,99%
+23.20%
+23,31%
+Rasio Laba terhadap Aset
+Return on Asset
+Rasio Laba terhadap Jumlah Ekuitas
+Return on Equity
+Kebutuhan likuiditas Perseroan datang dari keperluan 
+untuk membiayai investasi dan menggunakan modal 
+usaha terkait perluasan fasilitas pusat datanya. Bisnis 
+data center membutuhkan modal usaha yang besar 
+untuk membangun dan melengkapi fasilitas dengan 
+standar yang tinggi.
+Perseroan 
+memastikan 
+kecukupan 
+jumlah 
+kas 
+dan 
+setaranya 
+yang 
+memadai 
+dengan 
+turut 
+mempertimbangkan pembayaran di masa yang akan 
+datang untuk membiayai aktivitas operasional dan 
+kebutuhan usaha lainnya. Secara berkala, Perseroan 
+mengadakan evaluasi reguler atas proyeksi arus kas 
+terhadap kondisi aktual. Selama tahun 2023, rasio lancar 
+DCI meningkat sebesar 41,48%. Hal ini mencerminkan 
+arus kas operasional yang lebih tinggi sepanjang 2023.
+Kemampuan Perseroan untuk melunasi semua utangnya, 
+baik jangka panjang maupun jangka pendek, dapat dilihat 
+melalui beberapa rasio solvabilitas (solvency ratios), 
+di antaranya rasio utang terhadap aset, rasio utang 
+terhadap ekuitas, dan rasio utang terhadap EBITDA.
+Rasio utang terhadap ekuitas DCI menurun dari 0,82x 
+di tahun 2022 menjadi 0,51x pada tahun 2023. Rasio 
+utang terhadap aset turun dari 0,40x di tahun 2022 
+menjadi 0,31x pada tahun 2023. Rasio utang terhadap 
+EBITDA juga turun dari 1,85 ke 1,30. Angka-angka ini 
+menunjukkan kemampuan Perseroan untuk memenuhi 
+kewajiban jangka panjangnya semakin meningkat.
+The Company’s liquidity needs arise from the requirement 
+to ﬁnance investments and utilize working capital related 
+to the expansion of its data center facilities. The data 
+center business necessitates substantial working capital 
+to construct and equip facilities to high standards.
+The Company ensures an adequate amount of cash and 
+its equivalents, taking into account future payments to 
+ﬁnance operational activities and other business needs. 
+Periodically, the Company conducts regular evaluations 
+of cash ﬂow projections against actual conditions. During 
+2023, DCI’s current ratio increased by 41.48%, reﬂecting 
+higher operational cash ﬂows throughout 2023.
+The Company’s ability to repay all of its debts, both long-
+term and short-term, can be observed through several 
+solvency ratios, including the debt-to-assets ratio, debt-
+to-equity ratio, and debt-to-EBITDA ratio.
+DCI’s debt-to-equity ratio decreased from 0,82x in 2022 
+to 0,51x in 2023. The debt-to-assets ratio declined from 
+0,40x in 2022 to 0,31x in 2023. The debt-to-EBITDA ratio 
+decreased from 1,85 to 1,30. These numbers indicate a 
+positive trend in the Company’s ability to meet its long-
+term obligations.
+Rasio Likuiditas dan Kemampuan Membayar Utang
+Liquidity and Solvency Ratios
+0.94
+1.33
+2022
+Rasio Likuiditas dan Kemampuan Membayar Utang
+Liquidity & Solvency Ratios
+2023
+Rasio Lancar
+Current Ratio
+0,82x
+0,51x
+Rasio Liabilitas terhadap Ekuitas
+Debt to Equity Ratio
+0,40x
+0,31x
+Rasio Liabilitas Terhadap Jumlah Aset
+Debt to Asset Ratio
+1,85x
+1,30x
+Rasio Liabilitas Terhadap EBITDA
+Debt to EBITDA Ratio
+P. 132-133
+DCI Laporan Tahunan 2023
+DCI 
+bertanggung 
+jawab 
+untuk 
+mempertahankan 
+beberapa perjanjian keuangan terkait utangnya. Per 31 
+Desember 2023, syarat perjanjian telah dipenuhi dengan 
+detail sebagai berikut:
+DCI is entrusted with managing various ﬁnancial 
+agreements related to its debt. As of 31 December 
+2023, the Company has fulﬁll the following provisions of   
+the agreement:
+Min 1.25
+2,87x
+Perjanjian yang harus dipertahankan
+Covenants to be maintained
+Realisasi
+Actual
+Diperlukan
+Required
+Rasio yang mencakup hutang layanan
+Debt service coverage ratio
+Max 3.0
+0,51x
+Rasio Liabilitas Terhadap Ekuitas
+Debt to Equity ratio
+Struktur Modal
+Capital Structure
+Komposisi
+2022
+Keterangan
+Description
+2023
+Komposisi
+14,55%
+517.732
+14,08%
+Liabilitas Jangka Pendek
+Current Liabilities
+36,18%
+951.802
+25,89%
+Liabilitas Jangka Panjang
+Non-current Liabilities
+50,73%
+1.469.534
+39,97%
+49,27%
+2.206.950
+60,03%
+468.215
+1.164.152
+1.632.367
+1.585.197
+3.217.564
+3.676.484
+Total Liabilitas
+Total Liabilities
+Total Ekuitas
+Total Equity
+Total 
+Tujuan utama dari pengelolaan modal Perseroan adalah 
+memastikan bahwa rasio modal yang dimiliki Perseroan 
+senantiasa terjaga dan sehat untuk kelangsungan usaha 
+serta memaksimalkan nilai bagi pemegang saham. 
+Perseroan mengelola dan menyesuaikan struktur modal 
+sesuai dengan perubahan-perubahan yang terjadi pada 
+kondisi ekonomi.
+The Company’s main objective in capital management 
+is to ensure the Company’s capital ratio remains robust 
+and sustainable, thereby promoting business continuity 
+and enhancing shareholder value. To achieve this, 
+the Company regularly reviews and adjusts its capital 
+structure in response to changes in the economic 
+environment.
+Investasi Modal
+Capital Investment 
+Agar 
+dapat 
+melayani 
+pertumbuhan 
+permintaan 
+untuk infrastruktur pusat data yang dapat diandalkan 
+di 
+Indonesia, 
+Perseroan 
+berkomitmen 
+untuk 
+mengembangkan fasilitasnya dan memiliki ambisi 
+untuk menyediakan kapasitas hingga 300 MW di lahan 
+Perseroan sebesar 8,7 hektar.
+Sepanjang 2023, Perseroan melakukan investasi sebesar 
+Rp395.517 untuk melanjutkan pembangunan gedung 
+pusat data, terutama pada gedung pusat data JK5 
+dan melakukan akuisisi saham PT Sarana Megahtama 
+sebesar 50.005% dengan tujuan untuk melanjutkan 
+pengembangan 
+pusat 
+data 
+tengah 
+kota 
+untuk   
+ke depannya.
+The Company is committed to enhancing its facilities 
+to address the growing demand for reliable data center 
+infrastructure in Indonesia. With a focus on expanding 
+its operations, the Company endeavors to provide up to 
+300 MW of capacity on its 8.7-hectare site.
+ 
+In 2023, DCI made a signiﬁcant contribution of   
+Rp 395.517 towards the ongoing construction of data 
+center facilities and the shares acquisition of 50.005% 
+in PT Sarana Megatama for the Company’s future 
+expansion purposes. 
+Kebijakan Perusahaan adalah menjaga struktur modal 
+yang sehat agar dapat memperoleh akses ke pendanaan 
+dengan bunga yang layak. 
+Manajemen memantau modal dengan menggunakan 
+beberapa ukuran leverage keuangan seperti rasio utang 
+terhadap ekuitas. Pada tahun 2023, DCI memiliki rasio 
+utang terhadap modal (DER) sebesar  0,51 kali sedangkan 
+pada tahun 2022 sebesar 0,82 kali. Sementara Debt 
+Service Coverage Ratio per 31 Desember 2023 sebesar 
+2,87 kali sedangkan pada tahun 2022 sebesar 3,91 kali.
+The Company’s policy is to maintain a healthy capital 
+structure to ensure access to funding at reasonable 
+interest rates.
+Management monitors capital using several ﬁnancial 
+leverage measures such as the debt-to-equity ratio. In 
+2023, DCI had a debt-to-equity ratio (DER) of 0.51 times 
+compared to 0.82 times in 2022. Meanwhile, the Debt 
+Service Coverage Ratio as of 31 Desember, 2023 was 
+2.87 times compared to 3.91 times in 2022.
+P. 134-135
+DCI Laporan Tahunan 2023
+Informasi dan Fakta Material 
+Material Fact & Information
+Pada tahun 2023, Perseroan tidak melakukan transaksi 
+yang mengandung benturan kepentingan. Semua 
+transaksi pihak terkait dilakukan dengan syarat dan 
+ketentuan yang sesuai dengan Peraturan Otoritas Jasa 
+Keuangan No.42/POJK.04/2020 yang mengatur tentang 
+Transaksi Aﬁliasi dan Transaksi Benturan Kepentingan.
+Berikut adalah informasi material yang telah disampaikan 
+oleh Perseroan dengan ketentuan yang sesuai dengan 
+Peraturan Otoritas Jasa Keuangan No. 31/POJK.04/2015 
+Tahun 2015 tentang Keterbukaan Informasi atau Fakta 
+Material oleh Perusahaan Publik: 
+• 
+Melakukan pengalihan pinjaman terkait fasilitas 
+kredit yang sebelumnya diperoleh dari PT Bank 
+OCBC NISP Tbk kepada PT Bank Mandiri (Persero) 
+Tbk berdasarkan Akta No. 34, No. 35, No. 36, No. 37, 
+dan No. 38 tertanggal 11 Mei 2023. 
+• 
+Melakukan pengambilalihan PT Sarana Megahtama 
+dan oleh karena itu, Perseroan merupakan pemilik 
+50,005% saham dalam PT Sarana Megahtama 
+berdasarkan Akta No. 33 tertanggal 7 Juli 2023 
+yang telah disahkan dalam Surat Keputusan 
+Menteri Hukum dan Hak Asasi Manusia No. AHU-
+AH.01.03-0089072 Tahun 2023. 
+In 2023, the Company did not engage in transactions 
+that involved conﬂicts of interest. All related-party 
+transactions 
+were 
+conducted 
+under 
+terms 
+and 
+conditions in accordance with Financial Services 
+Authority Regulation No. 42/POJK.04/2020, which 
+regulates Affiliate Transactions and Conﬂict of Interest 
+Transactions.
+Below is the material information disclosed by the 
+Company in accordance with the provisions of Financial 
+Services Authority Regulation No. 31/POJK.04/2015 of 
+2015 regarding Disclosure of Material Information or 
+Facts by Public Companies:
+• 
+Undertaking loan takeover related to credit facilities 
+previously obtained from PT Bank OCBC NISP Tbk 
+to PT Bank Mandiri (Persero) Tbk based on Deeds 
+No. 34, No. 35, No. 36, No. 37, and No. 38 dated May 
+11, 2023.
+• 
+Undertaking 
+the 
+acquisition 
+of 
+PT 
+Sarana 
+Megahtama, hence, the Company owns 50.005% of 
+the shares in PT Sarana Megahtama based on Deed 
+No. 33 dated July 7, 2023, which has been ratiﬁed in 
+the Minister of Law and Human Rights Decree No. 
+AHU-AH.01.03-0089072 of 2023.
+• 
+Menyetujui untuk menerima pengunduran diri dan 
+memberhentikan Jui Chihtra Gani sebagai Direktur 
+Perseroan dan mengangkat Evelyn sebagai Direktur 
+Perseroan sebagaimana telah disetujui oleh Rapat 
+Umum Pemegang Saham dan telah disahkan dalam 
+Akta No. 78 tertanggal 14 April 2023
+• 
+Menyetujui untuk menerima pengunduran diri dan 
+memberhentikan Marco Cioffi sebagai Direktur 
+Perseroan sebagaimana telah disetujui oleh Rapat 
+Umum Pemegang Saham dan telah disahkan dalam 
+Akta No. 67 tertanggal 16 Oktober 2023.
+• 
+Approving the resignation and discharge Jui Chihtra 
+Gani as Director of the Company and appointing 
+Evelyn as Director of the Company as approved by 
+the General Meeting of Shareholders and ratiﬁed in 
+Deed No. 78 dated April 14, 2023.
+• 
+Approving the resignation and discharge Marco 
+Cioffi as Director of the Company as approved by 
+the General Meeting of Shareholders and ratiﬁed in 
+Deed No. 67 dated October 16, 2023.
+PT Indointernet Tbk
+PT Ekagrata Data Gemilang
+PT Datacenter Indonesia Sukses Makmur
+PT Datacenter Indonesia Sukses Perkasa
+PT Fortress Data Services
+Manajemen Kunci
+Key Management
+Pihak Berelasi Lainnya
+Other Related Party
+Manajemen Kunci
+Key Management
+Pendapatan usaha & 
+beban pokok pendapatan
+ Revenues and cost of revenues
+Beban pokok pendapatan
+ Cost of revenues
+Pendapatan usaha
+Revenues
+Manajemen Kunci
+Key Management
+Manajemen Kunci
+Key Management
+Pendapatan usaha, beban pokok 
+pendapatan & beban umum 
+dan administrasi
+Revenues, cost of revenues & general 
+and administrative expenses
+Pendapatan usaha & beban 
+pokok pendapatan
+Revenues, cost of revenues & general 
+and administrative expenses
+Pihak Berelasi
+Related Parties
+Sifat Hubungan
+Nature of Relationship
+Sifat Hubungan
+Nature of Relationship
+Informasi dan Fakta Material Setelah 
+Tanggal Laporan Akuntan 
+Information & Material Facts After the 
+Date of Accountant Report
+Tidak terdapat informasi atau fakta material yang terjadi 
+setelah tanggal laporan akuntan untuk tahun buku 2023 
+ditandatangani.
+There are no information and material facts that occur 
+after the date of the 2023 accountant report was signed.
+P. 136-137
+DCI Laporan Tahunan 2023
+Prospek Industri 
+Pusat Data
+Industry Prospect Outlook 
+Perseroan memandang bahwa Indonesia memiliki potensi 
+pasar industri Pusat Data yang sangat besar seiring dengan 
+semakin bertambahnya permintaan pasar.
+Indonesia merupakan negara dengan populasi terbesar di Asia 
+Tenggara. Jumlah pengguna internet di Indonesia mencapai 215 
+juta pengguna atau sejumlah 78.19% dari populasi Indonesia.2 
+Pertumbuhan ekonomi digital di Indonesia juga diproyeksikan 
+akan terus tumbuh hingga mencapai USD 360 miliar pada 
+tahun 2030.3
+Selain itu, dalam beberapa tahun terakhir, terdapat peningkatan 
+pengguna komputasi awan (cloud) dan penggunaan teknologi 
+kecerdasan buatan (artiﬁcial intelligence / AI) oleh berbagai 
+sektor industri. Dengan banyaknya aplikasi yang membutuhkan 
+analisis data real-time, dibutuhkan jaringan pusat dengan low 
+latency melalui solusi edge computing. 
+The Company believes that Indonesia holds a signiﬁcant market 
+potential for the Data Center industry, in line with the increasing 
+market demand.
+Indonesia is the country with the largest population in Southeast 
+Asia. The number of internet users in Indonesia has reached 215 
+million, accounting for 78.19% of the Indonesian population. The 
+digital economy in Indonesia is also projected to continue its 
+growth, reaching USD 360 billion by the year 2030.
+Furthermore, in recent years, there has been an increase 
+in the adoption of cloud computing and the use of artiﬁcial 
+intelligence (AI) technology across various industrial sectors. 
+With the growing number of applications requiring real-time 
+data analysis, there is a need for networks with low latency 
+through edge computing solutions.
+Pengguna Internet Indonesia
+215 Juta Pengguna 
+Proyeksi Pertumbuhan Digital 
+Indonesia 2030
+USD 360 Miliar 
+2  Pengguna Internet di Indonesia Tembus 213 Juta Orang Hingga Awal 2023 oleh Databoks, https://databoks.katadata.co.id/datapublish/2023/09/20/
+pengguna-internet-di-indonesia-tembus-213-juta-orang-hingga-awal-2023
+3 e-Conomy SEA 2023 Report by Google, Temasek, and Bain & Company
+Pesatnya 
+pertumbuhan 
+pengguna 
+internet 
+dan 
+perkembangan teknologi di Indonesia secara langsung 
+berkontribusi 
+terhadap 
+meningkatnya 
+kebutuhan 
+penyimpanan data. Perkembangan ini harus diimbangi 
+dengan peningkatan ketersediaan infrastruktur digital 
+yang mampu menunjang permintaan pasar. 
+Hal ini sejalan dengan permintaan pasar pusat data 
+di Asia Tenggara yang diproyeksikan akan mencapai 
+2.733 MW pada tahun 2028 atau tumbuh 18,7% apabila 
+dibandingkan dengan tahun 2023.4 
+Informasi-informasi ini menunjukan peluang dan potensi 
+besar yang dimiliki indonesia, sebagai negara dengan 
+populasi terbesar di Asia Tenggara, dalam menunjang 
+pertumbuhan jangka panjang industri pusat data baik di 
+Indonesia maupun Asia Tenggara. 
+ 
+Hal ini menjadi peluang serta tantangan bagi Perseroan. 
+Meningkatnya kebutuhan layanan pusat data di Indonesia 
+telah disadari oleh banyak operator pusat data lokal 
+maupun internasional. Beberapa perusahaan pusat data 
+internasional telah masuk dan memulai operasional pusat 
+data miliknya di Indonesia. 
+Untuk menghadapi tantangan ini, Perseroan terus 
+berfokus untuk mengembangkan ketersediaan layanan 
+pusat data melalui ekspansi DCI Platform, senantiasa 
+berinovasi dalam meningkatkan mutu layanan dan 
+memberikan pelayanan terbaik bagi Pelanggan, serta 
+mempertahankan dominasi pasar. 
+The rapid growth of internet users and technological 
+advancements in Indonesia directly contribute to the 
+increasing demand for data storage. This development 
+must be met with an enhancement in the availability 
+of digital infrastructure capable of supporting market 
+demand.
+This aligns with the projected market demand for data 
+centers in Southeast Asia, which is expected to reach 2,733 
+MW by 2028, representing an 18.7% growth compared 
+to 2023.
+This information highlights the signiﬁcant opportunities 
+and potential that Indonesia, as the country with the 
+largest population in Southeast Asia, holds in supporting 
+the long-term growth of the data center industry both in 
+Indonesia and Southeast Asia.
+This presents both an opportunity and a challenge for the 
+Company. The increasing demand for data center services 
+in Indonesia has been recognized by many local and 
+international data center operators. Several international 
+data center companies have already entered and 
+commenced their data center operations in Indonesia.
+To address this challenge, the Company continues to 
+focus on developing the availability of data center services 
+through the expansion of the DCI Platform, constantly 
+innovating to enhance service quality, and providing the 
+best service to Customers, as well as maintaining market 
+dominance.
+Proyeksi Pasar Pusat Data 
+Asia Tenggara Tahun 2028
+2.733 MW  
+4    Data Center Market Report: Jakarta by Structure Research
+P. 138-139
+DCI Laporan Tahunan 2023
+Strategi Pemasaran
+DCI Indonesia 
+DCI Indonesia Marketing Strategy 
+Aktivitas pemasaran yang efektif merupakan salah 
+satu kegiatan utama yang menunjang pertumbuhan 
+Perseroan dari tahun ke tahun. Dalam memasarkan 
+layanannya, Perseroan melakukan pendekatan langsung 
+dan tidak langsung.  Tim pemasaran dan manajemen 
+Perseroan 
+meninjau 
+strategi 
+pemasaran 
+pada   
+setiap bulan.
+Pendekatan pemasaran secara langsung mencakup 
+penawaran layanan secara langsung ke calon pelanggan 
+melalui partisipasi di pameran atau pengadaan webinar 
+dan acara dengan tema teknologi lainnya. Di sisi lain, 
+pendekatan tidak langsung dilakukan bila Perseroan 
+mendapatkan calon pelanggan melalui referensi dari 
+basis pelanggan yang ada.
+ 
+Untuk 
+mendukung 
+kegiatan 
+ekspansi 
+Perseroan, 
+pada tahun 2023, tim DCI mengadakan pendekatan 
+pemasaran, baik secara langsung maupun tidak 
+langsung, yang mencakup:
+• 
+Mengadakan acara kolaborasi dengan pelanggan 
+• 
+Press-conference untuk launching event kerja sama 
+dengan pelanggan 
+• 
+Mengadakan dan menghadiri sesi-sesi seminar 
+untuk membicarakan tren teknologi dan industri 
+pusat data
+Detail kegiatan dapat dilihat pada bagian Peristiwa 
+Penting, Laporan Tahunan ini.
+Untuk kedepannya, Perseroan ingin mempertahankan 
+pertumbuhan bisnis secara berkelanjutan, memberikan 
+pelayanan 
+terbaik 
+untuk 
+memenuhi 
+kebutuhan 
+pelanggan, sambil turut mendukung pertumbuhan 
+digital Indonesia. 
+Effective marketing activities are one of the primary 
+activities that support the Company’s growth year over 
+year. In marketing its services, the Company employs 
+both direct and indirect approaches. The Company’s 
+marketing and management teams review marketing 
+strategies on a monthly basis.
+Direct marketing approaches include offering services 
+directly to prospective customers through participation 
+in exhibitions or the organization of seminars and 
+other technology-themed events. On the other hand, 
+an indirect approach is employed when the Company 
+acquires potential customers through references from 
+its existing customer base.
+To support the Company’s expansion activities, in 2023, 
+the DCI team conducted marketing approaches, both 
+directly and indirectly, which include:
+• 
+Hosting collaboration events with customers.
+• 
+Conducting press conferences for launching events 
+in collaboration with customers.
+• 
+Organizing and participating in seminar sessions to 
+discuss technology trends and data center industry 
+developments.
+Details of the activities can be found in the Signiﬁcant 
+Events section of this Annual Report.
+Looking ahead, the Company aims to maintain 
+sustainable business growth, deliver the best service to 
+meet customer needs, while also supporting the digital 
+growth of Indonesia.
+Di tahun 2023, Perseroan fokus untuk terus dapat 
+mempertahankan posisi dominasi pangsa pasar pusat 
+data di Indonesia. Beberapa prioritas Perseroan adalah 
+pertumbuhan baik dari sisi pelanggan maupun keuangan, 
+adopsi automation dan predictive maintenance, serta 
+mengembangkan DCI Platform untuk memastikan 
+permintaan dari pelanggan dapat terpenuhi.
+Keberhasilan Perseroan dalam menjalankan strategi 
+bisnis tersebut tercermin dari pertumbuhan keuangan 
+yang solid dan keberhasilan untuk mencapai target yang 
+telah ditetapkan di awal tahun. Pendapatan Perseroan 
+tumbuh sebesar 25,1% menjadi sebesar Rp1,305,846 
+juta. Selain itu, Perseroan terus mencatat peningkatan 
+pada kinerja proﬁtabilitas, dimana EBITDA tahun 
+berjalan tumbuh sebesar 24,3% menjadi Rp873,557 juta 
+dan peningkatan laba bersih sebesar 39,9% menjadi   
+Rp 514,487 juta.
+Agar 
+dapat 
+mempertahankan 
+pangsa 
+pasar 
+di 
+tahun 2024 di tengah kompetisi yang semakin ketat, 
+Perseroan menetapkan target penjualan sejalan dengan 
+kebutuhan pasar, memperluas service offering agar 
+dapat memberikan solusi total Digital infrastructure 
+terhadap pelanggan dan juga terus mengusung   
+operational excellence.
+In 2023, the foremost aim of the Company was to sustain 
+its leadership position in the colocation data center 
+provider industry. The company’s strategic priorities 
+encompassed augmenting customer and ﬁnancial 
+growth, integrating automation and artiﬁcial intelligence, 
+and enhancing the DCI Platform to cater to evolving 
+client demands
+The Company’s effective execution of its business 
+strategy is evidenced by its impressive ﬁnancial 
+progress and accomplishment of its annual targets. 
+The ﬁrm experienced a signiﬁcant revenue surge of 
+25,1%, reaching IDR1.305.846 million. Furthermore, 
+DCI’s proﬁtability performance showed sustained 
+improvement, as demonstrated by a 24,3% rise in EBITDA 
+to IDR 873.557 million and a substantial 39,9% increase in 
+net proﬁt to IDR 514.487 million.
+In order to maintain its market share in the year of 2024 
+in response to the escalating competition in the market, 
+the Company has devised a strategic plan that includes 
+setting sales objectives that align with prevailing market 
+trends, expanding its range of services to offer clients 
+comprehensive digital infrastructure solutions, and 
+persistently striving for operational excellence. 
+Perbandingan antara
+Target dan Realisasi
+Comparison Between Achievements 
+and Realization 
+P. 140-141
+DCI Laporan Tahunan 2023
+Kebĳakan dan 
+Distribusi Dividen
+Dividend Policy and Distribution 
+Perseroan tidak menerapkan kebijakan distribusi dividen 
+pada tahun 2023, sebagaimana RUPS Tahunan 2023 
+telah menyetujui untuk mengalokasikan laba bersih 2023 
+sebesar Rp 5 miliar untuk dana cadangan dan sisanya 
+digunakan untuk perluasan gedung pusat data yang 
+akan disimpan sebagai Laba Ditahan (retained earning) 
+berdasarkan Akta Notaris Jose Dima Satria, S.H., M.Kn., 
+No. 07 tanggal 14 April 2023. 
+The Company did not implement a dividend distribution 
+policy in 2023, as the Annual GMS for 2023 approved 
+the allocation of the 2023 net proﬁt amounting to Rp 
+5 billion for reserve funds, with the remainder used for 
+the expansion of data center buildings to be retained as 
+Retained Earnings based on Notary Deed by Jose Dima 
+Satria, S.H., M.Kn., No. 07 dated April 14, 2023.
+Perubahan Peraturan 
+Perundang-Undangan 
+Amendment on Regulations
+Sepanjang tahun 2023, tidak terdapat perubahan 
+peraturan 
+perundang-undangan 
+yang 
+berdampak 
+signiﬁkan pada keberlangsungan usaha di Perusahaan. 
+Throughout 2022, no major changes in legislation 
+or regulations impacted the Company’s business 
+sustainability.
+Perubahan 
+Kebĳakan Akuntansi 
+Accounting Policy Changes
+Grup menerapkan pertama kali seluruh standar baru 
+dan/atau yang direvisi yang berlaku efektif untuk periode 
+yang dimulai pada atau setelah 1 Januari 2023, termasuk 
+standar yang direvisi berikut ini yang mempengaruhi 
+laporan keuangan konsolidasian Grup:
+• 
+Amandemen PSAK 1: Penyajian laporan keuangan - 
+Pengungkapan Kebijakan Akuntansi. Amandemen 
+tersebut berdampak pada pengungkapan kebijakan 
+akuntansi Grup, namun tidak berdampak pada 
+pengukuran, pengakuan atau penyajian item apa 
+pun dalam laporan keuangan Grup.
+ 
+• 
+Amendemen PSAK 16: Aset Tetap - Hasil sebelum 
+Penggunaan 
+yang 
+Diintensikan. 
+Amandemen 
+ini tidak berdampak pada laporan keuangan 
+konsolidasian Grup karena tidak ada penjualan atas 
+item-item yang dihasilkan aset tetap yang menjadi 
+tersedia untuk digunakan pada atau setelah awal 
+periode sajian paling awal.
+• 
+Amandemen 
+PSAK 
+25: 
+Kebijakan 
+Akuntansi, 
+Perubahan Estimasi Akuntansi, dan Kesalahan 
+terkait Deﬁnisi Estimasi Akuntansi. Amandemen ini 
+tidak memiliki dampak terhadap laporan keuangan 
+konsolidasian Grup
+• 
+Amandemen PSAK 46: Pajak Penghasilan - Pajak 
+Tangguhan Terkait Aset dan Liabilitas Yang Timbul 
+Dari Transaksi Tunggal. Amandemen ini tidak 
+memiliki dampak terhadap laporan keuangan 
+konsolidasian Grup
+• 
+Amandemen 
+PSAK 
+46: 
+Pajak 
+Penghasilan 
+- 
+Reformasi Pajak Internasional - Ketentuan Model 
+Pilar Dua. Amandemen tersebut tidak berdampak 
+pada laporan keuangan konsolidasian Grup karena 
+tidak termasuk dalam cakupan aturan model Pilar 
+Dua karena pendapatan konsolidasiannya kurang 
+dari EUR 750 juta/tahun.
+The Group made ﬁrst time adoption of all the new and/or 
+revised standards effective for the periods beginning on 
+or after January 1, 2023, including the following revised 
+standards that have affected the consolidated ﬁnancial 
+statements of the Group:
+• 
+Amendment of PSAK 1: Presentation of ﬁnancial 
+statement - Disclosure of accounting policies.   
+The amendments have had an impact on the 
+Group’s disclosures of accounting policies, but not 
+on the measurement, recognition or presentation of 
+any items in the Group’s ﬁnancial statements.
+• 
+Amendment of PSAK 16: Fixed Assets - Proceeds 
+before Intended Use. These amendments had no 
+impact on the consolidated ﬁnancial statements 
+of the Group as there were no sales of such items 
+produced by ﬁxed assets made available for use on or 
+after the beginning of the earliest period presented.
+• 
+Amendment of PSAK 25: Accounting Policies, 
+Changes in Accounting Estimates and Errors - 
+Deﬁnition of Accounting Estimates. The amendments 
+had no impact on the Group’s consolidated   
+ﬁnancial statements.
+• 
+Amendment of PSAK 46: Income Taxes - Deferred 
+Tax related to Assets and Liabilities arising from a 
+Single Transaction. The amendments had no impact 
+on the Group’s consolidated ﬁnancial statements.
+• 
+Amendment of PSAK 46: Income Taxes - International 
+Tax Reform - Pillar Two Model Rules. The amendments 
+had no impact on the Group’s consolidated ﬁnancial 
+statements as the Group is not in scope of the Pillar 
+Two model rules as its consolidated revenue is   
+less than EUR 750 million/year. 
+P. 142-143
+DCI Laporan Tahunan 2023
+05
+Corporate Governance
+Tata Kelola 
+Perusahaan

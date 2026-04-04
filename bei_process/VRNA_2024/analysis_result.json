@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-VRNA-att2.pdf",
+    "ticker": "VRNA_2024",
+    "mdma_start": "72",
+    "mdma_end": "89",
+    "Positive_Sum": 2264.0,
+    "Negative_Sum": 2287.0,
+    "Total_Matched_Words": 1447,
+    "Total_Word": 9760,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

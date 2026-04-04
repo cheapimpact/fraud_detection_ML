@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-DCII-att1.pdf",
+    "ticker": "DCII_2023",
+    "mdma_start": "126",
+    "mdma_end": "150",
+    "Positive_Sum": 1822.0,
+    "Negative_Sum": 1798.0,
+    "Total_Matched_Words": 1167,
+    "Total_Word": 6995,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

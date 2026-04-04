@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SOTS-att1.pdf",
+    "ticker": "SOTS_2024",
+    "mdma_start": "62",
+    "mdma_end": "77",
+    "Positive_Sum": 2178.0,
+    "Negative_Sum": 2120.0,
+    "Total_Matched_Words": 1369,
+    "Total_Word": 8160,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

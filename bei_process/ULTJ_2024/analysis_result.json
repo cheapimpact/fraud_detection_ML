@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ULTJ-att1.pdf",
+    "ticker": "ULTJ_2024",
+    "mdma_start": "65",
+    "mdma_end": "80",
+    "Positive_Sum": 1942.0,
+    "Negative_Sum": 1590.0,
+    "Total_Matched_Words": 1140,
+    "Total_Word": 7170,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

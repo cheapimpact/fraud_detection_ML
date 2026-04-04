@@ -1,0 +1,11 @@
+{
+    "target_file": "AnnualReport2024-AADI-att1.pdf",
+    "ticker": "AADI_2024",
+    "mdma_start": "38",
+    "mdma_end": "61",
+    "Positive_Sum": 2914.0,
+    "Negative_Sum": 2465.0,
+    "Total_Matched_Words": 1768,
+    "Total_Word": 9956,
+    "processed_at": "2026-02-08"
+}

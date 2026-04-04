@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BAJA-att1.pdf",
+    "ticker": "BAJA_2024",
+    "mdma_start": "49",
+    "mdma_end": "71",
+    "Positive_Sum": 1837.0,
+    "Negative_Sum": 2111.0,
+    "Total_Matched_Words": 1212,
+    "Total_Word": 9923,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

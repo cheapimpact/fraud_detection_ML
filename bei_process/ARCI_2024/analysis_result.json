@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ARCI-att3.pdf",
+    "ticker": "ARCI_2024",
+    "mdma_start": "84",
+    "mdma_end": "111",
+    "Positive_Sum": 3194.0,
+    "Negative_Sum": 3162.0,
+    "Total_Matched_Words": 2029,
+    "Total_Word": 13575,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

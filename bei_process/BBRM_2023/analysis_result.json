@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-BBRM-att1.pdf",
+    "ticker": "BBRM_2023",
+    "mdma_start": "44",
+    "mdma_end": "59",
+    "Positive_Sum": 2139.0,
+    "Negative_Sum": 2463.0,
+    "Total_Matched_Words": 1496,
+    "Total_Word": 9353,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

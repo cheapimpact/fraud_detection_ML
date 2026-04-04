@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SSTM-att1.pdf",
+    "ticker": "SSTM_2023",
+    "mdma_start": "27",
+    "mdma_end": "41",
+    "Positive_Sum": 1785.0,
+    "Negative_Sum": 1779.0,
+    "Total_Matched_Words": 1139,
+    "Total_Word": 8234,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

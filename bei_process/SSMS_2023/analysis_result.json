@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SSMS-att1.pdf",
+    "ticker": "SSMS_2023",
+    "mdma_start": "118",
+    "mdma_end": "152",
+    "Positive_Sum": 3738.0,
+    "Negative_Sum": 3489.0,
+    "Total_Matched_Words": 2307,
+    "Total_Word": 17290,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

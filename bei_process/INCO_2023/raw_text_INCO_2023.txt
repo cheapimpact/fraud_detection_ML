@@ -1,0 +1,5324 @@
+92
+Laporan Tahunan 2023
+ANALISIS DAN PEMBAHASAN 
+MANAJEMEN
+MANAGEMENT DISCUSSION AND ANALYSIS
+MENGELOLA NIKEL UNTUK
+MASA DEPAN YANG LEBIH RAMAH 
+LINGKUNGAN
+MANAGING NICKEL FOR
+A GREENER FUTURE
+93
+2023 Annual Report
+Pada tahun 2023, tren harga nikel mengalami penurunan 
+jika dibandingkan dengan tahun 2022. Penurunan tersebut 
+antara lain dipengaruhi oleh melemahnya permintaan dari 
+sektor besi tahan karat di Asia dan Eropa yang menyebabkan 
+meningkatnya persediaan nikel di dunia. Kendati demikian, 
+PT Vale Indonesia Tbk dapat mempertahankan kinerja 
+keuangan positif dalam kegiatan produksinya. Perseroan 
+juga tetap fokus untuk mengembangkan bisnisnya dengan 
+bekerja sama dengan mitra untuk melakukan pembangunan 
+fasilitas pengolahan nikel, baik dengan teknologi Rotary 
+Kiln-Electric Furnace (RKEF) di Sulawesi Tengah maupun 
+High Pressure Acid Leaching (HPAL) di Sulawesi Tenggara 
+dan Sulawesi Selatan.
+In 2023, the nickel price trend decreased compared to 2022. 
+The decline was partly influenced by the weakening demand 
+from the stainless steel sector in Asia and Europe, which led 
+to a worldwide increase in nickel inventories. Nevertheless, 
+PT Vale Indonesia Tbk could maintain positive financial 
+performance in its production activities. The Company also 
+remains focused on developing its business by working with 
+partners to build nickel processing facilities, both with Rotary 
+Kiln-Electric Furnace (RKEF) technology in Central Sulawesi 
+and High Pressure Acid Leaching (HPAL) in Southeast Sulawesi 
+and South Sulawesi.
+1T23
+2T23
+3T23
+4T23
+Y-on-Y
+Q-on-Q
+5.03
+5.17
+4.94
+5.04
+0.92
+3.86
+1.60
+0.45
+Tinjauan Makro Ekonomi
+Macro Economic Overview
+94
+Laporan Tahunan 2023
+Ekonomi makro di 2023 mengalami pelemahan yang signifikan 
+bahkan cenderung mengarah ke resesi. Namun demikian, 
+perekonomian di Indonesia masih terjaga di tengah gejolak 
+ekonomi global yang terjadi. Kondisi ini menunjukkan daya 
+tahan dan kinerja perekonomian Indonesia cenderung lebih 
+baik dari negara lain.
+Secara keseluruhan, pertumbuhan perekonomian Indonesia 
+mencapai angka 5,05%, kondisi ini sedikit lebih rendah jika 
+dibandingkan dengan tahun 2022 sebesar 5,31%. Namun, 
+dengan tantangan yang ada secara global Indonesia masih 
+mampu bertahan. Berdasarkan data Badan Pusat Statistik 
+(BPS), ekonomi Indonesia 1T23 terhadap 1T22 tumbuh 
+5,03% (year on year/yoy), sedangkan terhadap triwulan 
+sebelumnya (4T22) mengalami kontraksi sebesar 0,92% 
+(quarter on quarter/qoq). Untuk triwulan II (2T23), ekonomi 
+Indonesia terhadap 2T22 tumbuh 5,17% yoy, dan terhadap 
+1T23 tumbuh 3,86% (qoq). Pada triwulan III (3T23), ekonomi 
+Indonesia terhadap 3T22 tumbuh 4,94% yoy, dan 1,60% 
+terhadap 2T23 (qoq).
+Grafik Pertumbuhan Ekonomi Indonesia Berdasarkan Publikasi Badan Pusat Statistik 4T22 (dalam persen) 
+Indonesia’s Economic Growth Based on the Publication of the Central Bureau of Statistics 4Q22 (in percent)
+Sumber: Berita Resmi Statisik Badan Pusat Statistik No. 13/02/Th. XXVII, 5 Februari 2024
+Source: Official News of Statistics from the Central Bureau of Statistics No. 13/02/Th. XXVII, 5 February 2024
+The 2023 macroeconomy weakened significantly and even 
+tended to lead to a recession. However, the economy in 
+Indonesia is still maintained amid the global economic turmoil 
+that occurred. This condition shows Indonesia has better 
+economic resilience and performance than other countries.
+Overall, Indonesia's 5.05% economic growth was slightly lower 
+than the 5.31% in 2022. Nevertheless, the global challenges 
+did not deter Indonesia's stance. The Central Statistics Agency 
+(BPS) data shows Indonesia's economy in 1Q23 compared 
+1Q22 grew by 5.03% (year on year/yoy) whilst compared to 
+the previous quarter (4Q22) it contracted by 0.92% (quarter 
+on quarter/qoq). For the second quarter (2Q23), Indonesia's 
+economy of 2Q22 grew 5.17% yoy, and of 1Q23 grew 3.86% 
+(qoq). In the third quarter (3Q23), Indonesia's economy of 
+3Q22 grew 4.94% yoy, and 1.60% in 2Q23 (qoq).
+Tinjauan Industri Nikel 
+Nickel Industry Review
+95
+2023 Annual Report
+Meskipun tahun 2023 merupakan tahun politik, pertumbuhan 
+ekonomi Indonesia tetap stabil dan menjadi faktor 
+penting investasi tetap bertumbuh. Berdasarkan publikasi 
+Kementerian 
+Investasi/Badan 
+Koordinasi 
+Penanaman 
+Modal (BKPM), realisasi investasi pada tahun 2023 mencapai 
+Rp1.418,9 triliun, atau telah melampaui 101,3% dari target 
+sebesar Rp1.400 triliun.
+Capaian Realisasi Investasi Indonesia Tahun 2023 (Rp Triliun)
+Achievement of Indonesian Investment Realization in 2023 (Rp Trillion)
+1T23
+2T23
+3T23
+4T23
+Total
+Realisasi
+Realization
+Target
+Target
+%
+328.9
+349.8
+374.4
+365.8
+1,418.9
+1,400
+101.3
+Sumber: Publikasi Kementerian Investasi/BKPM
+Source: Ministry of Investment/BKPM Publication
+Pertumbuhan 
+ekonomi 
+Indonesia 
+dapat 
+memberikan 
+pengaruh positif terhadap realisasi rencana pengembangan 
+usaha dan operasi pertambangan berkelanjutan Perseroan. 
+Sejalan dengan prioritas B20 dalam memastikan transisi energi 
+yang adil dan teratur, PT Vale berupaya memperkuat peran 
+dalam megatren elektrifikasi dan dekarbonisasi global, serta 
+menjadi produsen nikel berkelanjutan yang memperhatikan 
+pengelolaan lingkungan, sosial dan tata kelola (LST).
+Pada akhir tahun 2023, kondisi industri nikel di Indonesia 
+menurut Indeks Kepercayaan Industri (IKI) menunjukkan 
+adanya penurunan harga nikel sebesar 3,4%. Meskipun 
+demikian, Indonesia masih menjadi negara penghasil nikel 
+terbesar, terbukti dengan cadangan nikel yang dimiliki telah 
+menguasai sebanyak 21% cadangan nikel dunia dan 48% 
+pasokan nikel dunia.1 Hal ini menunjukkan bahwa industri 
+nikel di Indonesia memiliki peluang dalam meningkatkan 
+pertumbuhan ekonomi, terutama bagi Indonesia bagian 
+timur karena persebaran cadangan nikel di Indonesia lebih 
+banyak berada di daerah Sulawesi, Maluku, dan Papua. 
+1 Sumber | Source: https://www.cnbcindonesia.com/news/20230807134424-4-460812
+pabrik-nikel-menjamur-investasi-di-2023-tembus-rp39-triliun/amp
+Despite the political year in 2023, Indonesia's economic 
+growth remained stable and served as an important factor for 
+investments to continue to grow. Based on the publication of 
+the Ministry of Investment/Investment Coordinating Board 
+(BKPM), investments realized in 2023 reached Rp1,418.9 
+trillion, exceeding 101.3% of the targeted Rp1,400 trillion.
+Indonesia's economic growth can positively influence the 
+realization of the Company's business development plans 
+and sustainable mining operations. Referring to the B20 
+priorities in ensuring a fair and orderly energy transition, PT 
+Vale seeks to strengthen its role in the global electrification 
+and decarbonization megatrends, and become a sustainable 
+nickel producer that pays attention to environmental, social 
+and governance (ESG) management.
+At the end of 2023, the condition of the nickel industry 
+in Indonesia according to the Industrial Confidence Index 
+(IKI) shows a decline in nickel prices by 3.4%. Nevertheless, 
+Indonesia still remains the largest nickel producing country, 
+proven by its nickel reserves, which account for 21% of the 
+world's nickel reserves and 48% of the world's nickel supply. 
+This shows that the nickel industry in Indonesia has the 
+opportunity to increase its economic growth, especially 
+for eastern Indonesia as the majority of nickel reserves is 
+distributed in Sulawesi, Maluku and Papua regions.
+96
+Laporan Tahunan 2023
+Pemerintah menyambut baik kondisi ini dengan menetapkan 
+hilirisasi industri nikel dan memberlakukan larangan ekspor 
+bijih nikel sejak 1 Januari 2020 melalui Peraturan Menteri 
+ESDM No. 11 Tahun 2019. Perkembangan kendaraan listrik di 
+berbagai negara juga menjadi peluang positif bagi Indonesia. 
+Langkah hilirisasi nikel di Indonesia tidak hanya pada 
+sektor besi tahan karat, tapi juga memiliki tujuan untuk 
+menciptakan ekosistem yang kompetitif pada rantai nilai 
+baterai litium dan kendaraan listrik, serta meningkatkan 
+nilai ekspor yang berasal dari nikel. Pemerintah Indonesia 
+juga selalu memastikan hilirisasi yang sedang berjalan 
+menjunjung aspek LST.
+Pemerintah melalui Kementerian Energi dan Sumber Daya 
+Mineral (ESDM) menargetkan pembangunan 32 smelter 
+nikel baru untuk mempercepat program hilirisasi. Sebanyak 
+21 smelter sudah dibangun dan sebagian besar merupakan 
+smelter nikel. Sampai dengan tahun 2023, total smelter 
+nikel yang beroperasi mencapai 116 unit. Realisasi investasi 
+pembangunan smelter nikel pada tahun 2023 mencapai 
+AS$2.676,4 juta. 
+Sampai dengan tahun 2023, PT Vale senantiasa menegaskan 
+komitmen dalam mendukung hilirisasi nikel di Indonesia. 
+Di tahun ini, target produksi nikel dalam matte Perseroan 
+sebanyak 70.725 metrik ton (ton), angka ini meningkat 
+dibandingkan produksi tahun sebelumnya sebesar 60.090 
+ton. Perseroan juga telah mengeluarkan belanja modal 
+sebesar AS$292,1 juta dan penyertaan modal sebesar AS$29,7 
+juta pada tahun 2023, termasuk untuk proyek di Pomalaa 
+dan Morowali. Perseroan juga sedang mengerjakan proyek 
+smelter di Sorowako, Sulawesi Selatan, yang diharapkan 
+dapat memproduksi hingga 60.000 ton nikel per tahun. 
+The government well embraced this condition by establishing 
+the downstreaming of the nickel industry and imposing a ban 
+on nickel ore exports since January 1, 2020 through Minister of 
+Energy and Mineral Resources Regulation No. 11 of 2019. The 
+development of electric vehicles in various countries is also 
+a positive opportunity for Indonesia. Nickel downstreaming 
+in Indonesia is not only in the stainless steel sector, but also 
+aims to create a competitive ecosystem in the value chain of 
+lithium batteries and electric vehicles as well as increase the 
+value of nickel-derived exports. The Indonesian government 
+also always ensures that the ongoing downstream upholds 
+ESG aspects.
+The government through the Ministry of Energy and Mineral 
+Resources (ESDM) is targeting the construction of 32 new 
+nickel smelters to accelerate the downstream program. A 
+total of 21 smelters have been built and most of them are 
+nickel smelters. By 2023, the total number of operating nickel 
+smelters reached 116 units. The realized investment in nickel 
+smelter construction in 2023 reached US$2,676.4 million.  
+Until 2023, PT Vale has never ceased to stress its commitment 
+to supporting nickel downstreaming in Indonesia. This year, 
+the Company's nickel in matte production target is 70,725 
+metric tons (tons), an increase compared to the previous 
+year's production of 60,090 tons. The Company has also 
+spent US$292,1 million in capital expenditure and US$29.7 
+million capital injection in 2023, including for projects in 
+Pomalaa and Morowali. The Company is also working on 
+a smelter project in Sorowako, South Sulawesi, which is 
+expected to produce up to 60,000 tons of nickel per year.
+Pergerakan Harga dan Persediaan Nikel
+Movement of Nickel Price and Inventory
+ 100,000
+ 200,000
+ 300,000
+ 400,000
+ 500,000
+ 600,000
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+tons
+US$/tons
+ LME Inventory
+ SHFE Inventory
+ LME Ni Price
+97
+2023 Annual Report
+01
+Ore mining
+02
+Screening 
+Station
+03
+Wet Ore 
+Stock Pile
+04
+Dryer Kiln
+05
+Dryer Ore 
+Stock Pile
+06
+Reduction 
+Kiln
+07
+Electric 
+Furnance
+08
+Converter
+09
+Shipment
+10
+Port
+Alur Proses Penambangan Bijih Nikel, Produksi 
+Nikel dalam Matte, dan Penjualan Nikel Matte
+Process Flow of Nickel Ore Mining, Nickel in Matte 
+Production, and Nickel Matte Sales
+Tinjauan Operasi per Segmen Usaha
+Operations Review per Business Segment
+98
+Laporan Tahunan 2023
+Dalam menjalankan proses bisnis, PT Vale hanya beroperasi 
+di Indonesia dengan segmen usaha penambangan dan 
+pengolahan nikel. Perseroan melakukan kontrak penjualan 
+jangka panjang dengan Vale Canada Limited (VCL) dan 
+Sumitomo Metal Mining Co. Ltd. (SMM) untuk produk yang 
+Perseroan hasilkan. 
+Produksi Segmen Usaha Penambangan dan Pengolahan Nikel
+Nickel Mining and Processing Business Segment Production
+Seluruh proses pertambangan dan pengolahan nikel 
+berlangsung 
+di 
+Indonesia 
+dengan 
+cakupan 
+produksi 
+penambangan bijih nikel, produksi nikel dalam matte, dan 
+penjualan nikel matte. Penilaian kinerja segmen operasi 
+pertambangan dan produksi nikel dalam matte dilakukan 
+berdasarkan volume realisasi produksi nikel dalam matte 
+selama tahun buku yang selanjutnya dibandingkan dengan 
+periode sebelumnya. 
+Selama tahun 2023, realisasi total produksi nikel dalam 
+matte adalah sebesar 70.728 ton, angka ini menunjukkan 
+adanya kenaikan sebesar 10.638 ton atau 18% lebih tinggi 
+dibandingkan realisasi tahun 2022 yaitu sebesar 60.090 
+ton. Kenaikan ini merupakan hasil pelaksanaan strategi 
+pemeliharaan Perseroan di sepanjang tahun. Pada triwulan 
+keempat realisasi produksi menunjukkan angka tertinggi 
+sebesar 19.084 ton sedangkan pada triwulan pertama 
+menunjukkan angka terendah sebesar 16.769 ton. 
+Realisasi Volume Produksi Nikel dalam Matte Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ton)
+Nickel Volume in Matte Production in 2023 and Comparison with the Previous Period (Tons)
+Periode  
+Period
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Ton
+%
+Ton
+%
+Q1
+16,769
+13,827
+15,198
+2,942
+21.28
+(1,371)
+(9.02)
+Q2
+16,922
+12,567
+15,048
+4,355
+34.65
+(2,481)
+(16.49)
+Q3
+17,953
+17,513
+18,127
+440
+2.51
+(614)
+(3.39)
+Q4
+19,084
+16,183
+17,015
+2,901
+17.93
+(832)
+(4.89)
+Total
+70,728
+60,090
+65,388
+10,638
+17.70
+(5,298)
+(8.10)
+In carrying out its business processes, PT Vale only operates 
+in Indonesia with the nickel mining and processing business 
+segment. The Company has long-term sales contracts with 
+Vale Canada Limited (VCL) and Sumitomo Metal Mining Co. 
+Ltd. (SMM) for products manufactured by the Company.
+The entire process of nickel mining and processing takes 
+place in Indonesia with the scope of nickel ore mining 
+production, nickel in matte production, and nickel matte 
+sales. Performance assessment of the mining operations 
+and nickel in matte production segment is carried out 
+based on the realized volume of nickel in matte production 
+during the financial year which is then compared with the 
+previous period.
+During 2023, the total realized production of nickel in matte 
+was 70,728 tonnes, increasing by 10,638 tonnes or 18% higher 
+than the 2022 realization at 60,090 tonnes. This increase was 
+due to the implementation of the Company's maintenance 
+strategy throughout the year. In the fourth quarter, the 
+production realization showed the highest number of 19,084 
+tons while the first quarter showed the lowest number of 
+16,769 tons.
+99
+2023 Annual Report
+Grafis Realisasi Produksi Nikel dalam Matte Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ton)
+Graphic of Realization of Nickel in Matte Production in 2023 and Comparison with the Previous Period (Tons)
+Penjualan dan Pendapatan Segmen Usaha Penambangan dan 
+Pengolahan Nikel
+Nickel Mining and Processing Business Segment Sales and Revenue
+Penjualan yang dilakukan Perseroan menggunakan kontrak 
+penjualan “harus ambil” jangka panjang dalam mata 
+uang Dolar AS. Dalam menentukan harga jual, Perseroan 
+menggunakan formula yang didasarkan atas harga tunai nikel 
+di LME, dan harga tunai kobalt di Fast Market. Pengukuran 
+kinerja penjualan segmen usaha penambangan dan 
+pengolahan nikel dilakukan berdasarkan pendapatan pada 
+tahun buku, dari penjualan nikel matte kepada VCL dan SMM. 
+Selain itu, Perseroan juga menetapkan target perolehan 
+pendapatan pada setahun berikutnya.
+Pada tahun 2023, realisasi total volume penjualan nikel matte 
+adalah sebesar 71.108 ton, terjadi kenaikan 10.148 ton atau 
+17% jika dibandingkan dengan tahun 2022 yaitu sebesar 
+60.960 ton. Kenaikan ini terjadi karena meningkatnya volume 
+produksi Perseroan. Pada triwulan keempat realisasi volume 
+penjualan mencapai angka tertinggi sebesar 20.673 ton 
+sedangkan angka terendah sebesar 16.463 ton terjadi pada 
+triwulan kedua.
+The Company's sales are made using long-term "must-take" 
+sales contracts denominated in US Dollars. In determining 
+the selling price, the Company uses a cash-based formula 
+of nickel on the LME, and the cash price of cobalt on the 
+Fast Market. Measurement of sales performance of the 
+nickel mining and processing business segment is based 
+on revenue of the fiscal year, from nickel matte sales to 
+VCL and SMM. In addition, the Company also sets revenue 
+targets for the following year.
+In 2023, the total sales volume of nickel matte was 71,108 
+tons, increasing by 10,148 tons or 17% compared to 2022 
+which amounted to 60,960 tons. This increase occurred 
+due to the increase in the Company's production volume. 
+In the fourth quarter, the sales volume realization reached 
+the highest number of 20,673 tons while the lowest 
+number of 16,463 tons occurred in the second quarter.
+2022
+2021
+2023
+15,198
+15,048
+18,127
+17,015
+13,827
+12,567
+17,513
+16,183
+16,769
+16,922
+17,953
+19,084
+Q1
+Q2
+Q3
+Q4
+100 Laporan Tahunan 2023
+Realisasi Volume Penjualan Nikel Matte Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ton)
+Realization of Nickel Matte Sales Volume 2023 and Comparison with the Previous Period (Tons)
+Periode
+Period
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Ton
+%
+Ton
+%
+Q1
+16,758
+13,486
+14,847
+3,272
+24.26
+(1,361)
+(9.17)
+Q2
+16,463
+13,527
+15,845
+2,936
+21.70
+(2,318)
+(14.63)
+Q3
+17,214
+17,334
+18,571
+(120)
+(0.69)
+(1,237)
+(6.66)
+Q4
+20,673
+16,613
+17,352
+4,060
+24.44
+(739)
+(4.26)
+Total
+71,108
+60,960
+66,615
+10,148
+16.65
+(5,655)
+(8.49)
+Grafis Realisasi Volume Penjualan Nikel Matte Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ton)
+Graphic of Realization of Nickel Matte Sales Volume in 2023 and Comparison with the Previous Period (Tons)
+Sampai akhir tahun 2023, realisasi pendapatan PT Vale 
+mencapai AS$1.232,26 juta, jika dibandingkan realisasi tahun 
+2022 sebesar AS$1.179,45 juta, angka ini mengalami kenaikan 
+sejumlah AS$52,81 juta atau 4,48%. Terjadinya kenaikan ini 
+disebabkan oleh meningkatnya volume penjualan. Secara 
+keseluruhan, Pendapatan Usaha Perseroan bersumber dari 
+hasil penjualan nikel matte. 
+Until the end of 2023, PT Vale's revenue realization reached 
+US$1,232.26 million. Compared to US$1,179.45 million realized 
+in 2022, this figure increased by US$52.81 million or 4.48%. 
+This rise was due to the increase in sales volume. Overall, 
+the Company's operating income is sourced from the sale of 
+nickel matte.
+20,673
+2022
+2021
+2023
+14,847
+15,845
+18,571
+17,352
+13,486
+13,527
+17,334
+16,613
+20,673
+16,758
+16,463
+17,214
+Q1
+Q2
+Q3
+Q4
+101
+2023 Annual Report
+Realisasi Pendapatan Usaha Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ribuan AS$)
+Operating Revenue in 2023 and Comparison with the Previous Period (Thousands of US$)
+Pembeli
+ Buyer
+2023
+2022
+2021
+ 1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+VCL
+985,812
+953,204
+762,117
+32,608
+3.42
+191,087
+25.07
+SMM
+246,451
+226,248
+191,057
+20,203
+8.93
+35,191
+18.42
+Total
+1,232,263
+1,179,452
+953,174
+52,811
+4.48
+226,278
+23.74
+Grafis Realisasi Pendapatan Usaha Tahun 2023 dan Perbandingan dengan Periode Sebelumnya (Ribuan AS$)
+Graphic of Realization of Revenue in 2023 and Comparison with the Previous Period (Thousands of US$)
+2022
+2021
+2023
+762,117
+191,057
+953,174
+953,204
+226,248
+1,179,452
+985,812
+246,451
+1,232,263
+Pembeli | Buyer: VCL
+Pembeli | Buyer: SMM
+Total
+Profitabilitas Segmen Usaha Penambangan dan
+Pengolahan Nikel
+Nickel Mining and Processing Business Segment Profitability
+Pada tahun 2023, realisasi perolehan Laba Bruto dari segmen 
+usaha penambangan dan pengolahan nikel adalah sejumlah 
+AS$347,02 juta, terjadi kenaikan AS$33,46 juta, atau 10,67% 
+jika dibandingkan dengan tahun 2022 yaitu sejumlah 
+AS$313,57 juta.
+Realisasi perolehan Laba Usaha dari segmen usaha 
+penambangan dan pengolahan nikel di tahun 2023 adalah 
+sejumlah AS$302,43 juta. Angka ini mengalami kenaikan 
+sejumlah AS$30,40 juta atau 11,17% dibandingkan tahun 2022 
+sejumlah AS$272,03 juta.
+In 2023, the realization of Gross Profit from the nickel mining 
+and processing business segment amounted to US$347.02 
+million, increasing by US$33.46 million, or 10.67%, compared 
+to US$313.57 million in 2022.
+Realized operating profit from the nickel mining and 
+processing business segment in 2023 was US$302.43 million. 
+This figure increased by US$30.40 million or 11.17% compared 
+to US$272.03 million in 2022.
+102 Laporan Tahunan 2023
+Profitabilitas Tahun 2023 dan Perbandingan Periode Sebelumnya (Ribuan AS$)
+Profitability in 2023 and Comparison with the Previous Period (Thousands of US$)
+Profitabilitas
+Profitability
+2023
+2022
+2021
+ 1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Pendapatan
+Revenue
+1,232,263
+1,179,452
+953,174
+52,811
+4.48
+226,278
+23.74
+Beban Pokok 
+Pendapatan
+Cost of 
+Revenue
+(885,240)
+(865,885)
+(704,323)
+(19,355)
+2.24
+(161,562)
+22.94
+Laba Bruto
+Gross Profit
+347,023
+313,567
+248,851
+33,456
+10.67
+64,716
+26.01
+Beban Usaha
+Operating 
+Expense
+(22,155)
+(19,734)
+(17,691)
+(2,421)
+12.27
+(2,043)
+11.55
+Pendapatan 
+Lainnya
+Other Income
+823
+1,289
+2,614
+(466)
+(36.15)
+(1,325)
+(50.69)
+Beban 
+Lainnya
+Other 
+Expenses
+(23,533)
+(23,093)
+(10,750)
+(440)
+1.91
+(12,343)
+114.82
+Laba Usaha
+Operating 
+Profit
+302,158
+272,029
+223,024
+30,129
+11.08
+49,005
+21.97
+Strategi Pengembangan Segmen Operasi Pertambangan dan Produksi
+Mining Operations and Production Segment Development Strategy
+1
+Pemeliharaan: 
+Integritas 
+Aset 
+dan 
+Ketaatan Pemeliharaan 
+Maintenance: 
+Asset 
+Integrity 
+and 
+Maintenance Compliance
+a.	 Menyelesaikan seluruh proses pemeliharaan tahun 2022, 
+termasuk pembangunan kembali tanur listrik 4; 
+b.	 Penerapan integrasi dan penyelarasan fungsi rantai pasok 
+dengan program pemeliharaan. 
+a.	 Complete the whole maintenance process in 2022, 
+including electric furnace 4 rebuild;
+b.	 Integrate and align the supply chain function with 
+maintenance programs.
+103
+2023 Annual Report
+Strategi Pengembangan Segmen Operasi Pertambangan dan Produksi
+Mining Operations and Production Segment Development Strategy
+2
+Obsesi pada Risiko dan Keselamatan 
+Obsession with Risk and Safety
+a.	 Menyelesaikan HIRA dan penerapan pengendalian krisis; 
+b.	 Penerapan Process Safety Management (PSM); 
+c.	 Peningkatan pelaporan N3 & Pelepasan HiPO Non-energi; 
+d.	 Penegakan Golden Rules, INS003 dan CAR/MHS; 
+e.	 Penerapan panduan terstruktur berbasis kepemimpinan 
+Gemba; 
+f.	 Persiapan untuk pusat operasi terintegrasi (IOC); 
+g.	 Melaksanakan program kesehatan dan kesejahteraan. 
+a.	 Finalize HIRA and implement crisis control; 
+b.	 Implement Process Safety Management (PSM); 
+c.	 Improve N3 reporting & Non-energy HiPO Releases;
+d.	 Enforce Golden Rules, INS003 and CAR/MHS; 
+e.	 Implement Gemba leadership-based structured guidelines; 
+f.	 Prepare for integrated operations center (IOC); 
+g.	 Implement health and welfare programs.
+3
+Orang: Kesiapan Transformasi Budaya 
+People: Cultural Transformation Readiness
+a.	 Menuntaskan perencanaan suksesi; 
+b.	 Penerapan panutan dan pelatihan IMPACT; 
+c.	 Penerapan pelatihan penyelia; 
+d.	 Pelaksanaan pelatihan pekerja unggul; 
+e.	 Kesiapan untuk keberagaman dan inklusi; 
+f.	 Penerapan program untuk penanganan isu-isu kinerja; 
+g.	 Pengembangan kematangan Vale Production System 
+(VPS);
+h.	 Penyiapan SDM untuk proyek pengembangan. 
+a.	 Complete succession planning; 
+b.	 Appoint IMPACT role models, and conduct training; 
+c.	 Complete supervisor training; 
+d.	 Implement superior employee training; 
+e.	 Prepare for diversity and inclusion; 
+f.	 Complete programs for address performance issues; 
+g.	 Develop Vale Production System (VPS) maturity; 
+h.	 Human Resources readiness for development projects.
+4
+Keberlanjutan: 
+Karbon 
+Netral 
+dan 
+Kontribusi Sosial Ekonomi 
+Sustainability: Carbon Neutrality and 
+Socio-Economic Contribution
+a.	 Memenuhi kepatuhan pengelolaan lingkungan;
+b.	 PROPER Hijau, audit kepatuhan, target emisi dan sistem 
+pemantauan; 
+c.	 Melaksanakan penanaman di luar wilayah operasi; 
+d.	 Menyusun peta jalan menuju reduksi karbon; 
+e.	 Melaksanakan 
+agenda 
+sosial: 
+pemukiman 
+kembali 
+masyarakat adat Dongi dan penyelesaian perambahan 
+lahan. 
+a.	 Deliver environmental management compliance;
+b.	 Green PROPER, compliance audits, emission targets and 
+monitoring systems; 
+c.	 Carry out planting outside the operational areas; 
+d.	 Develop a carbon reduction road map; 
+e.	 Implement the social agenda: resettlement of indigenous 
+Dongi people and completion of land encroachment.
+104 Laporan Tahunan 2023
+Strategi Terkait Manajemen Energi, Lingkungan, dan Keamanan Bendungan 
+Strategy Related to Energy, Environment, and Dam Safety Management
+Energi
+Energy
+1. Memusatkan ruang kontrol utilitas dan mengoperasikan pembangkit listrik tenaga air secara jarak jauh dari pabrik. 
+2. Mengembangkan peta jalan energi untuk kebutuhan masa depan yang berfokus pada sumber energi terbarukan. 
+3. Mengimplementasikan program konservasi energi untuk mengoptimalkan penggunaan energi terbaharukan dari
+pembangkit listrik tenaga air
+1. Centralize Utilities Control Room and operate hydroelectric plants remotely from plant site. 
+2. Develop an energy road map for future requirements focusing on renewable energy sources. 
+3. Implement energy conservation programs to optimize use of green energy from hydroelectric plants.
+Lingkungan
+ Environment
+1.	 Pengembangan sistem manajemen lingkungan yang handal melalui sistem pemantauan online yang terintegrasi. 
+2.	 Menyelesaikan studi keanekaragaman hayati sebagai dasar untuk pengembangan di masa depan. 
+3.	 Penyamaan pemahaman dengan program manajemen energi untuk mengurangi emisi Gas Rumah Kaca (GRK).
+1.	 Develop a robust environmental management system through an integrated online monitoring system. 
+2.	 Complete biodiversity study as baseline for future development. 3. Align the energy management program to 
+reduce GreenHouse Gas (GHG) emission.
+Manajemen Keamanan Bendungan 
+Dam Safety Management
+Menerapkan sistem pemantauan robotik untuk ketiga bendungan guna menyediakan data yang andal dan aktual 
+untuk memantau integritas bendungan.
+Implement robotic monitoring systems for all three hydro dams to provide more reliable and real data for monitoring 
+the integrity of the dams.
+VPS
+Manfaat: 
+1.	 Operasi yang aman dan bertanggung jawab terhadap lingkungan, jaminan pada integritas aset dan karyawan. 
+2.	 Memperkuat budaya organisasi PT Vale melalui pengembangan sumber daya manusia, standardisasi praktik terbaik, 
+disiplin operasional, dan kepatuhan terhadap rutinitas.
+Benefits: 
+1.	 Safe and environmentally responsible operations, guarantees the integrity of assets and employees. 
+2.	 Strengthened PT Vale's organizational culture through human resource development, standardized best practices, 
+operational discipline, and compliance with routines.
+105
+2023 Annual Report
+Strategi Terkait Manajemen Energi, Lingkungan, dan Keamanan Bendungan 
+Strategy Related to Energy, Environment, and Dam Safety Management
+Floor Development
+Management System (FMDS)
+Perangkat VPS untuk menerjemahkan target menjadi KPI, memantau kinerja, mengungkap masalah, menangani 
+penyimpangan, dan meningkatkan kinerja. 
+Perangkat: 
+•	 Karyawan, EHS-C, kualitas, produktivitas, biaya Metode: 
+•	 Pertemuan periodik 
+•	 Manfaat: 
+•	 Pelibatan karyawan pada pencapaian target. 
+•	 Pengembangan karyawan dalam pemecahan masalah.
+VPS tools to translate targets into KPIs, monitoring performance, uncovering problems, dealing with irregularities, 
+and improving performance. 
+Tools: 
+•	 People, EHS-C, quality, productivity, costs. Method: 
+•	 Periodic meetings 
+•	 Benefits: 
+•	 Employees’ involvement in achieving targets. 
+•	 Employees’ problem solving development.
+Program Pembenahan
+Housekeeping Program
+Membuat referensi pada ruang kerja untuk membedakan kondisi abnormal dengan kondisi normal, sehingga 
+memungkinkan karyawan secara visual mengenali setiap keadaan dan pemborosan yang tidak diinginkan di ruang kerja.
+Creates references in the work posts to differentiate abnormal conditions from normal conditions, so that employees 
+can visually recognize undesirable conditions and waste in the world posts.
+Informasi yang berasal dari Laporan Keuangan Konsolidasian 
+PT Vale dan Entitas Anaknya digunakan sebagai dasar dalam 
+melakukan Tinjauan Kinerja Keuangan Perusahaan. Laporan 
+pada pada 31 Desember 2023 telah diaudit Kantor Akuntan 
+Publik (KAP) Tanudiredja, Wibisana, Rintis & Rekan (anggota 
+dari PricewaterhouseCoopers), dan disusun sesuai Standar 
+Akuntansi Keuangan di Indonesia. Laporan memperoleh opini 
+“Wajar tanpa Pengecualian” dalam semua hal yang material, 
+posisi keuangan konsolidasian Perseroan dan Entitas 
+Anaknya tanggal 31 Desember 2023, serta kinerja keuangan 
+dan arus kas konsolidasiannya untuk tahun yang berakhir 
+pada tanggal tersebut, sesuai dengan Standar Akuntansi 
+Keuangan di Indonesia. 
+Information derived from the Consolidated Financial 
+Statements of PT Vale and its Subsidiaries is used as a basis 
+for conducting the Company's Financial Performance Review. 
+The report as of December 31, 2023 has been audited by 
+the Public Accounting Firm (KAP) Tanudiredja, Wibisana, 
+Rintis & Rekan (a member of PricewaterhouseCoopers), and 
+prepared in accordance with Indonesian Financial Accounting 
+Standards. The report obtained the opinion of "Unqualified" 
+in all material respects, the consolidated financial position of 
+the Company and its Subsidiaries as of December 31, 2023, 
+and their consolidated financial performance and cash flows 
+for the year then ended, in accordance with Indonesian 
+Financial Accounting Standards.
+Tinjauan Kinerja Keuangan Perusahaan
+Company Financial Performance Overview
+106 Laporan Tahunan 2023
+Penjelasan 
+dalam 
+catatan 
+atas 
+Laporan 
+Keuangan 
+Konsolidasian merupakan bagian yang tidak terpisahkan dari 
+Laporan Tahunan sehingga keberadaannya penting untuk 
+mendukung informasi yang akan disampaikan. Bahasan 
+dan analisis mengenai kondisi keuangan Perseroan disajikan 
+dalam bagaian–bagian sebagai berikut: 
+1.	 Kinerja Posisi Keuangan Konsolidasian; 
+2.	 Kinerja Laba Rugi dan Penghasilan Komprehensif Lain 
+Konsolidasian; 
+3.	 Kinerja Arus Kas Konsolidasi; dan 
+4.	 Kinerja Rasio Keuangan. 
+Beberapa faktor yang memengaruhi kegiatan usaha 
+Perseroan pada tahun 2023 di antaranya adalah sebagai 
+berikut:
+» Fluktuasi harga nikel global 
+Beberapa faktor seperti tingkat permintaan dan ketersediaan 
+pasokan dapat menimbulkan sentimen positif maupun 
+negatif terhadap harga nikel di pasar global yang memberikan 
+pengaruh pada pendapatan Perseroan. Rerata harga 
+LME nikel mengalami penurunan dari tahun 2022 sebesar 
+AS$26.142 per ton menjadi AS$21.482 per ton di tahun 2023. 
+» Fluktuasi harga bahan bakar 
+Harga rata-rata High Sulphur Fuel Oil (HSFO) dan batubara 
+di tahun 2023 lebih rendah masing–masing sebesar 4,1% dan 
+19,6% dibandingkan tahun 2022. Sementara harga rata-rata 
+High Speed Diesel (HSD) di tahun 2023 lebih tinggi sebesar 6,2% 
+dibanding tahun 2022. Perseroan tidak dapat mengendalikan 
+bahan bakar yang menjadi komponen terbesar dalam biaya 
+produksi sehingga Perseroan berupaya untuk melakukan 
+efisiensi penggunaan bahan bakar. 
+» Kebijakan Pemerintah dan perubahan peraturan 
+perundang-undangan 
+Tata kelola sektor pertambangan mineral dan batubara 
+melalui pemberlakuan kebijakan dan peraturan baru yang 
+dilakukan Permerintah dapat memengaruhi operasional 
+Perseroan. 
+» Fluktuasi nilai tukar mata uang asing 
+Kondisi wilayah operasional Perseroan yang berada di 
+Indonesia dan menggunakan mata uang Rupiah terpengaruh 
+atas penguatan dolar AS sehingga akan memberikan dampak 
+pada kondisi keuangan Perseroan. Di tahun 2023, nilai tukar 
+terendah untuk satu dolar AS terhadap Rupiah adalah 
+Rp15.946 dan nilai tukar tertinggi Rp15.526.
+The explanation in the notes to the Consolidated Financial 
+Statements is an integral part of the Annual Report and its 
+existence is important to support the information to be 
+presented. Discussion and analysis of the Company's financial 
+condition is presented in the following sections: 
+1.	 Consolidated Financial Position Performance; 
+2.	 Consolidated Profit and Loss and Other Comprehensive 
+Income; 
+3.	 Consolidated Cash Flow Performance; and 
+4.	 Financial Ratio Performance.
+Some of the factors that affect the Company's business 
+activities in 2023 include the following:
+» Fluctuations in global nickel prices
+The level of demand and availability of supply, among the 
+reasons, may cause positive or negative sentiment towards 
+the price of nickel in the global market, which then affects 
+the Company's revenue. The average LME nickel price has 
+decreased from US$26,142 per ton in 2022 to US$21,482 per 
+ton in 2023. 
+» Fuel price fluctuations
+The average price of High Sulphur Fuel Oil (HSFO) and coal 
+in 2023 was lower by 4.1% and 19.6% respectively compared 
+to 2022. On the contrary, the average price of High Speed 
+Diesel (HSD) in 2023 was higher by 6.2% compared to 2022. 
+The Company could not control fuel, which was the largest 
+component of production costs, so the Company strove to 
+make efficient use of fuel.
+» Government policies and changes in laws and 
+regulations
+The governance of the mineral and coal mining sector 
+through the enactment of new policies and regulations by 
+the Government may affect the Company's operations.
+» Foreign exchange rate fluctuations
+The condition of the Company's operational areas in Indonesia 
+and the use of the Rupiah currency, which is affected by the 
+strengthening of the US dollar will impact the Company's 
+financial condition. In 2023, the lowest and highest exchange 
+rates for one US dollar against the Rupiah were Rp15,946 and 
+Rp15,526 respectively.
+107
+2023 Annual Report
+Per 31 Desember 2023, Perseroan mencatat posisi keuangan 
+konsolidasian mengalami kenaikan 10% pada bagian Jumlah 
+Aset dibandingkan dengan periode sebelumnya. Selain itu, 
+terjadi kenaikan 19% pada Jumlah Liabilitas dan kenaikan 9% 
+pada Jumlah Ekuitas. 
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Aset Lancar
+Current 
+Assets
+1,033,119
+      989,802 
+836,576
+43,317
+4.38
+153,226
+18.32
+Aset Tidak 
+Lancar
+Non-Current 
+Assets
+1,892,880
+1,668,314 
+1,636,252
+224,566
+13.46
+32,062
+1.96
+Jumlah Aset
+Total Assets 
+2,925,999
+2,658,116 
+2,472,828
+267,883
+10.08
+185,288
+7.49
+Liabilitas 
+Jangka 
+Pendek
+Current 
+Liabilities
+216,727
+175,039 
+168,430
+41,688
+23.82
+6,609
+3.92
+Liabilitas 
+Jangka 
+Panjang
+Non-Current  
+Liabilities
+144,735
+128,297 
+149,937
+16,438
+12.81
+(21,640)
+(14.43)
+Jumlah 
+Liabilitas
+Total 
+Liabilities
+361,462
+303,336 
+318,367
+58,126
+19.16
+(15,031)
+(4.72)
+Jumlah 
+Ekuitas
+Total Equity
+2,564,537
+2,354,780 
+2,154,461
+209,757
+8.91
+200,319
+9.30
+Jumlah 
+Liabilitas & 
+Ekuitas
+Total 
+Liabilities & 
+Equity 
+2,925,999
+2,658,116 
+2,472,828
+267,883
+10.08
+185,288
+7.49
+As of December 31, 2023, the Company's consolidated financial 
+position recorded a 10% increase in Total Assets compared to 
+the previous period. In addition, there was a 19% increase in 
+Total Liabilities and a 9% increase in Total Equity.
+Laporan Posisi Keuangan Konsolidasian
+Report of Consolidated Financial Position
+Keterangan: Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+108 Laporan Tahunan 2023
+Aset 
+Assets
+Per 31 Desember 2023, terjadi kenaikan nilai Total Aset 
+Perseroan jika dibandingkan dengan tahun 2022 yang 
+disebabkan oleh kenaikan Aset Lancar maupun Aset Tidak 
+Lancar. Selama tahun 2023, Aset Lancar dan Aset Tidak 
+Lancar terhadap Total Aset memiliki proporsi masing–masing 
+35,31% dan 64,69%. 
+Aset (dalam ribuan AS$)
+Assets (in thousands US$)
+Aset 
+Assets
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Aset Lancar
+Current 
+Assets
+1,033,119
+    989,802 
+836,576
+43,317
+4.38
+153,226
+18.32
+Aset Tidak 
+Lancar
+Non-Current 
+Assets
+1,892,880
+ 1,668,314 
+1,636,252
+224,566
+13.46
+32,062
+1.96
+Jumlah Aset
+Total Assets 
+2,925,999
+ 2,658,116 
+2,472,828
+267,883
+10.08
+185,288
+7.49
+As of December 31, 2023, there was an increase in the value of 
+the Company's Total Assets when compared to 2022 due to 
+an increase in both Current Assets and Non-Current Assets. 
+During 2023, Current Assets and Non-Current Assets to Total 
+Assets had a proportion of 35.31% and 64.69% respectively.
+Komposisi Aset
+Assets Composition
+Uraian
+Description 
+2023
+  2022
+2021
+Nominal
+Komposisi 
+Composition
+(%)
+Nominal
+Komposisi 
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Aset Lancar
+Current 
+Assets 
+1,033,119
+35.31
+989,802
+37.24
+836,576
+33.83
+Aset Tidak 
+Lancar
+Non-current 
+Assets
+1,892,880
+64369
+1,668,314
+62.76
+1,636,252
+66.17
+Jumlah Aset
+Total Assets
+2,925,999
+100.00
+2,658,116
+100.00
+2,472,828
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+109
+2023 Annual Report
+Aset Lancar 
+Current Assets
+Per 31 Desember 2023, Aset Lancar yang Perseroan miliki 
+adalah sejumlah AS$1.033,12 juta. Terdapat kenaikan sejumlah 
+AS$43,32 juta, atau 4% jika dibandingkan dengan tahun 2022 
+yaitu sejumlah AS$989,80 juta. 
+Aset Lancar (dalam ribuan AS$)
+Current Assets (In thousands US$)
+Aset Lancar
+Current Assets 
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Kas dan 
+Setara Kas
+Cash and 
+Cash 
+Equivalents
+698,795
+  634,042 
+508,327
+64,753
+10.21
+   125,715 
+24.73
+Piutang 
+Usaha 
+Pihak-pihak 
+Berelasi
+Trade 
+Receivables 
+Related 
+Parties
+101,813
+  141,377 
+101,987
+(39,564)
+(27.98)
+     39,390 
+38.62
+Persediaan
+Inventories
+155,946
+  155,753 
+162,023
+193
+0.12
+      (6,270)
+(3.87)
+Pajak Dibayar 
+Di Muka
+Prepaid 
+Taxes
+64,599
+     48,723 
+58,148
+15,876
+32.58
+      (9,425)
+(16.21)
+Biaya Dibayar 
+Di Muka dan 
+Uang Muka
+Prepayments 
+and Advances
+6,056
+       4,444 
+3,521
+1,612
+36.27
+          923 
+26.21
+Aset 
+Keuangan 
+Lancar 
+Lainnya
+Other 
+Current 
+Financial 
+Assets
+5,910
+       5,463 
+2,570
+447
+8.18
+       2,893 
+112.57
+Jumlah Aset 
+Lancar
+Total Current 
+Assets
+1,033,119
+  989,802 
+836,576
+43,317
+4.38
+   153,226 
+18.32
+As of December 31, 2023, the Company's Current Assets 
+amounted to US$1,033.12 million. There was an increase 
+of US$43.32 million, or 4% compared to US$989.80 million 
+in 2022.
+110
+Laporan Tahunan 2023
+Komposisi Aset Lancar (dalam ribuan AS$)
+Current Assets Composition (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition 
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Kas dan Setara Kas
+Cash and Cash 
+Equivalents
+698,795
+67.64
+634,042 
+64.06
+508,327
+60.76
+Piutang Usaha Pihak-
+pihak Berelasi
+Trade Receivables 
+Related Parties
+101,813
+9.85
+141,377 
+14.28
+101,987
+12.19
+Persediaan
+Inventories
+155,946
+15.09
+155,753 
+15.74
+162,023
+19.37
+Pajak Dibayar di Muka
+Prepaid Taxes
+64,599
+6.25
+48,723 
+4.92
+58,148
+6.95
+Biaya Dibayar di Muka 
+dan Uang Muka
+Prepayments and 
+Advances
+6,056
+0.59
+  4,444 
+0.45
+3,521
+0.42
+Aset Keuangan Lancar 
+Lainnya
+Other Current 
+Financial Assets
+5,910
+0.57
+5,463 
+0.55
+2,570
+0.31
+Jumlah Aset Lancar
+Total Current Assets
+1,033,119
+100.00
+989,802 
+100.00
+836,576
+100.00
+» Kas dan Setara Kas
+Sampai dengan akhir tahun 2023, nilai Kas dan Setara Kas 
+adalah sejumlah AS$698,80 juta. Akun Kas dan Setara 
+Kas mencakup Kas di Bank dan Deposito Berjangka. 
+Terjadi kenaikan sejumlah AS$64,75 juta, atau 10,21% jika 
+dibandingkan dengan tahun 2022 yaitu sejumlah AS$634,04 
+juta. Kenaikan tersebut terutama disebabkan oleh kas 
+bersih yang dihasilkan dari aktivitas operasi, yang diimbangi 
+dengan arus kas yang digunakan untuk aktivitas investasi 
+dan pendanaan. 
+» Cash and Cash Equivalents
+As of the end of 2023, the value of Cash and Cash 
+Equivalents was US$698.80 million. The Cash and Cash 
+Equivalents account includes Cash at Bank and Time 
+Deposits. There was an increase of US$64.75 million, 
+or 10.21% when compared to 2022 which amounted to 
+US$634.04 million. The increase was mainly due to net 
+cash generated from operating activities, partially offset 
+by cash flows used for investing and financing activities.
+111
+2023 Annual Report
+Kas dan Setara Kas (dalam ribuan AS$)
+Cash and Cash Equivalent (In thousands US$)
+No.
+Kas dan Setara 
+Kas
+Cash and Cash 
+Equivalent
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+1
+Kas di Bank | Cash in Banks
+Rp
+15,445
+14,710 
+34,664
+735
+5.00
+(19,954)
+(57.56)
+AS$ | US$
+150,940
+99,502 
+212,290
+51,438
+51.70
+(112,788)
+(53.13)
+Jumlah Kas di 
+Bank
+Total Cash in 
+Banks
+166,385
+114,212 
+246,954
+52,173
+45.68
+ (132,742)
+(53.75)
+2
+Deposito Berjangka | Time Deposits
+Rp
+32,395
+41,700
+34,996
+(9,305)
+(22.31)
+6,704
+19.16
+AS$ | US$
+500,015
+478,130
+226,377
+21,885
+4.58
+251,753
+111.21
+Jumlah 
+Deposito 
+Berjangka
+Total Time 
+Deposits
+532,410
+519,830
+261,373
+12,580
+2.42
+258,457
+98.88
+3
+Jumlah | Total 
+698,795
+634,042 
+508,327
+64,753
+10.21
+125,715
+24.73
+Komposisi Kas dan Setara Kas
+Cash and Cash Equivalent Composition
+No.
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+1
+Kas di Bank | Cash in Banks
+Rp
+15,445
+2.21
+14,710 
+2.32
+34,664
+6.82
+AS$ | US$
+150,940
+21.60
+99,502 
+15.69
+212,290
+41.76
+Jumlah Kas di 
+Bank
+Total Cash in 
+Banks
+166,385
+23.81
+114,212   
+18.01
+246,954
+48.58
+2
+Deposito Berjangka | Time Deposits
+Rp
+32,395
+4.64
+41,700     
+6.58
+34,996
+6.88
+AS$ | US$
+500,015
+71.55
+478,130    
+75.41
+226,377
+44.53
+Jumlah 
+Deposito 
+Berjangka
+Total Time 
+Deposits
+532,410
+76.19
+519,830    
+81.99
+261,373
+51.42
+3
+Jumlah | Total
+698,795
+100.00
+634,042    
+100
+508,327
+100
+112
+Laporan Tahunan 2023
+» Piutang Usaha Pihak-pihak Berelasi
+Pada tahun 2023, saldo Piutang Usaha Pihak-pihak Berelasi 
+adalah sejumlah AS$101,81 juta. Angka ini menunjukkan 
+penurunan sejumlah 27,98%, atau AS$39,56 juta jika 
+dibandingkan dengan tahun 2022 yaitu sejumlah AS$141,38 
+juta. Hal ini disebabkan oleh harga penjualan rata-rata yang 
+lebih rendah. 
+Pihak–pihak yang berelasi dalam hal ini adalah VCL dan 
+SMM yang menjadi bagian dari pemegang saham PT Vale. 
+Perseroan melakukan perjanjian penjualan jangka panjang 
+terkait seluruh produksi nikel dalam matte kepada pihak–
+pihak tersebut. Dengan demikian, semua Piutang Usaha 
+Perseroan berkaitan dengan VCL dan SMM. Keduanya 
+memiliki riwayat pembayaran yang sesuai dengan perjanjian 
+dan selama periode pelaporan tidak terjadi kegagalan terkait 
+pembayaran piutang. 
+» Persediaan Bersih 
+Sampai dengan akhir tahun 2023, Perseroan mencatat adanya 
+kenaikan dari nilai Persediaan Bersih jika dibandingkan 
+dengan tahun 2022. Saldo Persediaan pada tahun 2023 di 
+antaranya mencakup sebagai berikut: 
+1. Persediaan nikel dalam proses sebesar AS$26,40 juta; 
+2. Persediaan barang jadi nikel matte sebesar AS$22,13 juta; 
+3. Persediaan bahan pembantu sebesar AS$110,33 juta. 
+Terdapat beberapa risiko yang dapat memungkinkan 
+adanya risiko kerugian atau kerusakan terhadap persedian 
+di antaranya yaitu risiko industri, termasuk gempa 
+bumi, kebakaran, kerusakan mekanis atau elektrik, serta 
+gangguan usaha lainnya. Untuk itu, Perseroan melakukan 
+salah satu tindakan proteksi yaitu pertanggungan asuransi 
+yang dianggap dapat menutup kerugian yang sekiranya 
+ditimbulkan oleh risiko–risiko tersebut. 
+» Pajak Dibayar di Muka
+Selama tahun 2023, terjadi kenaikan 32,58% terkait nilai 
+Pajak Dibayar di Muka jika dibandingkan dengan periode 
+sebelumnya. Kenaikan ini terjadi karena reklasifikasi berbagai 
+piutang pajak dari aset tidak lancar ke aset lancar.
+» Trade Receivables-Related Parties 
+In 2023, the balance of Accounts Receivable from Related 
+Parties amounted to US$101.81 million. This figure shows a 
+27.98% decrease, or US$39.56 million, compared to US$141.38 
+million in 2022. This was due to lower average selling prices.
+VCL and SMM, the related parties, are a part of PT Vale's 
+shareholders. The Company entered into long-term sales 
+agreements related to all nickel in matte production to these 
+parties. As such, all of the Company's Accounts Receivable are 
+related to VCL and SMM. Both companies have a history of 
+payments in accordance with the agreement; and during the 
+reporting period there were no failures related to payment of 
+receivables.
+» Net Inventory 
+Until the end of 2023, the Company recorded an increase in 
+the value of Net Inventories compared to 2022. Inventory 
+balances in 2023 included the following: 
+1. In-process nickel inventory of US$26.40 million; 
+2. Nickel matte finished goods inventory of US$22.13 million; 
+3. Inventory of auxiliary materials amounting to US$110.33 
+million.
+ 
+There are several risks that can allow the risk of loss or 
+damage to inventories, including industrial risks, including 
+earthquakes, fires, mechanical or electrical breakdowns, and 
+other business interruptions. For this reason, the Company 
+takes one of the protective measures, namely insurance 
+coverage which is considered to cover losses that may be 
+caused by these risks.
+» Prepaid Taxes
+During 2023, there was a 32.58% increase in the value of 
+Prepaid Taxes compared to the previous period. This increase 
+occurred due to the reclassification of various tax receivables 
+from non-current assets to current assets.
+113
+2023 Annual Report
+Pajak Dibayar di Muka (dalam ribuan AS$)
+Prepaid Taxes (In thousands US$)
+Pajak Dibayar 
+di Muka
+Prepaid Taxes
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Pajak 
+Penghasilan 
+Badan
+Corporate 
+Income Tax
+-
+                 -   
+-
+-
+-
+-   
+-   
+Pajak Lainnya
+Other Taxes
+64,599
+48,723      
+58,148
+15,876
+32.58
+      (9,425)
+(16.21)
+Jumlah
+Total
+64,599
+48,723     
+58,148
+15,876
+32.58
+      (9,425)
+(16.21)
+Komposisi Pajak Dibayar di Muka
+Prepaid Taxes Composition 
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition 
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Pajak Penghasilan 
+Badan
+Corporate Income Tax
+-
+-
+-   
+-
+-
+-
+Pajak Lainnya
+Other Taxes
+64,599
+100.00
+48,723      
+100.00
+58,148
+100.00
+Jumlah | Total
+64,599
+100.00
+48,723      
+100.00
+58,148
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+» Biaya Dibayar di Muka dan Uang Muka
+Pada tahun 2023, nilai Saldo Biaya Dibayar di Muka dan 
+Uang Muka mengalami kenaikan sejumlah AS$6.056 ribu, 
+atau 36,27% jika dibandingkan dengan periode sebelumnya. 
+Kenaikan ini antara lain disebabkan oleh Asuransi Dibayar di 
+Muka yang lebih tinggi serta Uang Muka ke Pemasok, masing-
+masing sebesar AS$0,8 juta.
+Perseroan menggunakan metode garis lurus selama 
+masa manfaat untuk menentukan Biaya Dibayar di Muka 
+yang dibebankan pada laba rugi. Kemudian, Uang Muka 
+merupakan pembayaran di muka kepada pemasok yang 
+secara proporsional dibebankan pada laba rugi sesuai dengan 
+pembelian dan kesepakatan dengan pemasok. 
+» Prepayments and Advances
+In 2023, the balance of Prepaid Expenses and Advances 
+increased by US$6,056 thousand, or 36.27% compared to 
+the previous period. This increase was partly due to higher 
+Prepaid Insurance and Advances to Suppliers, each amounting 
+to US$0.8 million.
+The Company uses a straight-line method over the useful life 
+to determine Prepaid Expenses which are charged to profit or 
+loss. Advances represent prepayments to suppliers which are 
+proportionately charged to profit or loss in accordance with 
+purchases and agreements with suppliers.
+114
+Laporan Tahunan 2023
+Biaya Dibayar di Muka dan Uang Muka (dalam ribuan AS$)
+Prepaid Expenses and Advances (In thousands US$)
+Biaya Dibayar 
+di Muka dan 
+Uang Muka
+Prepaid 
+Expenses and 
+Advances
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Asuransi 
+Dibayar di 
+Muka
+Prepaid 
+Insurance
+2,847
+2,061 
+2,903
+786
+38.14
+(842)
+(29.00)
+Uang Muka 
+ke Pemasok
+Advances to 
+Vendors
+3,158
+2,334 
+460
+824
+35.30
+1,874 
+407.39
+Lainnya
+Others
+51
+49 
+158
+2
+4.08
+(109)
+(68.99)
+Jumlah
+Total
+6,056
+4,444 
+3,521
+1,612
+36.27
+923 
+26.21
+Komposisi Biaya Dibayar Di Muka dan Uang Muka
+Prepaid Expenses and Advances Composition
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi 
+Composition
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Asuransi Dibayar di 
+Muka
+Prepaid Insurance
+2,847
+47.01
+2,061    
+46.38
+2,903
+84.25
+Uang Muka ke 
+Pemasok
+Advances to Vendors
+3,158
+52.15
+2,334    
+52.52
+460
+13.06
+Lainnya | Others
+51
+0.84
+49 
+1.10%
+158
+4.49
+Jumlah | Total
+6,056
+100.00
+4,444     
+100
+3,521
+100
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+» Aset Keuangan Lancar Lain 
+Sampai dengan tahun 2023, terjadi kenaikan 8% terkait Aset 
+Keuangan Lancar Lain jika dibandingkan dengan tahun 2022. 
+Dalam hal ini, kenaikan Aset Keuangan Lancar Lain memiliki 
+pengaruh terhadap kenaikan Aset Lancar. 
+» Other Current Financial Assets
+Up to 2023, there was an 8% increase in Other Current 
+Financial Assets compared to 2022. In this case, the increase 
+in Other Current Financial Assets affected the increase in 
+Current Assets.
+115
+2023 Annual Report
+Aset Tidak Lancar 
+Non-Current Assets
+Pada akhir tahun 2023, jumlah Aset Tidak Lancar adalah 
+AS$1,89 miliar. Jika dibandingkan dengan tahun 2022 yang 
+sejumlah AS$1,67 miliar maka terdapat kenaikan AS$224,57 
+juta, atau 13%. 
+At the end of 2023, Non-Current Assets totaled US$1.89 
+billion. When compared to 2022 which amounted to US$1.67 
+billion, there was an increase of US$224.57 million, or 13%.  
+Aset Tidak Lancar (dalam ribuan AS$)
+Non-Current Assets (In thousands US$)
+Aset Tidak 
+Lancar
+Non-Current 
+Assets
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Kas yang 
+Dibatasi 
+Penggunaannya
+Restricted Cash
+103,857
+73,044      
+49,869
+30,813
+42.18
+23,175 
+46.47
+Pajak Dibayar di 
+Muka
+Prepaid Taxes
+51,513
+41,802 
+62,928
+9,711
+23.23
+(21,126)
+(33.57)
+Piutang Non-
+Usaha Pihak-
+pihak Berelasi
+Non-Trade 
+Receivables – 
+Related
+Parties
+-
+-   
+-   
+-
+-
+-   
+-
+Investasi pada 
+Entitas Asosiasi
+Investment 
+in Associated 
+Entities
+12,410
+-
+-
+12,410
+100.00
+-
+-
+Aset Derivatif
+Derivative Assets
+24,690
+-
+-
+24,690
+100.00
+-
+-
+Aset Tetap
+Fixed Assets
+1,695,531
+1,549,857 
+1,518,963
+145,674
+9.40
+30,894 
+2.03
+Aset Keuangan 
+Tidak Lancar 
+Lainnya
+Other Non-
+Current Financial 
+Assets
+4,879
+3,611 
+4,492
+1,268
+35.11
+(881)
+(19.61)
+Jumlah
+Total
+1,892,880
+1,668,314 
+1,636,252
+224,566
+13.46
+32,062 
+1.96
+116
+Laporan Tahunan 2023
+Komposisi Aset Tidak Lancar
+Non-Current Assets Composition 
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi 
+Composition
+(%)
+Nominal
+Komposisi 
+Composition
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Kas yang Dibatasi 
+Penggunaannya
+Restricted Cash
+103,857
+5.49
+73,044
+4.38
+49,869
+3.05
+Pajak Dibayar di Muka
+Prepaid Taxes
+51,513
+2.72
+41,802
+2.51
+62,928
+3.85
+Piutang Non-Usaha 
+Pihak-pihak Berelasi
+Non-Trade 
+Receivables – Related
+Parties
+-
+-
+-   
+-
+-
+-
+Investasi pada Entitas 
+Asosiasi
+Investment in 
+Associated Entities
+12,410
+0.66
+-
+-
+-
+-
+Aset Derivatif
+Derivative Assets
+24,690
+1.30
+-
+-
+-
+-
+Aset Tetap
+Fixed Assets
+1,695,531
+89.57
+1,549,857
+92.90
+1,518,963
+92.83
+Aset Keuangan Tidak 
+Lancar Lainnya
+Other Non-Current 
+Financial Assets
+4,879
+0.26
+3,611
+0.22
+4,492
+0.27
+Jumlah
+Total
+1,892,880
+100.00
+1,668,314
+100.00
+1,636,252
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+Beberapa hal yang memengaruhi perubahan nilai Aset Tidak 
+Lancar adalah sebagai berikut: 
+» Kas yang Dibatasi Penggunaannya 
+Di tahun 2023, saldo Kas yang Dibatasi Penggunaannya adalah 
+sejumlah AS$103,86 juta. Terjadi kenaikan sejumlah AS$30,81 
+juta, atau 42,18% jika dibandingkan dengan tahun 2022 
+sejumlah AS$73,04 juta. Peningkatan tersebut disebabkan 
+oleh penempatan jaminan penutupan tambang tahun 2023 
+sebesar AS$20 juta dan jaminan reklamasi untuk wilayah 
+Sorowako dan Pomalaa masing-masing sebesar AS$6 juta 
+dan AS$5 juta.
+Several factors that influence changes in the value of Non-
+Current Assets are as follows:
+» Restricted Cash
+In 2023, the balance of Restricted Cash amounted to US$103.86 
+million. This represents an increase of US$30.81 million, or 
+42.18%, compared to US$73.04 million in 2022. The increase 
+was due to the placement of mine closure guarantee in 2023 
+amounting to US$20 million and reclamation guarantee for 
+Sorowako and Pomalaa area amounting to US$6 million and 
+US$5 million respectively.
+117
+2023 Annual Report
+» Pajak Dibayar di Muka
+Terdapat kenaikan Pajak Dibayar di Muka di tahun 2023 jika 
+dibandingkan dengan periode sebelumnya. Hal ini terutama 
+dikarenakan kelebihan pembayaran Pajak Penghasilan Badan 
+tahun 2023 dan PPN bulanan tambahan.
+» Piutang Non-Usaha Pihak-pihak Berelasi
+Perusahaan tidak mencatat adanya Piutang Non-Usaha 
+Pihak-pihak berelasi pada tahun 2023 disebabkan oleh 
+pelunasan pembayaran pinjaman oleh personel manajemen 
+kunci. 
+» Investasi pada Entitas Asosiasi
+Pada tanggal 9 Maret 2023, Huaqi (Singapore) Pte. Ltd. 
+melakukan penanaman modal pada PT Kolaka Nickel Indonesia 
+(KNI), yang menyebabkan perubahan persentase kepemilikan 
+Perseroan pada KNI yang sebelumnya 100% menjadi 20%. 
+Selanjutnya, pada tanggal 21 Desember 2023, Ford Motor 
+Company melakukan penanaman modal pada KNI yang 
+menyebabkan perubahan persentase kepemilikan Perseroan 
+pada KNI menjadi 18,3%. Dengan demikian, pada tanggal 31 
+Desember 2023, Perseroan tidak lagi mengendalikan KNI dan 
+mengakui kepemilikan Perseroan atas KNI sebagai investasi 
+pada entitas asosiasi.  
+» Aset Derivatif
+Sejak terjadinya penyertaan modal oleh Huaqi (Singapore) Pte. 
+Ltd. di KNI pada tanggal 9 Maret 2023, Perseroan memiliki hak 
+tambahan partisipasi kepemilikan sampai dengan 30% dalam 
+investasi di KNI dengan harga pelaksanaan berdasarkan 
+formula yang telah ditentukan, yang dapat dilaksanakan 
+sewaktu-waktu dalam periode 60 bulan sejak tanggal 
+penyelesaian mekanikal dari smelter pada proyek HPAL yang 
+dilakukan oleh KNI.  Nilai wajar atas hak tambahan partisipasi 
+tersebut diakui oleh Perseroan sebagai aset derivatif sejumlah 
+AS$24,69 juta pada 31 Desember 2023. 
+» Aset Tetap Bersih
+Sampai akhir tahun 2023, nilai Aset Tetap Bersih mengalami 
+kenaikan sejumlah AS$145,67 juta, atau 9,40% jika 
+dibandingkan dengan tahun 2022 yang sejumlah AS$1,55 
+miliar. Aset Tetap diasuransikan sebesar biaya pengganti 
+untuk mencegah terjadinya risiko kerugian langsung yang 
+disebabkan oleh semua risiko industri, termasuk namun tidak 
+terbatas pada gempa bumi, kebakaran, kerusakan mekanis 
+atau elektrik (termasuk gangguan usaha lainnya). Dengan nilai 
+pertanggungan asuransi Perseroan berharap dapat menutup 
+kerugian yang akan timbul karena risiko–risiko tersebut. 
+» Aset Keuangan Tidak Lancar Lainnya
+Di akhir tahun 2023, terjadi kenaikan 35,11% terkait nilai 
+saldo Aset Keuangan Tidak Lancar Lainnya jika dibandingkan 
+dengan periode sebelumnya. Dalam hal ini, Aset Keuangan 
+Tidak Lancar Lainnya adalah bagian jangka panjang dari 
+pinjaman kepada karyawan. 
+» Prepaid Taxes
+There was an increase in Prepaid Taxes in 2023 when 
+compared to the previous period. This was mainly due to 
+overpayment of 2023 Corporate Income Tax and additional 
+monthly VAT.
+» Non-Trade Receivables - Related Parties 
+The Company did not record any Non-Trade Receivables - 
+Related Parties in 2023 due to the repayment of loans by key 
+management personnels.
+» Investment in Associated Entities
+On March 9, 2023, Huaqi (Singapore) Pte. Ltd. invested in PT 
+Kolaka Nickel Indonesia (KNI), which resulted in a change in 
+the Company's ownership percentage in KNI from 100% 
+to 20%. Furthermore, on December 21, 2023, Ford Motor 
+Company invested in KNI, changing the Company's ownership 
+percentage in KNI to 18.3%. Therefore, as of December 31, 
+2023, the Company no longer controls KNI and recognizes the 
+Company's ownership in KNI as an investment in an associate. 
+» Derivative Assets
+Since the capital injection by Huaqi (Singapore) Pte. Ltd. in KNI 
+on March 9, 2023, the Company has an additional participating 
+interest of up to 30% in its investment in KNI at an exercise 
+price based on a predetermined formula, exercisable at 
+any time within 60 months from the date of mechanical 
+completion of the smelter at KNI's HPAL project.  The fair 
+value of the additional participating interest is recognized by 
+the Company as a derivative asset of US$24.69 million as of 
+December 31, 2023. 
+» Net Fixed Assets
+By the end of 2023, the value of Net Fixed Assets increased 
+by US$145.67 million, or 9.40%, compared to US$1.55 billion in 
+2022. Fixed assets are insured at replacement cost to prevent 
+the risk of direct loss caused by all industrial risks, including 
+but not limited to earthquake, fire, mechanical or electrical 
+breakdown (including other business interruption). With the 
+insurance coverage, the Company expects to cover losses 
+that will arise due to these risks.
+» Other Non-Current Financial Assets
+At the end of 2023, there was a 35.11% increase in the value 
+of the balance of Other Non-Current Financial Assets 
+compared to the previous period. In this case, Other Non-
+Current Financial Assets are the long-term portion of loans 
+to employees.
+118
+Laporan Tahunan 2023
+Liabilitas 
+Liabilities
+Selama tahun 2023, terjadi kenaikan Jumlah Liabilitas 
+Perseroan sebesar 19,16% dari AS$303,34 juta menjadi 
+AS$361,46 juta. Hal ini disebabkan oleh kenaikan Liabilitas 
+Jangka Pendek maupun Liabilitas Jangka Panjang, masing-
+masing sebesar 23,82% dan 12,81% di banding tahun 2022. 
+Liabilitas (dalam ribuan AS$)
+Liabilities (in thousands US$)
+Liabilitas
+Liabilities
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Liabilitas 
+Jangka 
+Pendek
+Current 
+Liabilities
+216,727
+175,039     
+168,430
+41,688
+23.82
+6,609
+3.92
+Liabilitas 
+Jangka 
+Panjang
+Non-Current 
+Liabilities
+144,735
+128,297 
+149,937
+16,438
+12.81
+(21,640)
+(14.43)
+Jumlah
+Total
+361,462
+303,336 
+318,367
+58,126
+19.16
+(15,031)
+(4.72)
+Komposisi Liabilitas
+Liabilities Composition 
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi 
+Composition
+(%)
+Nominal
+Komposisi
+Composition 
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Liabilitas Jangka 
+Pendek
+Current Liabilities
+216,727
+59.96
+175,039 
+57.70
+168,430
+52.90
+Liabilitas Jangka 
+Panjang
+Non-Current 
+Liabilities
+144,735
+40.04
+128,297 
+42.30
+149,937
+47.10
+Jumlah
+Total
+361,462
+100.00
+303,336 
+100.00
+318,367
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+During 2023, there was an increase in the Company's Total 
+Liabilities by 19.16% from US$303.34 million to US$361.46 
+million. This was caused by an increase in Short-Term 
+Liabilities and Long-Term Liabilities, respectively by 23.82% 
+and 12.81% compared to 2022.
+119
+2023 Annual Report
+» Liabilitas Jangka Pendek
+Pada tahun 2023, nilai Liabilitas Jangka Pendek adalah 
+sejumlah AS$216,73  juta, terdapat kenaikan sejumlah AS$41,69 
+juta, atau 24% jika dibandingkan periode sebelumnya yaitu 
+sejumlah AS$175,04 juta. Terjadinya kenaikan Liabilitas Jangka 
+Pendek dijelaskan lebih rinci sebagai berikut: 
+» Utang Usaha Pihak-pihak Berelasi
+Utang Usaha Pihak-pihak Berelasi mengalami kenaikan 
+sebesar 4,70% atau sejumlah AS$312 ribu pada tahun 2023.
+» Utang Usaha Pihak Ketiga
+Sampai dengan 31 Desember 2023, terjadi kenaikan sebesar 
+21,87%, atau sejumlah AS$25,22 juta terkait Utang Usaha 
+Pihak Ketiga. Hal ini dikarenakan lebih tingginya utang 
+kepada vendor.
+» Utang Pajak
+Akun Utang Pajak pada tahun 2023 adalah sejumlah AS$2,82 
+juta. Jika dibandingkan dengan tahun 2022 yang sejumlah 
+AS$2,41 juta mengalami kenaikan sejumlah AS$414 ribu. 
+Kenaikan ini dikarenakan kenaikan objek pemotongan pajak.
+» Liabilitas Sewa
+Pengukuran Liabilitas Sewa dilakukan jika di masa depan 
+terdapat perubahan pembayaran sewa yang timbul akibat 
+perubahan suatu indeks atau tingkat. Pada tahun 2023, akun 
+Liabilitas Sewa adalah sejumlah AS$5,54 juta, terjadi kenaikan 
+sejumlah AS$3,73 juta atau 205,23% jika dibandingkan tahun 
+2022 yang sejumlah AS$1,82 juta. 
+» Current Liabilities
+In 2023, the value of Short-Term Liabilities amounted to 
+US$216.73 million, an increase of US$41.69 million, or 24%, 
+compared to the previous period of US$175.04 million. The 
+increase in Current Liabilities is explained in more detail as 
+follows:
+» Trade Payables - Related Parties
+Trade Payables - Related Parties increased by 4.70% or US$312 
+thousand in 2023.
+» Trade Payables - Third Parties
+As of December 31, 2023, there was a 21.87% increase, or 
+US$25.22 million, in Trade Payables - Third Parties. This was 
+due to higher payables to vendors.
+» Taxes Payable
+The 2023 Tax Payable account amounted to US$2.82 million. 
+Compared to US$2.41 million in 2022, there was an increase of 
+US$414 thousand. This increase was due to an increase in the 
+object of withholding tax.
+» Lease Liabilities
+Measurement of Lease Liabilities is carried out if there are 
+changes in future lease payments arising from changes in an 
+index or rate. In 2023, the Lease Liabilities account amounted 
+to US$5.54 million, increasing by US$3.73 million, or 205.23%, 
+compared to US$1.82 million in 2022.
+Liabilitas Jangka Pendek (dalam ribuan AS$)
+Current Liabilities (In thousands US$)
+Liabilitas Jangka 
+Pendek
+Current Liabilities
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Utang Usaha 
+Pihak-pihak 
+Berelasi
+Trade Payables - 
+Related Parties
+312
+298 
+135
+14
+4.70
+163 
+120.74
+Utang Usaha 
+Pihak Ketiga
+Trade Payables – 
+Third Parties
+140,515
+115,296     
+122,109
+25,219
+21.87
+(6,813)     
+(5.58)
+120 Laporan Tahunan 2023
+Liabilitas Jangka 
+Pendek
+Current Liabilities
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Akrual
+Accruals
+33,843
+27,772 
+19,842
+6,071
+21.86
+7,930    
+39.97
+Liabilitas 
+Imbalan Kerja 
+Jangka Pendek
+Short-Term 
+Employee 
+Benefit
+Liabilities
+25,070
+26,244      
+21,638
+(1,174)
+(4.47)
+4,606 
+21.29
+Utang Pajak
+Taxes Payable
+2,821
+2,407 
+1,973
+414
+17.20
+434 
+22.00
+Liabilitas Sewa
+Lease Liabilities
+5,543
+1,816 
+1,441
+3,727
+205.23
+375 
+26.02
+Liabilitas Atas 
+Pembayaran 
+Berbasis Saham
+Share-based 
+Payment 
+Liabilities
+110
+467 
+26
+(357)
+(76.45)
+441
+1,696.15
+Provisi atas 
+Penghentian 
+Pengoperasian 
+Aset
+Provision 
+for Asset 
+Retirement
+6,422
+-
+-
+6,422
+-
+-
+-
+Liabilitas 
+Keuangan Jangka 
+Pendek Lainnya
+Other Current 
+Financial 
+Liabilities
+2,091
+739     
+1,256
+1,352
+182.95
+ (527)
+(41.63)
+Jumlah
+Total
+216,727
+175,039 
+168,430
+41,688
+23.82
+6,609    
+3.92
+Komposisi Liabilitas Jangka Pendek
+Current Liabilities Composition
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition 
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Utang Usaha Pihak-
+pihak Berelasi
+Trade Payables - 
+Related Parties
+312
+0.14
+298 
+0.17
+135
+0.08
+121
+2023 Annual Report
+Liabilitas Jangka Panjang 
+Non-Current Liabilities
+Di akhir tahun 2023, nilai Liabilitas Jangka Panjang mengalami 
+kenaikan sebesar 13% atau sejumlah AS$16,44 juta jika 
+dibandingkan dengan periode sebelumnya yaitu sejumlah 
+AS$128,30 juta. Hal ini terutama dikarenakan kenaikan 
+Liabilitas Imbalan Pascakerja Jangka Panjang.
+At the end of 2023, the value of Long-Term Liabilities 
+increased by 13% or US$16.44 million when compared to 
+the previous period of US$128.30 million. This was mainly 
+due to the increase in Long-Term Post-employment 
+Benefits Liabilities.
+Uraian
+Description
+2023
+2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition 
+Nominal
+Komposisi
+Composition
+(%)
+(%)
+Utang Usaha Pihak 
+Ketiga
+Trade Payables – 
+Third Parties
+140,515
+64.84
+115,296 
+65.87
+122,109
+72.50
+Akrual
+Accruals
+33,843
+15.62
+27,772 
+15.87
+19,842
+11.78
+Liabilitas Imbalan 
+Kerja Jangka Pendek
+Short-Term Employee 
+Benefit Liabilities
+25,070
+11.57
+26,244 
+14.99
+21,638
+12.85
+Utang Pajak
+Taxes Payable
+2,821
+1.30
+2,407 
+1.38
+1,973
+1.17
+Liabilitas Sewa
+Lease Liabilities
+5,543
+2.56
+1,816 
+1.04
+1,441
+0.86
+Liabilitas atas 
+Pembayaran Berbasis 
+Saham
+Share-based Payment 
+Liabilities
+110
+0.05
+467 
+0.27
+26
+0.02
+Provisi atas 
+penghentian 
+pengoperasian aset
+Provision for asset 
+retirement
+6,422
+2.96
+-
+-
+-
+-
+Liabilitas Keuangan 
+Jangka Pendek 
+Lainnya
+Other Current 
+Financial Liabilities
+2,091
+0.96
+739 
+0.42
+1,266
+0.75
+Jumlah
+Total
+216,727
+100.00
+175,039 
+100.00
+168,430
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+122 Laporan Tahunan 2023
+Liabilitas Jangka Panjang (dalam ribuan AS$)
+Non-Current Liabilities (In thousands US$)
+Liabilitas Jangka 
+Panjang
+Non-Current 
+Liabilities
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Liabilitas Imbalan 
+Pascakerja Jangka 
+Panjang
+Long-Term Post-
+employment 
+Benefits Liabilites
+39,695
+28,457 
+26,329
+11,238
+39.49
+2,128 
+8.08
+Liabilitas Pajak 
+Tangguhan, 
+Bersih
+Deferred Tax 
+Liabilities, Net
+19,603
+24,891 
+42,810
+(5,288)
+(21.24)
+ (17,919)
+(41.86)
+Liabilitas Sewa
+Lease Liabilities
+3,078
+3,918 
+3,310 
+(840)
+(21.44)
+608 
+18.37
+Provisi atas 
+Penghentian 
+Pengoperasian 
+Provision for 
+Asset Retirement
+77,482
+71,031      
+77,488
+6,451
+9.08
+ (6,457)
+(8.33)
+Liabilitias 
+Keuangan Tidak 
+Lancar Lainnya
+Other Non-
+current Financial 
+Liabilities 
+4,877
+-
+-
+4,877
+100.00
+-
+-
+Jumlah
+Total
+144,735
+128,297 
+149,937
+16,438
+12.81
+ (21,640)
+(14.43)
+Komposisi Liabilitas Jangka Panjang
+Non-Current Liabilities Composition 
+Uraian
+Description
+2023
+  2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Liabilitas Imbalan 
+Pascakerja Jangka 
+Panjang
+Long-Term Post- 
+Employment Benefits 
+Liabilites
+39,695
+27.43
+28,457
+22.18
+26,329
+17.56
+Liabilitas Pajak 
+Tangguhan Bersih
+Deferred Tax 
+Liabilities, Net
+19,603
+13.54
+24,891
+19.40
+42,810
+28.55
+123
+2023 Annual Report
+Uraian
+Description
+2023
+  2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Liabilitas Sewa
+Leased Liabilities
+3,078
+2.13
+3,918
+3.05
+3,310
+2.21
+Provisi atas 
+Penghentian 
+Pengoperasian 
+Provision for Asset 
+Retirement
+77,482
+53.53
+71,031
+55.36
+77,488
+51.68
+Liabilitas Keuangan 
+Tidak Lancar Lainnya
+Other Non-current 
+Financial Liabilities
+4,877
+3.37
+-
+-
+-
+-
+Jumlah
+Total
+144,735
+100.00
+128,297
+100.00
+149,937
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Notes: Nominal in thousands US$
+» Liabilitas Imbalan Pascakerja Jangka Panjang
+Berkaitan dengan UU Ketenagakerjaan dan Tunjangan 
+Kesehatan PascaPensiun (PRMC), Perseroan memiliki 
+program pensiun iuran pasti yang dikelola oleh Dana Pensiun 
+Lembaga Keuangan (DPLK). Dalam hal ini manfaat pensiun 
+masuk ke dalam Liabilitas Imbalan Pascakerja Jangka 
+Panjang. Liabilitas Imbalan Pascakerja pada 31 Desember 
+2023 dan 31 Desember 2022 dihitung oleh Kantor Konsultan 
+Aktuaria (KKA) Santhi Devi dan Ardianto Handoyo, sebagai 
+aktuaris yang berkualifikasi, pada laporannya tertanggal 22 
+Januari 2024. 
+Per 31 Desember 2023, saldo Liabilitas Imbalan Pascakerja 
+Jangka Panjang adalah sejumlah AS$39,70 juta. Terjadi 
+kenaikan 39,49% atau AS$11,24 juta jika dibandingkan periode 
+sebelumnya yaitu sejumlah AS$28,46 juta. 
+Sejumlah uang Perseroan dikelola oleh pihak ketiga dengan 
+pendekatan Koordinasi Imbalan (COB) yang bertujuan untuk 
+menutup biaya medis bagi peserta program sehingga klaim 
+medis dapat dipertimbangkan dalam perhitungan biaya 
+secara keseluruhan. 
+» Liabilitas Pajak Tangguhan, Bersih
+Nilai saldo Liabilitas Pajak Tangguhan, Bersih mengalami 
+penurunan sebesar 21,24% pada tahun 2023 jika dibandingkan 
+dengan periode sebelumnya. Hal ini terjadi karena perbedaan 
+temporer terutama yang berasal dari transaksi derivatif.
+» Long-Term Post-employment Benefits Liabilities
+In relation to the Labor Law and Post-retirement Medical 
+Benefits (PRMC), the Company has a defined contribution 
+pension plan managed by the Financial Institution Pension 
+Fund (DPLK). In this case, the pension benefits are included 
+in Long-Term Post-employment Benefits Liabilities. The 
+Post-employment Benefits Liabilities as of December 31, 
+2023 and December 31, 2022 were calculated by Santhi Devi 
+and Ardianto Handoyo, as qualified actuaries, in their report 
+dated January 22, 2024. 
+As of December 31, 2023, the balance of Long-Term Post-
+employment Benefits Liabilities was US$39.70 million. There 
+was an 39.49% increase, or US$11.24 million, compared to the 
+previous period of US$28.46 million.
+Some of the Company's money is managed by a third party 
+with a Coordination of Benefits (COB) approach which aims to 
+cover medical costs for program participants so that medical 
+claims can be considered in the overall cost calculation.
+» Deferred Tax Liabilities, Net 
+The balance of Deferred Tax Liabilities, Net decreased 
+by 21.24% in 2023 compared to the previous period. 
+This occurred due to temporary differences mainly from 
+derivative transactions.
+124 Laporan Tahunan 2023
+Ekuitas (dalam ribuan AS$)
+Equity (In thousands US$)
+Ekuitas
+Equity
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Modal Saham
+Share Capital
+136,413
+136,413 
+136,413
+-
+-
+-   
+-
+Tambahan 
+Modal Disetor
+Additional 
+Paid-in Capital
+277,760
+277,760 
+277,760
+-
+-
+-   
+-
+Saldo Laba | Retained Earnings
+Dicadangkan
+Appropriated
+27,283
+27,283 
+27,283
+-
+-
+-     
+-
+Belum 
+Dicadangkan
+Unappropriated
+2,123,081
+1,913,314 
+1,712,995
+209,767
+10.96
+200,319 
+11.69 
+Ekuitas
+Equity
+Terdapat kenaikan total Ekuitas Perseroan sejumlah 
+AS$209,76 juta, atau 9% dari tahun 2022 sejumlah AS$2,35 
+miliar menjadi AS$2,56 miliar di tahun 2023. Hal ini terjadi 
+karena meningkatnya Laba Bersih pada tahun buku 2023.
+The Company's total Equity rose by US$209.76 million, or 9%, 
+from US$2.35 billion in 2022 to US$2.56 billion in 2023. This 
+was due to the increase in Net Profit in the 2023 fiscal year.
+» Provisi atas Penghentian Pengoperasian Aset
+Pada 
+akhir 
+tahun 
+2023, 
+Provisi 
+atas 
+Penghentian 
+Pengoperasian Aset adalah sejumlah AS$77,48 juta. Perseroan 
+memperkirakan terjadinya biaya dari tahun 2045 sampai 
+dengan tahun 2060. Estimasi Provisi dilakukan berdasarkan 
+biaya penutupan menggunakan teknologi dan material yang 
+tersedia sekarang. 
+Terjadi kenaikan nilai Provisi sebesar 9,08% atau sejumlah 
+AS$6,45 juta dari tahun 2022 yaitu sejumlah AS$71,03 juta. 
+Pencatatan Provisi atas Penghentian Pengoperasian Aset 
+dilakukan dengan tujuan untuk mengakui kewajiban hukum 
+atau konstruktif terkait penghentian penggunaan aset tetap 
+yang berasal dari akuisisi, pembangunan atau pengembangan, 
+dan/atau operasi normal aset tetap. 
+» Provision for Operational Asset Retirement
+At the end of 2023, the Provision for Operational Asset 
+Retirement was US$77.48 million. The Company expects to 
+incur costs from 2045 to 2060. The Provision is estimated 
+based on closure costs using currently available technology 
+and materials.
+The Provision value had a 9.08% increase, or US$6.45 million, 
+since 2022, which amounted to US$71.03 million. Provision 
+for Asset Retirement was recorded to recognize legal or 
+constructive obligations related to the retirement of fixed 
+assets resulting from the acquisition, construction or 
+development, and/or normal operation of fixed assets.
+125
+2023 Annual Report
+Ekuitas
+Equity
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Jumlah Ekuitas yang Didistribusikan Kepada: | Total Equity Attributable to:
+Pemilik Entitas 
+Induk
+Owners of the 
+Parent Entity
+2,564,537
+2,354,770 
+2,154,451
+209,767
+8.91
+200,319 
+9.30
+Kepentingan 
+Nonpengendali
+Non-controlling 
+Interests
+-
+10 
+10
+(10)
+(100.00)
+-   
+-   
+Jumlah
+Total
+2,564,537
+2,354,780 
+2,154,461
+209,757
+8.91
+203,319 
+9.30
+Laporan Laba Rugi dan Penghasilan Komprehensif Lain (dalam ribuan AS$) 
+Statement of Profit and Loss and Other Comprehensive Income (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Pendapatan
+Revenue
+1,232,263
+1,179,452 
+953,174
+52,881
+4.48
+226,278 
+23.74
+Beban Pokok 
+Pendapatan
+Cost of 
+Revenue
+(885,240)
+ (865,885)
+(704,323)
+(19,355)
+2.24
+ (161,562)
+22.94
+Laba Bruto
+Gross Profit
+347,023
+313,567 
+248,851
+33,456
+10.67
+64,716 
+26.01
+Beban Usaha
+Operating 
+Expenses
+(22,155)
+ (19,734)
+(17,691)
+(2,421)
+12.27
+ (2,043)
+11.55
+Pendapatan 
+Lainnya
+Other Income
+823
+1,289 
+2,614
+(466)
+(36.15)
+ (1,325)
+(50.69)
+Beban Lainnya
+Other Expenses
+(23,533)
+ (23,093) 
+(10,750)
+(440)
+1.91
+(12,343)
+114.82
+Laporan Laba Rugi dan Penghasilan 
+Komprehensif Lain Konsolidasian
+Statement of Consolidated Profit and Loss and Other
+Comprehensive Income
+126 Laporan Tahunan 2023
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Laba Usaha
+Operating 
+Profit
+302,158
+272,029 
+223,024
+30,129
+11.08
+49,005     
+21.97
+Bagian Laba 
+Neto dari 
+Entitas Asosiasi
+Share of Net 
+Income of 
+Associates
+21
+-
+-
+21
+100.00
+-
+-
+Keuntungan 
+atas Pengakuan 
+Nilai Wajar Aset 
+Derivatif
+Gain on 
+Recognition 
+of Fair Value 
+of Derivative 
+Assets
+24,690
+-
+-
+24,690
+100.00
+-
+-
+Pendapatan/
+(Biaya) 
+Keuangan, 
+Bersih
+Net Finance 
+Income/(Costs)
+25,654
+3,790 
+(2,379)
+21,864
+576.89
+6,169    
+(259.31)
+Laba Sebelum 
+Pajak 
+Penghasilan
+Profit Before 
+Income Tax
+352,523
+275,819 
+220,645
+76,704
+27.81
+55,174 
+25.01
+Beban Pajak 
+Penghasilan
+Income Tax 
+Expense
+(78,189)
+ (75,418)
+(54,848)
+(2,771)
+3.67
+(20,570)    
+37.50
+Laba Tahun 
+Berjalan
+Profit for the 
+Year
+274,334
+200,401 
+165,797
+73,933
+36.89
+34,604 
+20.87
+(Kerugian)/
+Penghasilan 
+Komprehensif 
+Lain
+Other 
+Comprehensive 
+(Loss)/Income
+(4,447)
+ (82)
+1,404
+(4,365)
+5,323.17
+ (1,486)
+(105.84)
+127
+2023 Annual Report
+Pendapatan 
+Revenue
+Tahun 2023, Perseroan mencatat Pendapatan sejumlah 
+AS$1,23 miliar. Jika dibandingkan dengan tahun 2022 yang 
+sejumlah AS$1,18 miliar, terdapat kenaikan 4% atau sejumlah 
+AS$52,81 juta. Terjadinya kenaikan ini disebabkan oleh 
+meningkatnya volume penjualan dimana Perseroan mencatat 
+penjualan kepada VCL dan SMM masing-masing sebesar 
+AS$985,81 juta dan AS$246,45 juta.
+In 2023, the Company's revenue was recorded at US$1.23 
+billion. Compared to the US$1.18 billion in 2022, there was 
+a 4% increase, or US$52.81 million. This occurred due to 
+the increase in sales volume where the Company recorded 
+sales to VCL and SMM at US$985.81 million and US$246.45 
+million respectively.
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Jumlah 
+Penghasilan 
+Komprehensif 
+Tahun Berjalan
+Total 
+Comprehensive 
+Income for
+the Year
+269,887
+200,319     
+167,201
+69,568
+34.73
+33,118     
+19.81
+EBITDA yang 
+Disesuaikan
+Adjusted 
+EBITDA
+499,605
+476,967     
+391,858
+22,638
+4.75
+85,109 
+21.72
+128 Laporan Tahunan 2023
+Beban Pokok Pendapatan 
+Cost of Revenue
+Sampai dengan akhir tahun 2023, terjadi kenaikan Beban 
+Pokok Pendapatan sejumlah AS$19,36 juta, atau 2% jika 
+dibandingkan dengan tahun 2022 yaitu sejumlah AS$865,88 
+juta. Kenaikan Beban Pokok Pendapatan dipengaruhi 
+beberapa akun di antaranya sebagai berikut:
+Beban Pokok Pendapatan (dalam ribuan AS$)
+Cost of Revenue (In thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Depresiasi 
+dan 
+Amortisasi
+Depreciation 
+and 
+Amortization
+173,195
+164,234 
+157,306
+8,961
+5.46
+6,928    
+4.40
+Jasa 
+Kontraktor
+Contractor 
+Services
+122,260
+     119,254 
+121,379
+3,006
+2.52
+ (2,125)
+(1.75)
+Bahan 
+Pembantu
+Supplies
+121,621
+107,446     
+119,556
+14,175
+13.19
+(12,110)    
+(10.13)
+Bahan Bakar 
+Minyak dan 
+Pelumas
+Fuels and 
+Lubricants
+203,898
+180,162 
+112,834
+23,736
+13.17
+67,328 
+59.67
+Biaya 
+Karyawan
+Employee 
+Costs
+80,714
+85,093 
+78,130
+(4,379)
+(5.15)
+6,963 
+8.91
+Bahan Bakar 
+Batubara
+Coal
+101,759
+110,000     
+59,890
+(8,241)
+(7.49)
+50,110 
+83.67
+Pajak dan 
+Asuransi
+Taxes and 
+Insurance
+38,165
+41,885      
+35,616
+(3,720)
+(8.88)
+6,269 
+17.60
+Royalti
+Royalties
+33,990
+35,614 
+19,187
+(1,624)
+(4.56)
+16,427     
+85.62
+By the end of 2023, there was an increase in Cost of Revenue 
+of US$19.36 million, or 2%, compared to US$865.88 million 
+in 2022. The increase in Cost of Revenue was influenced by 
+several accounts including the following:
+129
+2023 Annual Report
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Lainnya
+Others
+1,450
+3,661     
+6,768
+(2,221)
+(60.39)
+(3,107)     
+(45.91)
+Persediaan 
+Dalam Proses
+In-process 
+Inventory
+8,042
+23,388      
+(8,336)
+(15,346)
+(65.61)
+31,724 
+(380.57)
+Beban Pokok 
+Produksi
+Cost of 
+Production
+885,094
+870,737 
+702,330
+14,357
+1.65
+168,407 
+23.98
+Perubahan 
+Persediaan 
+Barang
+Finished 
+Goods 
+Inventory 
+Changes
+146
+ (4,852)
+1,993
+4,998
+(103.01)
+(6,845)
+(343.45)
+Beban Pokok 
+Pendapatan
+Cost of 
+Revenue
+885,240
+865,885 
+704,323
+19,355
+2.24
+161,562    
+22.94
+» Bahan Bakar Minyak dan Pelumas
+Persentase konsumsi bahan bakar minyak dan pelumas dari 
+total Beban Pokok Produksi di tahun 2023 lebih tinggi jika 
+dibandingkan dengan tahun 2022. Perubahan persentase ini 
+terjadi dari 20,81% di tahun 2022 menjadi 23,03% di tahun 
+2023. 
+1. HSFO 
+Pabrik pengolahan menggunakan HSFO untuk menjalankan 
+operasinya, selama tahun 2023 biayanya mencapai 67,38% 
+dari total biaya bahan bakar minyak dan pelumas. Persentase 
+ini mengalami penurunan jika dibandingkan tahun 2022 yaitu 
+sebesar 70,53%. Kondisi ini disebabkan oleh menurunnya 
+harga rata-rata HSFO pada tahun 2023.
+» Fuel Oil and Lubricants
+The percentage of fuel oil and lubricants consumption of the 
+2023 total Cost of Production was higher than that in 2022. 
+This change is evident from 20.81% in 2022 to 23.03% in 2023.
+1. HSFO
+The processing plant uses HSFO to run its operations and 
+during 2023, the cost reached 67.38% of the total cost of fuel 
+oil and lubricants. This percentage decreased compared to 
+2022, which amounted to 70.53%. This condition was due to 
+the decrease in the average price of HSFO in 2023.
+130 Laporan Tahunan 2023
+Biaya dan Volume Penggunaan HSFO
+Cost and Consumption Volume of HSFO
+Uraian
+Description
+Satuan
+Unit 
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Biaya
+Cost
+Juta AS$
+US$ Million
+137
+127
+77
+10
+8.12
+50
+64.94
+Volume
+Volume
+Juta Barel
+Million 
+Barrels
+1.65
+1.46
+1.29
+0.19
+12.75
+0.17
+13.18
+Tingkat Konsumsi HSFO Per Ton Nikel dalam Matte
+HSFO Consumption Rate Per Ton of Nickel in Matte
+2023
+2022
+2021
+23.40
+24.43
+19.74
+2. HSD atau Minyak Diesel
+Dalam menjalankan operasional armada tambang dan 
+pembangkit listrik termal Perseroan menggunakan bahan 
+bakar HSD. Penggunaan HSD selama tahun 2023 adalah 
+sebanyak 961,84  liter per ton nikel dalam matte, penggunaan 
+ini turun dibandingkan periode sebelumnya yaitu sebesar 
+969,30 liter per ton. Biaya pemakaian HSD secara keseluruhan 
+menunjukkan peningkatan dibandingkan tahun 2022 karena 
+rata-rata harga HSD yang lebih tinggi.
+Biaya dan Volume Penggunaan HSD
+Cost and Consumption Volume of HSD  
+Uraian
+Description
+Satuan
+Unit
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Biaya
+Cost
+Juta AS$
+US$ Million
+63
+51
+33
+12
+24.09
+18
+54.55
+Volume
+Volume
+Juta Liter
+Million Liters
+68
+58
+67
+10
+16.80
+(9)
+(13.43)
+Tingkat Konsumsi HSD Per Ton Nikel dalam Matte
+HSD Consumption Rate Per Ton of Nickel in Matte
+2023
+2022
+2021
+961.84
+969.30
+1,017.43
+2. HSD or Diesel Oil
+In operating the mining fleet and thermal power plant, the 
+Company uses HSD fuel. The 2023 HSD usage was 961.84 liters 
+per ton of nickel in matte, pointing a decline compared to 
+the previous period of 969.30 liters per ton. The overall HSD 
+usage cost shows an increase compared to 2022 due to higher 
+average HSD price.
+131
+2023 Annual Report
+» Depresiasi dan Amortisasi
+Terjadi kenaikan 5,46% atau sejumlah AS$8,96 juta terkait 
+Depresiasi dan Amortisasi di tahun 2023. Kenaikan ini terjadi 
+dari sejumlah AS$164,23 juta di tahun 2022 menjadi AS$173,20 
+juta di tahun 2023. 
+» Bahan Pembantu
+Pada tahun 2023, biaya Bahan Pembantu mengalami kenaikan 
+13,19% jika dibandingkan dengan periode sebelumnya. Kondisi 
+ini berpengaruh cukup signifikan terhadap total kenaikan 
+Beban Pokok Produksi. 
+» Biaya Karyawan
+Biaya Karyawan di tahun 2023 adalah sejumlah AS$80,71 juta, 
+angka ini mengalami penurunan sejumlah AS$4,38 juta jika 
+dibandingkan periode sebelumnya yaitu sejumlah AS$85,09 
+juta. Pada tahun 2023, Biaya Karyawan berkontribusi 9,12% 
+terhadap total Beban Pokok Produksi. 
+» Jasa Kontraktor
+Pada tahun 2023, biaya Jasa Kontraktor adalah sejumlah 
+AS$122,26 juta dan berkontribusi 13,81% terhadap total 
+Beban Pokok Produksi. Persentase ini sedikit lebih tinggi jika 
+dibandingkan dengan tahun 2022 yaitu sebesar 13,70%. Hal 
+ini disebabkan oleh peningkatan aktivitas pemeliharaan alat 
+tambang dan pabrik.
+» Batubara
+Penggunaan batubara dilakukan untuk membantu proses 
+pembakaran di tanur pengering dan tanur pereduksi. Pada 
+tahun 2023, biaya batubara lebih rendah sebesar 7,49% 
+dibandingkan periode sebelumnya. Kondisi ini terjadi 
+dikarenakan harga rata-rata batubara yang lebih rendah di 
+tahun 2023 dibandingkan tahun sebelumnya.
+» Depreciation and Amortization
+There was a 5.46% or US$8.96 million increase in Depreciation 
+and Amortization in 2023. This increase occurred from 
+US$164.23 million in 2022 to US$173.20 million in 2023.
+» Supplies
+In 2023, the cost of auxiliary materials increased by 13.19% 
+compared to the previous period. This condition had a 
+significant effect on the total increase in Cost of Production.
+» Employee Costs
+Employee Costs in 2023 amounted to US$80.71 million, 
+showing a US$4.38 million decrease compared to the 
+previous period of US$85.09 million. In 2023, Employee Costs 
+contributed 9.12% to total Cost of Production.
+» Contractor Services
+In 2023, Contractor Services totaled US$122.26 million and 
+contributed 13.81% to the total Cost of Production. This 
+percentage was slightly higher than 13.70% in 2022. This 
+was due to an increase in mining equipment and plant 
+maintenance activities.
+» Coal
+Coal is used to assist the combustion process in the dryer kiln 
+and reduction kiln. In 2023, coal costs were 7.49% lower than 
+the previous period. This condition occurred due to the lower 
+average price of coal in 2023 compared to the previous year.
+Biaya dan Volume Pemakaian Batubara
+Cost and Volume of Coal Used
+Uraian
+Description
+Satuan
+Unit
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Biaya
+Cost
+Juta AS$
+US$ Million
+102
+110
+60
+(8)
+(7.49)
+50
+83.33
+Volume
+Volume
+Ton Kering
+Dry Metric 
+Ton
+347,362
+292,341
+374,937
+55,021
+18.82
+(82,596)
+(22.03)
+Tingkat Konsumsi Batubara Per Ton Nikel dalam Matte
+Coal Consumption Rate Per Ton of Nickel in Matte
+2023
+2022
+2021
+4.91
+4.87
+5.73
+132 Laporan Tahunan 2023
+» Pajak dan Asuransi
+Kontribusi biaya Pajak dan Asuransi terhadap total Beban 
+Pokok Produksi tahun 2023 adalah sebesar 4,31% atau 
+sejumlah AS$38,17 juta. Jika dibandingkan dengan tahun 2022 
+yaitu sejumlah AS$41,89 juta, terjadi penurunan 8,88% atau 
+sejumlah AS$3,72 juta. 
+» Royalti
+Pada tahun 2023, biaya Royalti mencapai AS$33,99 juta, 
+terjadi penurunan sejumlah AS$3,72 juta atau 4,56% jika 
+dibandingkan tahun 2022 yaitu sebesar AS$35,61 juta. Biaya 
+Royalti menyumbang 4,31% dari total Beban Biaya Produksi. 
+» Lainnya
+Terjadi penurunan 60,39% atau sejumlah AS$2,21 juta terkait 
+biaya Lainnya di tahun 2023 jika dibandingkan dengan periode 
+sebelumnya yaitu sejumlah AS$3,66 juta. 
+Beban Usaha 
+Operating Expenses
+Sampai akhir tahun 2023, terjadi peningkatan Beban Usaha 
+sebesar 12,27% dibandingkan periode sebelumnya. Kondisi ini 
+dikarenakan kenaikan jasa konsultansi.
+» Taxes and Insurance
+The contribution of Taxes and Insurance costs to total Cost of 
+Production in 2023 was 4.31% or US$38.17 million. Compared 
+to the figure in 2022 which amounted to US$41.89 million, 
+there was an decrease of 8.88% or US$3.72 million.
+» Royalties
+In 2023, Royalty costs amounted to US$33.99 million, a 
+decrease of US$3.72 million or 4.56% when compared to 2022 
+which amounted to US$35.61 million. Royalty costs accounted 
+for 4.31% of total Production Costs.
+» Others
+There was a 60.39% decrease, or US$2.21 million, related to 
+Other costs in 2023 compared to the previous period, which 
+totaled US$3.66 million.
+Until the end of 2023, there was a 12.27% increase in Operating 
+Expenses compared to the previous period. This condition 
+was due to the increasing consultancy services.
+Pendapatan Lainnya 
+Other Income
+Terdapat penurunan Pendapatan Lainnya pada tahun 2023 
+sejumlah AS$0,47 juta, atau 36,15% dibandingkan tahun 2022 
+yaitu sejumlah AS$1,29 juta. Hal ini disebabkan oleh kerugian 
+penyesuaian translasi mata uang pada tahun 2023.
+Beban Lainnya 
+Other Expenses
+Perseroan mencatat nilai Beban Lainnya yang mencakup 
+biaya pengembangan proyek, beban pajak, rugi pelepasan 
+aset tetap di tahun 2023 lebih tinggi 1,91% dibandingkan 
+periode sebelumnya. 
+There was a decrease in Other Income in 2023 of US$0.47 
+million, or 36.15% compared to US$1.29 million in 2022. This 
+was due to the loss of currency translation adjustment in 
+2023.
+The Company recorded the value of Other Expenses, 
+including project development costs, tax expenses, loss on 
+disposal of fixed assets in 2023, higher by 1.91% compared 
+to the previous period.
+133
+2023 Annual Report
+Laba Usaha 
+Operating Profit
+Kenaikan sebesar 11,08% terkait perolehan Laba Usaha terjadi 
+di tahun 2023 jika dibandingkan dengan periode sebelumnya. 
+Kenaikan ini terutama disebabkan oleh peningkatan 
+Pendapatan sebesar AS$52,81 juta pada tahun 2023.
+Pendapatan/(Biaya) Keuangan, Bersih 
+Net Finance Income/(Costs)
+Pada tahun 2023 Pendapatan/(Biaya) Keuangan, Bersih 
+mengalami kenaikan dibandingkan dengan tahun 2022. Hal 
+ini terutama karena saldo bank yang lebih tinggi dan kenaikan 
+suku bunga deposito dan giro pada tahun 2023.
+Operating Profit experienced a 11.08% rise in 2023 compared 
+to the previous period. This increase was mainly due to an 
+increase in Revenue of US$52.81 million in 2023.
+In 2023, Net Finance Income/(Costs), Net increased 
+compared to 2022. This was mainly caused by higher 
+bank balances and higher interest rates on deposits and 
+current accounts in 2023.
+Laba Tahun Berjalan 
+Profit for the Year
+Pada tahun 2023, Perseroan mencatat peningkatan Laba 
+Tahun Berjalan sejumlah AS$73,93 juta, atau 36,89% 
+jika dibandingkan dengan tahun 2022 yaitu sejumlah 
+AS$200,40 juta. 
+In 2023, the Company's Profit for the Year increased by 
+US$73.93 million, or 36.89%, compared to US$200.40 
+million in 2022.
+Total (Kerugian)/Penghasilan Komprehensif Lain 
+Total Other Comprehensive (Loss)/Income
+Perseroan mencatat Pertumbuhan Komprehensif Lain 
+tahun 2023 mengalami kenaikan dari tahun 2022. Hal 
+tersebut disebabkan oleh peningkatan kerugian yang timbul 
+dari pengukuran ulang aktuaria dari imbalan pascakerja 
+yang diimbangi dengan kenaikan penghasilan dari pajak 
+penghasilan terkait penghasilan komprehensif lain.
+The Company’s Other Comprehensive Income had a higher 
+record in 2023 than 2022. This occurred because of an 
+increase in loss arising from actuarial remeasurement of 
+post-employment benefits offset by an increase in income 
+from income tax related to other comprehensive income.
+134 Laporan Tahunan 2023
+Kenaikan bersih Kas dan Setara Kas terjadi di tahun 2023 yaitu 
+sejumlah AS$64,75 juta, atau 48% lebih rendah dibandingkan 
+dengan kenaikan di tahun 2022 yaitu sejumlah AS$125,71 
+juta. Kondisi ini terjadi karena peningkatan arus kas yang 
+digunakan untuk aktivitas investasi dan pendanaan.
+Arus Kas (dalam ribuan AS$)
+Cash Flow (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Arus Kas Bersih 
+Dihasilkan dari Aktivitas 
+Operasi
+Net Cash Flows 
+Provided by Operating 
+Activities
+421,158
+348,158 
+334,636
+73,000
+20.97
+13,522 
+4.04
+Arus Kas Bersih 
+Digunakan untuk 
+Aktivitas Investasi
+Net Cash Flows Used in 
+Investing Activities
+(258,817)
+ (218,067)
+(180,234)
+(67,750)
+31.07
+ (37,833)
+20.99
+The net increase in Cash and Cash Equivalents occurred in 
+2023 at US$64.75 million, or 48% lower than the increase 
+in 2022 at US$125.71 million. This was due to the rising cash 
+flows used for investing and financing activities.
+Laporan Arus Kas Konsolidasian 
+Consolidated Statement of Cash Flows
+EBITDA yang Disesuaikan 
+Adjusted EBITDA
+Penggunaan istilah EBITDA yang Disesuaikan dilakukan 
+untuk menggambarkan pengecualian terhadap biaya yang 
+tidak berulang dan tidak dapat dianggap sebagai pengganti 
+Laba Operasional atau sebagai acuan yang lebih baik dalam 
+mengukur likuiditas dibanding Arus Kas Operasional yang 
+dihitung sesuai dengan Standar Akuntansi Keuangan 
+Indonesia. Perhitungan EBITDA dilakukan berdasarkan Laba 
+Sebelum Pajak Penghasilan ditambah Biaya Keuangan (biaya 
+akresi untuk Provisi atas Penghentian Pengoperasian Aset), 
+Depresiasi dan Amortisasi serta menghilangkan dampak dari 
+Laba/Rugi Selisih Kurs. 
+Informasi mengenai kesanggupan Perseroan membayar 
+utang, melakukan investasi, dan memenuhi kebutuhan modal 
+kerja tercakup dalam EBITDA yang Disesuaikan. Selama tahun 
+2023, EBITDA yang Disesuaikan lebih tinggi sebesar 4,75% 
+dibandingkan periode sebelumnya. Hal ini dikarenakan Laba 
+Tahun Berjalan yang lebih tinggi dibandingkan tahun 2022.
+The use of the term Adjusted EBITDA is to illustrate 
+the exclusion of non-recurring costs and should not 
+be considered as a substitute for Operating Profit or 
+as a better measure of liquidity than Operating Cash 
+Flow calculated in accordance with Indonesian Financial 
+Accounting Standards. The calculation of EBITDA is based 
+on Profit Before Income Tax plus Finance Costs (accretion 
+cost for Provision for Asset Retirement), Depreciation 
+and Amortization and eliminates the impact of Foreign 
+Exchange Gain/Loss.
+Information regarding the Company's ability to service 
+debts, make investments and meet working capital 
+requirements is included in Adjusted EBITDA. During 2023, 
+Adjusted EBITDA was higher by 4.75% compared to the 
+previous period. This was due to higher Profit for the Year 
+compared to 2022.
+135
+2023 Annual Report
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Arus Kas Bersih 
+Digunakan untuk 
+Aktivitas Pendanaan
+Net Cash Flows Used in 
+Financing Activities
+(65,441)
+ (1,478)
+(34,517)
+(63,963)
+4,327.67
+33,039
+(95.72)
+Kenaikan/(Penurunan) 
+Bersih Kas dan Setara 
+Kas
+Net Increase/(Decrease) 
+in Cash and Cash 
+Equivalent
+69,900
+128,613 
+119,885
+(58,713)
+(45.65)
+8,728 
+7.28
+Kas dan Setara Kas 
+pada Awal Tahun
+Cash and Cash 
+Equivalent at the 
+Beginning of the Year
+634,042
+508,327 
+388,682
+125,715
+24.73
+119,645    
+30.78
+Dampak Perubahan 
+Selisih Kurs terhadap 
+Kas dan Setara Kas
+Effect of Exchange Rate 
+Changes on Cash and 
+Cash Equivalents
+(5,147)
+ (2,898)
+(240)
+(2,249)
+77.61
+ (2,658)
+1,107.50
+Kas dan Setara Kas 
+pada Akhir Tahun
+Cash and Cash 
+Equivalents at The End 
+of The Year
+698,795
+634,042 
+508,327
+64,753
+10.21
+125,715 
+24.73
+Arus Kas dari Aktivitas Operasi 
+Cash Flow from Operating Activities
+Pada tahun 2023, terjadi kenaikan 21% atau sejumlah AS$73 
+juta terkait Arus Kas Bersih dari aktivitas operasi Perseroan. 
+Perubahan ini terjadi dari tahun 2022 yaitu sejumlah 
+AS$348,16 juta menjadi AS$421,16 juta di tahun 2023. Beberapa 
+kondisi pada aktivitas operasi yang mempengaruhi kenaikan 
+tersebut di antaranya: 
+» Terjadinya peningkatan 11,56% atau sejumlah AS$131,77 juta 
+terkait penerimaan kas pelanggan dari tahun 2022 sebesar 
+AS$1.140,06 juta menjadi AS$1.271,83 juta di tahun 2023.
+» Terjadinya peningkatan 234,42% atau sejumlah AS$25,06 
+juta terkait penerimaan pendapatan keuangan dari AS$19,69 
+juta di tahun 2022 menjadi AS$35,75 juta di tahun 2023. 
+» Terjadinya penurunan 6,76% atau sejumlah AS$4,95 juta 
+terkait pembayaran royalti dan retribusi dari tahun 2022 
+sejumlah AS$73,29 juta menjadi AS$68,34 juta di tahun 2023. 
+In 2023, there was a 21% increase, or US$73 million, in Net 
+Cash Flow from operating activities. This change occurred 
+from US$348.16 million in 2022 to US$421.16 million in 2023. 
+Some of the conditions in operating activities affecting the 
+increase include: 
+» An increase of 11.56% or US$131.77 million in customer 
+cash receipts from US$1,140.06 million in 2022 to US$1,271.83 
+million in 2023.
+» An increase of 234.42% or US$25.06 million in finance 
+income receipts from US$19.69 million in 2022 to US$35.75 
+million in 2023. 
+» A decrease of 6.76% or US$4.95 million in royalty and levy 
+payments from US$73.29 million in 2022 to US$68.34 million 
+in 2023.
+136 Laporan Tahunan 2023
+Arus Kas dari Aktivitas Operasi (dalam ribuan AS$)
+Cash Flow from Operating Activities (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Penerimaan Kas dari 
+Pelanggan
+Receipts from 
+Customers
+1,271,827
+1,140,062 
+911,227
+131,765
+11.56
+228,835 
+25.11
+Pembayaran Kas ke 
+Pemasok
+Payments to Suppliers
+(594,852)
+ (553,963)
+(442,928)
+(40,889)
+7.38
+(111,035)   
+25.07
+Pembayaran Pajak 
+Penghasilan Badan
+Payments of Corporate 
+Income Tax
+(91,618)
+ (80,181)
+(67,730)
+(11,437)
+14.26
+ (12,451)
+18.38
+Pembayaran Pajak 
+Lainnya
+Payments of Other 
+Taxes
+(84,609)
+(66,856)     
+(31,853)
+(17,753)
+26.55
+ (35,003)
+109.89
+Penerimaan Restitusi 
+Pajak
+Receipts of Tax Refunds
+69,078
+83,302 
+116,995
+(14,224)
+(17.08)
+ (33,693)
+(28.80)
+Pembayaran ke 
+Karyawan
+Payments to Employees
+(85,269)
+ (88,429)
+(85,868)
+3,160
+(3.57)
+(2,561)     
+2.98
+Penempatan Jaminan 
+Keuangan
+Placement of Financial 
+Guarantee
+(30,813)
+ (23,175)
+(27,946)
+(7,638)
+32.96
+4,771 
+(17.07)
+Penarikan Jaminan 
+Keuangan
+Withdrawal of Financial 
+Guarantee
+-
+-   
+8,689
+-
+-
+ (8,689)
+(100.00)
+Penerimaan Pendapatan 
+Keuangan
+Receipts of Finance 
+Income
+35,753
+10,691 
+2,714
+25,062
+234.42
+7,977 
+293.92
+Pembayaran Royalti dan 
+Retribusi
+Payments of Royalties 
+and Levies
+(68,339)
+ (73,293)
+(48,664)
+4,954
+(6.76)
+ (24,629)
+50.61
+Arus Kas Bersih 
+Dihasilkan dari Aktivitas 
+Operasi
+Net Cash Flows
+Provided by
+Operating Activities
+421,158
+348,158 
+334,636
+73,000
+20.97
+13,522 
+4.04
+137
+2023 Annual Report
+Arus Kas dari Aktivitas Investasi 
+Cash Flow from Investing Activities
+Di tahun 2023, terjadi peningkatan 31% atau sejumlah 
+AS$67,75 juta Arus Kas Bersih Perseroan yang digunakan 
+dalam aktivitas investasi. Peningkatan ini dari tahun 2022 
+sebesar AS$218,07 juta menjadi AS$285,82 juta di tahun 2023. 
+Arus Kas dari Aktivitas Investasi (dalam ribuan AS$)
+Cash Flow from Investment Activities (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Pembayaran untuk 
+Pembelian Aset Tetap
+Payments for 
+Acquisition of Fixed 
+Assets
+(286,262)
+(218,782)    
+(180,653)
+(67,480)
+30.84
+ (38,129)
+21.11
+Penerimaan Hasil 
+Penjualan Aset Tetap
+Proceeds from Disposal 
+of Fixed Assets
+610
+715      
+419
+(105)
+(14.69)
+296 
+70.64
+Penurunan Arus Kas 
+Bersih dari Kehilangan 
+Pengendalian Entitas 
+Anak
+Decrease in Net Cash 
+Flow from Loss of 
+Control of Subsidiaries
+(165)
+-
+-
+(165)
+(100.00)
+-
+-
+Arus Kas Bersih 
+Digunakan untuk 
+Aktivitas Investasi
+Net Cash Flows Used in 
+Investing Activities
+(285,817)
+ (218,067)
+(180,234)
+(67,750)
+31.07
+(37,833)    
+20.99
+In 2023, there was a 31% increase, or US$67.75 million, in the 
+Company's Net Cash Flow used in investing activities. This 
+increase was from US$218.07 million in 2022 to US$285.82 
+million in 2023.
+Arus Kas dari Aktivitas Pendanaan 
+Cash Flow from Financing Activities
+Terdapat kenaikan 4.328% atau AS$63,96 juta terkait Arus 
+Kas Bersih dalam aktivitas pendanaan di akhir tahun 2023. 
+Perubahan ini terjadi dari tahun 2022 sebesar AS$1,48 juta 
+menjadi AS$65,44 juta di tahun 2023. Kenaikan ini memiliki 
+dampak yang signifikan terhadap Perseroan.
+There was an increase of 4,328%, or US$63.96 million, in 
+Net Cash Flow in financing activities by the end of 2023. 
+This change occurred from US$1.48 million in 2022 to 
+US$65.44 million in 2023, contributing a significant impact 
+on the Company.
+138 Laporan Tahunan 2023
+Arus Kas dari Aktivitas Pendanaan (dalam ribuan AS$)
+Cash Flow from Financing Activities (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Setoran Modal 
+dari Kepentingan 
+Nonpengendali
+Stock Subscription 
+from Non-Controlling 
+Interest
+-
+-
+-
+-
+-
+-
+-
+Pembayaran Deviden
+Payments of Dividend
+(60,093)
+-
+(33,128)
+(60,093)
+(100.00)
+33,128 
+(100)
+Pembayaran Liabilitas 
+Sewa
+Payments of Lease 
+Liabilities
+(5,003)
+ (1,362)
+(1,314)
+(3,641)
+267.33
+ (48)     
+3.65
+Pembayaran Beban 
+Keuangan
+Payments of Finance 
+Cost
+(345)
+(116)     
+(75)
+(229)
+197.41
+ (41)
+54.67
+Arus Kas Bersih 
+Digunakan untuk 
+Aktivitas Pendanaan
+Net Cash Flows Used in 
+Financing Activities
+(65,441)
+ (1,478)
+(34,517)
+(63,963)
+4,327.67
+33,039     
+(95.72)
+Uraian
+Description
+2023
+2022
+2021
+Rasio Likuiditas
+Liquidity Ratio
+Rasio Lancar
+Current Ratio
+4.77
+5.65
+4.97
+Rasio Cepat
+Quick Ratio
+4.05
+4.76
+4.00
+Rasio Leverage
+Leverage Ratio
+Rasio Likuiditas terhadap Ekuitas
+Debt to Equity Ratio
+14.09%
+12.88%
+14.77%
+Rasio Liabilitas terhadap Aset
+Debt to Assets Ratio
+12.35%
+11.41%
+12.87%
+Rasio Keuangan
+Financial Ratios
+139
+2023 Annual Report
+Uraian
+Description
+2023
+2022
+2021
+Rasio Aktivitas
+Activity Ratio
+Periode Penagihan (Hari)
+Receivables Turnover (Days)
+36
+37
+31
+Periode Persediaan (Hari)
+Inventory Turnover (Days)
+87
+84
+100
+Rasio Profitabilitas
+Profitability Ratio
+Margin Laba Bersih
+Net Profit Margin
+22.26%
+16.99%
+17.39%
+Margin Laba Kotor
+Gross Profit Margin
+28.16%
+26.59%
+26.11%
+Rasio Laba (Rugi) terhadap Pendapatan
+Profit (Loss) to Revenue Ratio
+24.52%
+23.06%
+23.40%
+Rasio Laba (Rugi) terhadap Ekuitas
+Return on Equity (ROE)
+10.70%
+8.51%
+7.70%
+Rasio Laba (Rugi) terhadap Aset
+Return on Assets (ROA)
+9.38%
+7.54%
+6.70%
+Rasio Likuiditas 
+Liquidity Ratio
+Nilai Rasio Lancar dan Rasio Cepat di tahun 2023 masing–
+masing adalah 4,77 dan 4,05. Rasio Likuiditas digunakan 
+untuk menghitung tingkat kemampuan Perseroan dalam 
+memenuhi kewajiban jangka pendek.
+Rasio Leverage 
+Leverage Ratio
+Nilai Rasio Liabilitas terhadap Aset dan Rasio Liabilitas 
+terhadap Ekuitas di tahun 2023 masing-masing adalah 12% 
+dan 14%. Rasio Leverage digunakan untuk menghitung 
+tingkat kemampuan Perseroan dalam memenuhi segala 
+kewajiban apabila saat ini Perseroan dilikuidasi.
+The Current Ratio and Quick Ratio in 2023 were respectively 
+4.77 and 4.05. Liquidity Ratio is used to calculate the 
+Company's ability to fulfill short-term obligations.
+The Liability to Asset Ratio and Liability to Equity Ratio in 
+2023 were respectively 12% and 14%. The Leverage Ratio 
+is used to calculate the Company's ability to fulfill all 
+obligations if the Company is liquidated.
+140 Laporan Tahunan 2023
+Rasio Profitabilitas 
+Profitability Ratio
+Dalam menghitung hasil akhir bersih dari berbagai kebijakan 
+dan keputusan manajemen Perseroan menggunakan Rasio 
+Profitabilitas yang nantinya memberi gambaran mengenai 
+efektivitas manajemen dalam mengelola perusahaan. Di 
+tahun 2023, persentase dari Laba (Rugi) terhadap Ekuitas 
+adalah 11,15%, Laba (Rugi) terhadap Aset adalah 9,83%, 
+Margin Laba Kotor terhadap Penjualan adalah 28,16%, Margin 
+Laba Bersih terhadap Penjualan adalah 22,26%, dan Margin 
+Laba (Rugi) terhadap Pendapatan adalah 24,52%.
+In calculating the net end result of various policies and 
+management decisions, the Company uses Profitability 
+Ratios which will provide an overview of the effectiveness 
+of management in managing the company. In 2023, the 
+percentage of Profit (Loss) to Equity was 11.15%, Profit 
+(Loss) to Assets was 9.83%, Gross Profit Margin to Sales 
+was 28.16%, Net Profit Margin to Sales was 22.26%, and 
+Profit (Loss) Margin to Revenue was 24.52%.
+Rasio Aktivitas 
+Activity Ratio
+Rasio Aktivitas merupakan ukuran yang digunakan 
+dalam menghitung tingkat efektivitas Perseroan dalam 
+memanfaatkan semua sumber daya yang ada pada 
+pengendaliannya. Rasio Perputaran Persediaan dan Rasio 
+Penagihan di tahun 2023 masing–masing adalah 36 hari 
+dan 87 hari. 
+Activity Ratio is a measure used to calculate the Company's 
+effectiveness in utilizing all resources under its control. 
+The 2023 Inventory Turnover Ratio and Collection Ratio 
+were 36 days and 87 days respectively.
+Kemampuan Membayar Hutang 
+Ability to Pay Debt
+Rasio Lancar dan Rasio Cepat mencerminkan kemampuan 
+membayar pinjaman yang pada tahun 2023 masing–masing 
+adalah sebesar 4,77 dan 4,05. Angka ini lebih rendah jika 
+dibandingkan dengan tahun 2022, namun Perseroan masih 
+dalam posisi likuid di tahun 2023. Risiko likuiditas akan terjadi 
+ketika Perseroan memiliki kesulitan untuk memperoleh 
+pendanaan dalam memenuhi kewajiban jangka pendek. 
+Perseroan mengelola risiko likuiditas dengan menjaga 
+kecukupan saldo Kas dan Setara Kas melalui pemantauan 
+arus kas perkiraan dan aktual serta mencocokkan waktu 
+jatuh tempo atas Aset dan Liabilitas keuangan.
+The Current Ratio and Quick Ratio reflect the ability to 
+repay loans which in 2023 were 4.77 and 4.05 respectively. 
+These figures were lower compared to 2022, but the 
+Company was still in a liquid position in 2023. Liquidity risk 
+will occur when the Company has difficulties in obtaining 
+funding to meet short-term obligations. The Company 
+manages liquidity risk by maintaining adequate balances 
+of Cash and Cash Equivalents through monitoring forecast 
+and actual cash flows and matching the maturity of 
+financial Assets and Liabilities.
+Kemampuan Membayar Hutang dan Tingkat 
+Kolektibilitas Piutang Perusahaan
+Company’s Ability to Pay Debt and Receivables Collectability
+141
+2023 Annual Report
+Rasio Likuiditas
+Liquidity Ratios
+Uraian
+2023
+2022
+2021
+Rasio Lancar
+Current Ratio
+4.77
+5.65
+4.97
+Rasio Cepat
+Quick Ratio
+4.05
+4.76
+4.00
+Tingkat Kolektibilitas Piutang 
+Receivables Collectability Rate
+Di tahun 2023, Perseroan mencatat Tingkat Kolektibilitas 
+Piutang adalah 36 hari. Jika dibandingkan dengan tahun 
+2022 selama 37 hari maka terdapat penurunan satu 
+hari. Pada akhir tahun melalui penelaahan akun piutang 
+pelanggan, disimpulkan tidak perlu adanya penyisihan 
+penurunan nilai atas kemungkinan kerugian atas tidak 
+tertagihnya Piutang Usaha. 
+In 2023, the Company recorded a Receivables Collectability 
+Rate of 36 days. When compared to 2022 for 37 days, there 
+is a decrease of one day. At the end of the year through a 
+review of customer accounts receivable, it was concluded 
+that there was no need for an impairment allowance for 
+possible losses on uncollectible Accounts Receivable.
+Tingkat Kolektabilitas Piutang
+Receivable Collectability Rate
+Uraian
+Description
+Satuan
+Unit
+2023
+2022
+2021
+Rata-rata Saldo Piutang pada Awal dan 
+Akhir Tahun
+Trade Receivables Average Balance at 
+Beginning & End of The Year
+Ribu AS$
+Thousand US$
+121,595
+121,682
+81,014
+Lama Piutang yang Belum Terbayar ((360/
+(Pendapatan/Rata-rata Saldo Piutang 
+Usaha)))
+Days of Unpaid Receivables ((360/
+(Revenue/Average Trade Receivables 
+Balance)))
+Hari
+Days
+36
+37
+31 
+142 Laporan Tahunan 2023
+Rincian struktur modal yang Perseroan miliki pada tahun 
+2023 adalah sebesar 12% berasal dari liabilitas dan 88% 
+berasal dari ekuitas. Terjadi sedikit perubahan dibandingkan 
+tahun 2022 dimana sebanyak 11% berasal dari liabilitas dan 
+89% dari ekuitas. 
+The breakdown of the Company's model structure in 2023 
+shows 12% from liabilities and 88% from equity. There was 
+a slight change compared to 2022 where 11% came from 
+liabilities and 89% from equity.
+Struktur Modal
+Capital Structure
+Struktur Modal (dalam ribuan AS$)
+Capital Structure (in thousands US$)
+Uraian
+Description
+2023
+2022
+2021
+1:2
+2:3
+1
+2
+3
+Nominal
+%
+Nominal
+%
+Liabilitas 
+Jangka 
+Pendek
+Current 
+Liabilities
+216,727
+175,039
+168,430
+41,688
+23.82
+6,609
+3.92
+Liablitas 
+Jangka 
+Panjang
+Non-Current 
+Liabilities
+144,735
+128,297
+149,937
+16,438
+12.81
+(21,640)
+(14.43)
+Jumlah 
+Liabilitas
+Total 
+Liabilities
+361,462
+303,336
+318,367
+58,126
+19.16
+(15,031)
+(4.72)
+Ekuitas
+Equity
+2,564,537
+2,354,780
+2,154,461
+209,757
+8.91
+200,319
+9.30
+Jumlah
+Total
+2,925,999
+2,658,116
+2,472,828
+267,883
+10.08
+185,288
+7.49
+Komposisi Struktur Modal
+Capital Structure Composition
+Uraian
+Description
+2023
+  2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Liabilitas Jangka 
+Pendek
+Current Liabilities
+216,727
+7.41
+175,039
+6.59
+168,430
+6.81
+Liablitas Jangka 
+Panjang
+Non-Current 
+Liabilities
+144,735
+4.95
+128,297
+4.83
+149,937
+6.06
+143
+2023 Annual Report
+Uraian
+Description
+2023
+  2022
+2021
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Nominal
+Komposisi
+Composition
+(%)
+Jumlah Liabilitas
+Total Liabilities
+361,462
+12.35
+303,336
+11.41
+318,367
+12.87
+Ekuitas
+Equity
+2,564,537
+87.65
+2,354,780
+88.59
+2,154,461
+87.13
+Jumlah
+Total
+2,925,999
+100.00
+2,658,116
+100.00
+2,472,828
+100.00
+Keterangan:  Nominal dalam ribuan AS$
+Nominal in thousands US$
+Kebijakan Manajemen atas Struktur Modal
+Management Policy on Capital Structure
+Dalam pengelolaan pemodalan terdapat Grup yang memiliki 
+tujuan untuk mempertahankan kelangsungan usaha sehingga 
+dapat memberikan hasil dan manfaat kepada pemangku 
+kepentingan serta dapat menjaga struktur modal yang 
+optimal. Grup mempertimbangkan efisiensi penggunaan 
+modal berdasarkan arus kas operasi dan belanja modal serta 
+kebutuhan modal di masa depan. Selain itu, Grup juga secara 
+rutin mengelola pemodalan dan menjaga keseimbangan 
+tingkat pinjaman dan posisi ekuitas agar mencapai struktur 
+modal dan pengembalian yang optimal bagi pemegang 
+saham. Per tanggal 31 Desember 2023, struktur modal Grup 
+didanai oleh ekuitas pemegang saham.
+In managing capital, the Group aims to maintain business 
+continuity to provide results and benefits to stakeholders 
+and to maintain an optimal capital structure. The Group 
+considers the efficiency of capital utilization based on 
+operating cash flow and capital expenditure as well as 
+future capital requirements. In addition, the Group also 
+regularly manages its capital and maintains a balance of 
+borrowing levels and equity position in order to achieve 
+an optimal capital structure and returns for shareholders. 
+As of December 31, 2023, the Group's capital structure is 
+funded by shareholders' equity.
+144 Laporan Tahunan 2023
+Perseroan dalam mengoptimalkan produksinya serta untuk 
+mengembangkan usahanya melakukan beberapa kegiatan 
+investasi, antara lain melalui pemeliharaan dan pembeliaan 
+Aset Tetap, serta melalui penyertaan modal pada Entitas 
+Anak maupun Entitas Asosiasi sebagai bagian dari proyek 
+pertumbuhan Perseroan. 
+Di tahun 2023, Perseroan telah menandatangani Perjanjian 
+Nikel dengan Zhejiang Huayou Cobalt Co. (Huayou) Tiongkok 
+dan Ford Motor Co. (Ford) untuk melakukan penyertaan 
+modal di proyek HPAL Blok Pomalaa. Selain itu, Perseroan 
+bersama Huayou dan PT Huali Nickel Indonesia (Huali) juga 
+telah menandatangani Perjanjian Kerja Sama Definitif untuk 
+pembangunan fasilitas pengolahan nikel dengan teknologi 
+HPAL untuk mengolah bijih nikel limonit di Blok Sorowako, 
+sementara pabrik HPAL akan berlokasi di Malili, Luwu Timur, 
+Sulawesi Selatan.
+In order to optimize its production and to develop its 
+business, the Company conducts several investment 
+activities, among others through the maintenance and 
+purchase of Fixed Assets, as well as through equity 
+participation in Subsidiaries and Associates as part of the 
+Company's growth project.
+In 2023, the Company signed a Nickel Agreement with 
+Zhejiang Huayou Cobalt Co. (Huayou) of China and Ford 
+Motor Co. (Ford) to invest in the Pomalaa Block HPAL 
+project. In addition, the Company together with Huayou 
+and PT Huali Nickel Indonesia (Huali) have also signed a 
+Definitive Cooperation Agreement for the construction of 
+a nickel processing facility with HPAL technology to process 
+limonite nickel ore in the Sorowako Block, while the HPAL 
+plant will be located in Malili, East Luwu, South Sulawesi.
+Ikatan yang Material untuk Investasi
+Barang Modal
+Material Commitments for Capital Goods Investments
+Tujuan Investasi Barang Modal 
+Capital Goods Investment Objectives
+Di tahun 2023, realisasi investasi barang modal mencakup 
+program pemeliharaan aset utama dan penunjang, substitusi 
+dan efisiensi sumber energi, perbaikan lingkungan, dan 
+juga untuk proyek pertumbuhan Perseroan. Secara umum, 
+investasi barang modal bertujuan untuk menjaga keandalan 
+aset, mengembangkan dan mengoptimalisasi produksi, serta 
+untuk pertumbuhan usaha Perseroan. 
+In 2023, the realization of investment in capital goods 
+includes maintenance programs for main and supporting 
+assets, substitution and efficiency of energy sources, 
+environmental improvements, and also for the Company's 
+growth projects. In general, investment in capital goods 
+aims to maintain asset reliability, develop and optimize 
+production, and for the Company's business growth.
+Realisasi Investasi Barang Modal 
+Realization of Capital Goods Investments
+145
+2023 Annual Report
+Nilai Investasi Barang Modal yang Dikeluarkan pada Tahun 2023 
+Total Capital Goods Investments in 2023
+Sampai akhir tahun 2023, realisasi belanja modal keberlanjutan 
+adalah sejumlah AS$122,3 juta, yang di dalamnya termasuk 
+kategori proyek lingkungan hidup sejumlah AS$43,9 juta. 
+Terjadi penurunan sebesar 39,24% atau sejumlah AS$79,0 juta 
+dibandingkan tahun 2022 yaitu sejumlah AS$201,3 juta. Hal ini 
+dikarenakan tidak adanya pelaksanaan proyek pembangunan 
+kembali tanur listrik di tahun 2023.
+Perseroan menggunakan kas internal untuk mendanai seluruh 
+investasi barang modal dan dalam kondisi ini Perseroan 
+tidak terpengaruh risiko nilai tukar mata uang asing secara 
+signifikan. Hal ini dikarenakan Perseroan menggunakan mata 
+uang Dolar AS sebagai mata uang fungsional. 
+Realisasi Investasi Perseroan (dalam jutaan AS$)
+Company’s Investment Realization (in milions US$)
+2023
+2022
+2021
+122.3
+201.3
+173.4
+Until the end of 2023, the realization of sustainability 
+capital expenditure was US$122.3 million, which included 
+environmental projects valued at US$43.9 million. There 
+was a decrease of 39.24%, or US$79.0 million, compared 
+to US$201.3 million in 2022. This was due to the absence 
+of the implementation of the power plant rebuild project 
+in 2023.
+The Company uses internal cash to fund all capital goods 
+investments and under these conditions the Company is 
+not significantly affected by foreign exchange risk. This 
+is because the Company uses US Dollar as its functional 
+currency.
+Tidak ada informasi maupun fakta material yang terjadi 
+setelah tanggal laporan yang memengaruhi kinerja keuangan 
+dan risiko bisnis Perseroan.
+There is no information or material facts that occurred 
+after the reporting date that affect the Company's 
+financial performance and business risks.
+Informasi dan Fakta Material yang Terjadi 
+setelah Tanggal Laporan Akuntan 
+Material Information and Facts that Occurred after the
+Date of the Accountant’s Report
+146 Laporan Tahunan 2023
+Perseroan telah mencapai banyak hal pada tahun 2023, 
+namun masih banyak lagi pencapaian yang harus diraih 
+pada tahun 2024. Dalam menghadapi tahun 2024, Perseroan 
+terus berkomitmen untuk melakukan praktik pertambangan 
+yang berkelanjutan, yang juga mencakup aspek pengelolaan 
+lingkungan, 
+kesejahteraan 
+masyarakat 
+sekitar, 
+serta 
+penerapan teknologi yang ramah lingkungan. Dalam 
+menghadapi tantangan perubahan iklim dan kesadaran 
+global tentang berkelanjutan, Perseroan akan terus 
+menjalankan program kerja sesuai dengan peta jalan untuk 
+menuju pengurangan emisi GRK sebesar 30% pada 2030 dan 
+karbon netral pada tahun 2050.  
+Keselamatan kerja adalah prioritas utama bagi Perseroan. 
+Dengan operasi pertambangan dan pengolahan nikel yang 
+kompleks, Perseroan terus berinvestasi dalam pelatihan 
+dan infrastruktur untuk memastikan kesejahteraan dan 
+keselamatan karyawan, dan meminimalkan risiko kecelakaan. 
+Perseroan terus berkomitmen untuk menjaga produksi yang 
+aman dan berkelanjutan dengan target produksi nikel dalam 
+matte sebanyak 70.805 ton pada tahun 2024. 
+Dalam hal harga penjualan dan biaya produksi, tentu 
+bisnis Perseroan dipengaruhi oleh volatilitas harga nikel 
+di pasar dunia dan juga harga bahan pendukung. Dalam 
+Commodity Markets Outlook edisi Oktober 2023, Bank 
+Dunia memproyeksikan rata-rata harga nikel akan kembali 
+turun 10% pada 2024 dibanding tahun 2023, dan diharapkan 
+harga akan mulai membaik pada tahun 2025 dengan 
+meningkatnya permintaan untuk baterai kendaraan listrik 
+yang menjadi pendorong utama permintaan di masa depan. 
+Perseroan akan terus beradaptasi dengan perubahan pasar 
+dan mengelola risiko dengan bijaksana, termasuk dengan 
+mengendalikan faktor-faktor yang memengaruhi biaya 
+produksi, termasuk bahan bakar. Potensi pemulihan harga 
+nikel di masa depan memberikan harapan dan peluang bagi 
+Perseroan. Oleh karena itu, di tahun 2024, Perseroan juga 
+fokus untuk menyelesaikan proyek-proyek pertumbuhan 
+yang akan berkontribusi pada hasil bisnisnya. Pengembangan 
+smelter nikel di Morowali, Pomalaa, dan Sorowako adalah 
+bagian dari strategi jangka panjang Perseroan. Selain itu, 
+dengan meningkatnya permintaan akan baterai untuk 
+kendaraan listrik, nikel menjadi bahan baku yang semakin 
+penting. Hal ini merupakan peluang bagi Perseroan untuk 
+terus mengembangkan bisnisnya. 
+The Company achieved abundantly in 2023, but there 
+are still many achievements to be made in 2024. Facing 
+2024, the Company continues to be committed to 
+sustainable mining practices, which also include aspects of 
+environmental management, the welfare of surrounding 
+communities, and the application of environmentally 
+friendly technology. Dealing with the challenges of 
+climate change and global awareness on sustainability, 
+the Company will continue to carry out work programs in 
+accordance with the roadmap towards a 30% reduction in 
+GHG emissions by 2030 and carbon neutral by 2050.  
+Occupational safety is a top priority for the Company. 
+With complex nickel mining and processing operations, the 
+Company continues to invest in training and infrastructure 
+to ensure employee welfare and safety, and minimize the 
+risk of accidents. The Company remains committed to 
+maintaining safe and sustainable production with a target 
+nickel in matte production of 70,805 tons by 2024.
+In terms of sales price and production cost, the Company's 
+business is affected by the volatility of nickel price in the 
+world market as well as the price of supporting materials. 
+The 2023 October’s edition of the Commodity Markets 
+Outlook shows that the World Bank projected that the 
+average nickel price would decrease by 10% again in 2024 
+compared to 2023, and it is expected that prices will begin 
+to improve in 2025 with increased demand for electric 
+vehicle batteries being the main driver of future demand. 
+The Company will continue to adapt to market changes 
+and manage risks prudently, including by controlling 
+factors that affect production costs, including fuel. The 
+potential recovery of nickel prices in the future provides 
+hope and opportunities for the Company. Therefore, in 
+2024, the Company is also focused on completing growth 
+projects that will contribute to its business results. The 
+development of nickel smelters in Morowali, Pomalaa, and 
+Sorowako is part of the Company's long-term strategy. 
+In addition, with the increasing demand for batteries 
+for electric vehicles, nickel is becoming an increasingly 
+important raw material. This is an opportunity for the 
+Company to continue to grow its business.
+Prospek Usaha Tahun 2024
+Business Prospects for 2024
+147
+2023 Annual Report
+Untuk memastikan keberlanjutan bisnisnya, Perseroan 
+berupaya untuk mendapatkan Izin Usaha Pertambangan 
+Khusus (IUPK) di tahun 2024 sebagai perpanjangan Kontrak 
+Karya yang akan berakhir pada tahun 2025. Perseroan juga 
+berfokus pada divestasi saham yang merupakan bagian dari 
+persyaratan untuk mendapatkan IUPK. Pada November 
+2023, para pemegang saham mayoritas Perseroan, yaitu 
+VCL, PT MIND ID, dan SMM telah menandatangani Perjanjian 
+Pendahuluan yang merupakan langkah penting dalam 
+pemenuhan kewajiban divestasi Perseroan sesuai undang-
+undang pertambangan mineral dan batubara di Indonesia. 
+Hal ini kemudian dilanjutkan dengan penandatangan 
+Perjanjian Jual Beli Saham oleh VCL, MIND ID, dan SMM pada 
+Februari 2024. Dengan ditandanganinya perjanjian ini dalam 
+rangka divestasi, Perseroan telah selangkah lebih maju untuk 
+mendapatkan perpanjangan Kontrak Karya  dalam bentuk 
+IUPK yang akan memberikan kepastian hukum bagi kegiatan 
+usaha dan pengembangan bisnis Perseroan di masa depan.  
+Dengan komitmen pada praktik berkelanjutan, keselamatan 
+kerja, pengembangan proyek, dan kepastian hukum 
+dalam bentuk IUPK, Perseroan berharap dapat terus 
+berkembang dan memberikan kontribusi positif bagi industri 
+pertambangan di Indonesia.  
+To ensure the sustainability of its business, the Company 
+seeks to obtain a Special Mining Business License (IUPK) 
+in 2024 as an extension of the Contract of Work which 
+will expire in 2025. The Company is also focusing on share 
+divestment as part of the requirements to obtain the IUPK. 
+In November 2023, the Company's majority shareholders, 
+namely VCL, MIND ID, and SMM signed a Preliminary 
+Agreement which is an important step in fulfilling the 
+Company's divestment obligations under Indonesia's mineral 
+and coal mining laws. This was followed by the signing of the 
+Share Sale and Purchase Agreement by VCL, MIND ID and 
+SMM in February 2024. With the signing of this agreement 
+for divestment, the Company has gone one step further to 
+obtain an extension of the Contract of Work in the form of 
+IUPK which will provide legal certainty for the Company's 
+business activities and future business development.
+With a commitment to sustainable practices, work safety, 
+project development, and legal certainty in the form of 
+IUPK, the Company hopes to continue to grow and make 
+a positive contribution to the mining industry in Indonesia. 
+Perseroan setiap periodenya mengevaluasi hasil–hasil 
+operasional pada tahun buku dan mengukur kinerja 
+berdasarkan target/proyeksi pada awal tahun anggaran 
+yang dibandingkan dengan realisasi akhir tahun. Berikut 
+merupakan tabel perbandingan antara target dan realisasi di 
+tahun 2023:
+The Company periodically evaluates operational results in 
+the fiscal year and measures performance based on targets/
+projections at the beginning of the fiscal year compared to 
+year-end realization. The following is a comparison table 
+between the target and realization in 2023:
+Perbandingan Target dan Realisasi
+Tahun 2023
+Comparison Between Targets and Realization in 2023
+148 Laporan Tahunan 2023
+Uraian
+Description
+Satuan
+Unit
+Target 2023
+2023 Target
+Realisasi
+Realization
+Pencapaian
+Achievement
+Produksi Nikel dalam Matte
+Nickel in Matte Production 
+Ton
+Tons
+70,725
+70,728
+0.00
+Penjualan Nikel Matte
+Nickel Matte Sales
+Ton
+Tons
+71,403
+71,108
+(0.41)
+Pendapatan
+Revenue 
+Juta AS$
+Million US$
+1,227
+1,232
+0.41
+Belanja Modal Keberlanjutan & Pertumbuhan
+Sustaining & Growth Capital Expenditure 
+Juta AS$
+Million US$
+466
+292
+(37.33)
+Perseroan melakukan pertimbangan terhadap kondisi 
+internal dan eksternal dalam menyusun target/proyeksi 
+karena memiliki pengaruh pada perkembangan bisnis 
+Perseroan. Berikut merupakan tabel target/proyeksi di 
+tahun 2024: 
+The Company considers internal and external conditions 
+in preparing targets/projections because they have an 
+influence on the development of the Company's business. 
+The following is a table of targets/projections in 2024:  
+Target/Proyeksi Tahun 2024 Pendapatan, 
+Laba, Struktur Modal, Kebijakan Dividen
+2024 Targets/Projections for Revenue, Profit,
+Capital Structure, Dividend Policy
+Uraian
+Description
+Satuan
+Unit
+Target 2024
+2024 Target
+Produksi Nikel dalam Matte
+Nickel in Matte Production
+Ton
+Tons
+70,805
+Penjualan Nikel Matte
+Nickel Matte Sales
+Ton
+Tons
+71,797
+Pendapatan
+Revenue 
+Juta AS$
+Million US$
+1,119
+Belanja Modal:
+Capital Expenditure:
+Keberlanjutan | Sustaining
+Juta AS$
+Million US$
+165
+Pertumbuhan | Growth
+522
+Penyertaan Modal
+Capital Injection
+Juta AS$
+Million US$
+249
+149
+2023 Annual Report
+Strategi Pemasaran 
+Marketing Strategy
+Sampai dengan akhir tahun 2023, Perseroan tidak 
+mengeluarkan biaya pemasaran. Dalam menjalankan bisnis, 
+Perseroan tidak memerlukan strategi pemasaran karena nikel 
+dalam matte dipasarkan secara khusus kepada VCL dan SMM 
+melalui mekanisme perjanjian penjualan jangka panjang dan 
+pembeli tetap. Harga jual nikel matte tetap mengacu pada 
+harga nikel pada LME dengan denominasi Dolar AS yang 
+merupakan mata uang fungsional Perseroan. Perseroan 
+bersama VCL dan SMM melakukan evaluasi atas perjanjian 
+penjualan secara berkala agar mendapatkan kesepakatan 
+yang saling menguntungkan. 
+Pangsa Pasar 
+Market Share
+Pada tahun 2023, total volume produksi nikel dalam matte 
+adalah sebesar 70.728 ton. Jumlah tersebut merupakan 
+4% dari total pasokan nikel Indonesia ke dunia atau sebe-
+sar 1,86 juta ton dan terhadap total produksi dunia sebesar 
+2% atau 3,49 juta ton1.
+Until the end of 2023, the Company has not incurred any 
+marketing costs. In conducting business, the Company did 
+not require a marketing strategy because nickel in matte 
+was marketed specifically to VCL and SMM through the 
+mechanism of long-term sales agreements and fixed 
+buyers. The selling price of nickel matte continues to 
+refer to the price of nickel on the LME denominated in US 
+Dollars, which is the functional currency of the Company. 
+The Company together with VCL and SMM evaluate the 
+sales agreement periodically in order to obtain a mutually 
+beneficial agreement.  
+In 2023, the total production volume of nickel in matte was 
+70,728 tons. This amount represents 4% of Indonesia's total 
+nickel supply to the world or 1.86 million tons and 2% or 3.49 
+million tons1 of total world production.
+Aspek Pemasaran
+Marketing Aspects
+PT Vale menerapkan kebijakan dividen yang sesuai terhadap 
+prospektus saham dan berdasar pada ketersediaan kas setelah 
+memperhitungkan kebutuhan modal kerja, pembayaran 
+pinjaman beserta bunganya, program-program investasi 
+modal serta mempertimbangkan laba ditahan kepada para 
+pemegang saham dalam mata uang Dolar Amerika Serikat 
+dan mata uang asing lainnya. Dividen akan dibayarkan dalam 
+mata uang Rupiah sesuai keputusan RUPS Tahunan kepada 
+pemegang saham dengan warkat dan tanpa warkat. 
+PT Vale applies a dividend policy that is in accordance with 
+the share prospectus and based on cash availability after 
+factoring working capital requirements, loan repayments 
+and interest, capital investment programs and considering 
+retained earnings to shareholders in US Dollars and other 
+foreign currencies. Dividends will be paid in Rupiah in 
+accordance with the resolution of the Annual GMS to scrip 
+and scripless shareholders.
+Uraian Mengenai Kebijakan Dividen
+Description of Dividend Policy
+1 Woodmac Report Dec-2023
+150 Laporan Tahunan 2023
+Uraian
+Description
+Tahun Buku 2022
+Fiscal Year 2022
+Tahun Buku 2021
+Fiscal Year 2021
+Tahun Buku 2020
+Fiscal Year 2020
+Tanggal Pembayaran
+Date Paid
+31 Mei 2023
+May 31, 2023
+-
+28 Mei 2021
+May 28, 2021
+Dividen Per Lembar Saham AS$ (nilai penuh) 
+Dividends Per Share US$ (full amount)
+0.00605
+-
+0.00333
+Jumlah AS$ dalam ribuan
+Amount US$ in thousands
+60,120
+-
+33,128
+Payout Ratio
+30%
+-
+40%
+Tanggal Dideklarasikan
+Date Declared
+5 Mei 2023
+May 5, 2023
+-
+29 April 2021
+April 29, 2021
+Sepanjang tahun 2023, Perseroan tidak lagi melakukan 
+pelaporan 
+atas 
+realisasi 
+penggunaan 
+dana 
+hasil 
+penawaran umum.
+Throughout 2023, the Company no longer made reports 
+on the realization of the use of proceeds from the public 
+offering.
+Realisasi Penggunaan Dana Hasil
+Penawaran Umum 
+Realization of Use of Proceeds from Public Offerings
+Sepanjang tahun 2023, tidak terdapat informasi material 
+(investasi, ekspansi, divestasi, penggabungan, akuisisi, 
+restrukturisasi utang/ modal, transaksi afiliasi dan transaksi 
+yang mengandung benturan kepentingan.
+Throughout 2023, there was no material information 
+(investment, expansion, divestment, merger, acquisition, 
+debt/capital restructuring, affiliated transactions and 
+transactions containing conflicts of interest.
+Informasi Material (Investasi, Ekspansi, 
+Divestasi, Penggabungan, Akuisisi, 
+Restrukturisasi Utang/Modal, Transaksi 
+Afiliasi dan Transaksi yang Mengandung 
+Benturan Kepentingan) pada Tahun 2023
+Material Information (Investments, Expansions, Divestments, 
+Mergers, Acquisitions, Debt/Capital Restructuring, Affiliated 
+Transactions and Transactions Containing Conflicts of Interest)
+in 2023
+151
+2023 Annual Report
+Perubahan Perundang-Undangan yang 
+Berpengaruh Signifikan dan Dampaknya 
+terhadap Laporan Keuangan
+Changes in Laws that Had a Significant Impact on the Company and 
+its Financial Statements
+Perubahan terhadap Undang-Undang Pertambangan Mineral 
+dan Batubara 
+Amendments to the Mineral and Coal Mining Law
+Tidak ada perubahan pada undang-undang pertambangan 
+mineral dan batubara yang terjadi selama tahun 2023.
+There were no changes to mineral and coal mining laws 
+occurred during 2023.
+PSAK dan Interpretasi Standar Akuntansi Keuangan (ISAK) 
+baru/revisi berikut telah diterbitkan dan berlaku efektif 
+untuk tahun buku pada atau setelah  1 Januari 2023 di bawah 
+ini tidak menghasilkan perubahan kebijakan akuntansi Grup 
+dan tidak memiliki dampak material terhadap jumlah yang 
+dilaporkan di tahun berjalan atau tahun sebelumnya:
+•	 Amandemen PSAK 1 - Penyajian Laporan Keuangan: 
+Pengungkapan Kebijakan Akuntansi
+•	 Amandemen PSAK 16 - Aset tetap: Hasil Sebelum 
+Penggunaan yang Diintensikan
+•	 Amandemen PSAK 25 - Kebijakan Akuntansi, Perubahan 
+Estimasi Akuntansi dan Kesalahan: Definisi Estimasi 
+Akuntansi
+•	 Amandemen PSAK 46 - Pajak Penghasilan: Pajak 
+Tangguhan terkait Aset dan Liabilitas yang timbul dari 
+Transaksi Tunggal
+•	 Amandemen PSAK 107 - Akuntansi Ijarah
+Standar baru, amandemen dan interpretasi yang telah 
+diterbitkan, namun belum berlaku efektif untuk tahun buku 
+yang dimulai pada 1 Januari 2023 adalah sebagai berikut:
+The following new/revised PSAKs and Interpretations of 
+Financial Accounting Standards (ISAKs) have been issued 
+and are effective for financial years on or after January 1, 
+2023 below did not result in any changes to the Group's 
+accounting policies and had no material impact on the 
+amounts reported in the current or prior year:
+•	 Amendment to PSAK 1 - Presentation of Financial 
+Statements: Disclosure of Accounting Policies
+•	 Amendment to PSAK 16 - Property, Plant and Equipment: 
+Results Before Intended Use
+•	 Amendment to PSAK 25 - Accounting Policies, Changes 
+in Accounting Estimates and Errors: Definition of 
+Accounting Estimates
+•	 Amendment to PSAK 46 - Income Taxes: Deferred Taxes 
+on Assets and Liabilities arising from a Single Transaction
+•	 Amendment to PSAK 107 - Accounting for Ijarah
+New standards, amendments and interpretations that have 
+been issued but are not yet effective for the financial year 
+beginning January 1, 2023 are as follows:
+Perubahan Kebijakan Akuntansi
+Changes in Accounting Policies
+152 Laporan Tahunan 2023
+Dampak Terhadap Laporan Keuangan 
+Impact on Financial Statements
+Penerapan dari interpretasi dan penyesuaian-penyesuaian 
+tidak memiliki dampak signifikan terhadap Laporan 
+Keuangan Konsolidasian.
+The adoption of these interpretations and adjustments did 
+not have a significant impact on the consolidated financial 
+statements.
+Effective January 1, 2024:
+•	 Amendment to PSAK 1 - Presentation of Financial 
+Statements: Classification of Short- or Long-Term 
+Liabilities
+•	 Amendment to PSAK 1 - Presentation of Financial 
+Statements: Long-Term Liabilities with Covenants
+•	 Amendment to PSAK 73 - Leases: Lease Liabilities in Sale 
+and Leaseback Transactions.
+Effective January 1, 2025:
+•	 PSAK 74 - Insurance Contracts
+•	 Amendments to PSAK 74 - Insurance Contracts: Initial 
+application of PSAK 74 and PSAK 71 - Comparative 
+Information
+Effective January 1, 2024, references to each PSAK and ISAK 
+will be changed as announced by DSAK-IAI.
+At the date of issuance of these consolidated financial 
+statements, the Group is currently studying the possible 
+impact on the Group's consolidated financial statements 
+from the adoption of these new standards and amendments, 
+which are not early adopted by the Group.
+Efektif 1 Januari 2024:
+•	 Amandemen PSAK 1 - Penyajian Laporan Keuangan: 
+Klasifikasi Liabilitas Jangka Pendek atau Panjang
+•	 Amandemen PSAK 1 - Penyajian Laporan Keuangan: 
+Liabilitas Jangka Panjang dengan Kovenan
+•	 Amandemen PSAK 73 - Sewa: Liabilitas Sewa pada 
+Transaksi Jual dan Sewa-balik
+Efektif 1 Januari 2025:
+•	 PSAK 74 - Kontrak Asuransi
+•	 Amandemen PSAK 74 - Kontrak Asuransi: Penerapan awal 
+PSAK 74 dan PSAK 71 - Informasi Komparatif
+Mulai tanggal 1 Januari 2024, referensi terhadap masing-
+masing PSAK dan ISAK akan diubah sebagaimana diumumkan 
+oleh DSAK-IAI.
+Pada tanggal penerbitan Laporan Keuangan Konsolidasian 
+ini, Grup sedang mempelajari dampak yang mungkin timbul 
+terhadap Laporan Keuangan Konsolidasian Grup dari 
+penerapan standar baru dan amendemen ini, yang tidak 
+diadopsi dini oleh Grup.

@@ -1,0 +1,3040 @@
+90
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan 
+Pembahasan 
+Manajemen 
+Management 
+Discussion and 
+Analysis
+04
+91
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Profil Perusahaan
+Company Profile
+92
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Tinjauan Bisnis 
+Business Review
+Perekonomian Global dan Nasional 
+Perekonomian global pada tahun 2024 masih menghadapi 
+tantangan signifikan. Pemulihan pasca pandemi Covid-19 yang 
+belum masih menyisakan dampak jangka panjang (scarring 
+effect) di banyak negara, menghambat laju pertumbuhan 
+ekonomi. Inflasi di sejumlah negara masih cukup tinggi sehingga 
+mendorong bank sentral memperketat kebijakan moneter. 
+Kenaikan suku bunga agresif menyebabkan biaya pinjaman 
+meningkat, yang pada akhirnya menghambat investasi di 
+berbagai sektor industri. Dalam laporan World Economic Outlook 
+2024, Dana Moneter Internasional (IMF) memproyeksikan perang 
+melawan inflasi global ini akan segera berakhir. Inflasi global 
+diproyeksikan akan turun menjadi 3,5% pada akhir 2025, setelah 
+sebelumnya mencapai puncaknya di 9,4% pada kuartal ketiga 
+2022.1
+Namun, IMF juga menyebutkan risiko ekonomi global masih 
+tetap tinggi akibat sejumlah faktor, seperti konflik geopolitik yang 
+berkepanjangan, volatilitas pasar keuangan yang berdampak 
+pada pasar utang negara, perlambatan ekonomi di Tiongkok, 
+serta meningkatnya kebijakan proteksionisme di berbagai 
+negara. Selain itu, maraknya pemilihan umum di berbagai negara 
+semakin menambah ketidakpastian ekonomi global.
+Dihadapkan pada berbagai risiko tersebut, ekonomi global tetap 
+menunjukkan ketangguhan, berhasil terhindar dari resesi global. 
+IMF memproyeksikan pertumbuhan ekonomi global tetap stabil 
+di 3,2% pada 2024-2025, sedikit lebih baik dibandingkan tahun 
+2023 sebesar 3,1% namun masih berada di bawah rata-rata 
+pertumbuhan sebelum pandemi Covid-19. Pemulihan ekonomi 
+pasca pandemi yang belum merata meninggalkan dampak 
+jangka panjang (scarring effect) di banyak negara, terutama 
+negara-negara berpenghasilan rendah.
+Menurut laporan Bank Dunia bertajuk Fiscal Vulnerabilities 
+in Low-Income Countries, sebanyak 26 negara termiskin di 
+dunia, yang menampung 40% populasi termiskin global, kini 
+menghadapi tingkat utang tertinggi sejak 2006. Kondisi ini 
+membuat mereka semakin rentan terhadap bencana alam dan 
+guncangan ekonomi lainnya. Rata-rata perekonomian negara-
+negara tersebut lebih lemah dibandingkan sebelum pandemi 
+Covid-19, memperburuk ketimpangan dan memperlambat 
+pemulihan global.2
+Di Indonesia, scarring effect tersebut turut mengganggu ketahanan 
+kelas menengah. Data Badan Pusat Statistik (BPS) menunjukkan 
+jumlah masyarakat kelas menengah turun signifikan pada periode 
+Global and National Economy
+The global economy in 2024 continued to face significant 
+challenges. The post-Covid-19 pandemic recovery has yet to 
+fully materialize, leaving long-term scarring effects in many 
+countries and hampering economic growth. Inflation in several 
+countries remains relatively high, prompting central banks to 
+tighten monetary policy. Aggressive interest rate hikes have led 
+to increased borrowing costs, ultimately constraining investment 
+across various industrial sectors. In its 2024 World Economic 
+Outlook report, the International Monetary Fund (IMF) projected 
+that the global fight against inflation is nearing its end. Global 
+inflation is forecasted to decline to 3.5% by the end of 2025, after 
+previously peaking at 9.4% in the third quarter of 2022.1
+However, the IMF also stated that global economic risks remain 
+high due to several factors, such as prolonged geopolitical 
+conflicts, financial market volatility affecting the sovereign 
+debt market, the economic slowdown in China, and the rise 
+of protectionist policies in various countries. Additionally, the 
+wave of elections in several nations also contributes to global 
+economic uncertainty.
+Despite facing various risks, the global economy has continued 
+to demonstrate resilience, successfully avoiding a global 
+recession. The International Monetary Fund (IMF) projects that 
+global economic growth will remain stable at 3.2% in 2024–2025, 
+slightly better than 3.1% in 2023, but still below the average 
+growth rate prior to the Covid-19 pandemic. The uneven nature 
+of the post-pandemic economic recovery has left long-term 
+scarring effects in many countries, particularly in low-income 
+nations.
+According to the World Bank report titled Fiscal Vulnerabilities 
+in Low-Income Countries, 26 of the most economically 
+disadvantaged nations, home to 40% of the world’s low-income 
+population, are currently facing the highest loan rates since 
+2006. This situation has left them vulnerable to natural disasters 
+and other economic shocks. The overall economic performance 
+of these countries is weaker than it was prior to the COVID-19 
+pandemic, amplifying inequalities and slowing the pace of global 
+recovery.2
+In Indonesia, the scarring effect has also disrupted the resilience of 
+the middle class. Data from Statistics Indonesia (BPS) shows that 
+the number of people in the middle class declined significantly 
+1 IMF, World Economic Outlook 2024. https://www.imf.org/en/Publications/WEO/Issues/2024/10/22/world-economic-outlook-october-2024?utm
+2 World Bank, Fiscal Vulnerabilities in Low-Income Countries, 2024. https://www.worldbank.org/en/research/publication/fiscal-vulnerabilities
+93
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+2021-2024. Dalam lima tahun tersebut, ada sebanyak 9,48 juta 
+penduduk kelas menengah menjadi rentan miskin, yang berarti 
+mereka lebih mudah jatuh ke dalam kemiskinan jika menghadapi 
+kondisi seperti sakit, bencana alam, atau Pemutusan Hubungan 
+Kerja (PHK). Perubahan komposisi kelas menengah ini turut 
+menggeser prioritas konsumsi rumah tangga pada kebutuhan 
+pokok seperti makanan, perumahan, transportasi, dan komunikasi. 
+Berdasarkan data BPS, konsumsi rumah tangga tumbuh 4,94% 
+dan berkontribusi pada 54,04% Pertumbuhan Domestik Bruto 
+(PDB). Pertumbuhan itu terutama didorong oleh meningkatnya 
+aktivitas dan mobilitas rumah tangga. Kelompok konsumsi yang 
+tumbuh tinggi antara lain adalah transportasi dan komunikasi, di 
+mana terlihat mobilitas masyarakat yang meningkat menyebabkan 
+kebutuhan konsumsi terhadap transportasi dan komunikasi.3
+Secara 
+keseluruhan, 
+kinerja 
+ekonomi 
+Indonesia 
+masih 
+menunjukkan performa kuat. Pada kuartal keempat 2024, 
+Indonesia mencatatkan pertumbuhan ekonomi sebesar 5,02% 
+(yoy), lebih tinggi dibandingkan peer countries seperti Singapura 
+(4,3%), Arab Saudi (4,4%) dan Malaysia (4,8%). Sepanjang tahun 
+2024, pertumbuhan ekonomi Indonesia mencapai 5,03% didorong 
+oleh sejumlah sektor utama yakni industri pengolahan yang 
+tumbuh 4,5% didukung oleh peningkatan produksi manufaktur 
+dan ekspor produk olahan; perdagangan besar dan eceran yang 
+tumbuh 4,8%, sektor informasi dan komunikasi yang tumbuh paling 
+tinggi mencapai 9,3%. Stabilitas ekonomi ini juga didukung oleh 
+upaya Pemerintah dalam menjaga inflasi untuk tetap rendah dan 
+terkendali, kebijakan fiskal, serta serta stabilitas sektor keuangan. 
+Stabilitas ekonomi ini juga didukung oleh upaya Pemerintah dalam 
+menjaga inflasi untuk tetap rendah dan terkendali. 4
+Perkembangan Industri Telekomunikasi 
+Tahun 2024 mencatatkan sejumlah kemajuan signifikan di 
+industri telekomunikasi dunia. Layanan internet berbasis satelit 
+memperluas akses internet, khususnya di daerah terpencil. 
+Perkembangan teknologi 5G mulai berlanjut ke 6G dengan 
+fokus pada peningkatan kecepatan, kapasitas, dan latensi (satelit 
+delay) yang lebih rendah. Sejumlah negara di benua Afrika 
+mulai membuka peluang investasi asing, menciptakan potensi 
+pertumbuhan infrastruktur telekomunikasi yang lebih baik dan 
+mempercepat adopsi teknologi digital di wilayah tersebut. 
+Telekomunikasi, khususnya dalam hal ini ialah internet, telah 
+menjadi kebutuhan dasar manusia modern yang sama pentingnya 
+dengan kebutuhan makanan-minuman, tempat tinggal, dan 
+energi. Karena itu, pertumbuhan sektor telekomunikasi akan 
+mengikuti pertumbuhan konsumsi domestik. 
+during the 2021–2024 period. Within those five years, 9.48 million 
+members of the middle class became vulnerable to poverty, 
+indicating a greater sensitivity to falling into poverty when faced 
+with conditions such as illness, natural disasters, or layoffs. This 
+shift in the composition of the middle class has also redirected 
+household consumption priorities toward basic necessities, such 
+as food, housing, transportation, and communication. Based 
+on data from the BPS, household consumption grew by 4.94%, 
+contributing to 54.04% of the Gross Domestic Product (GDP) 
+growth. This growth is primarily driven by the increase in household 
+activities and mobility. The consumption groups that experienced 
+the highest growth include transportation and communication, 
+as reflected in the increasing mobility of society, which drives 
+demand for transportation and communication services.3
+Overall, Indonesia’s economy continues to show strong 
+performance. In the fourth quarter of 2024, Indonesia recorded 
+an economic growth of 5.02% (yoy), higher than that of the 
+peer countries such as Singapore (4.3%), Saudi Arabia (4.4%), 
+and Malaysia (4.8%). Throughout 2024, Indonesia’s economic 
+growth reached 5.03%, driven by several main sectors including 
+the manufacturing industry which grew by 4.5% supported by 
+increased production and export of processed goods; wholesale 
+and retail trade, which grew by 4.8%; and the information and 
+communication sector, which recorded the highest growth 
+at 9.3%. This economic stability is also supported by the 
+Government’s efforts to maintain a low and controlled inflation 
+rate, sound fiscal policies, and financial sector stability. This 
+economic stability is also supported by the Government’s efforts 
+to maintain a low and controlled inflation rate.4
+Development of the Telecommunications 
+Industry
+In 2024, several significant advancements were recorded 
+in the global telecommunications industry. Satellite-based 
+internet services expanded access to the internet, particularly 
+in remote areas. The development of 5G technology progressed 
+toward 6G, with a focus on increasing speed, capacity, 
+and reducing latency (satellite delay). Several countries in 
+Africa began opening up to foreign investment, creating 
+potential for growth in telecommunications infrastructure 
+and accelerating the adoption of digital technologies in the 
+region. Telecommunications, particularly internet access, has 
+become a basic necessity for modern society, now as essential 
+as fundamental human needs such as food, shelter, and energy. 
+Consequently, the growth of the telecommunications sector will 
+align with the growth of domestic consumption.
+3 BPS, Berita Resmi Statistik No. 17/02/Th. XXVII, 5 Februari 2025. https://www.bps.go.id/id/pressrelease/2025/02/05/2408/ekonomi-indonesia-tahun-2024-tumbuh-5-03-persen--c-to-c---ekonomi-indonesia-triwulan-iv-2024-tumbuh-5-02-pers-
+en--y-on-y---ekonomi-indonesia-triwulan-iv-2024-tumbuh-0-53-persen--q-to-q--.html
+4 Kementerian Koordinator Bidang Perekonomian, Siaran Pers, 5 Februari 2025. https://www.ekon.go.id/publikasi/detail/6161/perekonomian-nasional-tetap-solid-sepanjang-2024-menko-airlangga-pdb-per-kapita-indonesia-mengalami-peningkatan
+94
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Di Indonesia, sektor telekomunikasi berperan sebagai tulang 
+punggung transformasi digital dalam mendukung visi Indonesia 
+Emas 2045. Untuk mewujudkan hal tersebut, pemerintah 
+meluncurkan Visi Indonesia Digital (VID) 2045, yang merangkum 
+visi, misi, sasaran dan strategi pembangunan digital guna 
+mempercepat transformasi dan memastikan akses digital yang 
+merata di seluruh wilayah Indonesia. Dalam VID2045, Pemerintah 
+menekankan lima langkah strategis untuk memaksimalkan 
+pemerataan 
+konektivitas 
+digital 
+serta 
+mempercepat 
+pertumbuhan ekosistem digital di Indonesia. 5
+5 Langkah Strategis VID2045
+Five Strategic Steps of VID 2045
+Peningkatan 
+Infrastruktur 
+Kabel Laut
+Enhancing 
+Submarine Cable 
+Infrastructure
+Penggunaan 
+Kombinasi 
+Teknologi
+Integrating Multiple 
+Technologies
+Berbagi 
+Infrastruktur
+Infrastructure 
+Sharing
+Penguatan Skema 
+Universal Service 
+Obligation (USO)
+Strengthening the 
+Universal Service 
+Obligation (USO) 
+Scheme
+Penerapan 
+Teknologi Hybrid
+Adopting Hybrid 
+Technology
+Memperluas jangkauan 
+jaringan internet 
+melalui penguatan 
+infrastruktur kabel 
+bawah laut sebagai 
+tulang punggung 
+konektivitas digital 
+nasional.
+Expanding internet 
+network coverage 
+by strengthening 
+submarine cable 
+infrastructure as the 
+backbone of national 
+digital connectivity.
+Mendorong integrasi 
+berbagai teknologi 
+seperti fiber to home, 
+fixed wireless access, 
+dan jaringan seluler 
+untuk meningkatkan 
+cakupan layanan 
+internet.
+Encouraging the 
+integration of various 
+technologies, such as 
+fiber-to-home, fixed 
+wireless access, and 
+mobile networks, to 
+enhance internet 
+service coverage.
+Menerapkan strategi 
+berbagi infrastruktur di 
+berbagai daerah untuk 
+meningkatkan efisiensi 
+dan mempercepat 
+ekspansi layanan 
+telekomunikasi.
+Implementing 
+infrastructure-sharing 
+strategies across 
+different regions to 
+improve efficiency 
+and accelerate 
+the expansion of 
+telecommunications 
+services.
+Meningkatkan 
+mekanisme pendanaan 
+dan dukungan bagi 
+operator untuk 
+memperluas layanan 
+ke daerah yang sulit 
+dijangkau.
+Enhancing funding 
+mechanisms and 
+support for operators 
+to extend services to 
+hard-to-reach areas.
+Mengadopsi teknologi 
+kombinasi seperti 
+jaringan fiber, wireless, 
+satelit GSO dan NGSO, 
+serta non-terrestrial 
+network (NTN) 
+untuk memperkuat 
+infrastruktur digital 
+nasional.
+Implementing a 
+combination of 
+technologies, including 
+fiber networks, 
+wireless, geostationary 
+(GSO) and non-
+geostationary (NGSO) 
+satellites, and non-
+terrestrial networks 
+(NTN), to reinforce 
+national digital 
+infrastructure.
+Sumber: https://digital2045.id/bukuvid2045/
+Selain memperkuat infrastruktur, VID 2045 juga menekankan 
+pentingnya kolaborasi antara pemerintah dan operator 
+telekomunikasi melalui joint planning untuk menciptakan iklim 
+persaingan yang sehat serta memberikan insentif yang tepat 
+bagi pelaku industri. Pemerintah juga membuka peluang kerja 
+sama dengan sektor swasta dalam skema yang berkelanjutan 
+untuk memastikan layanan internet tetap tersedia, terutama di 
+daerah tertinggal, terdepan, dan terluar (3T). 
+In Indonesia, the telecommunications sector serves as the 
+backbone of digital transformation in support of the Indonesia 
+Emas 2045 vision. To realize this goal, the government launched 
+Visi Indonesia Digital (VID) 2045, which outlines the vision, 
+mission, targets, and strategies for digital development aimed at 
+accelerating transformation and ensuring equal digital access 
+across the country. In VID 2045, the government highlights five 
+strategic steps to enhance the equality of digital connectivity 
+and to boost the growth of Indonesia’s digital ecosystem.5
+In addition to strengthening infrastructure, VID 2045 also 
+emphasizes the importance of collaboration between the 
+government and telecommunications operators through joint 
+planning to foster a healthy competitive environment and provide 
+targeted incentives for industry players. The government also 
+opens opportunities for cooperation with the private sector through 
+sustainable schemes to ensure the availability of internet services, 
+especially in underdeveloped, remote, and outermost regions (3T).
+5 Antaranews.com, 17 Agustus 2024. https://www.antaranews.com/berita/4267367/kemenkominfo-andalkan-vid-2045-untuk-pemerataan-konektivitas-digital
+95
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+According to data from the Ministry of Communications and 
+Digital, the length of the Submarine Cable Communication System 
+(SKKL) fiber optic network has reached 118,257.54 kilometers, while 
+land-based fiber optic infrastructure spans 716,935.55 kilometers. 
+This network now covers 34 provinces, 503 cities/regencies, 
+5,564 districts, and 47,483 villages, with land fiber optics having 
+grown by more than 269% since December 2019. The fiber optic 
+network is a key infrastructure for delivering high-speed internet, 
+serving as the backbone, middle mile, and last mile, while also 
+supporting Base Transceiver Station (BTS) backhaul for the cellular 
+telecommunications network.6
+4G technology now covers nearly all residential areas in 
+Indonesia. However, the disparity in coverage between urban 
+and rural areas remains a challenge, particularly in remote 
+regions that require special solutions, such as the use of satellite 
+technology. The 5G network, although still in its early stages, 
+covering only 2.90% of residential areas, has immense potential 
+to enhance the speed and quality of internet services. In line 
+with technological advancements and infrastructure expansion, 
+5G coverage is expected to grow, supporting the diverse digital 
+needs of the Indonesian people in the years to come.
+The equal distribution of digital infrastructure is a fundamental 
+foundation for enhancing Indonesia’s digital competitiveness. 
+Based on the Digital Competitiveness Index by East Ventures, 
+regions on Java Island still dominate the highest scores for 
+digital competitiveness, due to a more even distribution of digital 
+infrastructure compared to other areas. Outside of Java, Southeast 
+Sulawesi ranks among the top eight regions with the highest digital 
+competitiveness score, driven by digital infrastructure projects 
+and the presence of the Palapa Ring Middle Package, which has 
+accelerated internet access and connectivity in the region.7
+Menurut data Kementerian Komunikasi dan Informatika, 
+panjang fiber optik Sistem Komunikasi Kabel Laut (SKKL) telah 
+membentang sepanjang 118.257,54 kilometer dan fiber optik darat 
+sepanjang 716.935,55 kilometer. Jaringan ini telah menjangkau 34 
+provinsi, 503 kota/kabupaten, 5.564 kecamatan, dan 47.483 desa/
+kelurahan, dengan pertumbuhan fiber optik darat meningkat lebih 
+dari 269% sejak Desember 2019. Jaringan fiber optik merupakan 
+infrastruktur utama dalam menghadirkan internet berkecepatan 
+tinggi, berfungsi sebagai tulang punggung (backbone), middle 
+mile, dan last mile, serta mendukung backhaul Base Transceiver 
+Station (BTS) untuk jaringan telekomunikasi seluler.6
+Cakupan Jaringan Telekomunikasi Indonesia 
+Telecommunications Network Coverage in Indonesia
+2G
+98,51%
+3G
+5,73%
+4G
+97,16%
+5G
+2,90%
+Total Luas Wilayah Pemukiman 46.031,49 km²
+Total Residential Area: 46,031.49 km²
+Sumber data: 
+https://djppi.komdigi.go.id/news/djppi-kominfo-merilis-infografis-infrastruktur-jaringan-teleko-
+munikasi-indonesia
+Data Source:
+Telecommunications, Postal, and Broadcasting Monitoring Center (PMT), Directorate of Postal 
+and Informatics Control (DJPPI), Ministry of Communications and Informatics, Republic of 
+Indonesia
+Teknologi 4G kini telah mencakup hampir seluruh wilayah 
+pemukiman di Indonesia. Namun, kesenjangan cakupan antara 
+daerah perkotaan dan pedesaan masih menjadi tantangan, 
+terutama di wilayah terpencil yang memerlukan solusi khusus, 
+seperti pemanfaatan teknologi satelit. Sementara itu, jaringan 
+5G, meskipun masih dalam tahap awal dengan cakupan 
+2,90% dari wilayah pemukiman, memiliki potensi besar dalam 
+meningkatkan kecepatan dan kualitas layanan internet. Seiring 
+dengan perkembangan teknologi dan perluasan infrastruktur, 
+cakupan 5G diharapkan akan semakin luas, mendukung berbagai 
+kebutuhan digital masyarakat Indonesia di masa mendatang.
+Pemerataan infrastruktur digital menjadi fondasi utama dalam 
+meningkatkan daya saing digital Indonesia. Berdasarkan Indeks 
+Daya Saing Digital dari East Venture, wilayah Pulau Jawa masih 
+mendominasi skor daya saing digital tertinggi, berkat infrastruktur 
+digital yang lebih merata dibandingkan wilayah lainnya. Di luar Jawa, 
+Sulawesi Tenggara masuk dalam delapan besar wilayah dengan 
+skor daya saing digital tertinggi, didorong oleh proyek infrastruktur 
+digital dan kehadiran Palapa Ring Paket Tengah yang mempercepat 
+akses dan konektivitas internet di kawasan tersebut.7
+6 Ditjen Penyelenggaraan Pos dan Informatika Kementerian Komunikasi dan Digital, Infografis Infrastruktur Jaringan Telekomunikasi Indonesia, 21 Juni 2024. https://djppi.komdigi.go.id/news/djppi-kominfo-merilis-infografis-infrastruktur-jarin-
+gan-telekomunikasi-indonesia
+7 Antaranews.com, 1 Agustus 2024. https://www.antaranews.com/berita/4231471/airlangga-infrastruktur-digital-fondasi-tingkatkan-daya-saing-ri
+96
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Perluasan infrastruktur ke wilayah 3T juga berkontribusi signifikan 
+terhadap peningkatan jumlah pengguna internet di Indonesia. 
+Berdasarkan survei APJII bersama Kementerian Komunikasi 
+dan Digital (Kemkomdigi) pada Juli–September 2024, sebanyak 
+82,6% masyarakat di wilayah 3T, atau sekitar 8,1 juta orang, telah 
+terhubung dengan internet. Dari jumlah tersebut, dua dari lima 
+pengguna internet memanfaatkannya untuk media sosial, yang 
+tidak hanya digunakan sebagai sarana hiburan dan komunikasi, 
+tetapi juga sebagai peluang ekonomi. 8
+Lonjakan lalu lintas internet selama 2021-2024 telah meningkat 
+pesat berdasarkan laporan dari Asosiasi Penyelenggara Jasa 
+Internet Indonesia (APJII). Selama periode 2021-2024, lalu lintas 
+internet di Indonesia meningkat lebih dari sepuluh kali lipat, 
+dari 1,3 Tbps pada 2021 menjadi 14 Tbps pada akhir 2024. Secara 
+nasional, tingkat penetrasi internet di Indonesia mencapai hampir 
+80% dari total populasi pada 2024. 9 Angka ini menunjukkan bahwa 
+konektivitas digital semakin menjadi bagian esensial dalam berbagai 
+aspek kehidupan masyarakat, mendukung pertumbuhan ekonomi 
+digital, memperkuat interaksi sosial, serta membuka peluang baru 
+bagi inovasi dan pengembangan bisnis di berbagai sektor.
+Berdasarkan Laporan e-Conomy SEA 2024 yang disusun oleh 
+Google, Temasek, dan Bain & Company, ekonomi digital Indonesia 
+telah berkembang pesat dengan Gross Merchandise Value (GMV) 
+terbesar di Asia Tenggara. Ekonomi digital Indonesia diproyeksikan 
+mencapai $90 miliar pada tahun 2024, meningkat 13% 
+dibandingkan tahun 2023. Angka ini diperkirakan dapat meningkat 
+dua kali lipat hingga tahun 2030, didorong oleh pertumbuhan 
+signifikan di sektor e-commerce dan layanan perjalanan online.10
+Transformasi digital yang terjadi di berbagai negara, termasuk 
+adopsi sistem kerja hybrid dan full remote, turut meningkatkan 
+kebutuhan akses data, baik untuk individu maupun korporasi. 
+Di sisi lain, persaingan yang semakin ketat antar operator 
+telekomunikasi mendorong inovasi dan harga layanan yang 
+kompetitif sehingga menguntungkan konsumen. Akses data 
+telah menjadi kebutuhan dasar, setara dengan makanan-
+minuman, sandang, tempat tinggal, dan energi. Perkembangan 
+ini menegaskan pentingnya akses internet dalam menunjang 
+kehidupan sehari-hari, baik di ranah pribadi maupun profesional.
+Penggunaan kecerdasan buatan (AI) yang semakin masif di 
+hampir seluruh sektor industri juga meningkatkan kebutuhan 
+pusat data (data center) yang andal. Pasar pusat data di Indonesia 
+terus tumbuh pesat, dengan nilai pasar mencapai US$3,7 miliar 
+(Rp57,7 triliun) pada 2024, serta investasi mencapai US$634 juta 
+(Rp9,8 triliun). Berdasarkan proyeksi Kementerian Komunikasi dan 
+Informatika, Asia Tenggara diperkirakan akan memiliki kapasitas 
+pusat data sebesar 2.733 megawatt pada 2028.11
+The expansion of infrastructure into 3T regions has contributed 
+significantly to the increase in internet users in Indonesia. 
+According to a survey conducted by APJII in collaboration 
+with the Ministry of Communications and Digital (Kemkomdigi) 
+between July and September 2024, approximately 82.6% of 
+people in 3T regions, equivalent to around 8.1 million individuals, 
+are now connected to the internet. Among them, two out of five 
+internet users use it for social media, not only for entertainment 
+and communication, but also as a means to access economic 
+opportunities.8
+The surge in internet traffic between 2021 and 2024 increased 
+rapidly, according to a report by the Indonesian Internet Service 
+Providers Association (APJII). During the 2021-2024 period, 
+internet traffic in Indonesia grew more than tenfold, from 1.3 
+Tbps in 2021 to 14 Tbps by the end of 2024. Nationally, internet 
+penetration reached nearly 80% of the total population in 2024.9 
+This figure reflects that digital connectivity has become an 
+essential part of various aspects of society, supporting digital 
+economic growth, strengthening social interactions, and creating 
+new opportunities for innovation and business development 
+across multiple sectors.
+According to the e-Conomy SEA 2024 report by Google, 
+Temasek, and Bain & Company, Indonesia’s digital economy has 
+experienced rapid growth, with the highest Gross Merchandise 
+Value (GMV) in Southeast Asia. In 2024, the Indonesian digital 
+economy is projected to have reached $90 billion, marking a 13% 
+increase compared to 2023. This figure is expected to double by 
+2030, driven by significant growth in the e-commerce sector and 
+online travel services.10
+The digital transformation occurring in several countries, 
+including the adoption of hybrid and fully remote work systems, 
+also contributes to the increasing demand for data access, both 
+for individuals and corporations. On the other hand, growing 
+competition among telecommunications operators drives 
+innovation and competitive service fees that benefit consumers. 
+Data access has become a basic necessity, equivalent to 
+food, clothing, shelter, and energy. This growth highlights the 
+importance of internet access in supporting daily life, both 
+personally and professionally.
+The increasingly widespread use of artificial intelligence (AI) 
+across nearly all industry sectors is also driving demand for 
+reliable data centers. The data center market in Indonesia 
+continues to grow rapidly, with a market value projected to reach 
+US$3.7 billion (IDR 57.7 trillion) in 2024, and investments totaling 
+US$634 million (IDR 9.8 trillion). The total data center capacity in 
+Southeast Asia is projected to reach 2,733 megawatts by 2028.11
+8 Antaranews.com, 17 September 2024. https://www.antaranews.com/berita/4340151/survei-82-persen-penduduk-daerah-tertinggal-telah-terhubung-internet#google_vignette
+9Asosiasi Penyelenggara Jasa Internet Indonesia (APJII), 8 Januari 2025. https://apjii.or.id/berita/d/apjii-dan-bddc-resmikan-iix-jk2-untuk-ekosistem-digital-lebih-kuat
+10 Asosiasi Penyelenggara Jasa Internet Indonesia (APJII), 8 Januari 2025. Google, e-Conomy SEA 2024. https://economysea.withgoogle.com/report/
+11 Asosiasi Penyelenggara Jasa Internet Indonesia (APJII), 8 Januari 2025. https://apjii.or.id/berita/d/apjii-dan-bddc-resmikan-iix-jk2-untuk-ekosistem-digital-lebih-kuat
+97
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perseroan 
+memandang 
+industri 
+telekomunikasi 
+sebagai 
+sektor yang terus berkembang dan krusial dalam mendukung 
+transformasi digital di Indonesia. Perseroan tetap fokus pada 
+kegiatan usaha telekomunikasi dengan kabel, penyedia layanan 
+internet (ISP), jasa interkoneksi internet (NAP), dan pusat data. 
+Komitmen ini diwujudkan melalui penyediaan infrastruktur 
+yang andal dan berkualitas tinggi untuk memenuhi kebutuhan 
+konektivitas yang semakin meningkat. Hingga 31 Desember 
+2024, Perseroan menjalankan kegiatan usaha berdasarkan 
+empat segmen pelanggan yaitu segmen Telco, Wholesale, Retail 
+mencakup Ritel dan Enterprise, serta segmen lainnya melalui 
+entitas anak. 
+Berikut merupakan kontribusi pendapatan historis dari setiap 
+segmen pelanggan Perseroan:
+Keterangan
+Description
+31 Desember 2024
+( Rp– Jutaan)
+December 31, 2024
+( IDR– Million)
+31 Desember 2023
+( Rp– Jutaan)
+December 31, 2023
+( IDR– Million)
+31 Desember 2022
+( Rp– Jutaan)
+December 31, 2022
+( IDR– Million)
+Telco
+631.461
+681.321
+931.786
+Wholesale
+803.620
+613.861
+688.903
+Retail and Enterprise
+1.111.565
+950.482
+856.294
+Lainnya
+Others
+1.431.542
+2.060.660
+2.170.669
+Total
+3.978.189
+4.306.324
+4.647.651
+Segmen Telco
+Segmen Telco Perseroan menyediakan layanan Domesic 
+Leased Circuit untuk konektivitas domestik dan International 
+Private Leased Circuit untuk konektivitas internasional yang 
+beroperasi sesuai dengan kebutuhan operator telekomunikasi. 
+Layanan dengan solusi mutakhir ini memungkinkan operator 
+telekomunikasi untuk mengikuti perkembangan teknologi terkini, 
+meningkatkan kualitas layanan terutama dalam hal Service 
+Level Agreement (SLA), serta memberikan tingkat keamanan 
+yang tinggi. Produk yang ditawarkan Perseroan melalui segmen 
+Telco meliputi Dedicated Internet Access, Mora IXP, IP Transit, 
+Domestic Leased Circuit (DLC), dan International Private Leased 
+Circuit (IPLC), Leased Core, Express Connect, Cross Connect, 
+Ducting, Data Center Colocation & Rack Space.
+The Company believes that the telecommunications industry 
+will continue to grow and play a crucial role in supporting digital 
+transformation in Indonesia. The Company remains focused on its 
+telecommunications business activities including cable, internet 
+service provider (ISP) services, internet interconnection services 
+(NAP), and data centers. This commitment is demonstrated 
+through the provision of reliable and high-quality infrastructure 
+to meet the growing demand for connectivity. As of December 
+31, 2024, the Company operates based on four customer 
+segments, namely Telco, Wholesale, Retail (including both Retail 
+and Enterprise), and other segments through its subsidiaries.
+The following is the historical revenue contribution from each of 
+the Company’s customer segments:
+Telco Segment
+The Company’s Telco Segment provides Domestic Leased Line 
+services for domestic connectivity and International  Private 
+Leased Circuit for international connectivity that operate 
+according to the needs of telecommunications operators. This 
+service with the latest solutions enables telecommunication 
+operators to keep abreast of the latest technological 
+developments, improve service quality, especially in terms of 
+Service Level Agreement (SLA), as well as provide a high level 
+of security. The products offered by the Company through the 
+Telco segment include Dedicated Internet Access, Mora IXP, IP 
+Transit, Domestic Leased Circuit (DLC), and International Private 
+Leased Circuit (IPLC), Leased Core, Express Connect, Cross 
+Connect, Ducting, Data Center Colocation & Rack Space.
+Tinjauan Operasional 
+Operational Overview
+98
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Kontribusi Segmen Telco Terhadap Pendapatan Usaha
+Telco Segment Contribution to Operating Revenues
+Keterangan
+Description
+31 Desember 2024
+( Rp– Jutaan)
+December 31, 2024
+( IDR– Million)
+31 Desember 2023
+( Rp– Jutaan)
+December 31, 2023
+( IDR– Million)
+31 Desember 2022
+( Rp– Jutaan)
+December 31, 2022
+( IDR– Million)
+Pendapatan Usaha Segmen
+Segment Operating Income
+631.461
+681.321
+931.786
+Beban Segmen
+Segment Expense
+(530.694)
+(486.069)
+(652.048)
+Laba Kotor
+Gross profit
+100.767
+195.252
+279.739
+Selama tahun 2024, segmen ini mengalami dinamika pasar 
+yang menuntut adaptasi dan inovasi berkelanjutan. Perseroan 
+merespons perubahan ini dengan strategi yang lebih fleksibel, 
+optimalisasi layanan, serta peningkatan efisiensi untuk 
+mempertahankan daya saing dan memperkuat posisinya di 
+industri.
+Pendapatan yang berasal dari segmen Telco pada tahun yang 
+berakhir tanggal 31 Desember 2024 menurun sebesar Rp49.859 
+juta atau 7,32% jika dibandingkan dengan pada tahun yang 
+berakhir tanggal 31 Desember 2023. Hal ini disebabkan oleh 
+pengalihan permintaan pelanggan telekomunikasi dari sewa 
+bandwidth ke sewa core selama tahun 2024. Sedangkan beban 
+langsung pada periode yang sama mengalami peningkatan 
+sebesar Rp44.625 juta atau 9,18% dibandingkan periode 
+sebelumnya. Laba kotor menurun sebesar Rp94.485 juta atau 
+48,39% pada tanggal 31 Desember 2024 jika dibandingkan 
+dengan tahun yang berakhir tanggal 31 Desember 2023.
+Di tahun 2024, Segmen Telco berkontribusi sebesar 15,87% 
+terhadap jumlah pendapatan usaha Perseroan.
+ 
+Segmen Wholesale
+Segmen Wholesale Perseroan menyediakan layanan internet 
+(termasuk jalur sewa dan koneksi kapasitas, baik domestik maupun 
+internasional) kepada operator telekomunikasi, terutama melalui 
+skema penjualan Business-to-Business (B2B). Produk dan jasa 
+yang termasuk dalam segmen Wholesale meliputi Dedicated 
+Internet Access, MoNICA, IP Transit, Domestic Leased Circuit 
+(DLC) dan International Private Leased Circuit (IPLC), Mora 
+IXP, IdREN, Express Connect, Cross Connect, Layanan ducting 
+dan Fiber Optic Pole Rental, Data Center Colocation & Rack 
+Space, serta Layanan tambahan seperti Fixed Telephony, dan 
+Managed Service & EOS. Pelanggan dari segmen ini merupakan 
+perusahaan-perusuhaan Internet Service Provider (ISP).
+Throughout 2024, this segment experienced dynamic market 
+conditions that required continuous adaptation and innovation. 
+The Company responded to these changes with a more flexible 
+strategy, service optimization, and enhanced efficiency in order 
+to maintain competitiveness and strengthen its position in the 
+industry.
+Revenue from the Telco segment in the year ended December 
+31, 2024 decreased by IDR 49,859 million or 7.32% when 
+compared to the year ended December 31, 2023. This was due 
+to the transfer of telecommunications customer requests from 
+bandwidth rental to core rental during 2024. Meanwhile, direct 
+expenses in the same period decreased IDR 44,625 million or 
+9.18% compared to the previous period. Gross profit increased 
+by IDR 94,485 million or 48.39% as of December 31, 2024 when 
+compared to the year ended December 31, 2023.
+In 2024, the Telco segment contributed 15.87% to the Company’s 
+total revenue.
+Wholesale Segment
+The Company’s Wholesale segment provides internet services 
+(including leased lines and capacity connections, both domestic 
+and international) to telecommunication operators, primarily 
+through a Business-to-Business (B2B) sales scheme. Products 
+and services included in the Wholesale segment include 
+Dedicated Internet Access, MoNICA, IP Transit, Domestic Leased 
+Circuit (DLC) and International Private Leased Circuit (IPLC), 
+Mora IXP, IdREN, Express Connect, Cross Connect, ducting 
+Services and Fiber Optic Pole Rental, Data Center Colocation 
+& Rack Space, as well as additional Services such as Fixed 
+Telephony, and Managed Service & EOS. Customers from this 
+segment are Internet Service Provider (ISP) companies.
+99
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Kontribusi Segmen Wholesale Terhadap Pendapatan Usaha
+Wholesale Segment’s Contribution to Operating Income
+Keterangan
+Description
+31 Desember 2024
+( Rp– Jutaan)
+December 31, 2024
+( IDR– Million)
+31 Desember 2023
+( Rp– Jutaan)
+December 31, 2023
+( IDR– Million)
+31 Desember 2022
+( Rp– Jutaan)
+December 31, 2022
+( IDR– Million)
+Pendapatan Usaha Segmen
+Segment Operating Income
+803.620
+613.861
+688.903
+Beban Segmen
+Segment Expense
+(319.284)
+(244.105)
+(196.217)
+Laba Kotor
+Gross Profit
+484.336
+369.756
+492.685
+Selama tahun 2024, segmen ini menunjukkan pertumbuhan 
+seiring dengan meningkatnya permintaan kapasitas bandwidth, 
+khususnya dari pelanggan internasional. Perseroan merespons 
+peluang ini dengan menghadirkan solusi inovatif serta 
+memperluas portofolio layanan, termasuk peluncuran produk 
+baru yang memperkuat daya saing dan mendorong pertumbuhan 
+pendapatan. 
+Pendapatan yang berasal dari segmen Wholesale pada tahun 
+yang berakhir tanggal 31 Desember 2024 meningkat sebesar 
+Rp189.759 juta atau 30,91% jika dibandingkan dengan pada tahun 
+yang berakhir tanggal 31 Desember 2023. Hal ini disebabkan 
+oleh kenaikan volume permintaan volume kapasitas bandwidth 
+khususnya untuk pelanggan international dan ditunjang oleh 
+peluncuran produk baru di tahun 2024 yaitu Moratelindo 
+Network Interconnect and Content Autonomous (MoNICA). 
+Sedangkan beban langsung pada periode yang sama mengalami 
+peningkatan sebesar Rp75.179 juta atau 30,80% dibandingkan 
+periode sebelumnya. Laba kotor meningkat sebesar Rp114.580 
+atau 30.99% pada tahun yang berakhir tanggal 31 Desember 
+2024 jika dibandingkan dengan tahun yang berakhir tanggal 
+31 Desember 2023.
+Di tahun 2024, Segmen Wholesale berkontribusi sebesar 20,20% 
+terhadap jumlah pendapatan usaha Perseroan.
+Segmen Retail
+Segmen ini terdiri dari Segmen Retail dan Enterprise. Segmen 
+Retail Perseroan menyediakan solusi layanan FTTH menyeluruh 
+secara langsung ke pelanggan ritel di perumahan dan apartemen. 
+Produk utama Perseroan dalam Segmen Retail meliputi layanan 
+triple play, layanan internet, Fixed Telephony, dan TV kabel 
+di bawah merek dagang Oxygen.id. Layanan Oxygen.id juga 
+mencakup layanan internet berkecepatan tinggi dengan harga 
+bersaing.
+Throughout 2024, this segment showed growth in line with 
+the increasing demand for bandwidth capacity, especially 
+from international customers. The Company responded to this 
+opportunity by providing innovative solutions and expanding 
+its service portfolio, including the launch of new products that 
+enhance competitiveness and drive revenue growth.
+Revenue from the Wholesale segment in the year ended 
+December 31, 2024 increased by IDR 189,759 million or 30.91% 
+compared to the year ended December 31, 2023. This was due 
+to an increase in the volume of demand for bandwidth capacity, 
+especially from international customers, and was supported by 
+the launch of a new product in 2024, namely the Moratelindo 
+Network Interconnect and Content Autonomous (MoNICA). 
+Meanwhile, direct expenses in the same period increased by 
+IDR 75,179 million or 30.80% compared to the previous period. 
+Gross profit increased by IDR 114.580 or 30.99% in the year 
+ended December 31, 2024 when compared to the year ended 
+December 31, 2023.
+In 2024, the Wholesale segment contributed 20.20% to the 
+Company’s total revenue.
+ 
+Retail Segment
+This segment consists of Retail and Enterprise segments. The 
+Company’s Retail Segment provides comprehensive FTTH service 
+solutions directly to retail customers in housing and apartments. 
+The Company’s main products in the Retail Segment include triple 
+play services, internet services, Fixed Telephony and cable TV 
+under the Oxygen.id trademark. Oxygen.id services also include 
+high-speed internet services at competitive prices.
+100
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+6 Sub Segmen Pelanggan Enterprise:
+6 Enterprise Customer Sub-Segments:
+Segmen Pemerintah, BUMN, Oil Company/Perusahaan Minyak (GBO), yang mencakup pelanggan kategori Pemerintahan Pusat/ Daerah, Lembaga Negara, 
+BUMN, BUMD dan Perusahaan Minyak (swasta dan BUMN) dengan produk yang ditawarkan mencakup Internet dedicated, Mora IXP, IP Transit, Domestic 
+Leased Circuit, Cross Connect, Leased Core, Hosting, VPS, Cyber Security (XSECURE), Managed Service, Oxygen TV, Access Point rental, SDWAN, Data 
+Center (Collocation dan DRC).
+Government, State-Owned Enterprises (SOEs), and Oil Companies (GBO): This segment includes customers from central and regional governments, state 
+institutions, SOEs, regional SOEs, and private/state-owned oil companies. The offered products include Dedicated Internet, Mora IXP, IP Transit, Domestic 
+Leased Circuit, Cross Connect, Leased Core, Hosting, VPS, Cyber Security (XSECURE), Managed Service, Oxygen TV, Access Point rental, SDWAN, and Data 
+Center (Collocation and DRC).
+Segmen High-Rise Building (HRB): Pelanggan perusahaan yang berada di area gedung bertingkat dengan menawarkan produk Internet dedicated, Internet 
+broadband, Express Connect, Cross Connect, Domestic Leased Circuit, Leased Core, Data Center (VPS, Hosting, Domain, Collocation), Oxygen TV, Access 
+Point rental, Fixed Telephony, Cyber Security (XSECURE), Managed Service.
+High-Rise Building (HRB): This segment serves corporate customers operating in high-rise buildings, offering products such as Dedicated Internet, 
+Broadband Internet, Express Connect, Cross Connect, Domestic Leased Circuit, Leased Core, Data Center (VPS, Hosting, Domain, Collocation), Oxygen TV, 
+Access Point rental, Fixed Telephony, Cyber Security (XSECURE), and Managed Service.
+Segmen-Regional : Perusahaan-Perusahaan swasta, Universitas dan lembaga Pendidikan, Pemda dan dinas/OPD, Rumah Sakit Swasta/Pemerintah, BUMN/
+BUMD dan juga SME dengan penawaran produk Internet Dedicated, Internet Broadband, Cross Connect, Domestic Leased Circuit, Leased Core, Fiber Optic 
+Pole Rental, Cyber Security (XSECURE), Managed Service & EOS, Access Point Rental, Oxygen TV, Jejaring Riset dan Edukasi Indonesia (Indonesia Research 
+and Education Networks, IdREN) dan Data Center.
+Regional Segment: This segment covers private companies, universities, educational institutions, regional governments and agencies, private/public 
+hospitals, SOEs/regional SOEs, and SMEs. The offered products include Dedicated Internet, Broadband Internet, Cross Connect, Domestic Leased Circuit, 
+Leased Core, Fiber Optic Pole Rental, Cyber Security (XSECURE), Managed Service & EOS, Access Point Rental, Oxygen TV, Indonesia Research and 
+Education Networks (IdREN), and Data Center services.
+Segmen Education: Segmen pelanggan khusus untuk sektor pendidikan, lembaga pendidikan, sekolah, akademi universitas yang menawarkan produk 
+Internet dedicated, Internet Broadband, Mora IXP, IP Transit, Domestic Leased Circuit, Leased Core, Data Center, Managed Service, Oxygen TV, Jejaring Riset 
+dan Edukasi Indonesia (Indonesia Research and Education Networks, IdREN).
+Education Segment: Specifically catering to the education sector, including educational institutions, schools, academies, and universities. The products 
+offered include Dedicated Internet, Broadband Internet, Mora IXP, IP Transit, Domestic Leased Circuit, Leased Core, Data Center, Managed Service, Oxygen 
+TV, and Indonesia Research and Education Networks (IdREN).
+Segmen Media-Hospitality (Medhos) : Segmen pelanggan untuk Kawasan Industri, Rumah Sakit dan Perhotelan dengan menawarkan produk Internet 
+dedicated, Internet broadband, Mora IXP, Express Connect, Cross Connect, Domestic Leased Circuit, IP Transit, Leased Core, Data Center, Cyber Security 
+(XSECURE), Fixed Telephony, Oxygen TV, Managed Service & EOS, Access Point Rental, Oxygen Access Manager, Hospitality TV.
+Media & Hospitality (Medhos) Segment: This segment serves industrial areas, hospitals, and the hospitality sector. The offered products include Dedicated 
+Internet, Broadband Internet, Mora IXP, Express Connect, Cross Connect, Domestic Leased Circuit, IP Transit, Leased Core, Data Center, Cyber Security 
+(XSECURE), Fixed Telephony, Oxygen TV, Managed Service & EOS, Access Point Rental, Oxygen Access Manager, and Hospitality TV.
+Segmen Palapa Ring Nasional dan Small Medium Enterprise (SME) : pelanggan kategori Pemerintahan Daerah, Lembaga Negara, BUMN, BUMD, Perusahaan 
+Swasta, UMKM, Hotel, Sektor Pendidikan, Sektor Kesehatan, Perbankan dengan penawaran produk Internet dedicated, Internet Broadband, IP Transit, 
+Domestic Leased Circuit, Leased Core, Access Point Rental, Oxygen TV, IP Camera, Managed Service, Data Center (Collocation dan DRC)
+National Palapa Ring and Small Medium Enterprise (SME) Segment: This segment includes customers from regional governments, state institutions, SOEs, 
+regional SOEs, private companies, SMEs, hotels, the education sector, the healthcare sector, and banking. The products offered include Dedicated Internet, 
+Broadband Internet, IP Transit, Domestic Leased Circuit, Leased Core, Access Point Rental, Oxygen TV, IP Camera, Managed Service, and Data Center 
+(Collocation and DRC).
+The Enterprise segment is a segment targeting the private 
+enterprise market, non-telecommunication government/providers. 
+The products or services offered are Dedicated Internet Access, 
+Oxygen Dedicated & Broadband, Domestic Leased Circuit (DLC) 
+and Leased Core Connectivity Services, Data Center Colocation 
+& Rack Space Services, as well as Additional Services such as 
+Managed Service, Cybersecurity, AP rental, and SDWAN. Customers 
+from the Enterprise segment are divided into 6 sub-segments.
+Segmen Enterprise adalah segmen yang menyasar pasar 
+perusahaan swasta, pemerintahan non-telekomunikasi/provider. 
+Produk atau jasa yang ditawarkan adalah Dedicated Internet 
+Access, Oxygen Dedicated & Broadband, Layanan Konektivitas 
+Domestic Leased Circuit (DLC) dan Leased Core, Layanan Data 
+Center Colocation & Rack Space, serta Layanan Tambahan 
+seperti Managed Service, Cybersecurity, sewa AP, dan SDWAN. 
+Pelanggan dari segmen Enterprise terbagi dalam 6 sub-segmen.
+101
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Kontribusi Segmen Retail dan Enterprise Terhadap Pendapatan Usaha
+Retail and Enterprise Segment Contribution to Operating Income
+Keterangan
+Description
+31 Desember 2024
+( Rp– Jutaan)
+December 31, 2024
+( IDR– Million)
+31 Desember 2023
+( Rp– Jutaan)
+December 31, 2023
+( IDR– Million)
+31 Desember 2022
+( Rp– Jutaan)
+December 31, 2022
+( IDR– Million)
+Pendapatan Usaha Segmen
+Segment Operating Income
+1.111.565
+950.482
+856.294
+Beban Segmen
+Segment expense
+(349.192)
+(299.936)
+(282.519)
+Laba Kotor
+Gross Profit
+762.372
+650.545
+573.775
+Selama tahun 2024, segmen ini mencatat pertumbuhan yang 
+solid, didorong oleh peningkatan signifikan dalam permintaan 
+kapasitas internet, terutama dari pelanggan UMKM dan 
+layanan FTTH. Untuk mengakomodasi tren ini, Perseroan terus 
+memperluas jangkauan layanan, meningkatkan kualitas jaringan, 
+serta menghadirkan solusi inovatif yang lebih kompetitif guna 
+memenuhi kebutuhan pelanggan yang semakin beragam. 
+Pendapatan yang berasal dari segmen Retail pada tahun yang 
+berakhir tanggal 31 Desember 2024 meningkat sebesar Rp161.083 
+juta atau 16.95% jika dibandingkan dengan pada tahun yang berakhir 
+tanggal 31 Desember 2023. Hal ini disebabkan oleh peningkatan 
+permintaan volume kapasitas internet yang cukup signifikan terutama 
+untuk customer UMKM dan FTTH (fiber to the home), sedangkan 
+beban langsung pada periode yang sama juga meningkat sebesar 
+Rp49.256 juta atau 16.42% dibandingkan periode sebelumnya. Laba 
+kotor meningkat sebesar Rp111.827 juta atau 17.19% pada tahun yang 
+berakhir tanggal 31 Desember 2024 jika dibandingkan dengan tahun 
+yang berakhir tanggal 31 Desember 2023.
+Di tahun 2024, segmen Retail dan Enterprise berkontribusi 
+sebesar 27,94% terhadap jumlah pendapatan usaha Perseroan.
+Segmen Lainnya
+Segmen lainnya merupakan pendapatan konstruksi dan 
+pendapatan keuangan dari konsesi jasa atas entitas anak, PT 
+Palapa Ring Barat (PRB) dan PT Palapa Timur Telematika (PTT) 
+sesuai dengan implementasi ISAK 16 mengenai “Konsesi Jasa”. 
+Proyek Palapa Ring Paket Barat dan Timur merupakan operasi 
+kerjasama dengan Kementerian Komunikasi dan Informatika 
+Republik Indonesia (Kominfo) yang bertujuan untuk membangun 
+dan mengelola jaringan tulang punggung serat optik di wilayah 
+barat dan timur Indonesia. Segmen lainnya juga mencakup 
+pendapatan kontraktor entitas anak, PT Oxygen Infrastruktur 
+Indonesia, yang dibentuk dalam rangka memenuhi kebutuhan 
+pelanggan untuk pekerjaan pembangunan jaringan fiber optik.
+serta pendapatan dari anak usaha PT Indopratama Teleglobal 
+yang bergerak dalam bidang usaha jasa satelit.
+Throughout 2024, this segment recorded solid growth, driven 
+by a significant increase in demand for internet capacity, mainly 
+from SME customers and FTTH services. To accommodate 
+this trend, the Company continued to expand its service 
+reach, enhance network quality, and provide innovative, more 
+competitive solutions to meet the increasingly complex needs 
+of its customers.
+Revenue from the Retail segment in the year ending on December 
+31, 2024 increased by IDR 161,083 million or 16.95% compared to 
+the year ended December 31, 2023. This was due to a significant 
+increase in demand for internet capacity volume especially 
+for SME and FTTH (fiber to the home) customers, while direct 
+expenses in the same period also increased by IDR 49,256 million 
+or 16.42% compared to the previous period. Gross profit increased 
+by IDR 111,827 million or 17.19% in the year ending on December 31, 
+2024 when compared to the year ended December 31, 2023.
+In 2024, the Retail and Enterprise segment contributed 27.94% to 
+the Company’s total operating revenues.
+Other Segments
+Other segments represent construction revenue and finance 
+income from the service concession of the subsidiary, PT 
+Palapa Ring Barat (PRB) and PT Palapa Timur Telematika (PTT) 
+in accordance with the implementation of ISAK 16 regarding 
+“Service Concessions’’. Palapa Ring Paket Timur and Barat 
+Package Project is a joint operation with the Ministry of 
+Communication and Informatics of the Republic of Indonesia 
+(Kominfo) which aims to build and manage fiber optic backbone 
+networks in the western and eastern regions of Indonesia. Other 
+segments also include revenue from the contractor subsidiary, 
+PT Oxygen Infrastruktur Indonesia, which was formed in order to 
+meet customer needs for fiber optic network construction work. 
+as well as income from subsidiary PT. Indopratama Teleglobal 
+which operates in the satellite services business sector.
+102
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Throughout 2024, this segment underwent significant 
+adjustments in line with the implementation of ISAK 16 regarding 
+service concessions and the market dynamics of leased capacity 
+VSAT services. Although there was a decrease in revenue, the 
+Company remained focused on optimizing operations, increasing 
+cost efficiency, and exploring new opportunities, including 
+infrastructure and service development. This strategic approach 
+ensures that the segment’s contribution remains sustainable in 
+supporting the Company’s revenue.
+Revenue from Other Segments for the year ending December 31, 
+2024 decreased by IDR 629,118 million or 30.53%, compared to 
+the year ending December 31, 2023, due to the implementation of 
+ISAK 16 regarding service concessions and decrease in demand 
+for leased capacity VSAT. Meanwhile, direct expenses for the 
+same period also decreased by IDR 298,096 million or 39.68%, 
+compared to the previous period, caused by the declining 
+schedule of concession revenue from year to year. Gross profit 
+decreased by IDR 331,022 or 25.28%, as of December 31, 2024, 
+compared to the year ending December 31, 2023.
+In 2024, the Other segment contributed 35.98% to the Company’s 
+total revenue.
+Kontribusi Segmen Lainnya Terhadap Pendapatan Usaha
+Contribution of Other Segments to Operating Revenues
+Keterangan
+Description
+31 Desember 2024
+( Rp– Jutaan)
+December 31, 2024
+( IDR– Million)
+31 Desember 2023
+( Rp– Jutaan)
+December 31, 2023
+( IDR– Million)
+31 Desember 2022
+( Rp– Jutaan)
+December 31, 2022
+( IDR– Million)
+Pendapatan Usaha Segmen
+Segment Operating Income
+1.431.542
+2.060.660
+2.170.669
+Beban Segmen
+Segment Expense
+(453.184)
+(751.280)
+(759.395)
+Laba Kotor
+Gross Profit
+978.358
+1.309.380
+1.411.273
+Selama tahun 2024, segmen ini mengalami penyesuaian 
+signifikan seiring dengan implementasi ISAK 16 mengenai 
+konsesi jasa serta dinamika pasar layanan leased capacity VSAT. 
+Meskipun terjadi penurunan pendapatan, Perseroan tetap 
+berfokus pada optimalisasi operasional, peningkatan efisiensi 
+biaya, serta eksplorasi peluang baru, termasuk pengembangan 
+infrastruktur dan layanan. Pendekatan strategis ini memastikan 
+kontribusi segmen tetap berkelanjutan dalam mendukung 
+pendapatan usaha Perseroan. 
+Pendapatan yang berasal dari segmen Lainnya pada tahun yang 
+berakhir tanggal 31 Desember 2024 menurun sebesar Rp629.118 
+juta atau 30,53% jika dibandingkan dengan tahun yang berakhir 
+tanggal 31 Desember 2023 dikarenakan implementasi dari ISAK 16 
+mengenai konsesi jasa dan penurunan permintaan leased capacity 
+VSAT. Sedangkan beban langsung pada periode yang sama juga 
+menurun sebesar Rp298.096 juta atau 39,68% dibandingkan 
+periode sebelumnya yang disebabkan oleh schedule pendapatan 
+konsesi yang terus menurun dari tahun ke tahun. Laba kotor 
+menurun sebesar Rp331.022 juta atau 25,28% pada tahun yang 
+berakhir tanggal 31 Desember 2024 jika dibandingkan dengan 
+tahun yang berakhir tanggal 31 Desember 2023.
+Di tahun 2024, Segmen Lainnya berkontribusi sebesar 35,98% 
+terhadap jumlah pendapatan usaha Perseroan.
+103
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ Tinjauan Keuangan
+Financial Review
+Assets
+As of December 31, 2024, the Company’s total assets decreased by 
+IDR 245,114 million, or equivalent to 1.65%, to IDR 14,654,147 million 
+compared to total assets on December 31, 2023, amounting to 
+IDR 14,899,261 million. Current assets increased by IDR 215,895 
+million, or equivalent to 5.65%, while there was a decrease in non-
+current assets by IDR 477,461 million, or approximately 4.16%, this 
+is due to the decrease in concession receivables as payments for 
+concession receivables that had matured were received.
+Current Assets
+As of December 31, 2024, the Company’s current assets increased 
+by IDR 215,895 million, or approximately 5,65%, to IDR 4,034,095 
+million compared to the position as of December 31, 2023, which 
+amounted to IDR 3,818,201 million. This increase was primarily 
+due to a rise in cash and cash equivalents by IDR 683,862 million, 
+or 60.21%, this is due to increase in revenue received from 
+customers.
+Keterangan
+Description
+2024
+(Rp-Juta /
+IDR-Million)
+2023
+(Rp-Juta /
+IDR-Million)
+Kenaikan/Penurunan
+Increase/Decrease
+Nominal (Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage   
+Aset
+Assets
+Aset Lancar
+Current Assets
+4.034.095
+3.818.201 *
+231.895
+6,07%
+Aset Tidak Lancar
+Non-Current Assets
+10.620.052
+11.081.060* 
+(477.009)
+(4,30%)
+Jumlah Aset
+Total Aset 
+14.654.147
+14.899.261
+(245.114)
+(1,65%)
+Liabilitas dan Ekuitas
+Liability and Equity
+Liabilitas Jangka Pendek
+Current Liabilities
+2.557.678
+3.693.244 *
+(1.135.566)
+(30,75%)
+Liabilitas Jangka Panjang
+Non-Current Liabilities
+4.706.231
+4.282.048*
+424.182
+9,91%
+Jumlah Liabilitas
+Total Liabilities
+7.263.909
+7.975.293
+(711.384)
+(8,92%)
+Ekuitas
+Equity
+7.390.238
+6.923.968
+466.270
+6,73%
+Jumlah Liabilitas dan Ekuitas
+Total Liabilities and Equity
+14.654.147
+14.899.261
+(245.114)
+(1,65%)
+*Data tahun 2023 disajikan ulang, merujuk pada penyesuaian yang dijelaskan dalam Laporan Keuangan terlampir.
+*The 2023 data is restated, referring to the adjustments described in the attached Financial Statements.
+Aset
+Per 31 Desember 2024, total aset Perseroan mengalami 
+penurunan sebesar Rp245.114 juta atau setara dengan 1,65% 
+menjadi Rp14.654.147 juta bila dibandingkan dengan total 
+aset pada 31 Desember 2023 sebesar Rp14.899.261 juta. Aset 
+lancar mengalami peningkatan sebesar Rp215.895 juta atau 
+setara dengan 5,65%, namun terjadi penurunan di aset tidak 
+lancar sebesar Rp461.009 juta atau setara dengan 4,16%. Hal ini 
+disebabkan oleh penurunan piutang konsesi jasa karena sudah 
+adanya pembayaran piutang konsesi yang sudah jatuh tempo.
+Aset Lancar
+Per 31 Desember 2024, aset lancar Perseroan mengalami 
+peningkatan sebesar Rp215.895 juta atau setara dengan 
+5,65% menjadi sebesar Rp4.034.095 juta bila dibandingkan 
+dengan posisi per 31 Desember 2023 sebesar Rp3.818.201 juta. 
+Peningkatan tersebut terutama disebabkan oleh peningkatan 
+kas dan setara kas sebesar Rp683.862 juta atau 60,21%, hal 
+ini dikarenakan peningkatan penerimaan pendapatan dari 
+pelanggan.
+104
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Non Current Assets
+As of December 31, 2024, the Company’s non-current assets 
+decreased by IDR 461,009 million, or equivalent to 4.16%, to IDR 
+10,620,051 million compared to the position as of December 31, 
+2023, which amounted to IDR 11,081,060 million. This decrease 
+was primarily due to a reduction in concession receivables by 
+IDR 845,796 million, or equivalent to 23.05%, this reduction is due 
+to the settlement of matured concession receivables.
+Liabilities
+As of December 31, 2024, the total liabilities of the Company 
+decreased by IDR 711,384 million, or equivalent to 8.92%, to IDR 
+7,263,909 million compared to the position as of December 31, 
+2023, which amounted to IDR 7,975,293 million. Short-term 
+liabilities decreased by IDR 1,135,566 million, or amounting to 
+30.75%, due to the payment of the Shelf Registration Ijarah 
+Sukuk I Phase II Year 2020 Series B and Phase IV Year 2021 Series 
+A debts, which matured in May and July 2024, amounting to IDR 
+1,122,100 million, however, there was an increase in long-term 
+liabilities by IDR 424,182 million, or amounting to 9.91%, primarily 
+due to proceeds from the issuance of sukuk ijarah totaling IDR 
+277,648 million and receipts from non-bank loans amounting to 
+IDR 200,000 million.
+Current Liabilities
+As of December 31, 2024, the current liabilities of the Company 
+decreased by IDR 1,135,566 million, or equivalent to 30.75%, to 
+IDR 2,557,678 million compared to the position as of December 
+31, 2023, amounting to IDR 3,693,244 million. This decrease was 
+due to the payment of Shelf Registration Ijarah Sukuk I Phase II 
+2020 Series B and Phase IV 2021 Series A debts which matured 
+in May and July 2024  totaling IDR 1,122,100 million.
+Non Current Liabilities
+As of December 31, 2024, the Company’s non-current liabilities 
+increased by IDR 424,182 million or equivalent to 9.91% to 
+IDR 4,706,231 million when compared to non-current liabilities as 
+of December 31, 2023 of IDR 4,282,048 million. This was primarily 
+due to proceeds from the issuance of sukuk ijarah totaling IDR 
+277,648 million and receipts from non-bank loans amounting to 
+IDR 200,000 million in 2024.
+Aset Tidak Lancar
+Per 31 Desember 2024, aset tidak lancar Perseroan mengalami 
+penurunan sebesar Rp461.009 juta atau setara dengan 4,16% 
+menjadi sebesar Rp10.620.051 juta bila dibandingkan dengan 
+posisi per 31 Desember 2023 sebesar Rp11.081.060 juta. Hal 
+tersebut terutama disebabkan oleh berkurangnya piutang 
+konsesi jasa sebesar Rp845.796 juta atau setara dengan 23,05% 
+pengurangan ini disebabkan oleh adanya pembayaran piutang 
+konsesi yang sudah jatuh tempo.
+Liabilitas
+Per 31 Desember 2024, jumlah liabilitas Perseroan mengalami 
+penurunan sebesar Rp711.384 juta atau setara dengan 8,92% 
+menjadi sebesar Rp7.263.909 juta bila dibandingkan dengan 
+posisi per 31 Desember 2023 sebesar Rp7.975.293 juta. Liabilitas 
+jangka pendek mengalami penurunan sebesar Rp1.135.566 juta 
+atau sebesar 30,75% karena pembayaran atas utang Sukuk Ijarah 
+Berkelanjutan I Tahap II Tahun 2020 seri B dan Tahap IV Tahun 
+2021 Seri A yang jatuh tempo bulan Mei dan Juli tahun 2024 
+sebesar Rp1.122.100 juta, namun terjadi peningkatan di liabilitas 
+jangka panjang sebesar Rp424.182 juta atau sebesar 9,91% yang 
+paling signifikan disebabkan penerimaan dari penerbitan sukuk 
+ijarah sebesar Rp277.648 juta dan penerimaan dari utang non-
+bank Rp200.000 juta.
+Liabilitas Jangka Pendek
+Per 31 Desember 2024, liabilitas jangka pendek Perseroan 
+mengalami penurunan sebesar Rp1.135.566 juta atau setara 
+dengan 30,75% menjadi sebesar Rp2.557.678 juta bila 
+dibandingkan dengan posisi per 31 Desember 2023 sebesar 
+Rp3.693.244 juta. Penurunan ini karena ada pembayaran atas 
+utang Sukuk Ijarah Berkelanjutan I Tahap II Tahun 2020 seri B 
+dan Tahap IV Tahun 2021 Seri A yang jatuh tempo bulan Mei dan 
+Juli tahun 2024 sebesar Rp1.122.100 juta.     
+Liabilitas Jangka Panjang
+Per 31 Desember 2024, liabilitas jangka panjang Perseroan 
+mengalami peningkatan sebesar Rp424.182 Juta atau setara 
+dengan 9,91% menjadi sebesar Rp4.706.231 juta jika dibandingkan 
+dengan liabilitas jangka panjang per 31 Desember 2023 sebesar 
+Rp4.282.048 juta. Hal tersebut terutama disebabkan oleh 
+penerimaan dari penerbitan sukuk ijaran sebesar Rp277.648 juta 
+dan penerimaan dari utang non-bank Rp200.000 juta di tahun 
+2024.
+105
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Equity
+As of December 31, 2024, the total equity of the Company 
+increased by IDR 466,270 million, or equivalent to 6.73%, to IDR 
+7,390,238 million compared to the total equity as of December 
+31, 2023, amounting to IDR 6,923,968 million. This increase was 
+due to the comprehensive income recorded by the Company on 
+December 31, 2024 amounting to IDR 466,282 million.
+Consolidated Profit and Loss Statement
+Ekuitas
+Per 31 Desember 2024, jumlah ekuitas Perseroan mengalami 
+peningkatan sebesar Rp466.270 juta atau setara dengan 6,73% 
+menjadi sebesar Rp7.390.238 juta jika dibandingkan dengan 
+jumlah ekuitas per 31 Desember 2023 sebesar Rp6.923.968 juta. 
+Peningkatan tersebut karena pada pada 31 Desember 2024 
+Perseroan mencatatkan penghasilan komprehensif sebesar 
+Rp466.282 juta.
+Laporan Laba Rugi Konsolidasi
+Keterangan
+Description
+2024
+(Rp-Juta /
+IDR-Million)
+2023
+(Rp-Juta /
+IDR-Million)
+Kenaikan/Penurunan
+Increase/Decrease
+Nominal (Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage   
+Pendapatan
+Revenue
+3.978.189
+4.306.324
+(328.135)
+(7,62%)
+Beban Langsung
+Direct Costs
+(1.625.355)
+(1.781.391)
+129.035
+(7,24%)
+Laba Kotor
+Gross Profit
+2.325.833
+2.524.934
+(199.100)
+(7,89%)
+Beban Usaha
+Operating Expense
+(1.259.772)
+(1.018.144)
+(241.628)
+23,73%
+Laba Usaha
+Operating Profit
+1.066.061
+1.506.790
+(440.728)
+(29,25%)
+Beban Lain-Lain-Bersih
+Other Expenses-Net
+(544.224)
+(611.641)
+67.417
+(11,02%)
+Laba Sebelum Pajak Final dan Pajak Penghasilan
+Profit Before Final Tax and Income Tax
+521.837
+895.149
+(373.311)
+(41,70%)
+Beban Pajak Final
+Final Tax Expense
+204
+4.383
+(4.179)
+(95,35%)
+Laba Sebelum Pajak Penghasilan
+Profit Before Income Tax
+521.634
+890.766
+(369.133)
+(41,44%)
+Beban Pajak-Bersih
+Tax Expense-Net
+259.065
+211.595
+47.470
+22,43%
+Laba Tahun Berjalan
+Profit for the Year
+262.568
+679.171
+(416.603)
+(61,34%)
+Penghasilan (Rugi) Komprehensif Lain Setelah Pajak
+Other Comprehensive Income (Loss) After Tax
+203.714
+6.205*
+197.508
+3.182,90%
+Jumlah Penghasilan Komprehensif
+Total Comprehensive Income
+466.282
+685.377
+(219.095)
+(31,97%)
+Laba Tahun Berjalan per Saham Dasar (Rupiah Penuh)
+Earnings for the Year per Share (Full Rupiah)
+10
+24
+(14)
+(58,33%)
+*Data tahun 2023 disajikan ulang, merujuk pada penyesuaian yang dijelaskan dalam Laporan Keuangan terlampir.
+*The 2023 data is restated, referring to the adjustments described in the attached Financial Statements.
+106
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Revenue
+As of December 31, 2024, Hingga 31 Desember 2024, the 
+Company’s operating revenue was recorded at IDR 3,978,189 
+million, decreased by IDR 328,135 million or 7.62% compared to 
+2023 which amounted to IDR 4,306,324 million. This decrease 
+was primarily due to a decline in non-telecommunication 
+service revenue, particularly from concession interest income 
+of subsidiaries PT Palapa Ring Barat and PT Palapa Timur 
+Telematika, which fell by IDR 109,048 million or 11.01% as a 
+result of the implementation of ISAK 16 on service concessions. 
+In addition, revenue from VSAT services also declined by IDR 
+299,448 million owing to the dynamics of the leased capacity 
+service market.
+Direct Cost
+As of December 31, 2024, the direct cost of the Company 
+decreased by IDR 129,035 million or equivalent to 7.24% to 
+IDR 1,652,355 million compared to the direct cost for the year 
+ending December 31, 2023 of IDR 1,781,391 million. This decline is 
+primarily caused by a  reduction in leased capacity rental costs 
+for the VSAT network that uses third-party services, amounting 
+to IDR 128,771 million or 27.85%.
+Other Expenses – Net
+In the reporting year ended December 31, 2024, the Company’s 
+net other expenses were recorded at IDR 544,224 million, a 
+decrease of IDR 67,417 million or 11.02% compared to the previous 
+year’s amount of IDR 611,641 million. This decline was primarily 
+due to a reduction in interest expenses on bank loans and sukuk 
+ijarah that have been repaid.
+Profit for the Year
+For the year ending December 31, 2024, the Company’s net 
+profit decreased by IDR 416,603 million, or 61.34%, to IDR 262,568 
+million, compared to the net profit of IDR 679,171 million for 
+the year ending December 31, 2023. This decrease was due 
+to a decline in revenue of IDR 328,135 million, or 7.62%, and an 
+increase in income tax expense of IDR 47,470 million, driven by 
+rising demand from customers in the Subsidiaries, namely PT 
+Palapa Ring Barat and PT Palapa Timur Telematika.
+Pendapatan	
+Hingga 31 Desember 2024, pendapatan usaha Perseroan 
+tercatat sebesar Rp3.978.189 juta, mengalami penurunan 
+sebesar Rp328.135 juta atau 7,62% dibandingkan tahun 2023 
+yang sebesar Rp4.306.324 juta. Penurunan ini terutama 
+disebabkan oleh turunnya pendapatan non-penyelenggaraan 
+telekomunikasi, khususnya dari pendapatan bunga konsesi 
+anak perusahaan PT Palapa Ring Barat dan PT Palapa 
+Timur Telematika, yang turun Rp109.048 juta atau 11,01% 
+akibat implementasi ISAK 16 tentang konsesi jasa. Selain itu, 
+pendapatan dari layanan VSAT menurun sebesar Rp299.448 
+juta dikarenakan dinamika pasar layanan leased capacity. 
+ 
+Beban Langsung
+Per 31 Desember 2024, beban langsung Perseroan mengalami 
+penurunan sebesar Rp129.035 juta atau setara dengan 7,24% 
+menjadi sebesar Rp1.652.355 juta bila dibandingkan dengan 
+beban langsung untuk tahun yang berakhir pada tanggal 31 
+Desember 2023 sebesar Rp1.781.391 juta. Penurunan tersebut 
+terutama disebabkan oleh penurunan dari biaya sewa leased 
+capacity dari jaringan VSAT yang menggunakan jasa pihak ketiga 
+sebesar Rp128.771 juta atau sebesar 27,85%.
+Beban Lain-Lain – Bersih
+Pada tahun pelaporan yang berakhir 31 Desember 2024, beban 
+lain-lain bersih Perseroan tercatat sebesar Rp544.224 juta, turun 
+Rp67.417 juta atau 11,02% dibandingkan tahun sebelumnya 
+sebesar Rp611.641 juta. Penurunan ini terutama disebabkan oleh 
+menurunnya beban bunga atas pokok utang bank dan sukuk 
+ijarah yang telah dilunasi.
+Laba Bersih Tahun Berjalan
+Untuk tahun yang berakhir pada tanggal 31 Desember 2024, laba 
+bersih Perseroan mengalami penurunan sebesar Rp416.603 juta 
+atau setara dengan 61,34% menjadi sebesar Rp262.568 juta bila 
+dibandingkan dengan laba bersih untuk tahun yang berakhir 
+pada tanggal 31 Desember 2023 sebesar Rp679.171 juta. Hal ini 
+dikarenakan oleh penurunan pendapatan sebesar Rp328.135 
+juta atau setara dengan 7,62% dan kenaikan dari beban pajak 
+penghasilan sebesar Rp47.470 juta dikarenakan meningkatnya 
+penerimaan dari pelanggan di entitas anak Perusahaan yaitu PT 
+Palapa Ring Barat dan PT Palapa Timur Telematika.
+107
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ Total Comprehensive Income
+For the year ended December 31, 2024, the Company’s total 
+comprehensive income decreased by IDR 219,095 million 
+or 31.97% to IDR 466,282 million, compared to the total 
+comprehensive income of IDR 685,377 million for the year ended 
+December 31, 2023. This decrease was due to a decline in the 
+Company’s net profit of IDR 416,603 million and the recognition 
+of an increase in revaluation surplus amounting to IDR 200,376 
+million in 2024.
+Profitability Ratios
+The following are the Company’s profitability ratios to provide an 
+overview of the Company’s ability to generate profits:
+The return on equity (ROE) measures the Company’s ability to 
+generate income from its equity. The ROE for the Company for 
+the years ending December 31, 2024, and 2023 were 3.55% and 
+9.81%, respectively.
+Meanwhile, the return on assets (ROA) measures the Company’s 
+ability to generate income from its assets. The ROA for the years 
+ending December 31, 2024, and 2023 were 1.79% and 4.56%, 
+respectively.
+Jumlah Penghasilan Komprehensif
+Untuk tahun yang berakhir pada tanggal 31 Desember 2024, 
+jumlah 
+penghasilan 
+komprehensif 
+Perseroan 
+mengalami 
+penurunan sebesar Rp219.095 juta atau setara dengan 31,97% 
+menjadi sebesar Rp466.282 juta bila dibandingkan dengan 
+jumlah penghasilan komprehensif untuk tahun yang berakhir 
+pada tanggal 31 Desember 2023 sebesar Rp685.377 juta. 
+Penurunan ini disebabkan oleh penurunan dari laba bersih 
+Perseroan sebesar Rp416.603 juta dan pencatatan atas kenaikan 
+surplus revaluasi sebesar Rp200.376 juta di 2024.
+Rasio-Rasio Profitabilitas
+Berikut ini rasio-rasio profitabilitas Perseroan untuk memberikan 
+gambaran mengenai kemampuan Perseroan dalam menghasilkan 
+keuntungan: 
+Rasio Profitabilitas
+Profitability Ratios
+2024 (%)
+2023 (%)
+Pendapatan/Jumlah Aset
+Income/Total Assets
+27,15
+28,90
+Laba Tahun Berjalan/Jumlah Aset (ROA)
+Profit for the Year/Total Assets (ROA)
+1,79
+4,56
+Laba Tahun Berjalan/Jumlah Ekuitas (ROE)
+Profit for the Year/Total Equity (ROE)
+3,55
+9,81
+Laba tahun berjalan/jumlah ekuitas (ROE) menggambarkan 
+kemampuan Perseroan untuk memperoleh pendapatan dari 
+ekuitasnya. ROE Perseroan untuk tahun-tahun yang berakhir 
+pada tanggal 31 Desember 2024 dan 2023 masing- masing 
+adalah 3,55% dan 9,81%.
+Sedangkan 
+Laba 
+tahun 
+berjalan/jumlah 
+aset 
+(ROA 
+menggambarkan kemampuan Perseroan untuk menghasilkan 
+pendapatan dari asetnya. ROA untuk tahun- tahun yang berakhir 
+pada tanggal 31 Desember 2024 dan 2023 masing-masing 
+adalah sebesar 1,79% dan 4,56%.
+Laporan Arus Kas Konsolidasian 
+Consolidated Cash Flow Statement
+Keterangan
+Description
+2024
+(Rp-Juta /
+IDR-Million)
+2023
+(Rp-Juta /
+IDR-Million)
+Kenaikan/Penurunan
+Increase/Decrease
+Nominal (Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage   
+Arus Kas dari/(untuk) Aktivitas Operasi
+Cash Flow from/(for) Operational Activities
+2.532.497
+1.655.996 *
+875.501
+52,93%
+Arus Kas dari/(untuk) Aktivitas Investasi
+Cash Flow from/(for) Investment Activities
+(1.258.334)
+(1.265.576)*
+7.242
+(0,57%)
+Arus Kas dari/(untuk) Aktivitas Pendanaan
+Cash Flow from/(for) Funding Activities
+(590.448)
+(469.104)*
+(121.343)
+25,87%
+Kenaikan (Penurunan) Bersih Kas dan Setara Kas
+Net Increase (Decrease) of Cash and Cash Equivalents
+683.716
+(78.684)
+762.400
+968,94%
+108
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Cash Flow from Operating Activities
+As of December 31, 2023, the total cash flow from the 
+Company’s operating activities increased by IDR 876,501 million 
+or equivalent to 52.93%, amounting to IDR 2,532,497 million 
+compared to the position as of December 31, 2023, which was 
+IDR 1,655,996 million. This increase was due to higher customer 
+receipts, particularly from the Company’s subsidiaries, PT Palapa 
+Ring Barat and PT Palapa Timur Telematika.
+Cash Flow for Investing Activities
+As of December 31, 2024, the total cash flow used for investment 
+activities by the Company increased by IDR 7,242 million or
+equivalent to 0.57%, amounting to IDR 1,258,334 million compared 
+to the position as of December 31, 2023, which was IDR 1,265,576 
+million. This was due to an increase in the Company’s payments 
+for the purchase of fixed assets, particularly telecommunications 
+assets, in 2024.
+Cash Flow From/(For) Funding Activities
+As of December 31, 2024, the total cash flow used from financing 
+activities by the Company increased by IDR 121,343 million 
+or equivalent to 25.87%, amounting to IDR 590,448 million 
+compared to the position as of December 31, 2023, which was 
+IDR 469,104 million. This was due to the repayment of Sustainable 
+Sukuk Ijarah I Phase IV in 2021 Series A amounting to IDR 469,100 
+million in May 2024 and Sustainable Sukuk Ijarah I phase I in 2019 
+Series B amounting to IDR 653,000 million in July 2024.
+Cash and Cash Equivalents at
+the End of the Year
+Taking into account the cash flow from operating activities, cash 
+flow from investing activities, cash flow from financing activities, 
+and the difference in foreign currency transactions, the cash and 
+cash equivalents of the Company recorded a increase of 60.48% 
+Keterangan
+Description
+2024
+(Rp-Juta /
+IDR-Million)
+2023
+(Rp-Juta /
+IDR-Million)
+Kenaikan/Penurunan
+Increase/Decrease
+Nominal (Rp-Juta)
+Value (IDR-Million)
+Persentase
+Percentage   
+Kas dan Setara Kas Awal Periode
+Cash and Cash Equivalents at the Beginning of the Year
+1.135.723
+1.211.090
+(75.367)
+(6,22%)
+Selisih Transaksi dalam Mata Uang Asing
+Differences in Foreign Currency Transactions
+146
+3.317
+(3.171)
+(95,60%)
+Kas dan Setara Kas Akhir Periode
+Cash and Cash Equivalents at the End of the Year
+1.819.585
+1.135.723
+683.862
+60,21%
+*Data tahun 2023 disajikan ulang, merujuk pada penyesuaian yang dijelaskan dalam Laporan Keuangan terlampir.
+*The 2023 data is restated, referring to the adjustments described in the attached Financial Statements.
+Arus Kas Dari Aktivitas Operasi
+Per 31 Desember 2024, jumlah arus kas dari kegiatan operasi 
+Perseroan mengalami peningkatan sebesar Rp876.501 juta atau 
+setara dengan 52,93% menjadi sebesar Rp2.532.497 juta bila 
+dibandingkan dengan posisi per 31 Desember 2023 sebesar 
+Rp1.655.996 juta. Peningkatan ini karena adanya kenaikan dari 
+penerimaan pelanggan khususnya di entitas anak Perusahaan 
+yaitu PT Palapa Ring Barat dan PT Palapa Timur Telematika.
+Arus Kas Untuk Aktivitas Investasi
+Per 31 Desember 2024, jumlah arus kas yang digunakan untuk 
+kegiatan investasi dari Perseroan mengalami peningkatan 
+sebesar Rp7.242 juta atau setara dengan 0,57% menjadi 
+sebesar Rp1.258.334 juta bila dibandingkan dengan posisi per 
+31 Desember 2023 sebesar Rp1.265.576 juta. Hal ini disebabkan 
+karena kenaikan pembayaran Perseroan untuk membeli aset 
+tetap, khususnya aset telekomunikasi di tahun 2024.
+Arus Kas Dari/(Untuk) Aktivitas Pendanaan
+Per 31 Desember 2024, jumlah arus kas yang digunakan dari 
+kegiatan pendanaan dari Perseroan mengalami peningkatan 
+sebesar Rp121.343 juta atau setara dengan 25,87% menjadi 
+sebesar Rp590.448 juta bila dibandingkan dengan posisi per 
+31 Desember 2023 sebesar Rp469.104 juta. Hal ini disebabkan 
+oleh pelunasan utang Sukuk Ijarah Berkelanjutan I Tahap IV th 
+2021 Seri A sebesar Rp. 469.100 juta pada bulan Mei 2024 dan 
+Sukuk Ijarah Berkelanjutan I tahap I tahun 2019 Seri B sebesar 
+Rp. 653.000 juta pada bulan Juli 2024.
+Kas dan Setara Kas Akhir Tahun
+Dengan memperhitungkan arus kas dari aktivitas operasi, arus 
+kas dari aktivitas investasi, arus kas dari aktivitas pendanaan, 
+serta selisih transaksi dalam mata uang asing, kas dan setara 
+kas Perseroan tercatat mengalami peningkatan sebesar 60,48% 
+109
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+or equivalent to IDR 683,862 million from IDR 1,135,723 million at 
+the beginning of 2024 to IDR 1,819,585 million at the end of 2024, 
+primarily due to customer receipts.
+Ability to Pay Debt
+The Company’s ability to pay debts is measured using solvency 
+ratios and liquidity ratios. The solvency ratio is a ratio that 
+measures the Company’s ability to pay all of its debts, both 
+short-term and long-term. While the liquidity ratio is a ratio to 
+measure the Company’s ability to pay short-term debt.
+Liquidity Ratio: Ability to Pay Short Term 
+Debt
+Liquidity is the company’s ability to meet its short-term liabilities, 
+which is reflected in the ratio of current assets to short-term 
+liabilities of the company. The Company’s liquidity level for the 
+years ended December 31, 2024 and 2023 were 157.72% and 
+103.38%, respectively.
+As of December 31, 2024, the Company had cash and cash 
+equivalents amounting to IDR 1,819,585 million. The liquidity 
+sources available to the Company originate from both internal 
+and external sources. Internal liquidity derived from the 
+Company’s operating activities is used for operational expenses, 
+working capital, capital expenditures, and payment of Company 
+obligations. If the Company requires additional financing for 
+working capital and capital expenditures, it will utilize external 
+liquidity sources such as short-term and/or long-term bank loans.
+There are no material sources of liquidity that have not been 
+used. So far, there are no known trends, requests, engagements 
+and commitments, events and/or uncertainties that might result 
+in a material increase or decrease in the Company’s liquidity.
+The Company believes that its liquidity is sufficient to meet 
+working capital needs, capital expenditures and repayment of 
+bank financing and interest. Therefore, that changes in interest 
+rates do not have a significant effect on the Company’s ability 
+to repay loans.
+atau setara dengan Rp683.862 juta dari Rp1.135.723 juta pada 
+awal tahun 2024 menjadi Rp1.819.585 juta di akhir tahun 2024, 
+terutama yang disebabkan oleh penerimaan dari pelanggan.
+Kemampuan Membayar Utang
+Kemampuan Perseroan dalam membayar utang diukur 
+menggunakan rasio solvabilitas dan rasio likuiditas. Rasio 
+solvabilitas merupakan rasio yang mengukur kemampuan 
+Perseroan membayar seluruh utangnya baik jangka pendek 
+maupun jangka panjang. Sedangkan rasio likuiditas merupakan 
+rasio untuk mengukur kemampuan Perseroan dalam membayar 
+utang jangka pendek.
+Rasio Likuiditas: Kemampuan Membayar Utang 
+Jangka Pendek
+Likuiditas adalah kemampuan perusahaan untuk memenuhi 
+liabilitas jangka pendeknya, yang tercermin dalam rasio aset 
+lancar terhadap liabilitas jangka pendek perusahaan. Tingkat 
+likuiditas Perseroan untuk tahun yang berakhir pada tanggal 
+31 Desember 2024 dan 2023 masing-masing adalah sebesar 
+157,72% dan 103,38%.
+Pada tanggal 31 Desember 2024, Perseroan memiliki kas dan 
+setara kas sebesar Rp1.819.585 juta. Sumber likuiditas yang 
+dimiliki oleh Perseroan berasal dari internal dan eksternal 
+Perseroan. Likuiditas internal yang berasal dari hasil kegiatan 
+usaha Perseroan digunakan untuk biaya operasional, modal 
+kerja, belanja modal, serta pembayaran kewajiban Perseroan. 
+Apabila Perseroan membutuhkan tambahan pembiayaan baik 
+untuk modal kerja dan belanja modal, maka Perseroan akan 
+mempergunakan sumber likuiditas eksternal berupa pinjaman 
+bank jangka pendek dan/atau jangka panjang.
+Tidak terdapat sumber likuiditas yang material yang belum 
+digunakan. Sejauh ini, tidak terdapat kecenderungan yang 
+diketahui, permintaan, perikatan dan komitmen, kejadian dan/
+atau ketidakpastian yang mungkin dapat mengakibatkan 
+terjadinya peningkatan atau penurunan yang material terhadap 
+likuiditas Perseroan.
+Perseroan berkeyakinan bahwa likuiditas yang dimiliki cukup untuk 
+memenuhi kebutuhan modal kerja, belanja modal serta pembayaran 
+kembali pembiayaan dari bank beserta bunganya. Sehingga 
+perubahan tingkat suku bunga tidak memiliki pengaruh signifikan 
+terhadap kemampuan Perseroan mengembalikan pinjaman. 
+110
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Solvency Ratio: Ability to Pay Short-term 
+and Long-term Debt
+Solvability is a company’s ability to meet all of its liabilities, 
+which is calculated from the ratio of the total liabilities of each 
+company to total assets and to equity. The ratio of all liabilities 
+to total assets of the Company for the years ended December 31, 
+2024 and 2023 were 49.57% and 53.53% respectively. Meanwhile, 
+the ratio of all interest-bearing liabilities to the Company’s equity 
+for the years ended December 31, 2024 and 2023 amounted to 
+98.29% and 115.18%, respectively.
+The ratio of all liabilities to total assets of the Company for the 
+years ended December 31, 2024 and 2023 were 49.57% and 
+53.53% respectively. Meanwhile, the ratio of all interest-bearing 
+liabilities to the Company’s equity for the years ended December 
+31, 2024 and 2023 amounted to 98.29% and 115.18%.
+Receivables Collectibility Rate
+A company’s ability to collect receivables can be determined 
+by calculating the average collection period ratio. This ratio 
+can show the average time needed by the company to collect 
+its receivables and the receivables turnover ratio, which shows 
+how many times the funds invested in receivables rotate in a 
+year. The smaller the average collection time ratio, the faster the 
+Company’s ability to collect receivables.
+The receivables collection period in 2024 was 68 days, an 
+increase compared to 56 days in 2023. Meanwhile, the accounts 
+receivable turnover ratio in 2024 and 2023 is 5.28 times and 6.40 
+times, respectively.
+Keterangan
+Description
+2024
+(%)
+2023
+(%)
+Peningkatan/ Penurunan
+Increase/ Decrease
+Total Aset Lancar/Total Liabilitas Lancar
+Total Current Assets/Total Current Liabilities
+157,72
+103,38*
+52,56%
+*Data tahun 2023 disajikan ulang, merujuk pada penyesuaian yang dijelaskan dalam Laporan Keuangan terlampir.
+*The 2023 data is restated, referring to the adjustments described in the attached Financial Statements.
+Rasio Solvabilitas: Kemampuan Membayar 
+Utang Jangka Pendek dan Jangka Panjang
+Solvabilitas adalah kemampuan perusahaan untuk memenuhi 
+seluruh liabilitasnya, yang dihitung dari rasio jumlah seluruh 
+liabilitas perusahaan masing-masing terhadap jumlah aset dan 
+terhadap ekuitas. Rasio seluruh liabilitas terhadap jumlah aset 
+Perseroan untuk tahun- tahun yang berakhir pada tanggal 31 
+Desember 2024 dan 2023 masing-masing adalah sebesar 49,57% 
+dan 53,53%. Sedangkan rasio seluruh liabilitas berbunga terhadap 
+ekuitas Perseroan untuk tahun-tahun yang berakhir pada tanggal 
+31 Desember 2024 dan 2023 adalah sebesar 98,29,% dan 115,18%.
+Keterangan
+Description
+2024
+2023
+Peningkatan/Penurunan
+Increase/Decrease
+Jumlah Liabilitas/Jumlah Ekuitas (%)
+Total Liabilities/Total Equity (%)
+98,29%
+115,18%
+(14,67%)
+Jumlah Liabilitas/Jumlah Aset (%)
+Total Liabilities/Total Assets (%)
+49,57%
+53,53%
+(7,40%)
+Rasio seluruh liabilitas terhadap jumlah aset Perseroan untuk 
+tahun-tahun yang berakhir pada tanggal 31 Desember 2024 
+dan 2023 masing-masing adalah sebesar 49,57% dan 53,53%. 
+Sedangkan rasio seluruh liabilitas berbunga terhadap ekuitas 
+Perseroan untuk tahun-tahun yang berakhir pada tanggal 31 
+Desember 2024 dan 2023 adalah sebesar 98,29% dan 115,18%.
+Tingkat Kolektibilitas Piutang
+Kemampuan suatu perusahaan dalam mengumpulkan piutang 
+dapat diketahui dengan menghitung rasio lama penagihan 
+rata-rata (average collection period). Rasio tersebut dapat 
+menunjukkan waktu rata-rata yang dibutuhkan perusahaan 
+tersebut dalam menagih piutangnya dan rasio perputaran piutang 
+(receivable turnover) yang menunjukkan berapa kali dana yang 
+ditanam dalam piutang berputar dalam setahun. Semakin kecil 
+nilai rasio lama penagihan rata- rata menunjukkan kemampuan 
+Perseroan dalam mengumpulkan piutang semakin cepat.
+Tingkat kolektibilitas piutang tahun 2024 sebesar 68 hari, 
+mengalami kenaikan dibandingkan dengan tahun 2023 sebesar 
+56 hari. Sedangkan rasio perputaran piutang pada tahun 2024 
+dan 2023 adalah masing-masing sebesar 5,28 kali dan 6,40 kali.
+111
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Capital Structure and Management Policy 
+on Capital Structure
+The capital structure is a combination of own capital (equity) and 
+debt (liabilities). A capital structure with a minimum cost of using 
+funds can affect an increase in the value of a company’s shares, 
+but does not increase earnings per share.
+The Company seeks to intensify its capital structure by 
+optimizing the minimum weighted average capital. The increase 
+in the value of the Company’s shares can be influenced by the 
+capital structure with a minimum cost of using funds. However, 
+this still cannot increase earnings per share.
+The main objective of the Company’s capital management is 
+to ensure that the Company maintains healthy capital ratios 
+in order to support the business and maximize shareholder 
+value. The Company manages the capital structure and makes 
+adjustments to the capital structure in light of changes in 
+economic conditions. The capital structure policy is also aimed at 
+shareholders by determining the price of products and services 
+that are commensurate with the level of risk.
+As is generally accepted practice, the Company evaluates its 
+capital structure through an analysis of the debt-to-equity ratio, 
+namely dividing net debt to total capital.
+Company Capital Structure
+The following is the Company’s capital structure which describes 
+the ratio of net debt to equity:
+Struktur Modal dan Kebijakan Manajemen atas 
+Struktur Modal
+Struktur modal merupakan penggabungan antara modal 
+sendiri (ekuitas) dan utang (liabilitas). Struktur modal dengan 
+minimum biaya penggunaan dana dapat berpengaruh terhadap 
+peningkatan nilai saham suatu perusahaan, tetapi tidak 
+meningkatkan laba bersih per saham.
+Perseroan berupaya mengintensifikasikan struktur modal dengan 
+mengoptimalkan modal rata-rata tertimbang yang minimum. 
+Meningkatnya nilai saham Perseroan dapat dipengaruhi oleh 
+struktur modal dengan minimum biaya penggunaan dana. 
+Namun demikian, hal tersebut tetap tidak dapat meningkatkan 
+laba bersih per saham.
+Tujuan utama dari pengelolaan modal Perseroan adalah untuk 
+memastikan bahwa Perseroan mempertahankan rasio modal 
+yang sehat dalam rangka mendukung bisnis dan memaksimalkan 
+nilai pemegang saham. Perseroan mengelola struktur modal dan 
+membuat penyesuaian terhadap struktur modal sehubungan 
+dengan perubahan kondisi ekonomi. Kebijakan struktur modal 
+juga ditujukan kepada pemegang saham dengan menentukan 
+harga produk dan jasa yang sepadan dengan tingkat risiko.
+Sebagaimana praktik yang berlaku secara umum, Perseroan 
+melakukan evaluasi struktur permodalan melalui analisis rasio 
+utang terhadap modal, yakni membagi utang bersih terhadap 
+jumlah modal.
+Struktur Modal Perseroan
+Berikut merupakan struktur permodalan Perseroan yang 
+menggambarkan rasio utang bersih terhadap modal:
+112
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+ 
+ Keterangan
+Description
+2024
+2023
+Kenaikan (Penurunan) /
+Increase (Decrease)
+Jumlah
+(Rp-Juta)
+Total
+(Rp-Million)
+Komposisi
+Composition 
+Jumlah
+(Rp-Juta)
+Total
+(Rp-Million)
+Komposisi
+Composition
+Nominal
+(Rp-Juta)
+Value
+(IDR-Million)
+Persentase
+Percentage  
+ 
+(1)
+(2)
+(3=1-2) 
+(3/2)
+Jumlah Pinjaman 
+Total Loans
+5.745.381
+-
+6.380.461 *
+-
+(635.080)
+(9,95%)
+Dikurangi: Kas dan Setara Kas
+Subtracted by: Cash and Cash Equivalents
+1.819.585
+-
+1.135.723
+-
+683.862
+60,21%
+Utang Bersih
+Net Debt
+3.925.795
+34,69%
+5.244.737
+43,10%
+(1.318.942)
+(25,15%)
+Jumlah Ekuitas
+Total Equity
+7.390.238
+65,31%
+6.923.968
+56,90%
+466.270
+6,73%
+Jumlah Permodalan
+Total Capital
+11.316.033
+100,00%
+12.168.705
+100,00%
+(852.672)
+(7,01%)
+Rasio Utang Bersih terhadap Ekuitas
+Net Debt to Equity Ratio
+53,12%
+-
+75,75%
+-
+-
+(22,63%)
+*Data tahun 2023 disajikan ulang, merujuk pada penyesuaian yang dijelaskan dalam Laporan Keuangan terlampir.
+*The 2023 data is restated, referring to the adjustments described in the attached Financial Statements.
+Di tahun 2024, struktur modal Perseroan terdiri dari utang bersih 
+sebesar Rp3.925.795 juta dan ekuitas sebesar Rp7.390.238 juta. 
+Komposisi tersebut mengalami perubahan dibandingkan dengan 
+tahun 2023 dengan utang bersih sebesar Rp5.244.737 juta dan 
+ekuitas sebesar Rp6.923.968 juta, sejalan dengan kebijakan 
+Perseroan yang membuat penyesuaian terhadap struktur modal 
+sehubungan dengan perubahan kondisi ekonomi.
+Ikatan Material untuk Investasi Barang Modal 
+Di tahun 2024, tidak terdapat komitmen investasi barang modal 
+yang material.
+In 2024, the Company’s capital structure consisted of net debt 
+at IDR 3,925,795 million and equity at IDR 7,390,238 million. This 
+composition experienced a change compared to 2023, with net 
+debt at IDR 5,244,737 million and equity at IDR 6,923,968 million, 
+in line with the Company’s policy to adjust the capital structure 
+in response to changes in economic conditions.
+Material Commitment for Capital Goods 
+Investment
+In 2024, there was no material investment commitment for 
+capital goods.
+113
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Realisasi Investasi Barang Modal
+Berikut merupakan belanja modal Perseroan untuk tahun yang 
+berakhir pada tanggal-tanggal 31 Desember 2024 dan 2023.
+Keterangan
+Description
+2024
+(Rp - Juta)
+(IDR - Million)
+2023
+(Rp - Juta)
+(IDR - Million)
+Tanah
+Land
+9.147
+1.967
+Bangunan
+Building
+5.900
+12.526
+Peralatan dan Perabot Kantor
+Office Supplies
+13.759
+12.960
+Peralatan Telekomunikasi
+Telecommunication Equipment
+587.357
+686.223
+Kendaraan
+Vehicle
+77
+13.663
+Pekerjaan dalam Pelaksanaan
+Work in Progress
+300.032
+155.333
+Jumlah
+Total
+916.273
+882.672
+Terkait tujuan investasi barang modal tersebut adalah untuk 
+pengembangan usaha perseroan terhadap backbone dan 
+access termasuk sarana pendukungnya, data center dan 
+pengembangan pasif infrastruktur.
+Realization of Capital Expenditures
+The following represents the Company’s capital expenditure for 
+the years ended December 31, 2024 and 2023:
+The purpose of the investment in capital goods aims to develop 
+the company’s the company’s business in terms of backbone 
+and access, including its supporting facilities, data center, and 
+passive infrastructure development.
+Informasi dan Fakta Material yang Terjadi 
+Setelah Tanggal Laporan Akuntan 
+Material Information and Facts That Occurred After the 
+Date of the Accountant’s Report
+Pada tanggal 12 Maret 2025, Perseroan menandatangani 
+addendum 
+perjanjian 
+pinjaman 
+dengan 
+PT 
+Indonesia 
+Infrastructure Finance mengenai penurunan suku bunga atas 
+fasilitas Tranche A yang sebelumnya sebesar 10,15% per tahun 
+menjadi 9,00% per tahun.
+On March 12, 2025, the Company signed a loan agreement 
+addendum with PT Indonesia Infrastructure Finance regarding 
+the reduction of the interest rate on the Tranche A facility, from 
+the previous rate of 10.15% per year to 9.00% per year.
+114
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+ Prospek Usaha dan Proyeksi 2025
+Business Prospects and Projections for 2025
+Menurut IMF dalam World Economic Outlook Update 2025, 
+ekonomi global diproyeksikan tumbuh 3,3% pada 2025 dan 
+2026. Angka ini lebih tinggi dibandingkan pertumbuhan ekonomi 
+global pada 2024 yang tercatat 3,2%, namun masih berada di 
+bawah rata-rata pertumbuhan ekonomi dunia pada periode 
+2000-2019 yang mencapai 3,7%. Meskipun demikian, proyeksi ini 
+lebih optimis dibandingkan dengan perkiraan yang dirilis pada 
+Oktober 2024 yang masih berada di angka 3,2%.12 
+Sejumlah risiko tetap membayangi prospek ekonomi global, 
+termasuk pelemahan ekonomi di China dan Amerika Serikat, 
+ketegangan geopolitik yang berlanjut, dampak perubahan 
+iklim, serta ketidakpastian suku bunga global. Faktor-faktor 
+ini dapat berpengaruh terhadap stabilitas ekonomi dunia dan 
+menghambat pemulihan di berbagai sektor.
+Sementara itu, World Bank memproyeksikan pertumbuhan 
+ekonomi Indonesia pada 2025 akan mencapai 5,1%, didorong 
+oleh reformasi kebijakan, percepatan digitalisasi, serta investasi 
+di sektor-sektor strategis. Meskipun prospek ekonomi tetap 
+menjanjikan, Indonesia tetap menghadapi sejumlah tantangan, 
+seperti fluktuasi harga komoditas global, ketidakpastian 
+geopolitik, serta potensi resesi global yang dapat berdampak 
+pada aliran investasi dan stabilitas nilai tukar rupiah.13
+Sektor telekomunikasi diproyeksikan akan terus tumbuh, 
+seiring dengan semakin luasnya adopsi digital di berbagai 
+sektor.  Perseroan berkomitmen untuk terus berinovasi dalam 
+produk dan layanan yang sesuai dengan kebutuhan pasar yang 
+berkembang pesat. Ekspansi geografis menjadi salah satu fokus 
+utama Perseroan untuk menjangkau lebih banyak segmen pasar 
+di Indonesia.
+Pada tahun 2025, Perseroan akan memperluas jaringan serta 
+memperkuat branding produk Oxygen.id, dengan memanfaatkan 
+teknologi digital secara lebih luas. Selain itu, Perseroan akan 
+terus mengembangkan kemitraan strategis dan meningkatkan 
+engagement dengan pelanggan, guna membangun hubungan 
+yang lebih kuat dan berkelanjutan.
+Untuk mempertahankan daya saing di pasar yang terus 
+berkembang, Perseroan juga akan mengoptimalkan penggunaan 
+data pelanggan dalam strategi pemasaran dan layanan. 
+Pendekatan ini memungkinkan Perseroan untuk lebih memahami 
+kebutuhan konsumen serta menghadirkan solusi yang lebih 
+personal dan efektif dalam meningkatkan pengalaman 
+pelanggan.
+According to the IMF in the World Economic Outlook Update 
+2025, the global economy is projected to grow at 3.3% in 2025 
+and 2026. This figure is higher than the global economic growth 
+in 2024, which was recorded at 3.2%, although still below the 
+global economic growth average in the period between 2000-
+2019, which had reached 3.7%. Even so, this projection is more 
+optimistic compared to the forecast released in October 2024, 
+which was still at 3.2%.12
+Several risks  continue to overshadow the outlook for the global 
+economy, including economic slowdowns in China and the 
+United States, ongoing geopolitical tensions, the impacts of 
+climate change, and uncertainty surrounding global interest 
+rates. These factors may affect global economic stability and 
+hinder recovery across various sectors.
+Meanwhile, the World Bank projects that Indonesia’s economic 
+growth in 2025 will reach 5.1%, driven by policy reforms, 
+accelerated digitalization, and investments in strategic sectors. 
+Although the economic prospects are promising, Indonesia 
+still faces several challenges, such as fluctuations in global 
+commodity prices, geopolitical uncertainty, and the potential for 
+a global recession, which may impact investment flows and the 
+stability of the rupiah exchange rate.13
+The telecommunications sector is projected to continue growing 
+in line with the widespread digital adoption across various 
+sectors. The Company is committed to continuously innovating 
+its products and services to meet the rapidly evolving needs 
+of the market. Geographic expansion has become one of the 
+Company’s key focuses in order to reach more market segments 
+throughout Indonesia.
+In 2025, the Company will expand its network and strengthen 
+the branding of Oxygen.id by leveraging digital technology more 
+extensively. Additionally, the Company will continue to develop 
+strategic partnerships and enhance customer engagement to 
+build stronger and more sustainable relationships.
+To maintain competitiveness in a growing market, the Company 
+will also optimize the use of customer data in its marketing 
+strategies and services. This approach enables the Company 
+to better understand consumer needs and deliver personalized, 
+effective solutions to enhance the customer experience.
+12IMF, World Economic Outlook Update 2025. https://www.imf.org/en/Publications/WEO/Issues/2025/01/17/world-economic-outlook-update-january-2025
+13World Bank, Emerging and Developing Economies in the 21st Century. https://www.worldbank.org/en/publication/global-economic-prospects
+115
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ Pencapaian Target 2024
+Target Achievements in 2024
+Perseroan memiliki tolak ukur untuk menghitung perbandingan 
+target dan realisasi yang dicapai setiap tahunnya yang berfungsi 
+untuk menilai kinerja Perseroan serta memberikan gambaran 
+bagi Perseroan untuk menetapkan strategi kinerja usaha di 
+tahun mendatang. Selain itu, Perseroan juga memiliki komponen 
+lainnya yang menunjang perhitungan perbandingan target dan 
+realisasi Perseroan. 
+Berikut ini perbandingan antara target pada awal tahun dengan 
+hasil yang dicapai pada tahun 2024:
+Deskripsi
+Description
+Target pada Awal Tahun 2024
+Target at the Beginning of Year 2024
+Realisasi Tahun 2024
+2024 Realizations
+Pendapatan
+Revenue
+Perseroan menargetkan peningkatan pendapatan pada 
+2024 sebesar satu digit sesuai dengan rata-rata industri
+The Company targets a single digit increase in revenue by 
+2024 in line with the industry average.
+Pendapatan Perseroan tercapai sebesar 91 % dari target 
+yang ditentukan.
+The Company achieved 91% of its revenue target.
+Laba 
+Profit
+Target laba perseroan untuk tahun 2024 diperkirakan 
+akan meningkat satu digit dibandingkan dengan tahun 
+sebelumnya.
+The company’s profit target for 2024 is expected to 
+increase by single digits compared to the previous year.
+EBITDA dan Laba bersih Perseroan masing masing 
+tercapai sebesar 79% dan 39% dari target yang ditentukan.
+The Company’s EBITDA and net profit were achieved at 
+79% and 39% of the specified targets, respectively.
+Belanja Modal
+Capital Expenditure
+Belanja Modal Perseroan diproyeksikan meningkat satu 
+digit dibanding tahun sebelumnya.
+The Company’s Capital Expenditure is projected to 
+increase by single digit compared to the previous year.
+Belanja Modal Perseroan tercapai sebesar 80% dari target 
+yang ditentukan
+The Company’s Capital Expenditure was achieved at 80% 
+of the specified target.
+The Company has benchmarks to calculate the comparison of 
+targets and realization achieved each year which serves to assess 
+the Company’s performance and provides an overview for the 
+Company to set a business performance strategy in the coming 
+year. In addition, the Company also has other components that 
+support the calculation of the Company’s target comparison and 
+realization.
+The comparison between target at the beginning of the year and 
+result of achievement in 2024 is as follows:
+Target Tahun 2025
+Target for 2025
+Indikator
+Indicator
+Target pada Awal Tahun 2025
+Target at the Beginning of Year 2025
+Pendapatan
+Revenue
+Perseroan menargetkan peningkatan pendapatan pada 2025 sebesar satu digit 
+sesuai dengan rata-rata industri
+The Company targets a revenue increase in 2025 of a satu digit according to 
+industry average
+Laba
+Profit
+Target laba perseroan untuk tahun 2025 diperkirakan akan meningkat double digit 
+dibandingkan dengan tahun sebelumnya.
+The Company’s profit target for 2025 is expected to increase by a double digit 
+compared to the previous year
+Belanja Modal
+Capital Expenditure
+Belanja Modal Perseroan diproyeksikan double digit dibanding tahun sebelumnya
+The Company’s Capital Expenditure is projected to increase by a double digit 
+compared to the previous year
+116
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Aspek Pemasaran
+Marketing Aspect
+Perseroan mengembangkan strategi pemasarannya dengan 
+berfokus beberapa aspek, yaitu:
+1.	 Meningkatkan kapasitas dan pengembangan jaringan untuk 
+memenuhi permintaan pelanggan sebagai bagian dari upaya 
+pengembangan pasar, terutama dalam upaya melakukan 
+penetrasi ke pasar konsumer FTTH (Retail) di berbagai kota.
+2.	 Memperluas jaringan akses sampai ke area pelanggan 
+potensial terutama Consumer Market FTTH dan Corporate 
+Market yaitu Small Medium Enterprise dan High Rise Building.
+3.	 Berkonsentrasi pada Peningkatan Penjualan (Penetrasi/
+Occupancy) terutama di jaringan yang sudah ada. Khusus 
+untuk pasar konsumer FTTH melakukan kegiatan promosi 
+iklan di media massa antara lain melalui radio, media sosial, 
+media daring dan media cetak dengan tujuan meningkatkan 
+brand awareness Oxygen.id secara menyeluruh. Selain 
+itu, Perseroan juga menawarkan promosi yang melibatkan 
+paket gabungan (bundling) layanan internet dengan televisi 
+kabel serta layanan tambahan lainnya. Perseroan juga 
+secara berkala turut berpartisipasi dalam kegiatan pameran 
+teknologi informasi dan telekomunikasi nasional untuk 
+memperkenalkan produk kepada konsumen.
+Perseroan melakukan upaya pemasaran dan penjualan dengan 
+mengimplementasikan prosedur terstandar yang diterapkan 
+berdasarkan wilayah. Upaya ini pada umumnya membutuhkan 
+waktu satu tahun untuk mencapai titik optimal. Adapun tim 
+pemasaran dan penjualan internal Perseroan berlokasi di 
+JABODETABEK, Serang, Bandung, Cirebon, Semarang, Surabaya, 
+Bali, Medan, Palembang, Jambi, Pangkal Pinang, Pontianak dan 
+Kupang. Perseroan juga akan melalukan ekspansi tim pemasaran 
+pada beberapa lokasi baru diantaranya Kabupaten Karawang, 
+Kabupaten Sumedang, Kabupaten Cianjur – Ciranjang, Kabupaten 
+Ciamis, Kabupaten Indramayu, Kabupaten Banyumas, Kota Tegal, 
+Pekalongan, Kota Probolinggo Pekanbaru dan Dumai. Perseroan 
+juga mengalihkan sebagian upaya pemasaran, penjualan, dan 
+distribusi layanan melalui beberapa segmen pasar. 
+Sistem penjualan dan distribusi Perseroan berdasarkan segmen 
+adalah sebagai berikut:
+1.	 Segmen Telco dan Segmen Wholesales: Sistem penjualan 
+di segmen ini dilakukan melalui program penjualan berbasis 
+B2B. Pangsa pasar tersebut merupakan perusahaan operator 
+jaringan telekomunikasi yang juga membutuhkan jaringan 
+backbone, internet dan data center dalam layanannya untuk 
+pelanggannya.
+2.	 Segmen Enterprise: Sistem penjualan di segmen ini adalah 
+merupakan penjualan langsung ke pangsa pasar korporasi 
+baik perusahaan swasta maupun pemerintah. Segmen 
+Enterprise dibagi menjadi 6 unit segmen yaitu GBO yang 
+mencakup pelanggan kategori Pemerintahan Pusat/Daerah, 
+The Company is developing its marketing strategy with a focus 
+on several aspects:
+1.	 Increasing capacity and expanding networks to meet 
+customer demand as part of market development efforts, 
+especially in penetrating the FTTH (Retail) consumer market 
+in various cities.
+2.	 Expanding access networks to reach potential customers, 
+especially in the Consumer Market FTTH and Corporate 
+Market, including Small Medium Enterprises and High Rise 
+Buildings.
+3.	 Concentrating on increasing sales (Penetration/Occupancy), 
+especially in existing networks. Specifically for the FTTH 
+consumer market, advertising promotions are carried out 
+through mass media such as radio, social media, online 
+media, and print media to increase overall brand awareness 
+of Oxygen.id. Additionally, the company offers promotions 
+involving bundled packages combining internet services 
+with cable television and other additional services. The 
+company also periodically participates in national information 
+technology and telecommunications exhibitions to introduce 
+products to consumers.
+The company conducts marketing and sales efforts by 
+implementing standardized procedures based on regions. These 
+efforts generally take one year to reach optimal points. The 
+internal marketing and sales team of the Company are located in 
+JABODETABEK, Serang, Bandung, Cirebon, Semarang, Surabaya, 
+Bali, Medan, Palembang, Jambi, Pangkal Pinang, Pontianak and 
+Kupang. The Company will also expand its marketing team in 
+several new locations, including Karawang Regency, Sumedang 
+Regency, Cianjur Regency – Ciranjang, Ciamis Regency, 
+Indramayu Regency, Banyumas Regency, Tegal City, Pekalongan, 
+Probolinggo City, Pekanbaru, and Dumai. The Company also 
+outsources some marketing, sales, and service distribution efforts 
+through several market segments.
+The Company’s sales and distribution system by segment is as 
+follows:
+1.	 Telco Segment and Wholesale Segment: Sales in this segment 
+are conducted through B2B sales programs. This market 
+consists of telecommunications network operator companies 
+that also require backbone networks, internet and data center 
+services for their customers.
+2.	 Enterprise Segment: Sales in this segment involve direct sales 
+to the corporate market share, both private and government 
+companies. The Enterprise segment is divided into 6 segment 
+units, namely GBO which includes customers in the Central/
+Regional Government category, State Institutions, SOEs, 
+117
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Lembaga Negara, BUMN, BUMD dan Perusahaan Minyak 
+(swasta dan BUMN) dengan produk yang ditawarkan antara 
+lain Internet dedicated, Leased line/Metro, Data center 
+(Collocation dan DRC), High Rise Building yaitu pelanggan 
+Perseroan yang berada di area gedung bertingkat dengan 
+menawarkan pro Oxygen.id Soho, Internet dedicated, 
+Data center, Leased Line/Metro, Regional yang mencakup 
+Perusahaan-Perusahaan swasta, Universitas dan lembaga 
+Pendidikan, Pemda dengan dinas/OPD, Rumah Sakit Swasta/
+Pemerintah, BUMN/BUMD dan juga SME dengan penawaran 
+produk Internet Dedicated, Leased Line/Metro dan Data 
+Center, Education yaitu segmen pelanggan khusus untuk 
+sektor pendidikan, lembaga pendidikan, sekolah, akademi 
+universitas yang menawarkan produk Internet dedicated, 
+Leased line/Metro, Data Center, Wi-Fi, jejaring Riset dan 
+Edukasi Indonesia (Indonesia Research and Education 
+Networks, IDREN), 
+Media-Hospitality yang merupakan segmen pelanggan 
+untuk Kawasan Industri, Rumah Sakit dan Perhotelan 
+dengan penawaran Internet dedicated, Leased line/Metro, 
+Data Center, IPTV, Wi-Fi, serta Palapa Ring Nasional dan 
+SME (Small Medium Enterprise) yaitu pelanggan kategori 
+Pemerintahan Daerah, Lembaga Negara, BUMN, BUMD, 
+Perusahaan Swasta, UMKM, Hotel, Sektor Pendidikan, Sektor 
+Kesehatan, Perbankan dengan menawarkan produk Internet 
+dedicated, Leased line/Metro, Data center (Collocation dan 
+DRC), Oxygen.id
+3.	 Segmen Retail: Sistem penjualan di segmen ini berfokus 
+pada pangsa pasar konsumen yang mencakup residensial 
+dan UMKM (Retail/FTTH) dan penjualannya melalui 
+program direct selling dan telesales. Sedangkan promosinya 
+menggunakan iklan media sosial, brosur, media massa lainnya 
+seperti radio. Produk yang ditawarkan adalah beberapa paket 
+internet yang mencakup penggabungan (bundling) produk 
+lain seperti TV dan lain-lain.
+4.	 Segmen Lainnya merupakan:
+a.	 Pendapatan jasa konsesi atas proyek Palapa Ring dimana 
+Perseroan hanya memberikan layanan berdasarkan 
+kontrak dengan BAKTI selama periode kontrak kerja sama.
+b.	 Pendapatan konstruksi dimana program penjualan 
+berdasarkan order pembelian dari pelanggan.
+c.	 Pendapatan usaha dari penjualan VSAT melalui program 
+penjualan berkesinambungan yang disesuaikan secara 
+personal serta program penjualan berbasis B2B untuk 
+area yang tidak terjangkau oleh fiber optik.
+ROEs and Oil Companies (private and SOE) with products 
+offered including dedicated Internet, Leased line/Metro, Data 
+center (Collocation dan DRC), High Rise Building namely 
+corporate customers located in high rise building areas 
+by offering Oxygen products. id Soho, Internet dedicated, 
+Data center, Leased Line/Metro,  Regional which includes 
+private companies, universities and educational institutions, 
+local governments with offices/DPOs, private/government 
+hospitals, SOEs/ROEs and also SMEs by offering Internet 
+Dedicated, Leased Line / Metro and Data Center products, 
+Education is a special customer segment for the education 
+sector, educational institutions, schools, university academies 
+offering Internet dedicated, Leased line/Metro, Datacenter, 
+Wi-Fi, Indonesia Research and Education Networks, IDREN), 
+Media-Hospitality which is a customer segment for Industrial 
+Estates, Hospitals and Hotels offering dedicated Internet, 
+Leased line/Metro, Datacenter, IPTV, Wi-Fi, as well as 
+National Palapa Ring and SME (Small Medium Enterprise) 
+which is a customer category for Regional Government, 
+State Institutions, SOEs, ROEs, Private Companies, MSMEs, 
+Hotels, Education Sector, Health Sector, Banking by 
+offering dedicated Internet, Leased line/Metro, Data center 
+(Collocation and DRC), Oxygen.id.
+3.	 Retail Segment: Sales in this segment focus on the consumer 
+market that covers residential and MSMEs (Retail/FTTH) and 
+are carried out through Direct Selling and Telesales programs. 
+Meanwhile, promotions utilize social media advertising, 
+brochures, and other mass media such as radio. The products 
+offered include various internet packages that incorporate 
+bundling with other products such as TV and others.
+4.	 Other Segments are:
+a.	 Revenue from service concessions for the Palapa Ring 
+project where the Company only provides services based 
+on a contract with BAKTI during the collaboration contract 
+period.
+b.	 Construction revenue where sales programs are based on 
+purchase orders from customers.
+c.	 Business revenue from VSAT sales through personalized 
+continuous sales programs and B2B-based sales programs 
+for areas not covered by fiber optic.
+118
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Informasi Dividen
+Dividends Information
+Berdasarkan Anggaran Dasar Perseroan, Kebijakan mengenai 
+Penggunaan Dana dan Pembagian Dividen diatur bahwa:
+1.	 Laba bersih Perseroan dalam suatu tahun buku seperti 
+tercantum dalam neraca dan perhitungan laba rugi yang 
+telah disahkan oleh RUPS tahunan dan merupakan saldo 
+laba yang positif, dibagi menurut cara penggunaannya yang 
+ditentukan oleh RUPS tersebut.
+2.	 Dividen-Dividen hanya dapat dibayarkan berdasarkan dan 
+sesuai keputusan yang diambil dalam RUPS, dalam keputusan 
+mana juga harus ditentukan waktu dan cara pembayaran 
+dividen dengan memperhatikan peraturan perundang-
+undangan yang berlaku di bidang pasar modal.
+Pembagian Dividen
+1.	 Tahun Buku 2024 
+Berdasarkan hasil keputusan RUPS Tahunan tanggal 13 Juni 
+2024, Pemegang Saham Perseroan memutuskan untuk tidak 
+membagikan dividen pada tahun 2024 atas laba Perseroan 
+tahun buku 2023. Adapun penjelasan mengenai pembagian 
+laba Perseroan tertuang dalam Akta Berita Acara RUPST 
+Perseroan No. 35 tertanggal 13 Juni 2024 dibuat di hadapan 
+Notaris Aulia Taufani S.H., sebagai berikut :
+Untuk tidak membagikan dividen untuk tahun buku yang 
+berakhir pada tanggal 31 Desember 2023 dan seluruh Laba 
+Bersih tahun berjalan yang diperoleh Perseroan selama 
+tahun buku yang berakhir pada tanggal 31 Desember 2023 
+setelah dikurangi Dana Cadangan, akan dicatat sebagai Laba 
+Ditahan Perseroan yang penggunaannya untuk ekspansi 
+pengembangan jaringan telekomunikasi.
+2.	 Tahun Buku 2023 
+Berdasarkan hasil keputusan RUPS Tahunan tanggal 15 Juni 
+2023, Pemegang Saham Perseroan memutuskan untuk tidak 
+membagikan dividen pada tahun 2023 atas laba Perseroan 
+tahun buku 2022. Adapun penjelasan mengenai pembagian 
+laba Perseroan tertuang dalam Akta Berita Acara RUPST 
+Perseroan No. 95 tertanggal 15 Juni 2023 dibuat di hadapan 
+Notaris Emmyra Fauzia Kariana S.H., sebagai berikut :
+a.	 Menyetujui Laba Bersih Perseroan tahun buku 2022 
+yang berakhir pada 31 Desember 2022 sebesar 
+Rp672.897.955.795, - (enam ratus tujuh puluh dua 
+miliar delapan ratus sembilan puluh tujuh juta sembilan 
+ratus lima puluh lima ribu tujuh ratus sembilan puluh 
+Based on the Company’s Articles of Association, the Policy 
+regarding the Use of Funds and Dividend Distribution is 
+regulated as follows:
+1.	 The net profit of the Company in a fiscal year as stated in 
+the balance sheet and profit and loss calculation approved 
+by the annual GMS and is a positive balance of profit, divided 
+according to its designated use by the GMS.
+2.	 Dividends can only be paid based on and in accordance 
+with the decisions taken in the GMS, in which the time and 
+method of dividend payment must also be determined, 
+taking into account the prevailing laws and regulations in the 
+capital market sector.
+Dividend Distribution
+1.	 Fiscal Year 2024
+Based on the resolution of the Annual GMS dated June 
+13, 2024, the Shareholders of the Company decided not to 
+distribute dividends in 2024 on the Company’s profit for the 
+fiscal year 2023. The explanation regarding the distribution 
+of the Company’s profit is contained in the Deed of Minutes 
+of the Company’s AGMS No. 35 dated June 13, 2024 made 
+before Notary Aulia Taufani S.H., as follows:
+To not distribute dividends for the financial year ending 
+December 31, 2023 and all Net Income for the year obtained 
+by the Company during the financial year ending December 
+31, 2023 after deducting the Reserve Fund, will be recorded 
+as Retained Earnings of the Company which will be used for 
+the expansion of telecommunications network development.
+	
+2.	 Fiscal Year 2023 
+Based on the resolution of the Annual GMS dated June 
+15, 2023, the Shareholders of the Company decided not to 
+distribute dividends in 2023 on the Company’s profit for the 
+fiscal year 2022. The explanation regarding the distribution 
+of the Company’s profit is contained in the Deed of Minutes 
+of the Company’s AGMS No. 95 dated June 15, 2023 made 
+before Notary Emmyra Fauzia Kariana S.H., as follows:
+a.	 Approve the Company’s Net Income for the fiscal 
+year 
+ended 
+December 
+31, 
+2022 
+amounting 
+to 
+IDR 672,897,955,795 (six hundred seventy two billion 
+eight hundred ninety seven million nine hundred fifty five 
+thousand seven hundred ninety five Rupiah) and approve 
+119
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+lima Rupiah) dan menyetujui untuk tidak membagikan 
+Dividen untuk tahun buku yang berakhir pada tanggal 31 
+Desember 2022.
+b.	 Laba Bersih yang diperoleh Perseroan selama tahun buku 
+2022 akan dipergunakan sebagai berikut:
+i.	 Disisihkan sebesar Rp1.000.000.000, - (satu miliar 
+Rupiah) untuk Dana Cadangan sebagaimana dimaksud 
+dalam Pasal 70 ayat (1) Undang-Undang No. 40 Tahun 
+2007 tentang Perseroan Terbatas; dan
+ii.	 Sisa Laba tahun buku 2022 setelah dikurangi 
+Dana Cadangan yaitu sebesar Rp671.897.955.795, 
+- (enam ratus tujuh puluh satu miliar delapan ratus 
+sembilan puluh tujuh juta sembilan ratus lima puluh 
+lima ribu tujuh ratus sembilan puluh lima Rupiah) 
+akan dicatat sebagai Laba Ditahan Perseroan yang 
+penggunaannya untuk ekspansi pengembangan 
+jaringan telekomunikasi.
+not to distribute Dividends for the fiscal year ended 
+December 31, 2022.
+b.	 The Net Profit obtained by the Company during the 
+financial year 2022 will be utilized as follows:
+i.	 Set aside IDR 1,000,000,000 (one billion Rupiah) 
+for the Reserve Fund as referred to in Article 70 
+paragraph (1) of Law No. 40 of 2007 on Limited Liability 
+Companies; and
+ii.	 The remaining profit for the fiscal year 2022 
+after deducting the Reserve Fund, amounting to 
+IDR 671,897,955,795 (six hundred seventy one billion 
+eight hundred ninety seven million nine hundred fifty 
+five thousand seven hundred ninety five Rupiah) will 
+be recorded as Retained Earnings of the Company 
+for the expansion of telecommunications network 
+development.
+PT Palapa Ring Barat menggelar kegiatan Corporate Social Responsibility bertajuk “Dedicated to The Future” di Jakarta, 20 
+Agustus 2024. Kegiatan ini bertujuan untuk memberikan dukungan nyata kepada Pemerintah Kabupaten Natuna, khususnya 
+melalui Badan Penanggulangan Bencana Daerah Kabupaten Natuna, dalam upaya meningkatkan kesiapsiagaan dan 
+penanggulangan bencana di wilayah tersebut.
+PT Palapa Ring Barat held a Corporate Social Responsibility activity entitled “Dedicated to the Future” in Jakarta, August 20, 2024. 
+This activity aims to provide real support to the Natuna Regency Government, especially through the Natuna Regency Regional 
+Disaster Management Agency, in an effort to improve disaster preparedness and management in the region.
+120
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Sebagai bentuk kepatuhan terhadap Peraturan Otoritas Jasa 
+Keuangan No. 30/POJK.05/2015 tentang Laporan Realisasi 
+Penggunaan Dana Hasil Penawaran Umum (“POJK 30/2015”), 
+maka Perseroan menyampaikan realisasi penggunaan dana hasil 
+penawaran umum per 31 Desember 2023 yang telah dilaporkan 
+kepada Otoritas Jasa Keuangan melalui surat Perseroan 
+No. 033/MTI/PD-DIR/I/2024 pada tanggal 15 Januari 2024, 
+dimana penggunaan dana hasil penawaran umum perdana 
+saham tersebut telah direalisasikan. Rincian terkait realisasi 
+penggunaan dana hasil Penawaran Umum Perdana Saham PT 
+Mora Telematika Indonesia Tbk per 31 Desember 2023 sebagai 
+berikut:
+As a form of compliance with the Financial Services Authority 
+Regulation No. 30/POJK.05/2015 regarding the Report on the 
+Realization of the Use of Proceeds from Public Offerings (“POJK 
+30/2015”), the Company hereby submits the realization of the 
+use of proceeds from the public offering as of December 31, 2023, 
+which has been reported to the Financial Services Authority 
+through the Company’s letter No. 033/MTI/PD-DIR/I/2024 dated 
+January 15, 2024. The details regarding the realization of the use 
+of funds from the Initial Public Offering of PT Mora Telematika 
+Indonesia Tbk as of December 31, 2023, are as follows:
+Realisasi Penggunaan Dana Hasil Penawaran 
+Umum Perdana Saham
+Realization of Use of Funds from Initial Public Offering
+Jenis Penawaran Umum
+Types of Public
+Offerings
+Nilai Realisasi Hasil Penawaran Umum (Rp)
+Realized Value of Public Offering Results (IDR)
+Jumlah Hasil Penawaran Umum
+Amount of Public Offering Proceeds
+Biaya Penawaran Umum
+Cost of Public Offering
+Hasil Bersih
+Net Realization
+Penawaran Umum Perdana Saham
+Initial Public Offering of Shares
+1.000.083.862.800
+18.771.788.851
+981.312.073.949
+Oxygen.id mendukung kesuksesan acara Showtime 40 Hours Nonstop Streaming yang diselenggarakan oleh Predator 
+Gaming, dengan memberikan layanan internet cepat dan stabil untuk pengalaman streaming tanpa hambatan.
+Oxygen.id supported the success of the Showtime 40 Hours Nonstop Streaming event organized by Predator Gaming, by 
+providing fast and stable internet services for a seamless streaming experience.
+121
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Realisasi Penggunaan Dana
+Realized Use of Fund (IDR)
+Sisa Hasil
+Penawaran
+Umum (Rp)
+Remaining Funds 
+from Public
+Offering (IDR)
+Investasi 85%
+85% Investment
+Modal Kerja 15%
+15% Working Capital 
+Total
+Investasi 85%
+85% Investment
+Modal Kerja 15%
+15% Working Capital 
+Total
+834.115.262.857
+147.196.811.092
+981.312.073.949
+834.115.262.857
+147.196.811.092
+981.312.073.949
+0
+122
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Realisasi Penggunaan Dana Penawaran 
+Umum Berkelanjutan Sukuk Ijarah
+Realization of Use of Funds from Shelf Registration 
+Ijarah Sukuk
+Sebagai bentuk kepatuhan terhadap POJK 30/2015, maka 
+Perseroan menyampaikan realisasi penggunaan dana 
+Sukuk Ijarah sebagai berikut:
+1.	 Realisasi penggunaan dana Sukuk Ijarah Berkelanjutan II 
+Moratelindo Tahap I Tahun 2023 per 31 Desember 2023 
+yang telah dilaporkan kepada Otoritas Jasa Keuangan 
+melalui surat Perseroan No. 033/MTI/PD-DIR/I/2024 pada 
+tanggal 15 Januari 2024, dimana penggunaan dana hasil 
+Penawaran Umum Berkelanjutan Sukuk Ijarah tersebut telah 
+direalisasikan. Rincian terkait realisasi penggunaan dana 
+Sukuk Ijarah Berkelanjutan II Moratelindo Tahap I Tahun 2023 
+sebagai berikut:
+In compliance with POJK 30/2015, the Company submits the 
+realization of the use of funds from Shelf Registration Ijarah 
+Sukuk as follows:
+1.	 The realization of the use of funds from Moratelindo Shelf 
+Registration Ijarah Sukuk II as of December 31, 2023, which 
+has been reported to the Financial Services Authority 
+through the Company’s letter No. 033/MTI/PD-DIR/I/2024 
+dated January 15, 2024, in which the use of proceeds from the 
+Shelf Registration Ijarah Sukuk has been realized. The details 
+regarding the realization of the use of funds from Moratelindo 
+Shelf Registration Ijarah Sukuk II Phase I Year 2023 are as 
+follows: 
+Jenis Penawaran Umum
+Types of Public
+Offerings
+Nilai Realisasi Hasil Penawaran Umum (Rp)
+Realized Value of Public Offering Results (IDR)
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Jumlah Hasil 
+Penawaran 
+Umum
+Amount of 
+Public Offering 
+Proceeds
+Biaya 
+Penawaran 
+Umum
+Cost of Public 
+Offering
+Hasil Bersih
+Net Realization
+Refinancing 
+36%
+Investasi 57%
+57% Investment
+Sukuk Ijarah Berkelanjutan II Moratelindo Tahap I Tahun 2023
+Seri A dan Seri B
+Moratelindo Shelf Registration Ijarah Sukuk II Phase I Year 2023
+Series A and Series B
+488.550.000.000
+7.538.567.356
+481.011.432.644
+173. 164.115.752
+274.176.516.607 
+2.	 Realisasi penggunaan dana Sukuk Ijarah Berkelanjutan II 
+Moratelindo Tahap II Tahun 2024 per 30 Juni 2024 yang telah 
+dilaporkan kepada Otoritas Jasa Keuangan melalui surat 
+Perseroan No. 287/MTI/PD-DIR/VII/2024 pada tanggal 4 Juli 
+2024, dimana penggunaan dana hasil Penawaran Umum 
+Berkelanjutan Sukuk Ijarah tersebut telah direalisasikan. 
+Rincian terkait realisasi penggunaan dana Sukuk Ijarah 
+Berkelanjutan II Moratelindo Tahap II Tahun 2024 sebagai 
+berikut:
+2.	 The realization of the use of funds from Moratelindo Shelf 
+Registration Ijarah Sukuk II Phase II 2024, which has been 
+reported to the Financial Services Authority through the 
+Company’s letter No. 287/MTI/PD-DIR/VII/2024 dated 
+July 4, 2024, in which the use of proceeds from the Shelf 
+Registration Ijarah Sukuk has been realized. The details 
+regarding the realization of the use of funds from Moratelindo 
+Shelf Registration Ijarah Sukuk II Phase II Year 2024 are as 
+follows:
+Jenis Penawaran Umum
+Types of Public
+Offerings
+Nilai Realisasi Hasil Penawaran Umum (Rp)
+Realized Value of Public Offering Results (IDR)
+Jumlah Hasil Penawaran 
+Umum
+Amount of Public Offering 
+Proceeds
+Biaya Penawaran Umum
+Cost of Public
+Offering
+Hasil Bersih
+Net Realization
+Sukuk Ijarah Berkelanjutan II Moratelindo Tahap II Tahun 2024 Seri A 
+dan Seri B
+Moratelindo Shelf Registration Ijarah Sukuk II Phase II Year 2024 
+Series A and Series B
+279.630.000.000
+3.834.180.991
+275.795.819.009
+123
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Realisasi Penggunan Dana (Rp)
+Realization of Fund Utilization (IDR)
+Sisa Hasil Penawaran
+Umum (Rp)
+Remaining Funds from
+Public Offering (IDR)
+Modal Kerja 7%
+7% Working Capital
+Total
+Refinancing 36%
+Investasi 57%
+57% Investment
+Modal Kerja 7%
+7% Working Capital
+Total
+33.670.800.285
+481.011.432.644
+173.164.115.752 
+274.176.516.607
+33.670.800.285
+481.011.432.644
+0
+Rencana Penggunaan Dana (Rp)
+Plan of Fund Utilization (IDR)
+Realisasi Penggunaan Dana
+Realized Use of Fund (IDR)
+Sisa Hasil
+Penawaran
+Umum (Rp)
+Remaining
+Funds from
+Public Offering
+(IDR)
+Refinancing 50%
+Investasi 50%
+50% Investment
+Total
+Refinancing 50%
+Investasi 50%
+50% Investment
+Total
+137.897.909.504
+137.897.909.504
+275.795.819.009
+137.897.909.504
+137.897.909.504
+275.795.819.009
+0
+124
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Informasi Material Mengenai Investasi, 
+Ekspansi, Divestasi, Penggabungan/ 
+Peleburan Usaha, Akuisisi, Restrukturisasi 
+Utang/Modal, Transaksi Material, Transaksi 
+Afiliasi dan Transaksi Benturan Kepentingan 
+Tahun Buku 2024
+Material Information Regarding Investment, Expansion, 
+Divestment, Merger/Consolidation, Acquisition, Debt/
+Capital Restructuring, Material Transactions, Affiliated 
+Transactions, and Conflict of Interest Transactions for 
+Fiscal Year 2024
+Keterbukaan Informasi
+Disclosure of Information
+Nilai Transaksi
+Transaction Value
+Tanggal
+Date
+Keterangan
+Description
+Sifat Hubungan Afiliasi
+Nature of Affiliated Relationship
+Keterbukaan 
+Informasi 
+Sehubungan dengan Transaksi 
+Afiliasi dengan PT Inti Bangun 
+Sejahtera Tbk (IBST)
+Disclosure 
+of 
+Information 
+Regarding Affiliated Transactions 
+with PT Inti Bangun Sejahtera 
+Tbk (IBST)
+Rp15.712.200.000
+23 Februari 2024
+February 23, 2024
+Transaksi jual beli core yang terdapat 
+di dalam jaringan kabel serat optic 
+beserta fasilitas dan dokumentasi 
+pendukung terkait yang melekat pada 
+core tersebut.
+Sale and purchase transaction of cores 
+within the fiber optic cable network, 
+along with related supporting facilities 
+and documentation attached to the 
+core.
+1.	 Perseroan 
+dan 
+IBST 
+memiliki 
+komisaris independen yang sama, 
+yaitu Bapak Kanaka Puradiredja.
+The Company and IBST share the 
+same Independent Commissioner, 
+Mr. Kanaka Puradiredja.
+2.	 Perseroan 
+dan 
+IBST 
+memiliki 
+pemegang saham utama yang 
+sama, yaitu Ibu Farida Bau dengan 
+kepemilikan saham secara tidak 
+langsung.
+The Company and IBST share the 
+same principal shareholder, Mrs. 
+Farida Bau, through indirect share 
+ownership.
+Perseroan memastikan bahwa transaksi afiliasi telah melalui 
+prosedur yang memadai untuk memastikan bahwa transaksi 
+afiliasi dilaksanakan sesuai dengan praktik bisnis yang berlaku 
+umum antara lain dilakukan dengan memenuhi prinsip transaksi 
+yang wajar (arm’s length principle) sebagaimana dimaksud dalam 
+Pasal 3 POJK No 42/POJK.04/2020 tentang Transaksi Afiliasi dan 
+Transaksi Benturan Kepentingan (POJK 42/2020).
+The Company ensures that affiliated transactions have 
+gone through adequate procedures to ensure that affiliated 
+transactions are carried out in accordance with generally 
+accepted business practices, among others, by fulfilling the 
+arm’s length principle as referred to in Article 3 of POJK No. 42/
+POJK.04/2020 concerning Affiliated Transactions and Conflict of 
+Interest Transactions (POJK 42/2020).
+125
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Perubahan Peraturan Perundang-undangan 
+yang Berpengaruh Signifikan terhadap Kinerja 
+Perseroan 
+Changes in Laws and Regulations that have a Significant 
+Influence on Company’s Performance
+Perubahan Kebijakan Akuntansi 
+Changes in Accounting Policy
+Di sepanjang tahun 2024 tidak terdapat perubahan peraturan 
+Perundang-undangan yang mempunyai pengaruh signifikan 
+terhadap kinerja Perseroan.
+In 2024 there were no changes to laws and regulations that had 
+a significant impact on the Company’s performance.
+DITERAPKAN PADA 1 JANUARI 2024
+Dewan Standar Akuntansi Keuangan Ikatan Akuntan Indonesia 
+(DSAK- IAI) telah menerbitkan amandemen dan interpretasi yang 
+berlaku efektif mulai 1 Januari 2024 sebagai berikut:
+1.	 Amandemen PSAK No. 201 “Penyajian Laporan Keuangan” 
+tentang klasifikasi liabilitas sebagai liabilitas jangka pendek 
+atau jangka panjang;
+2.	 Amandemen PSAK No. 201, “Penyajian Laporan Keuangan” 
+terkait liabilitas jangka panjang dengan kovenan;
+3.	 Amandemen PSAK No. 116 “Sewa” terkait liabilitas sewa pada 
+transaksi jual dan sewa balik;
+4.	 Amandemen PSAK No. 207 “Laporan Arus Kas” dan 
+amandemen PSAK No. 107 “Instrumen Keuangan” tentang 
+pengaturan pembiayaan pemasok; dan
+5.	 Amandemen PSAK No. 409 “Akuntansi Zakat, Infak, dan 
+`Sedekah” dan PSAK No. 401 “Penyajian Laporan Keuangan 
+Syariah”
+Penerapan dari amandemen dan interpretasi di atas tidak 
+menimbulkan perubahan substansial atas kebijakan akuntansi 
+Grup dan tidak memiliki dampak signifikan terhadap Laporan 
+Keuangan Konsolidasian pada tahun berjalan atau tahun 
+sebelumnya.
+IMPLEMENTED ON JANUARY 1, 2024
+The Financial Accounting Standards Board of the Indonesian 
+Accountants Association (DSAK-IAI) has issued amendments 
+and interpretations which are effective starting January 1 2024 
+as follows:
+1.	 Amendment to PSAK No. 201  “Presentation of Financial 
+Statements” regarding the classification of liabilities as 
+current or non-current liabilities.
+2.	 Amendment to PSAK No. 201, “Presentation of Financial 
+Statements” related to long-term liabilities with covenants.
+3.	 Amendment to PSAK No. 116 “Lease” related to lease liabilities 
+in sale and leaseback transactions.
+4.	 Amendment to PSAK No. 207 “Cash Flow Statement” and 
+amendment to PSAK No. 107 “Financial Instruments” regarding 
+supplier financing arrangements; and
+5.	 Amendment to PSAK No. 409 “Accounting for Zakat, Infaq, and 
+Sadaqah” and PSAK No. 401 “Presentation of Sharia Financial 
+Statements”
+The 
+implementation 
+of 
+the 
+above 
+amendments 
+and 
+interpretations does not result in substantial changes to the 
+Group’s accounting policies and does not have a significant 
+impact on the Consolidated Financial Statement for the current 
+or previous year.
+126
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+STANDAR AKUNTANSI YANG TELAH 
+DITERBITKAN NAMUN BELUM BERLAKU 
+EFEKTIF
+Dewan Standar Akuntansi Keuangan Ikatan Akuntan Indonesia 
+(DSAK- IAI) telah menerbitkan standar baru, amandemen dan 
+interpretasi berikut, namun belum berlaku efektif untuk tahun 
+buku yang dimulai pada 1 Januari 2024 sebagai berikut:
+1 JANUARI 2025
+1.	 Amendemen PSAK No. 221 “Pengaruh Perubahan Kurs Valuta 
+Asing” terkait kondisi ketika suatu mata uang tidak tertukarkan
+Standar tersebut akan berlaku efektif pada 1 Januari 2025.
+Pada saat penerbitan laporan keuangan konsolidasian, Grup 
+masih mengevaluasi dampak yang mungkin timbul dari 
+penerapan standar baru tersebut serta pengaruhnya pada 
+laporan keuangan konsolidasian Grup.
+Mulai tanggal 1 Januari 2025, referensi terhadap masing-masing 
+PSAK dan ISAK akan diubah sebagaimana diumumkan oleh 
+DSAK-IAI.
+ACCOUNTING STANDARDS THAT HAVE 
+BEEN ISSUED BUT ARE NOT YET EFFECTIVE
+The Financial Accounting Standards Board of the Indonesian 
+Institute of Accountants (DSAK-IAI) has issued the following new 
+standards, amendments and interpretations, but they are not 
+yet effective for the financial year starting on January 1, 2024 
+as follows:
+JANUARY 1, 2025
+1.	 Amendment to PSAK No. 221 “Pengaruh Perubahan Kurs 
+Valuta Asing” terkait kondisi ketika suatu mata uang tidak 
+tertukarkan
+The standards will become effective on January 1, 2025.
+At the time of publishing the consolidated financial statements, 
+the Group was still evaluating the possible impact of the 
+implementation of the new standard and its effect on the Group’s 
+consolidated financial statements.
+Starting January 1, 2025, references to each PSAK and ISAK will 
+be changed as announced by DSAK-IAI.
+127
+Annual Report 2024 | Laporan Tahunan 2024
+PT Mora Telematika Indonesia Tbk
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Oxygen.id dukung ajang pameran otomotif terbesar di Indonesia, GAIKINDO Indonesia International Auto Show (GIIAS) 2024, 
+yang berlangsung pada 18-28 Juli 2024 di ICE BSD, Tangerang, Banten. Partisipasi Oxygen.id dalam GIIAS 2024 menunjukkan 
+komitmen mereka untuk mendukung perkembangan industri otomotif di Indonesia dan memperkuat hubungan dengan para 
+pemangku kepentingan di sektor ini.
+Oxygen.id supports Indonesia’s largest automotive exhibition, GAIKINDO Indonesia International Auto Show (GIIAS) 2024, which 
+takes place on July 18-28, 2024 at ICE BSD, Tangerang, Banten. Oxygen.id’s participation in GIIAS 2024 demonstrates
+their commitment to supporting the development of the automotive industry in Indonesia and strengthening relationships with 
+stakeholders in the sector.

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-CEKA-att7.pdf",
+    "ticker": "CEKA_2023",
+    "mdma_start": "67",
+    "mdma_end": "84",
+    "Positive_Sum": 2077.0,
+    "Negative_Sum": 1646.0,
+    "Total_Matched_Words": 1195,
+    "Total_Word": 8032,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

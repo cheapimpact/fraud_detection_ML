@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-LAJU-att1.pdf",
+    "ticker": "LAJU_2023",
+    "mdma_start": "60",
+    "mdma_end": "76",
+    "Positive_Sum": 1648.0,
+    "Negative_Sum": 1328.0,
+    "Total_Matched_Words": 960,
+    "Total_Word": 6115,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

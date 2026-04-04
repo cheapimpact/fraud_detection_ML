@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GZCO-att1.pdf",
+    "ticker": "GZCO_2024",
+    "mdma_start": "36",
+    "mdma_end": "59",
+    "Positive_Sum": 2696.0,
+    "Negative_Sum": 3046.0,
+    "Total_Matched_Words": 1868,
+    "Total_Word": 14090,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

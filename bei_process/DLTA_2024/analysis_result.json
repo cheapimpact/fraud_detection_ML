@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DLTA-att1.pdf",
+    "ticker": "DLTA_2024",
+    "mdma_start": "63",
+    "mdma_end": "80",
+    "Positive_Sum": 1863.0,
+    "Negative_Sum": 2132.0,
+    "Total_Matched_Words": 1252,
+    "Total_Word": 8988,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

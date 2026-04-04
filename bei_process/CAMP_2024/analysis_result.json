@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CAMP-att2.pdf",
+    "ticker": "CAMP_2024",
+    "mdma_start": "69",
+    "mdma_end": "90",
+    "Positive_Sum": 2858.0,
+    "Negative_Sum": 2389.0,
+    "Total_Matched_Words": 1704,
+    "Total_Word": 11364,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

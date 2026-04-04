@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SMDM-att1.pdf",
+    "ticker": "SMDM_2023",
+    "mdma_start": "62",
+    "mdma_end": "75",
+    "Positive_Sum": 1606.0,
+    "Negative_Sum": 1416.0,
+    "Total_Matched_Words": 993,
+    "Total_Word": 6518,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CBUT-att1.pdf",
+    "ticker": "CBUT_2024",
+    "mdma_start": "86",
+    "mdma_end": "117",
+    "Positive_Sum": 4020.0,
+    "Negative_Sum": 4026.0,
+    "Total_Matched_Words": 2523,
+    "Total_Word": 15451,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,2018 @@
+90
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+TINJAUAN EKONOMI
+ECONOMIC REVIEW
+KAJIAN INDUSTRI
+INDUSTRY STUDIES
+Pada tahun 2024, perekonomian global terus menghadapi 
+tekanan, dengan pertumbuhan yang sedikit melambat. 
+Berdasarkan data dari Dana Moneter Internasional (IMF), 
+pertumbuhan ekonomi global turun dari 3,3% pada tahun 2023 
+menjadi 3,2% pada tahun 2024. Hal ini terutama disebabkan 
+oleh ketidakpastian yang terus berlanjut di seluruh dunia, 
+termasuk konflik geopolitik, kebijakan keuangan yang lebih 
+ketat, dan perubahan kepemimpinan yang membawa strategi 
+ekonomi baru di beberapa negara besar.
+Di Asia Timur, pemulihan pasca COVID-19 masih berlangsung 
+tidak merata. PDB untuk kawasan Asia Timur dan Pasifik 
+(tidak termasuk China) tumbuh dari 4,3% pada 2023 menjadi 
+4,7% pada 2024. Namun, pertumbuhan ekonomi Indonesia 
+tetap relatif datar. Berdasarkan data BPS – Badan Pusat 
+Statistik, pertumbuhan PDB Indonesia tercatat 5,03% pada 
+2024, lebih rendah dari target pemerintah sebesar 5,2%. Hal 
+ini menunjukkan bahwa konsumsi domestik dan investasi 
+tetap lemah sepanjang tahun.
+Rupiah Indonesia juga menghadapi tantangan. Meskipun 
+menguat di awal tahun dan mencapai Rp 15.135 per USD, nilai 
+tukar rupiah kemudian melemah dan menutup tahun di Rp 
+16.218. Hal ini dipengaruhi oleh ketidakpastian global, aliran 
+modal keluar, dan menguatnya nilai dolar AS.
+Seiring dengan pertumbuhan ekonomi digital yang melambat, 
+berkurangnya kepercayaan investor, dan tertundanya minat 
+konsumen terhadap kendaraan listrik akibat perubahan 
+kebijakan pemerintah, faktor-faktor ini menjadikan tahun 
+2024 sebagai tahun yang sulit bagi perusahaan-perusahaan 
+yang berfokus pada teknologi di Indonesia.
+Sektor Digital Indonesia
+Ekonomi digital di Asia Tenggara terus tumbuh pada tahun 
+2024, meskipun dengan kecepatan yang lebih lambat 
+dibandingkan 
+tahun-tahun 
+sebelumnya. 
+Berdasarkan 
+laporan e-Conomy SEA 2024 dari Google, Bain & Company, 
+dan Temasek, pertumbuhan pendapatan di kawasan ini turun 
+In 2024, the global economy continued to face pressure, 
+with growth slowing down slightly. Based on data from the 
+International Monetary Fund (IMF), global economic growth 
+dropped from 3.3% in 2023 to 3.2% in 2024. This was mainly 
+caused by ongoing uncertainty around the world, including 
+geopolitical conflicts, tighter financial policies, and changes 
+in leadership that brought new economic strategies in some 
+major countries.
+In East Asia, the recovery after COVID-19 has remained 
+uneven. The GDP for the East Asia and Pacific region 
+(excluding China) grew from 4.3% in 2023 to 4.7% in 2024. 
+However, Indonesia’s economic growth stayed relatively flat. 
+According to BPS – Statistics Indonesia, GDP growth was 
+5.03% in 2024, lower than the government’s target of 5.2%. 
+This shows that domestic consumption and investment 
+remained weak throughout the year.
+The Indonesian Rupiah also experienced challenges. 
+Although it strengthened early in the year and reached Rp 
+15,135 per USD, it later weakened and closed the year at Rp 
+16,218. This was driven by global uncertainties, outflows of 
+capital, and the rising strength of the US dollar.
+Along with slower growth in the digital economy, reduced 
+investor confidence, and delayed consumer interest in 
+electric vehicles due to shifting government policies, these 
+factors made 2024 a difficult year for technology-focused 
+companies in Indonesia.
+Indonesian Digital Sector 
+The digital economy in Southeast Asia continued to grow 
+in 2024, though at a slower pace than in previous years. 
+According to the e-Conomy SEA 2024 report by Google, Bain 
+& Company, and Temasek, revenue growth across the region 
+decreased from 37% in 2023 to 14% in 2024. At the same time, 
+91
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+dari 37% pada tahun 2023 menjadi 14% pada tahun 2024. 
+Sementara itu, platform e-commerce mulai menunjukkan 
+kemajuan menuju profitabilitas, dengan margin EBITDA 
+rata-rata yang meningkat dari -15% menjadi -10%. Fokus di 
+seluruh industri tetap pada pencapaian keseimbangan yang 
+lebih baik antara ekspansi skala dan mencapai profitabilitas.
+Salah satu tren utama yang mendorong pertumbuhan di masa 
+depan adalah meningkatnya penggunaan Kecerdasan Buatan 
+(AI). Banyak perusahaan di seluruh kawasan, terutama di 
+kota-kota besar, mulai mengadopsi AI untuk meningkatkan 
+keterlibatan pelanggan, mengoptimalkan operasi, dan 
+memberikan iklan yang lebih terarah—terutama di sektor 
+e-commerce.
+Di Indonesia, bisnis digital juga semakin berkembang ke kota-
+kota kecil untuk menjangkau pasar baru. Tren ini mendukung 
+inklusi digital yang lebih luas dan mencerminkan evolusi 
+perilaku konsumen yang terus berkembang. Perusahaan 
+beradaptasi dengan perkembangan ini dengan memperluas 
+layanan iklan cloud digitalnya dan terus meningkatkan 
+kemampuan platform, memastikan agar tetap kompetitif dan 
+relevan di tengah perubahan lanskap yang terjadi.
+Energi Bersih
+Pada tahun 2024, sektor energi bersih di Indonesia mengalami 
+kemajuan sekaligus tantangan. Di awal tahun, penjualan 
+sepeda motor listrik didorong oleh subsidi pemerintah 
+yang mendorong adopsi. Namun, subsidi tersebut habis 
+pada kuartal ketiga, yang menyebabkan pelambatan dalam 
+pembelian konsumen. Banyak orang menunda keputusan 
+pembelian mereka, menunggu apakah insentif baru akan 
+diperkenalkan.
+Perusahaan merespon dengan cepat pergeseran ini dengan 
+menyesuaikan pendekatan bisnis dan terus mengembangkan 
+infrastruktur energi bersih. Ini termasuk memperluas jaringan 
+stasiun tukar baterai dan memperkenalkan model sepeda 
+motor listrik baru untuk memenuhi berbagai kebutuhan 
+pengguna. Perusahaan juga memperkuat penawaran bisnis 
+dan kemitraannya untuk memastikan bahwa momentum di 
+sektor ini dapat terus berlanjut meskipun tanpa subsidi.
+Melihat gambaran yang lebih besar, potensi pasar sepeda 
+motor listrik di Indonesia tetap sangat besar. Saat ini, negara 
+ini memiliki lebih dari 130 juta sepeda motor di jalan, dengan 5 
+hingga 6 juta unit baru terjual setiap tahun. Hal ini memberikan 
+peluang besar bagi pertumbuhan kendaraan listrik di masa 
+e-commerce platforms made progress toward profitability, 
+with average EBITDA margins improving from -15% to -10%. 
+The focus across the industry remains on achieving a better 
+balance between expanding scale and reaching profitability.
+One of the key trends driving future growth is the increasing 
+use of Artificial Intelligence (AI). Many companies across the 
+region, especially in large cities, are adopting AI to improve 
+customer engagement, optimize operations, and provide 
+more targeted advertising—particularly in the e-commerce 
+space.
+In Indonesia, digital businesses are also expanding into 
+smaller cities to tap into new markets. These trends support 
+broader digital inclusion and reflect the ongoing evolution 
+of consumer behavior. The Company is aligned with these 
+developments by expanding its digital cloud advertising 
+services and continuing to improve platform capabilities, 
+ensuring it remains competitive and relevant in the changing 
+landscape.
+Clean Energy
+In 2024, the clean energy sector in Indonesia saw both 
+progress and challenges. Early in the year, electric 
+motorcycle sales were supported by government subsidies 
+that encouraged adoption. However, these subsidies ran 
+out by the third quarter, causing a slowdown in consumer 
+purchases. Many people postponed their buying decisions, 
+waiting to see if new incentives would be introduced.
+The Company responded quickly to this shift by adjusting its 
+business approach and continuing to develop its clean energy 
+infrastructure. This included expanding its battery swap 
+station network and introducing new electric motorcycle 
+models to meet different user needs. The Company also 
+strengthened its business offerings and partnerships to 
+ensure that momentum in this sector could continue even 
+without subsidies.
+Looking at the bigger picture, the market potential for electric 
+motorcycles in Indonesia remains very large. The country 
+currently has over 130 million motorcycles on the road, with 
+5 to 6 million new units sold each year. This presents a major 
+opportunity for EV growth in the coming years, and with 
+92
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+TINJAUAN BISNIS
+BUSINESS REVIEW
+Pada tahun 2024, Perusahaan menghadapi tantangan 
+yang berasal dari ketidakpastian geopolitik yang terus 
+berlanjut. Meskipun demikian, Perusahaan tetap fokus untuk 
+memperdalam keterlibatan konsumen di semua bidang 
+bisnisnya. Hal ini didukung oleh segmen-segmen bisnis 
+Perusahaan, yang meliputi Penggabung Produk Digital, Iklan 
+Digital Cloud, Energi Bersih, Grosir Digital, serta Segmen 
+Konten & Hiburan yang masing-masing dirancang untuk 
+memenuhi kebutuhan konsumen yang terus berkembang dan 
+memperkuat konektivitas serta pengalaman sehari-hari.
+Aggregator Produk Digital
+Pada segmen ini, Perusahaan mengembangkan platform 
+agregator untuk mendistribusikan produk digital ke sektor 
+ritel dan e-commerce dengan memanfaatkan teknologi 
+berbasis API. Dengan membangun koneksi digital dengan 
+jaringan ritel terkemuka seperti Grup Alfamart Group dan 
+Grup Sampoerna Retail Community (SRC), Perusahaan 
+menyediakan pasokan yang mudah dan lancar ke berbagai 
+produk digital, seperti isi ulang kredit ponsel, paket data 
+internet, voucher game, dan e-voucher. Kemitraan ini juga 
+berkontribusi dalam meningkatkan pengalaman belanja 
+digital, sehingga memberikan kenyamanan lebih bagi 
+konsumen.
+Jaringan 
+distribusi 
+online 
+Perusahaan 
+mencakup 
+platform-platform seperti Alfagift, Shopee, Grab Kiosk dan 
+Tokopedia, yang memungkinkan jangkauan yang lebih luas 
+dan peningkatan aksesibilitas. Pada tahun 2024, segmen 
+Agregator 
+Produk 
+Digital 
+mencatatkan 
+pertumbuhan 
+anggota, dari 253.986 pada tahun 2023 menjadi 262.018. 
+Pendapatan segmen ini mencapai Rp5,8 triliun, atau turun 
+36.6% YoY dibanding tahun sebelumnya sebesar Rp9.1 triliun. 
+Namun demikian, margin laba kotor mengalami peningkatan 
+signifikan, dari 0,5% pada tahun 2023 menjadi 0,8% pada 
+tahun 2024. Alhasil, laba kotor segmen ini mengalami 
+peningkatan sebesar 0,3% YoY, dari Rp47,1 miliar pada tahun 
+2023 menjadi Rp47,3 miliar pada tahun 2024.
+In 2024, the Company navigated challenges stemming 
+from ongoing geopolitical uncertainty. Even so, it remained 
+focused on deepening consumer engagement across all 
+areas of its business. This was supported by the Company’s 
+business 
+segments, 
+which 
+includes 
+Digital 
+Product 
+Aggregator, Digital Cloud Advertising, Clean Energy, Digital 
+Wholesale, and Content & Entertainment segments each 
+designed to meet evolving consumer needs and strengthen 
+everyday connectivity and experiences.
+Digital Product Aggregator
+In this segment, the Company develops an aggregator 
+platform to distribute digital products to the retail and 
+e-commerce sectors by utilizing API-based technology. By 
+building a digital connection with prominent retail chains 
+like Alfamart Group and Sampoerna Retail Community 
+(SRC) Group, the Company provides seamless supply to 
+digital offerings, such as mobile credit top-ups, internet 
+data packages, game vouchers, and e-vouchers. These 
+partnerships also improve the digital shopping experience, 
+enhancing convenience for consumers.
+The Company’s online distribution network spans platforms 
+like Alfagift, Shopee, Grab Kiosk and Tokopedia, enabling 
+expanded reach and improved accessibility. In 2024, the 
+Digital Product Aggregator segment saw membership 
+growth, from 253,986 in 2023 to 262,018. The segment’s 
+revenue recorded Rp 5.8 trillion, declining by 36.6% YoY from 
+Rp 9.1 trillion in the previous year. However, the quality of this 
+segment’s profitability improved with the gross profit margin 
+increasing from 0.5% in 2023 to 0.8% in 2024. The result, 
+the segment’s gross profit managed to increase by 0.3% YoY, 
+from Rp 47.1 billion in 2023 to Rp 47.3 billion in 2024.
+depan, dan dengan pengembangan infrastruktur yang 
+berkelanjutan serta fokus kuat pada peningkatan akses 
+ke sepeda motor listrik, Perusahaan berkomitmen untuk 
+mendukung tujuan pengurangan emisi karbon Indonesia dan 
+transisi yang lebih luas menuju transportasi berkelanjutan.
+continued infrastructure development and a strong focus 
+on improving access to electric motorcycles, the Company 
+is committed to supporting Indonesia’s carbon emission 
+reduction goals and the broader transition to sustainable 
+transportation.
+93
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Iklan berbasis Cloud Digital
+Dalam rangka memberdayakan pelaku usaha di era digital, 
+Perusahaan menyediakan solusi periklanan berbasis cloud 
+digital yang memungkinkan klien menjangkau pelanggan 
+dengan lebih tepat sasaran. Solusi yang fleksibel ini 
+memungkinkan bisnis menyesuaikan kampanye mereka 
+berdasarkan perilaku dan preferensi pelanggan, sehingga 
+memastikan kelincahan dalam lanskap digital yang terus 
+berkembang. Pada tahun 2024, Perusahaan memperluas 
+produk dan layanannya dengan menghadirkan pengalaman 
+ritel end-to-end yang lebih komprehensif, termasuk 
+peluncuran layar LED berukuran besar (Videotron) dan label 
+rak elektronik (electronic shelf labels). Inovasi ini memberikan 
+visibilitas yang lebih tinggi serta kapabilitas periklanan yang 
+lebih dinamis bagi pelaku usaha.
+Selain itu, Perseroan mulai mengintegrasikan teknologi 
+AI ke dalam solusi periklanannya untuk menyederhanakan 
+pengalaman pengguna. Dengan memanfaatkan AI, Perseroan 
+dapat menghadirkan penyampaian konten yang lebih cerdas 
+dan efisien, mengoptimalkan kinerja kampanye secara real-
+time, serta meningkatkan keterlibatan pengguna. Perseroan 
+terus memperluas layanan berbasis teknologi canggihnya ke 
+pasar internasional, termasuk Infrastructure-as-a-Service 
+(IAAS), Content Management System (CMS), dan solusi 
+Managed Service.
+Segmen perikklanan berbasis cloud digital menunjukkan 
+kinerja yang baik, dengan peningkatan jumlah layar iklan dari 
+27.596 pada tahun 2023 menjadi 28.204 pada tahun 2024. 
+Pendapatan segmen ini mencapai Rp176,5 miliar pada tahun 
+2023, mengalami penurunan sebesar 17,6% YoY dari Rp214,2 
+miliar pada tahun 2023. Namun secara positif, laba kotor 
+tumbuh solid sebesar 6,2% YoY, dari Rp69,6 miliar pada tahun 
+2023 menjadi Rp73,9 miliar pada tahun 2024.
+Produk dan Layanan Energi Bersih
+Menanggapi 
+kekhawatiran 
+lingkungan 
+yang 
+semakin 
+meningkat terkait emisi karbon dan dampaknya terhadap 
+kondisi bumi, Perseroan tetap berkomitmen untuk mendorong 
+transportasi yang berkelanjutan dan ramah lingkungan. 
+Salah satu fokus utama Perseroan adalah pengembangan 
+kendaraan listrik, khususnya sepeda motor listrik, melalui 
+Volta yang menghadirkan teknologi canggih guna mendukung 
+pencapaian target penurunan emisi karbon di Indonesia.
+Dampak positif Grup terasa secara nasional, karena terus 
+memainkan peran penting dalam pertumbuhan pasar 
+Digital Cloud Advertising 
+To empower businesses in the digital age, the Company 
+offers cloud-based advertising solutions that allow clients to 
+extend their customer reach with increased precision. These 
+flexible solutions enable businesses to tailor their campaigns 
+based on customer behavior and preferences, ensuring agility 
+in the fast-evolving digital landscape. In 2024, the Company 
+expanded its products and offerings to include a more 
+comprehensive end-to-end retail experience, introducing 
+large-format LED screens (Videotrons) and electronic shelf 
+labels. These innovations provide businesses with enhanced 
+visibility and more dynamic advertising capabilities.
+In addition, the Company began integrating AI technology into 
+its advertising solutions to streamline the user experience. 
+By leveraging AI, the Company can offer smarter and more 
+efficient content delivery, optimizing campaign performance 
+in real-time and enhancing user engagement. The Company 
+continues to scale its advanced services internationally, 
+including 
+Infrastructure-as-a-Service 
+(IAAS), 
+Content 
+Management System (CMS), and Managed Service solutions.
+The Digital Cloud Advertising segment performed well, 
+increasing the number of advertising screens from 27,596 
+in 2023 to 28,204 in 2024. Revenue for the segment reached 
+IDR 176.5 billion in 2023, a decrease of 17.6% YoY from IDR 
+214.2 billion in 2023. More positively, the gross profit grew 
+by a solid 6.2% YoY from IDR 69.6 billion in 2023 to IDR 73.9 
+billion in 2024.
+Clean Energy Products and Services 
+Addressing 
+the 
+growing 
+environmental 
+concerns 
+surrounding carbon emissions and their detrimental impact 
+on the planet, the Company remains committed to promoting 
+sustainable and eco-friendly transportation. A key focus is 
+the development of electric vehicles, particularly electric 
+motorcycles, through Volta, which provides cutting-edge 
+technology to contribute to Indonesia’s carbon emission 
+reduction goals.
+The Group’s impact is felt nationally, as it continues to play 
+a leading role in Indonesia’s growing electric vehicle market. 
+94
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+kendaraan listrik di Indonesia. Dengan lebih dari 130 juta 
+unit sepeda motor yang beroperasi dan sekitar 5–6 juta 
+unit baru terjual setiap tahunnya, potensi pasar motor 
+listrik di Indonesia sangat besar. Perluasan pasar ini secara 
+berkelanjutan menjadikan adopsi kendaraan listrik sebagai 
+langkah penting dalam upaya pengurangan emisi karbon di 
+sektor transportasi.
+Pada tahun 2024, pemerintah Indonesia terus memberikan 
+subsidi untuk pembelian Kendaraan Bermotor Listrik 
+Berbasis Baterai (KBLBB) roda dua, yang semakin 
+mendorong permintaan terhadap alternatif energi bersih. 
+Namun, setelah anggaran subsidi yang dialokasikan untuk 
+tahun 2024 sepenuhnya terserap, pemerintahan baru belum 
+merampungkan rencana terkait kelanjutan program subsidi 
+tersebut. Meskipun rincian rencana ini masih dalam tahap 
+penyusunan, pemerintah telah menyampaikan niatnya untuk 
+tetap melanjutkan pemberian subsidi. Setelah rencana 
+tersebut difinalisasi, kebijakan ini diharapkan dapat secara 
+signifikan mempercepat adopsi solusi energi bersih di 
+seluruh penjuru negeri.
+Sebagai respons terhadap kebutuhan pasar, Grup NFCX 
+meluncurkan lima model motor listrik Volta terbaru yang 
+masing-masing menawarkan peningkatan kinerja, daya tahan, 
+serta menjangkau beragam segmen konsumen. Model-model 
+ini dilengkapi dengan fitur yang telah disempurnakan, seperti 
+daya tahan baterai yang lebih lama, sistem tenaga yang lebih 
+tangguh, dan desain inovatif yang menarik bagi pengguna 
+di wilayah perkotaan maupun pedesaan. Peluncuran ini 
+menegaskan komitmen Perseroan untuk terus menghadirkan 
+produk yang sesuai dengan tuntutan pasar sepeda motor 
+Indonesia yang sangat luas dan terus berkembang.
+Perseroan terus memperluas upayanya untuk meningkatkan 
+aksesibilitas kendaraan listrik. Jaringan penukaran dan 
+pengisian baterai, yang telah mencakup lebih dari 350 stasiun 
+di seluruh Indonesia, menjadi bukti nyata komitmen tersebut. 
+Infrastruktur ini memastikan pengguna dapat dengan mudah 
+menukar atau mengisi ulang baterai mereka, sehingga turut 
+mendukung adopsi kendaraan listrik secara lebih luas di 
+masyarakat.
+Selain itu, Perseroan secara aktif mencari peluang kemitraan 
+baru untuk memperluas jangkauan solusi energi bersihnya. 
+Pada tahun 2024, Volta menjalin sejumlah kolaborasi 
+strategis. Kemitraan dengan Indonesia Battery Corporation 
+(IBC) difokuskan pada perluasan akses terhadap infrastruktur 
+kendaraan listrik dan penukaran baterai di Indonesia. Sementara 
+With over 130 million motorcycles in Indonesia, and 5-6 
+million new motorcycles purchased annually, the market 
+potential for electric motorcycles remains enormous. The 
+continued expansion of this market makes the adoption of 
+electric vehicles crucial for reducing carbon emissions in the 
+transportation sector.
+In 2024, the Indonesian government continued to provide 
+subsidies for the purchase of Two-Wheeled Battery-Based 
+Electric Motor Vehicles (KBLBB), further fueling the demand 
+for clean energy alternatives. However, after the allocated 
+budget for subsidies in 2024 was fully utilized, the new 
+government administration has yet to finalize plans for future 
+subsidies. While the specifics of these plans are still being 
+worked through, the government has expressed its intention 
+to continue offering subsidies. Once the plans are finalized, 
+they are expected to significantly accelerate the adoption of 
+clean energy solutions across the nation.
+In response to the market’s needs, NFCX Group launched 
+five new Volta electric motorcycle models, each offering 
+enhanced performance, durability, and catering to a diverse 
+range of consumers. These models include improved features 
+such as longer battery life, more robust power systems, and 
+innovative designs that appeal to both urban and rural riders. 
+These new additions reinforce the Company’s dedication 
+to delivering products that meet the evolving demands of 
+Indonesia’s vast motorcycle market.
+The Company continues to expand its efforts to make electric 
+vehicles more accessible. The Group’s battery swapping and 
+charging network, with over 350 stations nationwide, is a 
+testament to this, ensuring that users have easy access 
+to swap or charge their batteries, thereby supporting 
+widespread adoption of electric vehicles.
+Moreover, the Company is actively seeking new opportunities 
+for partnerships to extend the reach of its clean energy 
+solutions. In 2024, Volta entered into several strategic 
+collaborations. The partnership with Indonesia Battery 
+Corporation (IBC) focuses on expanding access to electric 
+vehicle and battery swapping infrastructure in Indonesia, 
+95
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+itu, kerja sama dengan Gentari, unit energi bersih dari Petronas, 
+turut mendorong pengembangan ekosistem kendaraan listrik 
+melalui peningkatan jumlah armada motor listrik yang dikelola 
+Grup. Selain itu, Perseroan juga bekerja sama dengan Bluebird 
+Group untuk menyediakan program kepemilikan kendaraan 
+listrik bagi pengemudi taksi Bluebird, yang semakin mendorong 
+adopsi motor listrik di sektor transportasi komersial.
+Kemitraan yang telah terjalin antara Perseroan dengan 
+jaringan ritel terkemuka seperti Alfamart dan Indomaret 
+juga terus memainkan peran penting. Kolaborasi ini 
+memperluas jangkauan Volta, sehingga sepeda motor 
+listrik dan infrastruktur pendukungnya menjadi lebih mudah 
+diakses oleh masyarakat luas. Bersama-sama, kemitraan 
+ini 
+mendorong 
+misi 
+Perseroan 
+dalam 
+mempercepat 
+adopsi kendaraan listrik sekaligus berkontribusi terhadap 
+pencapaian target keberlanjutan nasional Indonesia.
+Kondisi makro industri tahun ini, khususnya program subsidi 
+Pemerintah untuk sepeda motor listrik, telah berdampak 
+negatif terhadap kinerja Perseroan pada segmen Produk dan 
+Layanan Energi Bersih. Pendapatan pada segmen ini menurun 
+dari Rp157,4 miliar pada tahun 2023 menjadi Rp107,9 miliar pada 
+tahun 2024, mencerminkan penurunan sebesar 31,4% YoY. 
+Meskipun demikian, laba kotor masih mencatatkan keuntungan 
+sebesar Rp7,9 miliar pada tahun 2024, meskipun lebih rendah 
+55,2% YoY dibandingkan Rp17,7 miliar pada tahun 2023.
+Grosir Digital
+Sebagai bagian dari visinya dalam memperkuat infrastruktur 
+digital, Perseroan telah mengembangkan platform grosir 
+digital bernama ‘SIAP’ dan ‘DRAT’ yang didukung oleh teknologi 
+Order Management System. Melalui platform ini, Perseroan 
+menyediakan produk-produk seperti minyak goreng, beras, dan 
+gula melalui alur distribusi yang lebih langsung, sehingga dapat 
+mempersingkat rantai pasok. Platform ini memungkinkan 
+Usaha Mikro, Kecil, dan Menengah (UMKM) untuk memesan 
+langsung dari pemasok, memantau ketersediaan stok, serta 
+mengelola pesanan dengan lebih efisien. 
+Pada tahun 2024, segmen grosir digital mencatatkan 
+pendapatan sebesar Rp18,5 miliar, turun sebesar 61,0% YoY 
+dibandingkan dengan pendapatan sebesar Rp47,6 miliar 
+pada tahun 2023. Penurunan ini disebabkan oleh kendala 
+dalam rantai pasok persediaan. Laba kotor juga mengalami 
+penurunan menjadi Rp615 juta pada tahun 2024, turun 56,2% 
+YoY dari Rp1,4 miliar pada tahun 2023. Sisi positifnya adalah 
+margin laba kotor segmen ini menunjukan peningkatan, dari 
+3,0% pada tahun 2023 menjadi 3,3% pada tahun 2024.
+while collaboration with Gentari, the clean energy arm of 
+Petronas, is helping develop the electric vehicle ecosystem 
+by growing the Group’s managed EV motorcycle fleet. 
+Additionally, the Company has teamed up with Bluebird 
+Group, helping provide electric vehicle ownership programs 
+for Bluebird’s taxi drivers, further pushing the adoption of 
+electric motorcycles in the commercial transport sector.
+The Company’s existing partnerships with leading retail 
+chains such as Alfamart and Indomaret also continue 
+to play a significant role. These collaborations expand 
+Volta’s reach, making electric motorcycles and supporting 
+infrastructure more widely available to the public. Together, 
+these partnerships help drive the Company’s mission 
+of accelerating the adoption of electric vehicles while 
+contributing to Indonesia’s broader sustainability goals.
+This year’s macro industry conditions, particularly the 
+Government’s subsidy program for electric motorcycles, has 
+negatively effected the Company’s performance in the Clean 
+energy Products and Services segment. The revenue in this 
+segment decreased from IDR 157.4 billion in 2023 to IDR 107.9 
+billion in 2024, reflecting a 31.4% YoY change. The gross 
+profit still managed to book a profit of IDR 7.9 billion in 2024, 
+although lower by 55.2% YoY from IDR 17.7 billion in 2023.
+Digital Wholesale 
+As part of its vision to enhance digital infrastructure, 
+the Company has developed digital wholesale platforms, 
+‘SIAP’ and ‘DRAT,’ powered by Order Management System 
+technology. Through these platforms, the Company provides 
+products, such as cooking oil, rice, and sugar, in a more direct 
+stream that reduces the length of the supply chain. These 
+platforms enable Small and Medium Enterprises (SMEs) to 
+order directly from suppliers, track stock levels, and manage 
+orders more efficiently. 
+In 2024, the digital wholesale segment closed with a revenue 
+of Rp 18.5 billion, down by 61.0% YoY compared to the revenue 
+of Rp 47.6 billion in 2023. Constraints in the inventory supply 
+chain caused the contraction in this segment. The gross 
+profit level saw a decline to Rp 615 million in 2024, down 
+56.2% YoY from Rp 1.4 billion in 2024. On the positive side, 
+the gross profit margin of this segment shows an increase, 
+from 3.0% in 2023 to 3.3% in 2024.
+96
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+EKOSISTEM GROUP
+ECOSYSTEM GROUP
+Melibatkan Pelanggan Melalui Solusi 
+yang Sinergis
+NFCX telah membangun ekosistem yang kuat dan saling 
+terhubung, yang dirancang untuk memberikan nilai lebih 
+bagi konsumen dan mitra dengan menghubungkan semua 
+lini bisnisnya yaitu Digital Product Aggregator, Digital Cloud 
+Advertising, Produk dan Layanan Energi Bersih, Digital 
+Wholesale, serta Konten dan Hiburan ke dalam sebuah 
+platform terpadu yang didorong oleh teknologi. Integrasi ini 
+meningkatkan keterlibatan pelanggan, memperkuat efisiensi 
+operasional, dan menciptakan peluang pertumbuhan yang 
+dapat diskalakan di seluruh lini bisnis.
+Engaging 
+Customers 
+Through 
+Synergized Solutions 
+NFCX has built a powerful and interconnected ecosystem 
+designed to deliver greater value for both consumers and 
+partners by linking all of its business lines—Digital Product 
+Aggregator, 
+Digital 
+Cloud 
+Advertising, 
+Clean 
+Energy 
+Products and Services, Digital Wholesale, and Content 
+and Entertainment—into a unified, tech-driven platform. 
+This integration enhances customer engagement, boosts 
+operational 
+efficiency, 
+and 
+creates 
+scalable 
+growth 
+opportunities across the board.
+Konten & Hiburan 
+Perseroan terus mengembangkan segmen bisnis konten dan 
+hiburannya, dengan memperkuat solusi pemasaran serta 
+mendukung talenta kreatif lokal. Perseroan membentuk 
+kolaborasi strategis dengan memanfaatkan kekayaan 
+intelektual (IP) seperti karakter superhero Bumilangit untuk 
+kartu prabayar bersama Bank Mandiri dan Bank BNI, serta 
+voucher internet bersama Telkomsel.
+Pada tahun 2024, Perseroan, melalui entitas asosiasinya 
+PT Kavita Dana Asia (Ideosource Entertainment), meraih 
+kesuksesan internasional melalui perilisan film horor 
+Indonesia ‘Kuasa Gelap’. Melalui segmen ini, Perseroan 
+tidak hanya menyediakan distribusi konten yang menarik, 
+tetapi juga turut mempromosikan konten karya Indonesia ke 
+kancah dunia. 
+Segmen ini membukukan pendapatan sebesar Rp1,0 miliar 
+sepanjang tahun, lebih rendah 7,3% YoY dibandingkan 
+dengan pendapatan tahun sebelumnya sebesar Rp1,1 miliar. 
+Sementara itu, laba kotor segmen ini tercatat sebesar Rp769 
+juta pada tahun 2024, menurun 9,2% YoY dari Rp847 juta 
+pada tahun 2023.
+Content & Entertainment 
+The Company continues to develop its content and 
+entertainment 
+business 
+segment, 
+strengthening 
+its 
+marketing solutions while supporting local creative talent. 
+The Company has formed strategic collaborations, leveraging 
+intellectual properties (IPs) such as Bumilangit superheroes 
+for prepaid cards with Bank Mandiri and Bank BNI, as well as 
+internet vouchers with Telkomsel.
+In 2024, the Company, through its associate company PT 
+Kavita Dana Asia (Ideosource Entertainment), achieved 
+international success with the release of the Indonesian 
+horror film ‘Dominion of Darkness’. Through this segment, the 
+Company not only provides interesting content distribution, 
+but also helps promote Indonesian content to the world 
+stage. 
+This segment generated IDR 1.0 billion in revenue for the year, 
+lower than last year’s revenue of IDR 1.1 billion by 7.3% YoY. 
+Meanwhile, the gross profit level of this segment booked a 
+profit of IDR 769 million in 2024, decreasing by 9.2% YoY from 
+IDR 847 million in 2023.
+97
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Salah satu kekuatan utama dari ekosistem ini terletak pada 
+jaringan anggota digital product aggregator yang luas, yang 
+tidak hanya mendorong volume transaksi yang konsisten, 
+tetapi juga dapat memanfaatkan berbagai penawaran 
+NFCX. Para anggota ini menjadi pengguna yang sangat 
+terlibat melalui paparan berbagai layanan dalam ekosistem, 
+termasuk akses ke produk energi bersih, pengalaman konten, 
+dan kampanye digital menciptakan lebih banyak titik interaksi 
+dan peluang untuk penciptaan nilai.
+Semua klien dan mitra dalam ekosistem NFCX dapat 
+memanfaatkan berbagai aspek—bukan hanya dari satu 
+layanan, tetapi melalui rangkaian solusi yang komprehensif. 
+Sebagai contoh, mitra juga dapat berfungsi sebagai lokasi 
+potensial untuk stasiun pertukaran baterai SGB sambil 
+mengonversi armada pengiriman mereka menjadi sepeda 
+motor listrik, yang semakin mengintegrasikan adopsi energi 
+bersih ke dalam model bisnis mereka sambil menambah 
+relevansi dan kunjungan ke lokasi mereka sendiri.
+Selain itu, teknologi AI semakin terintegrasi ke dalam solusi-
+solusi NFCX, mulai dari memberikan iklan yang lebih cerdas 
+dan terarah, hingga mengoptimalkan perjalanan pengguna 
+dan menyederhanakan operasi layanan energi. Penggunaan AI 
+ini meningkatkan personalisasi, memperkuat keterlibatan, dan 
+memungkinkan perusahaan serta mitranya untuk merespons 
+kebutuhan pengguna dengan lebih cepat dan akurat.
+Dengan membangun ekosistem yang saling terhubung, 
+cerdas, dan berfokus pada konsumen, NFCX menciptakan 
+platform di mana semua pemangku kepentingan—pengguna, 
+bisnis, dan mitra—tumbuh lebih kuat bersama-sama, dengan 
+setiap lini bisnis saling memperkuat untuk membangun nilai 
+dan keberlanjutan jangka panjang.
+A key strength of this ecosystem lies in its extensive network 
+of digital product aggregator members, who not only drive 
+consistent transaction volumes but can also benefit from 
+the broader NFCX offerings. These members become highly 
+engaged users through exposure to various services within 
+the ecosystem, including access to clean energy products, 
+content experiences, and digital campaigns—creating more 
+touchpoints and opportunities for value creation.
+All clients and partners within the NFCX ecosystem can 
+leverage multiple aspects—not just from a single service, but 
+through the comprehensive suite of solutions. For example, 
+partners can also serve as potential locations for SGB 
+battery-swapping stations while converting their delivery 
+fleet to electric motorcycles, further integrating clean energy 
+adoption into their business models while adding relevance 
+and foot traffic to their own locations.
+Furthermore, AI technology is becoming increasingly 
+embedded into NFCX’s solutions, from delivering smarter, 
+more targeted advertising, to optimizing user journeys 
+and streamlining energy service operations. This use of AI 
+improves personalization, enhances engagement, and allows 
+the company and its partners to respond quickly to user 
+needs with greater precision.
+By fostering an ecosystem that is interconnected, intelligent, 
+and consumer-centric, NFCX is creating a platform where 
+all stakeholders—users, businesses, and partners—grow 
+stronger together, with each business line reinforcing the 
+other to build long-term value and sustainability.
+98
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+ANALISIS KINERJA KEUANGAN
+FINANCIAL POSITION
+Posisi Keuangan 
+Financial Performance Analysis
+Keterangan
+Description
+2023
+2024
+Aset 
+Asset
+Aset lancar
+Current assets
+1.040,3
+865,4
+Aset tidak lancar
+Non-current assets
+537,6
+500,5
+Jumlah aset
+Total assets
+1.577,9
+1.365,9
+Liabilitas 
+Liabilities
+Liabilitas jangka pendek
+Current liabilities
+532,7
+395,0
+Liabilitas jangka panjang
+Long term liabilities
+153,1
+221,7
+Total liabilitas
+Total liabilities
+685,8
+616,7
+Ekuitas
+Equity
+892,0
+749,2
+Keterangan
+Description
+2023
+2024
+Pendapatan
+Revenues
+9.526,1
+6.074,3
+Laba kotor
+Gross profit
+136,8
+130,5
+EBITDA
+83,3
+76,6
+Laba (rugi) usaha
+Operating income (loss)
+18,5
+(11,2)
+Laba (rugi) neto
+Net income (loss)*
+(477,8)
+(146,7)
+Laba dan Rugi 
+Profit and Loss
+*) Dapat diatribusikan kepada Pemilik Perusahaan/Attributable to Owners of the Company
+99
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Keterangan
+Description
+2023
+2024
+Arus Kas Operasi - Neto
+Operating Cash Flow - Net
+126,8
+(39,8)
+Arus Kas Investasi - Neto
+Investing Cash Flow - Net
+(207,4)
+(21,0)
+Arus Kas Pendanaan - Neto
+Financing Cash Flow - Net
+74,0
+4,2
+Penurunan neto kas dan setara kas
+Net decrease in cash and cash equivalents
+(6,5)
+(56,6)
+Kas dan setara kas awal tahun
+Cash and cash equivalents at beginning of the year
+233,3
+226,8
+Kas dan setara kas entitas anak pada saat pelepasan
+Cash and cash equivalents of subsidiaries on divestment
+-
+(0,8)
+Kas dan setara kas akhir tahun
+Cash and cash equivalents at end of the year
+226,8
+169,4
+Arus Kas 
+Cash Flow
+Posisi Keuangan 
+Financial Performance Analysis
+Aset 
+Aset lancar turun 16,8% YoY, dari Rp1,0 triliun per akhir 2023 
+menjadi Rp865,4 milyar per akhir 2024, terutama berasal dari 
+penurunan investasi lainnya.
+Aset tidak lancar turun 6,9% YoY, dari Rp537,6 milyar per 
+akhir 2023 menjadi Rp500,5 milyar per akhir 2024, terutama 
+berasal dari penurunan aset tetap.
+Jumlah aset turun 13,4% YoY, dari Rp1,6 triliun per akhir 2023 
+menjadi Rp1,4 triliun per akhir 2024, terutama berasal dari 
+penurunan aset lancar.
+Liabilitas
+Liabilitas jangka pendek turun 25,8% YoY, dari Rp532,7 
+milyar per akhir 2023 menjadi Rp395,0 milyar per akhir 2024, 
+terutama berasal dari penurunan utang usaha.
+Liabilitas jangka panjang naik 44,8% YoY, dari Rp153,1 
+milyar per akhir 2023 menjadi Rp221,7 milyar per akhir 2024, 
+terutama berasal dari kenaikan surat utang konversi.
+Jumlah liabilitas turun 10,1% YoY, dari Rp685,8 miliar per 
+akhir 2023 menjadi Rp616,7 miliar per akhir 2024, terutama 
+berasal dari penurunan liabilitas jangka pendek.
+Ekuitas
+Pada tahun 2024, jumlah ekuitas menurun sebesar 16,0% YoY, 
+menjadi Rp749,2 miliar. Hal tersebut terutama dikarenakan rugi 
+bersih yang dibukukan pada tahun berjalan sebesar Rp70,3 milyar.
+Asset
+Current assets decreased by 16.8% YoY, from Rp1.0 trillion at 
+the end of 2023 to Rp865.4 billion at the end of 2024, mainly 
+came from a decrease in other investments.
+Non-current assets decrease by 6.9% YoY, from Rp537.6 
+billion at the end of 2023 to Rp500.5 billion at the end of 
+20234, mainly from a dexrease in fixed assets.
+Total assets decreased by 13.4% YoY, from Rp1.6 trillion at 
+the end of 2023 to Rp 1.4 trillion at the end of 2024, mainly 
+from a decrease in current assets.
+Liability
+Current liabilities decrease by 25.8% YoY, from Rp532.7 
+billion at the end of 2022 to Rp395.0 billion at the end of 2024, 
+mainly from a decrease in trade payables.
+Non-current liabilities increased by 44.8% YoY, from Rp153.1 
+billion at the end of 2023 to Rp221.7 billion at the end of 2024, 
+mainly from an increase in convertible note.
+Total liabilities decrease by 10.1% YoY, from Rp685.8 billion at 
+the end of 2023 to Rp616.7 billion at the end of 2024, mainly 
+from a decrease in current liabilities.
+Equity
+In 2024, total equity decreased by 16.0% YoY, to Rp749.2 
+billion. This was primarily due to a net loss of Rp70.3 billion 
+recorded for the year.
+100
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Laba dan Rugi 
+Profit and Loss
+Pendapatan
+Pada tahun 2024, pendapatan bersih Perseroan menurun 
+sebesar 36,2% YoY menjadi Rp6,1 triliun. Kondisi ini terutama 
+disebabkan oleh penurunan kinerja dari segmen aggregator 
+produk digital
+Beban 
+Beban pokok pendapatan Perseroan menurun di tahun 2024 
+sebesar 36,7% YoY menjadi Rp5,9 triliun. Hal tersebut sejalan 
+oleh penurunan pendapatan selama tahun 2024. Sementara, 
+beban usaha mengalami peningkatan sebesar 19,9% YoY, dari 
+Rp118,3 milyar pada 2023 menjadi Rp141,8 milyar pada 2024, 
+terutama disebabkan oleh ekspansi usaha, terutama pada 
+segmen energi bersih.
+Laba Neto, Laba Neto per Saham, dan Penghasilan 
+Komprehensif
+Rugi bersih Perseroan mengalami penurunan dari Rp477,8 
+miliar menjadi Rp147,1 miliar, demikian pula dengan rugi bersih 
+yang dapat diatribusikan kepada pemilik induk, dari rugi 
+Rp275,5 miliar menjadi rugi Rp70,3 miliar. Hal ini disebabkan 
+oleh penurunan rugi investasi lainnya yang belum terealisasi. 
+Pengaruhnya, rugi neto per saham yang turun menjadi Rp106,1 
+pada tahun 2024, dari Rp416,0 pada tahun 2023. 
+Kas dan setara kas menurun dari Rp57,4 miliar dari awal 
+tahun 2024 menjadi Rp169,4 miliar pada akhir tahun 2024. 
+Penurunan tersebut disebabkan oleh beberapa aktivitas 
+berikut: 
+Operasi
+Pada tahun 2024, jumlah arus kas keluar bersih dari aktivitas 
+operasi mencapai Rp39,8 miliar. Jumlah tersebut menurun 
+dibandingkan dengan total kas bersih yang dihasilkan 
+pada tahun 2023 sebesar Rp126,8 miliar. Hal ini terutama 
+disebabkan oleh penurunan penerimaan kas dari pelanggan. 
+Sumber utama dari arus kas masuk adalah penerimaan dari 
+pelanggan sebesar Rp6,1 triliun, sementara arus kas keluar 
+terutama digunakan untuk pembayaran kepada pemasok 
+yang mencapai Rp5,9 triliun.
+Revenues
+In 2024, the Company’s net revenue decreased by 36.2% 
+YoY to Rp6.1 trillion. This condition was mainly due to the 
+decreasing performance in digital product aggregator 
+segment.
+Costs
+The Company’s cost of revenue decreased in 2024 by 36.7% 
+YoY to Rp5.9 trillion. This is aligned with the decrease 
+in revenue during 2024. Meanwhile, operating expenses 
+experienced an increase of 19,9% YoY, from Rp118.3 billion in 
+2023 to Rp141.8 billion in 2024, mainly driven by the business 
+expansion, particularly in the clean energy segment.
+Net Profit, Net Earnings per Share and Comprehensive 
+Income
+The Company’s net loss decreased from Rp447.8 billion to 
+Rp147.1 billion, along with net income attributable to parent 
+owners, from a Rp275.5 billion loss to a Rp70.3 billion loss. 
+This condition was caused by a decrease in unrealized loss 
+on other investments. Hence, basic earnings per share which 
+fell to a loss of Rp106.1 in 2024, from a loss of Rp416.0 in 2023.
+\Cash and cash equivalents decreased from Rp57.4 billion at 
+the beginning of 2024 to Rp169.4 billion at the end of 2024. 
+The decrease was due to the following activities:
+Operation
+In 2024, the total net cash used in operating activities 
+reached Rp39.8 billion. This was a decline from the total 
+net cash that was generated in 2023 at Rp126.8 billion. A 
+large contributor to this was the decrease in receipts from 
+customers, reducing from Rp9.5 trillion in 2023 to Rp6.1 
+trillion in 2024. The main source of cash inflows was receipts 
+from customers amounting to Rp6.1 trillion, while cash 
+outflows were mainly used for payments to suppliers which 
+reached Rp5.9 trillion.
+Arus Kas 
+Cash Flow
+101
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Investasi
+Total arus kas bersih yang digunakan untuk aktivitas investasi 
+menurun pada tahun 2024 menjadi Rp21,0 miliar dari Rp207,4 
+miliar pada tahun 2023. Penurunan ini disebabkan oleh 
+menurunnya penempatan investasi lainnya, dari Rp101,8 
+miliar pada tahun 2023 menjadi hanya Rp7,1 juta pada tahun 
+2024. Sebagian besar dana digunakan untuk akuisisi properti 
+dan peralatan sebesar Rp27,3 miliar. Sementara itu, arus kas 
+masuk terutama berasal dari pelunasan piutang kepada pihak 
+ketiga sebesar Rp11,7 miliar.
+Pendanaan 
+Jumlah arus kas masuk bersih dari aktivitas pendanaan 
+mencapai Rp4,2 miliar pada tahun 2024, mencerminkan 
+penuruan dari Rp74,0 miliar pada tahun 2023. Hal ini terutama 
+disebabkan oleh penurunan penerimaan yang berasal dari 
+surat utang konversi. Arus kas keluar terutama dipergunakan 
+untuk pembayaran utang pihak ketiga sebesar Rp82,8 miliar. 
+Sementara, arus kas masuk terutama berasal dari penerimaan 
+dari surat utang konversi sebesar Rp55,3 miliar.
+Solvabilitas
+Kualitas solvabilitas Perseroan dinilai baik. Hal ini ditandai 
+dengan rasio utang bersih terhadap ekuitas yang rendah 
+(di bawah 1,0x), hanya mencapai 0,05x pada tahun 2023 dan 
+0,16x pada tahun 2024. Rasio EBITDA terhadap beban bunga 
+juga jauh di atas 1,0x, mencapai 9,8x pada tahun 2023 dan 
+6,7x pada tahun 2024.
+Sementara itu, dalam rangka mempertahankan posisi 
+keuangan yang sehat, Perseroan juga disiplin dalam menjaga 
+kapasitas leverage keuangan pada tingkat yang aman, terus 
+mempertahankan fasilitas pinjaman secara moderat, serta 
+mematuhi ketentuan dalam perjanjian yang berlaku..
+Investment
+The total net cash used in investing activities decreased in 
+2024 to Rp21.0 billion from Rp207.4 billion in 2023. This was 
+due to the decrease in the placement of other investments 
+which lowered from Rp101.8 billion in 2023 to just Rp7.1 million 
+in 2024. The majority of funds were used for acquisition of 
+property and equipment of Rp27.3 billion. Meanwhile, cash 
+inflows were mainly obtained from proceeds from due from 
+third parties of Rp11.7 billion.
+Financing
+Total net cash provided by financing activities reached Rp4.2 
+billion in 2024, reflecting a decrease from Rp74.0 billion 
+in 2023. This can be attributed to the decrease in receipt 
+from convertible notes. The outflow of funds were used for 
+payment for due to third parties of Rp82.8 billion. Meanwhile, 
+cash inflows mainly came from the receipt of convertible 
+notes amounting to Rp55.3 billion.
+Solvency
+The quality of the Company’s solvency was considered good. 
+This is marked by its low net debt-to-equtiy ratios (below 
+1.0x), reaching only 0.05x in 2023 and 0.16x in 2024. EBITDA-
+to-interest ratios are also well above 1.0x, reaching 9.8x in 
+2023 and 6.7x in 2024.   
+Meanwile, to hold a healthy financial position, the Company 
+also has been disciplined in maintaining its financial 
+leverage capacity at a safe level and continuously maintains 
+a moderate loan facility and complies with the terms of its 
+engagement.
+102
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Umur Piutang Usaha 
+Ages of Trade Receivables
+Keterangan
+Description
+2023
+2024
+Rasio Pinjaman (kas) terhadap ekuitas (x)  
+Net debt (cash) to equity ratio (x)
+Total liabilitas berbeban bunga
+Total interest-bearing liabilities
+276,4
+287,9
+Kas dan setara kas
+Cash and cash equivalents
+(226,8)
+(169,4)
+Pinjaman bersih (kas)
+Net debt (cash)
+49,6
+118,5
+Total ekuitas
+Total equity
+892,0
+749,2
+Rasio pinjaman (kas) terhadap ekuitas (x)
+Net debt (casto equity ratio (x)
+0,1
+0,2
+Rasio EBITDA terhadap beban bunga (x)  
+ EBITDA to interest ratio (x)
+EBITDA
+83,3
+76,6
+Beban keuangan
+Finance expenses
+8,5
+11,5
+Rasio EBITDA terhadap beban bunga (x)
+EBITDA to Interest coverage ratio(x)
+9,8
+6,7
+(dalam Rp Miliar/ in Rp billion)
+Keterangan
+Description
+2023
+2024
+Belum jatuh tempo
+Not yet due
+121,5
+96,5
+Sudah jatuh tempo
+Past due 
+1-30 hari
+1-30 days
+16,4
+36,6
+31-60 hari
+31-60 days
+6,5
+3,9
+61-90 hari
+61-90 days
+2,1
+3,6
+Lebih dari 90 hari
+More than 90 days
+7,2
+29,1
+Jumlah bruto
+Total gross
+153,7
+169,6
+Provisi kerugian kredit ekspektasian
+Provision for expected credit losses
+(1,1)
+(2,3)
+Jumlah netto 
+Total net
+152,6
+167,3
+Rata-rata periode penagihan (hari)
+Average Collection Period (days)
+6
+10
+(dalam Rp Miliar/ in Rp billion)
+KOLEKTIBILITAS PIUTANG
+RECEIVABLES COLLECTIBILITY
+103
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Tingkat kolektibilitas piutang usaha Perseroan mengalami 
+penurunan pada tahun 2024. Hal ini terlihat dari peningkatan 
+rata-rata periode penagihan, dari 6 hari pada tahun 2023 
+menjadi 10 hari pada tahun 2024. Peningkatan rata-rata 
+periode penagihan piutang ini sebagian besar disebabkan oleh 
+penurunan pendapatan Perseroan.
+The Company’s trade receivables collectability level has 
+declined in 2024. This is evident through the increase in 
+average collection period going from 6 days in 2023 to 10 days 
+in 2024. This increase in the average receivables collection 
+period can be largely attributed to the decrease in the 
+Company’s revenue.
+Struktur Modal
+Perseroan mengendalikan struktur modal dan melakukan 
+penyesuaian berdasarkan perubahan kondisi ekonomi. Oleh 
+karena itu, Perseroan mempertahankan dan menyesuaikan 
+struktur modal dengan mengatur ulang pembayaran 
+dividen kepada Pemegang Saham atau menerbitkan saham 
+baru. Hingga akhir tahun 2023, tidak terdapat perubahan 
+yang dibuat dalam tujuan, kebijakan, atau proses selama 
+periode pelaporan keuangan disajikan. Selain itu, Perseroan 
+mempertahankan rasio modal yang kuat untuk mendapatkan 
+pendanaan dengan biaya yang wajar. 
+Perseroan senantiasa melakukan evaluasi sesuai dengan 
+ketentuan yang berlaku. Struktur permodalan dievaluasi 
+melalui rasio pinjaman bersih (kas) terhadap modal (gearing 
+ratio), yang dihitung melalui pembagian antara pinjaman 
+bersih (kas) dengan modal. Pinjaman bersih tersebut terdiri 
+dari jumlah liabilitas berbunga (interest-bearing liabilities) 
+sebagaimana yang telah diungkapkan dalam laporan 
+keuangan, dikurangi dengan jumlah kas dan setara kas. 
+Sementara, modal meliputi seluruh komponen ekuitas dalam 
+laporan posisi keuangan. Perseroan memiliki rasio gearing 
+yang sangat rendah, sebesar 0,16x pada tahun 2024 dan 
+0,06x pada tahun 2023. Hal ini menunjukan struktur modal 
+yang sangat konservatif
+Capital Structure 
+The Company controls the capital structure and makes 
+adjustments based on changes in economic conditions. 
+Therefore, the Company maintains and adjusts the capital 
+structure by rearranging dividend payments to Shareholders 
+or issuing new shares. As of the end of 2023, no changes have 
+been made in the objectives, policies or processes during 
+the financial reporting period presented. In addition, the 
+Company maintains strong capital ratios to obtain funding at 
+reasonable costs.
+The Company always evaluates in accordance with applicable 
+regulations. The capital structure is evaluated through 
+the ratio of net debt (cash) to capital (gearing ratio), which 
+is calculated by dividing net debt (cash) to capital. The net 
+debt consists of the amount of interest-bearing liabilities as 
+disclosed in the financial statements, reduced by the amount 
+of cash and cash equivalents. Meanwhile, capital includes all 
+equity components in the statement of financial position. 
+The company has a very low gearing ratio, at 0.16x in 2024 
+and 0.06x in 2023. This indicates a very conservative capital 
+structure.
+104
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Belanja Modal
+Pada 
+tahun 
+2024 
+Perseroan 
+mengeluarkan 
+belanja 
+modal sebesar Rp31,4 miliar sebagian besar berasal dari 
+penambahan mesin dan peralatan content management 
+sebesar Rp9,0 miliar pada tahun 2024. Investasi pada mesin 
+dan peralatan content management tersebut bertujuan untuk 
+mendukung ekspansi yang terus dilakukan oleh Perseroan, 
+terutama pada segmen iklan berbasis digital cloud.
+Kejadian Setelah Tanggal Pelaporan
+Peristiwa penting yang terjadi setelah tanggal pelaporan 
+dijelaskan dalam Catatan 44 atas Laporan Keuangan 
+Konsolidasian, halaman 164.
+Capital Expenditures
+In 2024 the Company spent capital expenditure of Rp31.4 
+billion, most of which came from the addition of content 
+management machines and equipment of Rp9.0 billion in 
+2024. The investment in content management machines 
+and equipment aims to support the Company’s continued 
+expansion, especially in the digital cloud advertising 
+segment.
+Events After Reporting Date
+Important events that occurred after the reporting date 
+are described in Note 44 to the Consolidated Financial 
+Statements, pages 164.
+Ikatan Material Untuk Investasi 
+Barang Modal
+Per 31 Desember 2024, Perseroan dan anak perusahaannya 
+mencatat saldo uang muka untuk pembelian aset tetap 
+sebesar Rp10,0 miliar.
+Material Commitments for Capital 
+Goods Investment 
+As of December 31, 2024, the Company and its subsidiaries 
+recorded an advance balance for the purchase of fixed assets 
+amounting to Rp10.0 billion.
+Keterangan
+Description
+2023
+2024
+Total Liabilitas berbeban Bunga
+Total interest-bearing liabilities
+276,4
+287,9
+Kas dan Setara Kas
+Cash and cash equivalents
+(226,8)
+(169,4)
+Pinjaman bersih (kas)
+Net debt (cash)
+49,6
+118,5
+Total ekuitas
+Total equity
+892,0
+749,2
+Rasio pinjaman (kas) bersih terhadap ekuitas (x)
+Net debt (cash) to equity ratio (x)
+0,05
+0,16
+(dalam Rp Miliar/ in Rp billion)
+105
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+PROSPEK BISNIS & TARGET 2025
+2025 BUSINESS PROSPECTS & TARGETS
+Seiring Indonesia menghadapi tantangan yang terus 
+berlanjut, seperti potensi perubahan kebijakan pemerintah, 
+ketidakpastian 
+politik 
+global, 
+dan 
+tren 
+pasar 
+yang 
+berkembang, perekonomian negara ini tetap berada pada 
+posisi yang solid. Dengan proyeksi pertumbuhan PDB 
+nasional sebesar 5,2%, yang didorong oleh pengeluaran 
+domestik yang kuat, investasi, dan ekspor, lanskap 
+ekonomi Indonesia memberikan landasan yang kuat bagi 
+bisnis yang tangkas dan mampu beradaptasi. Kondisi yang 
+menguntungkan ini membuka peluang bagi perusahaan 
+untuk memanfaatkan kesempatan pertumbuhan sambil 
+menghadapi ketidakpastian yang mungkin muncul.
+Dalam konteks ini, dua pilar utama NFCX, segmen Iklan 
+berbasis Cloud Digital dan Energi Bersih siap untuk mendorong 
+pertumbuhan yang signifikan. Perusahaan telah dengan 
+teguh membangun keberadaannya di pasar ritel, yang menjadi 
+landasan kuat untuk memperluas tawaran bisnis bernilai tambah. 
+Dengan fokus pada peningkatan kualitas aliran pendapatan, 
+NFCX berkomitmen untuk meningkatkan profitabilitas dan 
+memastikan pertumbuhan yang berkelanjutan.
+Dalam segmen Energi Bersih, NFCX menunjukkan ketahanan 
+yang kuat pada tahun 2024 dan mengantisipasi trajektori 
+pertumbuhan yang dipercepat pada tahun 2025. Pasar sepeda 
+motor Indonesia yang sangat besar, dengan lebih dari 130 juta 
+sepeda motor yang beredar, menawarkan peluang besar untuk 
+adopsi kendaraan listrik (EV) secara luas. NFCX berencana 
+untuk memperluas jejak pasarnya dengan mengembangkan 
+jaringan dealer, mendiversifikasi penawaran produk dengan 
+penekanan pada keandalan, dan menargetkan segmen pasar 
+B2C serta B2B. Melalui kemitraan strategis dalam sektor 
+EV, NFCX bertujuan untuk memperkuat infrastruktur dan 
+memposisikan diri sebagai penyedia solusi teknologi dan 
+kendaraan listrik terintegrasi terkemuka.
+Dalam segmen Iklan Cloud Digital, NFCX melihat potensi 
+pertumbuhan yang signifikan. Dengan sekitar 4 juta toko 
+ritel di seluruh Indonesia, perusahaan melihat peluang besar 
+untuk memperluas bisnis iklan digitalnya. Strategi NFCX 
+dibangun berdasarkan tiga tujuan inti: mempertahankan 
+pelanggan yang ada, memperluas ke pasar UMKM, dan 
+mengintegrasikan teknologi AI ke dalam penawarannya. 
+Dengan memanfaatkan AI dan IoT (Internet of Things), NFCX 
+berusaha untuk meningkatkan keterlibatan pengguna, 
+As Indonesia navigates ongoing challenges such as potential 
+shifts in government policies, global political uncertainties, 
+and evolving market trends, its economy remains on a 
+solid footing. With the government projecting a national 
+GDP growth of 5.2%, driven by robust domestic spending, 
+investment, and exports, the country’s economic landscape 
+offers a strong foundation for businesses that are agile 
+and adaptable. These favorable conditions set the stage 
+for companies to capitalize on growth opportunities while 
+navigating any uncertainties that may arise.
+Against this backdrop, NFCX’s two primary pillars—the Digital 
+Cloud Advertising and Clean Energy segments—are poised to 
+drive significant growth. The company has firmly established 
+its presence in the retail market, which serves as a strong 
+base for expanding its value-added business offerings. With 
+a focus on enhancing the quality of its revenue streams, 
+NFCX is committed to improving profitability and ensuring 
+sustainable growth.
+In the Clean Energy segment, NFCX demonstrated resilience 
+in 2024 and anticipates an accelerated growth trajectory 
+in 2025. Indonesia’s vast motorcycle market, with over 130 
+million motorcycles in circulation, presents a tremendous 
+opportunity for the widespread adoption of electric vehicles 
+(EV). NFCX plans to expand its market footprint by growing its 
+network of dealerships, diversifying its product offerings with 
+an emphasis on reliability, and targeting both B2C and B2B 
+market segments. Through strategic partnerships within the 
+EV sector, NFCX aims to strengthen its infrastructure and 
+position itself as a leading provider of integrated tech and EV 
+solutions.
+In the Digital Cloud Advertising segment, NFCX recognizes 
+significant growth potential. With approximately 4 million 
+retail stores across Indonesia, the company sees a major 
+opportunity to expand its digital advertising business. 
+NFCX’s strategy is built on three core objectives: retaining 
+existing customers, expanding into the SME market, and 
+incorporating AI technologies into its offerings. By leveraging 
+AI and IoT, NFCX seeks to enhance user engagement, optimize 
+customer experiences, and increase its device-per-store 
+106
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+mengoptimalkan pengalaman pelanggan, dan meningkatkan 
+rasio perangkat per toko. Selain itu, perusahaan berencana 
+untuk memasuki pasar UMKM dengan menawarkan solusi 
+yang terjangkau dan ramah pengguna, sementara kemitraan 
+strategis dengan pemain industri terkemuka diharapkan 
+dapat mempercepat pertumbuhan bisnis.
+NFCX tetap berkomitmen untuk terus meningkatkan 
+pengalaman konsumen dengan memberikan solusi inovatif 
+dan menarik yang dapat meningkatkan kepuasan pelanggan 
+dan membangun loyalitas jangka panjang di seluruh segmen 
+bisnisnya.
+Melihat ke depan pada tahun 2025, NFCX yakin bahwa 
+perusahaan 
+akan 
+mengalami 
+pemulihan, 
+dengan 
+menargetkan pertumbuhan pada pendapatan utama dan 
+tetap mempertahankan profitabilitas di tingkat operasi 
+dan/atau laba bersih. Selain itu, dalam hal posisi keuangan, 
+Perseroan akan menjaga posisi keuangan yang kuat dengan 
+rasio pinjaman (kas) bersih terhadap ekuitas di bawah 1,0x.
+Target & Realisasi 2024
+Pada awal tahun 2024, NFCX menetapkan target untuk 
+mempertahankan statusnya sebagai perusahaan yang 
+menguntungkan dengan mencatatkan laba operasional 
+positif dan/atau laba bersih inti pada tahun 2024. Selain 
+itu, dalam hal posisi keuangan, Perusahaan akan terus 
+mempertahankan posisi modal yang kuat, dengan rasio 
+(utang terhadap ekuitas) di bawah 1,0x pada tahun 2024. 
+Sepanjang tahun 2024, Perusahaan telah mencapai beberapa 
+target ini, meskipun menghadapi berbagai tantangan. Hasil-
+hasil Perusahaan adalah sebagai berikut:
+1.	 Rasio utang terhadap ekuitas tercatat sebesar 0,16x pada 
+akhir 2024, di bawah level ambang batas 1,0x (Tercapai)
+2.	 Kerugian operasional tercatat sebesar Rp11,2 miliar pada 
+tahun 2024 (Tidak Tercapai)
+Tidak tercapainya target laba usaha di tahun 2024 terutama 
+bersumber dari segmen energi bersih Perusahaan (terimbas 
+oleh ketidakpastian dari kelanjutan dari program subsidi 
+Pemerintah atas motor listrik yang menyebabkan para 
+konsumen menunda keputusan membeli mereka). 
+Walau demikian, masih terdapat beberapa pencapaian 
+positif yang diraih pada tahun 2024. Dari segi profitabilitas 
+inti, Perusahaan masih berhasil mencatatkan EBITDA yang 
+positif sebesar Rp 76,6 miliar pada tahun 2024. Selain itu, 
+ratio. Additionally, the company plans to penetrate the SME 
+market by offering affordable and user-friendly solutions, 
+while strategic partnerships with prominent industry players 
+are expected to accelerate business growth.
+NFCX remains committed to continuously improving the 
+consumer experience by delivering innovative and engaging 
+solutions that enhance customer satisfaction and foster 
+long-term loyalty across its business segments.
+Looking ahead to 2025, NFCX is confident that it will see a 
+turnaround, targeting growth in the top line revenues and 
+remaining profitable across the operating and/or net income 
+levels. Additionally in financial position, the Company will 
+sustain its strong financial position with a net debt (cash)-to-
+equity ratio under 1.0x.
+2024 Target & Realization
+At the beginning of 2024, NFCX set its targets to maintain 
+its status as a profitable company by posting positive 
+operating profit and/or core net income in 2024. Also, in 
+terms of financial position, the Company will continue to 
+maintain a strong capital position, with a (net debt-to-equity) 
+ratio of below 1.0x in 2024. Throughout 2024, the Company 
+has achieved some of these targets, in the midst of the 
+challenges faced. The results of the Company are as follows:
+1.	 Debt-to-equity ratio at 0.16x as of end 2024, below 1.0x 
+threshold level (Achieved)
+2.	 Operating loss was recorded at Rp11.2 billion in 2024 (Not 
+Achieved)
+The failure to achieve the operating profit target in 2024 
+mainly came from the Company’s clean energy segment 
+(impacted by the uncertainty of the continuation of the 
+Government’s subsidy program for electric motorcycles 
+which caused consumers to postpone their purchasing 
+decisions).  
+ 
+However, there were still several positive achievements 
+in 2024. In terms of core profitability, the Company still 
+managed to record positive EBITDA of Rp76.6 billion in 
+2024. In addition, EBITDA outside the clean energy segment, 
+107
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+EBITDA di luar segmen energi bersih, secara agregat masih 
+berhasil mencatatkan pertumbuhan yang sangat baik, naik 
+sebesar 18,3% YoY, dari Rp92,3 miliar pada tahun 2023 
+menjadi Rp109,2 miliar pada tahun 2024.
+Pada tingkat operasional, NFCX mengalami pertumbuhan 
+di beberapa segmen kunci, terutama yang menunjukkan 
+kinerja margin yang kuat. Segmen Digital Cloud Advertising 
+mencatatkan 
+pertumbuhan 
+yang 
+signifikan, 
+dengan 
+jumlah layar digital yang dikelola mencapai 28.204 layar, 
+menunjukkan ekspansi jaringan yang stabil. Selain itu, jumlah 
+anggota agregator produk digital dalam jaringan berkembang 
+menjadi 262.018. Segmen Clean Energy memperluas populasi 
+sepeda motor listrik Volta hingga 22 ribu unit pada akhir 
+tahun 2024. Ke depan, NFCX tetap berkomitmen untuk 
+mempertahankan momentum dan mendorong pertumbuhan 
+berkelanjutan di berbagai area bisnis ini.
+Melihat ke depan pada tahun 2025, NFCX mengharapkan 
+tahun yang krusial, dengan kembalinya pertumbuhan 
+positif pada pendapatan bersih sambil mempertahankan 
+profitabilitas di tingkat operasional dan pendapatan bersih 
+inti. Perusahaan juga bertujuan untuk mempertahankan 
+posisi keuangan yang kuat, dengan rasio utang terhadap 
+ekuitas yang diharapkan tetap di bawah 1,0x.
+in aggregate, still managed to record very good growth, 
+increasing by 18.3% YoY, from Rp92.3 billion in 2023 to 
+Rp109.2 billion in 2024.
+At the operational level, NFCX grew in several key segments, 
+particularly those demonstrating strong margin performance. 
+The Digital Cloud Advertising segment saw notable growth, 
+with the number of managed digital signages reaching 
+28,204 screens, indicating steady network expansion. 
+Additionally, the number of digital product aggregator 
+members in the network grew to 262,018. The Clean Energy 
+segment expanded the Volta electric motorcycle population 
+to 22 thousand units by the end of 2024. Moving forward, 
+NFCX remains committed to maintaining momentum and 
+driving continued growth across these business areas.
+Looking ahead to 2025, NFCX expects a pivotal year, with a 
+return to positive growth in net revenues while sustaining 
+profitability at the operating and core net income levels. The 
+company also aims to maintain a strong financial position, 
+with the net debt-to-equity ratio expected to remain below 
+1,0x.
+ASPEK PEMASARAN
+MARKETING ASPECTS
+NFCX menyajikan visi pemasaran yang dinamis dalam laporan 
+tahunan ini, sebuah visi yang mendasari ambisinya untuk 
+mendorong hasil bisnis yang berdampak melalui inovasi, 
+sinergi, dan fokus pada penciptaan nilai jangka panjang.
+Perseroan terus beradaptasi dengan cepat terhadap 
+pergeseran perilaku pasar, terutama di ruang B2B dan 
+B2B2C. Alih-alih sekadar menawarkan produk dan layanan, 
+NFCX fokus untuk membangun ekosistem bisnis yang 
+saling terhubung, yang menggabungkan berbagai solusi 
+untuk mendukung pertumbuhan kliennya. Dengan berbagai 
+tawaran yang terintegrasi secara mulus, NFCX bertujuan 
+untuk menjadi mitra terpercaya bagi bisnis yang mencari 
+solusi digital yang inovatif dan berorientasi masa depan.
+Salah satu kekuatan utama terletak pada kemampuan NFCX 
+untuk memanfaatkan ekosistemnya yang luas. Strategi 
+pemasaran dijalankan dengan pendekatan yang terpadu, 
+NFCX sets forth a dynamic marketing vision in this annual 
+report—one that underpins its ambition to drive impactful 
+business results through innovation, synergy, and a focus on 
+long-term value creation.
+The Company continuously adapts to the fast-paced shifts in 
+market behavior, particularly in the B2B and B2B2C spaces. 
+Rather than merely offering products and services, NFCX is 
+focused on building an interconnected business ecosystem 
+that brings together diverse solutions to support its clients’ 
+growth. With a wide array of seamlessly integrated offerings, 
+NFCX aims to be a trusted partner for businesses seeking 
+forward-looking, digital-first solutions.
+A key strength lies in NFCX’s ability to leverage its broad 
+ecosystem. Marketing strategies are executed with a unified 
+approach that integrates offerings across business lines—
+108
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+yang mengintegrasikan penawaran di seluruh lini bisnis—
+Digital Product Aggregator, Digital Cloud Advertising, Clean 
+Energy, Digital Wholesale, dan Content & Entertainment. Hal 
+ini memungkinkan Perusahaan untuk menciptakan nilai yang 
+jauh melampaui interaksi transaksi. Dengan memperlakukan 
+mitra bisnisnya bukan hanya sebagai pelanggan, tetapi juga 
+sebagai kolaborator, NFCX memberikan mereka akses unik 
+ke inisiatif-inisiatif di seluruh ekosistemnya yang membantu 
+meningkatkan jangkauan dan dampak mereka sendiri.
+Anggota agregator produk digital, juga dapat memanfaatkan 
+solusi pelengkap lainnya seperti iklan dan penawaran 
+energi bersih, menciptakan pengalaman yang mulus yang 
+memperkuat loyalitas pengguna dan interaksi merek. 
+Di seluruh ekosistem ini, AI semakin terintegrasi untuk 
+mempersonalisasi pengalaman pengguna, mengoptimalkan 
+efisiensi operasional, dan lebih meningkatkan efektivitas 
+solusi-solusi Perseroan.
+Dalam Digital Cloud Advertising, NFCX terus memperluas 
+penawaran produknya dengan memperkenalkan layar LED 
+format besar (Videotron) dan label rak elektronik. Solusi-
+solusi ini dirancang untuk mendukung pengecer tradisional—
+terlepas dari skala mereka dalam beralih menuju lingkungan 
+ritel pintar. Menguatkan visi ini adalah tagline kampanye baru 
+Perusahaan, #minterinTOKO dari DMMX, yang menegaskan 
+komitmennya untuk memberdayakan pelaku ritel melalui 
+teknologi 
+yang 
+terjangkau 
+dan 
+berdampak. 
+Dengan 
+menawarkan alat periklanan digital yang dapat diskalakan, 
+mudah diakses, dan dilengkapi dengan kemampuan AI 
+dan IoT, NFCX mengubah cara bisnis berinteraksi dengan 
+pelanggan mereka secara real-time.
+Sementara itu, segmen Konten & Hiburan meraih kesuksesan 
+dengan rilis film horor “Kuasa Gelap”, yang memperluas 
+jangkauan audiens Perusahaan dan memperkuat kehadiran 
+kreatifnya di pasar.
+Dalam segmen Energi Bersih, NFCX secara aktif memperkuat 
+visibilitas merek dan daya tarik konsumen melalui berbagai 
+inisiatif 
+pemasaran 
+utama 
+dan 
+peluncuran 
+produk. 
+Pengenalan varian sepeda motor listrik baru Eagle dan Cyrus 
+di IIMS 2024 Surabaya menandai tonggak penting dalam 
+upaya inovasi Perseroan. Demikian pula, peluncuran model 
+edisi terbatas Volta Mandala “Candy Blue” menarik minat 
+publik yang tinggi, dengan pre-order online yang cepat habis. 
+Untuk memperluas lini premium-nya, NFCX meluncurkan 
+MandalaX dan PatriotX di GIIAS 2024, menegaskan komitmen 
+Digital Product Aggregator, Digital Cloud Advertising, Clean 
+Energy, Digital Wholesale, and Content & Entertainment. This 
+allows the Company to create value that extends far beyond 
+transactional interactions. By treating its business partners 
+not just as customers but as collaborators, NFCX offers them 
+unique access to initiatives across its ecosystem that help 
+boost their own reach and impact.
+Digital product aggregator members, for instance, are 
+also able to tap into other complementary solutions such 
+as advertising and clean energy offerings, creating a 
+seamless experience that strengthens user loyalty and brand 
+interaction. Across this ecosystem, AI is being increasingly 
+integrated to personalize user experiences, optimize 
+operational efficiency, and further elevate the effectiveness 
+of the Company’s solutions.
+In Digital Cloud Advertising, NFCX continued to expand its 
+product offerings with the introduction of large-format 
+LED screens (Videotrons) and electronic shelf labels. These 
+solutions are designed to support traditional retailers—
+regardless of their scale—in transitioning toward smart 
+retail environments. Reinforcing this vision is the Company’s 
+new campaign tagline, DMMX’s #minterinTOKO, which 
+underscores its dedication to empowering retail players 
+through affordable and impactful technology. By offering 
+digital advertising tools that are scalable, accessible, and 
+enhanced with AI and IoT capabilities, NFCX is transforming 
+how businesses interact with their customers in real time.
+Meanwhile, the Content & Entertainment segment saw 
+success with the release of the horror film “Dominion of 
+Darkness”, which expanded the Company’s audience reach 
+and reinforced its creative presence in the market.
+In the Clean Energy segment, NFCX actively reinforced its 
+brand visibility and consumer traction through a number 
+of key marketing initiatives and product launches. The 
+introduction of new electric motorcycle variants—Eagle 
+and Cyrus—at IIMS 2024 Surabaya marked a milestone in 
+the Company’s innovation efforts. Similarly, the release of 
+the limited-edition Volta Mandala “Candy Blue” model drew 
+high public interest, with online pre-orders quickly selling 
+out. Further expanding its premium line-up, NFCX launched 
+the MandalaX and PatriotX at GIIAS 2024, highlighting 
+109
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+berkelanjutan terhadap kinerja, desain, dan responsivitas 
+pasar. Sebagai pelengkap inovasi produk ini, NFCX juga 
+menjalin kemitraan signifikan dengan Indonesia Battery 
+Corporation (IBC). Kolaborasi ini mencakup layanan purna jual 
+yang komprehensif, manajemen gudang, upaya pemasaran 
+bersama, saluran penjualan yang diperluas, dan strategi 
+branding yang terpadu untuk memperkuat ekosistem 
+kendaraan listrik di Indonesia.
+Setelah alokasi penuh program subsidi kendaraan listrik (EV) 
+pemerintah 2024 dan sebagai antisipasi terhadap pembaruan 
+kebijakan di bawah pemerintahan baru, NFCX mengambil 
+langkah proaktif untuk menjaga minat dan adopsi konsumen. 
+Mulai Oktober 2024, Volta memperkenalkan penawaran 
+spesial yang dipromosikan dengan nama “Shocktober” 
+untuk pembeli B2C, yang dirancang untuk mencocokkan 
+nilai yang sebelumnya diberikan oleh subsidi pemerintah. 
+Promosi ini mencakup opsi seperti bonus baterai kedua 
+atau pengurangan harga yang signifikan, yang secara efektif 
+membantu pelanggan mengimbangi celah yang ditinggalkan 
+oleh penghentian sementara insentif pemerintah.
+Secara keseluruhan, inisiatif pemasaran strategis ini 
+mencerminkan komitmen lebih luas NFCX terhadap 
+pengembangan ekosistem jangka panjang, responsivitas 
+pasar, dan penciptaan nilai bagi mitra dan konsumen. Melalui 
+solusi terintegrasi, personalisasi yang didorong oleh AI, 
+dan inovasi berkelanjutan di semua lini bisnis, NFCX terus 
+memperkuat posisinya sebagai pemain yang berpikiran maju 
+dalam transformasi keterlibatan konsumen.
+its continued commitment to performance, design, and 
+market responsiveness. Complementing these product 
+innovations, NFCX also entered into a significant partnership 
+with Indonesia Battery Corporation (IBC). This collaboration 
+spans comprehensive after-sales service, warehouse 
+management, joint marketing efforts, expanded sales 
+channels, and unified branding strategies to enhance the 
+electric vehicle ecosystem in Indonesia.
+Following the full allocation of the government’s 2024 EV 
+subsidy program and in anticipation of updated policies 
+under the new administration, NFCX took proactive steps 
+to maintain consumer interest and adoption. Starting in 
+October 2024, Volta introduced special offers campaigned 
+as “Shocktober” for B2C buyers, designed to match the 
+value previously provided by government subsidies. These 
+promotions included options such as a second battery bonus 
+or significant price reductions, effectively helping customers 
+offset the gap left by the temporary freeze in government 
+incentives.
+Together, these strategic marketing initiatives reflect NFCX’s 
+broader commitment to long-term ecosystem development, 
+market responsiveness, and value creation for partners and 
+consumers alike. Through integrated solutions, AI-powered 
+personalization, and ongoing innovation across all business 
+lines, NFCX continues to strengthen its position as a forward-
+thinking player in consumer engagement transformation.
+DIVIDEN
+DIVIDENDS
+Kebijakan dividen yang berlaku di Perseroan mengacu pada 
+Anggaran Dasar PT NFC Indonesia Tbk. Kebijakan ini menyatakan 
+bahwa dividen tunai dapat dibayarkan kepada seluruh Pemegang 
+Saham setidaknya sekali dalam setahun dengan memperhatikan 
+kondisi keuangan Perseroan. Nilai dividen yang dibayarkan 
+akan dikaitkan dengan laba bersih pada tahun buku yang 
+bersangkutan, tanpa mengabaikan tingkat kesehatan keuangan 
+Perseroan dan tanpa mengurangi hak Rapat Umum Pemegang 
+Saham (RUPS) untuk menentukan lainnya.
+The dividend policy that the Company abides by refers to the 
+Articles of Association of PT NFC Indonesia Tbk. This policy 
+states that cash dividends can be paid to all Shareholders at 
+least once a year, taking into account the Company’s financial 
+condition. The value of the dividends paid will be linked to the 
+net income for the relevant financial year, without neglecting 
+the level of the Company’s financial soundness and without 
+prejudice to the rights of the General Meeting of Shareholders 
+(GMS) to determine otherwise.
+110
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Jenis Penawaran Umum
+Type of Public Offering
+Tanggal Efektif
+Effective Date
+Jumlah Hasil
+Penawaran Umum
+Public Offering
+Proceeds
+Biaya Penawaran
+Umum
+Public Offering
+Expenditures
+Hasil Bersih
+Net Proceeds
+Alokasi Penggunaan Dana
+Allocation of Proceeds
+Rencana Penggunaan Dana
+Fund Usage Plan
+Realisasi hingga 31 Desember 2024
+Actual Use up to 31 December 2023
+Penawaran Umum Saham Perdana
+Initial Public Offering of Shares
+29 Juni 2018
+29 June 2018
+Rp308,3 miliar/billion
+Rp11,9 miliar/billion
+Rp296,5 miliar/billion
+Peningkatan modal kerja
+Increasing working capital
+Rp206,9 miliar/billion
+Ro206,9 miliar/billion
+Peningkatan investasi di bidang teknologi informasi
+Improving information and communications technology
+Rp88,9 miliar/billion
+Rp88,9 miliar/billion
+Pengembangan dan pembinaan SDM
+Human resources development and enhancement
+Rp618,9 juta/million
+Rp618,9 juta/million
+Total
+Total
+Rp296,5 miliar/billion
+Rp296,5 miliar/billion
+Sisa Dana Hasil Penawaran Umum
+Remaining Public Offering Proceeds
+-
+-
+PENGGUNAAN DANA HASIL PENAWARAN UMUM
+USE OF PUBLIC OFFERING PROCEEDS FUNDS
+Penggunaan Dana Hasil Penawaran Umum Perseroan 
+dicatatkan pada tanggal 12 Juli 2018 dengan jumlah Rp308,3 
+miliar di Bursa Efek Indonesia. 
+Perseroan mengungkapkan hasil penawaran umum tersebut 
+sesuai dengan Peraturan Otoritas Jasa Keuangan No. 30/
+POJK.04/2015 tentang Laporan Realisasi Penggunaan Dana 
+(LRPD) Hasil Penawaran Umum, yang diungkapkan pada tabel 
+berikut.
+The use of the Company’s Public Offering Proceeds was 
+recorded on July 12, 2018 with an amount of Rp308.3 billion 
+registered on the Indonesia Stock Exchange.
+The Company discloses the results of the public offering in 
+accordance with Financial Services Authority Regulation No. 
+30/POJK.04/2015 on the Public Offering Results Realization 
+Report (LRPD), disclosed in the following table.
+Pada tahun 2023 dan 2024, Perseroan belum membagikan 
+dividen sesuai dengan keputusan Rapat Umum Pemegang 
+Saham Tahunan (RUPS Tahunan) pada tanggal 14 Juni 2023 
+dan RUPS Tahunan 19 Juni 2024. Hal tersebut dikarenakan 
+Perseroan masih fokus pada ekspansi usaha yang mencakup 
+pengembangan dan pembinaan seluruh sumber dayanya, 
+termasuk dalam peningkatan teknologi komunikasi dan 
+informasi.
+In 2023 and 2024, the Company has not distributed dividends in 
+accordance with the resolutions of the Annual General Meeting 
+of Shareholders (Annual General Meeting of Shareholders) on 
+June 14, 2023 and Annual General Meeting of Shareholders 
+June 19, 2024. This is because the Company is still focused 
+on business expansion which includes the development and 
+development of all sources resources, including in improving 
+communication and information technology.
+111
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Di tahun 2024, Perseroan melakukan investasi dan divestasi 
+atas saham di sejumlah anak perusahaan, sebagaimana 
+dijelaskan dalam Catatan 4 atas Laporan Keuangan 
+Konsolidasian halaman 65-66.
+Di tahun 2024, Perseroan tidak melakukan transaksi apapun 
+yang berpotensi menyebabkan benturan kepentingan. 
+Transaksi - transaksi yang Perseroan lakukan di tahun 2024 
+dengan pihak berelasi, dijelaskan lebih lanjut pada Catatan 9 
+pada Laporan Keuangan Konsolidasian, halaman 74-85.
+Direksi, Dewan Komisaris dan Komite Audit menyatakan 
+bahwa transaksi afiliasi telah melalui prosedur yang memadai 
+untuk memastikan bahwa transaksi afiliasi dilaksanakan 
+sesuai dengan praktik bisnis yang berlaku umum antara lain 
+dilakukan dengan memenuhi prinsip transaksi yang wajar 
+(Arms-length principle).
+In 2024, The Company made additional investment and 
+divestment of subsidiaries in the form of shares, as described 
+in detail in Note ... to the Consolidated Financial Statements 
+on pages XXX.
+In 2024, the Company did not conduct any transactions with 
+a potential for conflict of interest. Transactions with related 
+parties which the Company performed in 2024 are explained 
+further in Note 9 to the Consolidated Financial Statements, 
+pages 74-85.
+The Board of Directors, Board of Commissioners, and 
+Audit Committee declare that affiliated transactions have 
+undergone adequate procedures to ensure that they are 
+conducted in accordance with generally accepted business 
+practices, including adherence to the arm’s-length principle.
+INFORMASI MATERIAL MENGENAI INVESTASI, 
+EKSPANSI, DIVESTASI, MERGER, AKUISISI DAN 
+RESTRUKTURISASI
+MATERIAL INFORMATION ON INVESTMENT, EXPANSION, 
+DIVESTMENT, MERGER, ACQUISITION AND RESTRUCTURING
+TRANSAKSI AFILIASI DAN/ATAU TRANSAKSI 
+BENTURAN KEPENTINGAN DAN/ATAU TRANSAKSI 
+DENGAN PIHAK BERELASI
+AFFILIATED TRANSACTIONS AND/OR CONFLICT OF INTEREST 
+TRANSACTIONS AND/OR TRANSACTIONS WITH RELATED PARTIES
+PERNYATAAN TENTANG TRANSAKSI DENGAN PIHAK 
+BERELASI
+STATEMENT ON TRANSACTIONS WITH RELATED PARTIES
+TRANSAKSI PIHAK BERELASI YANG MENGHASILKAN 
+PENDAPATAN USAHA DAN DIJALANKAN SECARA 
+RUTIN, BERULANG DAN/ATAU BERKELANJUTAN
+RELATED PARTY TRANSACTIONS THAT GENERATE OPERATING 
+REVENUE AND ARE CONDUCTED ON A REGULAR, RECURRING, 
+AND/OR ONGOING BASIS
+Di tahun 2024, Perseroan melakukan transaksi dengan 
+pihak berelasi yang menghasilkan pendapatan usaha dan 
+In 2024, the Company conducted transactions with related 
+parties that resulted in operating revenue and purchases 
+112
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+TRANSAKSI DENGAN BENTURAN KEPENTINGAN
+TRANSACTIONS WITH CONFLICT OF INTEREST
+PERUBAHAN PERATURAN PERUNDANG-UNDANGAN
+AMENDMENTS TO LAWS AND REGULATIONS
+PERUBAHAN KEBIJAKAN AKUNTANSI
+CHANGES IN ACCOUNTING POLICY
+Di tahun 2024, Perseroan tidak melakukan transaksi apapun 
+yang berpotensi menyebabkan benturan kepentingan. 
+Transaksi - transaksi yang Perseroan lakukan di tahun 2024 
+dengan pihak berelasi, dijelaskan lebih lanjut pada Catatan 9 
+pada Laporan Keuangan Konsolidasian, halaman 74 - 85. 
+Selama tahun 2024, perubahan peraturan perundang-
+undangan di Indonesia tidak memberikan dampak signifikan, 
+baik dari aktivitas operasional ataupun keuangan Perseroan. 
+Penerapan standar akuntansi keuangan revisi berikut, yang 
+berlaku efektif 1 Januari 2024, relevan bagi Grup namun tidak 
+menyebabkan perubahan material terhadap jumlah - jumlah 
+yang dilaporkan dalam laporan keuangan konsolidasian:
+•	
+Amendemen PSAK 201, “Penyajian Laporan Keuangan”: 
+Liabilitas Jangka Panjang dengan Kovenan
+Amendemen ini mengklarifikasi bahwa hanya kovenan 
+yang harus dipatuhi entitas pada atau sebelum tanggal 
+pelaporan yang akan memengaruhi klasifilasi liabilitas 
+sebagai lancar atau tidak lancar.
+The implementation of the following revised financial 
+accounting standards, which are effective from January 1, 
+2024 and relevant to the Group and had no material effect 
+on the amounts reported in the consolidated financial 
+statements:
+•	
+Amendments to PSAK 201, “Presentation of Financial 
+Statements”: Non-current Liabilities with Covenants.
+This amendment clarifies that only covenants with which 
+entities must comply on or before the reporting date will 
+affect a liability’s classification as current or non-current.
+In 2024, the Company did not conduct any transactions with 
+a potential for conflict of interest. Transactions with related 
+parties which the Company performed in 2024 are explained 
+further in Note 9 to the Consolidated Financial Statements, 
+pages 74 - 85.
+During 2024, changes to laws and regulations in Indonesia 
+will not have a significant impact, either from the Company’s 
+operational or financial activities.
+pembelian yang dijalankan secara rutin. Transaksi - transaksi 
+yang Perseroan lakukan di tahun 2024 dengan pihak berelasi, 
+dijelaskan lebih lanjut pada Catatan 9 pada Laporan Keuangan 
+Konsolidasian, halaman 83-84.
+carried out on a regular basis. The transactions conducted 
+by the Company in 2024 with related parties are further 
+explained in Note 9 of the Consolidated Financial Statements, 
+pages 83-84.
+TRANSAKSI PIHAK BERELASI YANG MEMBUTUHKAN 
+PERSETUJUAN DARI PEMEGANG SAHAM INDEPENDEN 
+RELATED PARTY TRANSACTIONS THAT REQUIRE APPROVAL FROM 
+INDEPENDENT SHAREHOLDERS
+Di tahun 2024, Perseroan tidak melakukan transaksi dengan pihak 
+berelasi yang membutuhkan persetujuan dari pemegang saham 
+independen. Transaksi - transaksi yang Perseroan lakukan di tahun 
+2024 dengan pihak berelasi, dijelaskan lebih lanjut pada Catatan 9 
+pada Laporan Keuangan Konsolidasian, halaman 74-85.
+In 2024, the Company did not conduct any related party 
+transactions that required the approval of independent 
+shareholders. The related party transactions carried out by 
+the Company in 2024 are further disclosed in Note 9 of the 
+Consolidated Financial Statements, on pages 74-85.
+113
+PT NFC Indonesia Tbk Laporan Tahunan & Keberlanjutan 2024
+Analisis dan Pembahasan Manajemen
+Management Discussion and Analysis
+Entitas menerapkan amendemen PSAK 201 (Oktober 
+2020) tentang klasifikasi liabilitas sebagai jangka pendek 
+atau jangka panjang pada periode pelaporan tahunan 
+yang dimulai pada atau setelah 1 Januari 2024 secara 
+retrospektif sesuai dengan PSAK 208. Jika entitas 
+menerapkan amendemen PSAK 201 (Oktober 2020) pada 
+periode yang lebih awal setelah terbitnya amendemen 
+PSAK 201 (Desember 2022) tentang liabilitas jangka 
+panjang dengan kovenan, maka entitas juga menerapkan 
+amendemen PSAK 201 (Desember 2022) pada periode 
+tersebut. Jika entitas menerapkan amendemen PSAK 201 
+(Oktober 2020) untuk periode sebelumnya, maka entitas 
+mengungkapkan fakta tersebut.
+•	
+Amendemen PSAK 201, “Penyajian Laporan Keuangan”: 
+Klasifikasi Liabilitas sebagai Jangka Pendek atau Jangka 
+Panjang
+Amendemen PSAK 201, “Penyajian Laporan Keuangan” 
+mengklarifikasi bahwa kewajiban diklasifikasikan sebagai 
+lancar atau tidak lancar, berdasarkan pada hak yang ada 
+pada akhir periode pelaporan.
+Klasifikasi tidak terpengaruh oleh ekspektasi entitas 
+atau peristiwa setelah tanggal pelaporan (misalnya 
+penerimaan 
+waiver 
+atau 
+pelanggaran 
+perjanjian). 
+Amendemen tersebut juga mengklarifikasi apa yang 
+dimaksud PSAK 201 perihal ‘penyelesaian’ liabilitas.
+Amendemen tersebut dapat memengaruhi klasifikasi 
+liabilitas, terutama untuk entitas yang sebelumnya 
+mempertimbangkan 
+intensi 
+manajemen 
+untuk 
+menentukan klasifikasi dan untuk beberapa liabilitas 
+yang dapat dikonversi menjadi ekuitas.
+•	
+Amendemen PSAK 207, “Laporan Arus Kas” dan PSAK 
+107, “Instrumen Keuangan - Pengungkapan”: Pengaturan 
+Pembiayaan Pemasok
+Amendemen ini mengklarifikasi karakteristik pengaturan 
+pembiayaan pemasok dan mensyaratkan pengungkapan 
+tambahan 
+atas 
+pengaturan 
+pembiayaan 
+pemasok 
+terkait. Persyaratan pengungkapan dalam amendemen 
+ini dimaksudkan untuk membantu pengguna laporan 
+keuangan 
+dalam 
+memahami 
+dampak 
+pengaturan 
+pembiayaan pemasok terhadap liabilitas, arus kas, dan 
+eksposur terhadap risiko likuiditas suatu entitas
+Entities apply retrospectively amendments to PSAK 201 
+(October 2020) regarding the classification of a liability 
+as current or non-current for financial reporting starting 
+on or after January 1, 2024 in accordance with PSAK 208. 
+If entities apply the amendments to PSAK 201 (October 
+2020) in a period that is earlier after the issuance of the 
+amendment to PSAK 201 (December 2022) regarding non-
+current liabilities with covenants, entities also apply the 
+amendment to PSAK 201 (December 2022) in that period. 
+If entities apply the amendments to PSAK 201 (October 
+2020) for the previous period, the entity shall disclose this 
+fact.
+•	
+Amendments to PSAK 201, “Presentation of Financial 
+Statements”: Classification of Liabilities as Current or 
+Non-current
+The narrow-scope amendments to PSAK 201, “Presentation 
+of Financial Statements” clarify that liabilities are 
+classified as either current or non-current, depending on 
+the rights that exist at the end of the reporting period.
+Classification is unaffected by the expectations of the 
+entity or events after the reporting date (e.g the receipt 
+of a waiver or a breach of covenant). The amendments 
+also clarify what PSAK 201 means when it refers to the 
+‘settlement’ of a liability.
+The amendments could affect the classification of 
+liabilities, particularly for entities that previously 
+considered management’s intentions to determine 
+classification and for some liabilities that can be converted 
+into equity.
+•	
+Amendments to PSAK 207, “Statement of Cash Flows” and 
+PSAK 107, “Financial Instruments - Disclosures”: Supplier 
+Finance Arrangements
+These amendments clarify the characteristics of supplier 
+finance arrangements and require additional disclosure 
+of such arrangements. The disclosure requirements in 
+the amendments are intended to assist users of financial 
+statements in understanding the effects of supplier 
+finance arrangements on an entity’s liabilities, cash flows 
+and exposure to liquidity risk.
+TATA KELOLA PERUSAHAAAN
+GOOD CORPORATE GOVERNANCE
+05
+Struktur Tata Kelola Perusahaan
+Corporate Governance Structure
+117
+Rapat Umum Pemegang Saham
+General Meeting of Shareholders
+118
+Dewan Komisaris
+Board of Commissioners
+129
+Direksi
+Board of Directors
+137
+Komite Audit
+Audit Committee
+148
+Komite Nominasi & Remunerasi
+Nomination & Remuneration 
+Committee
+154
+Sekretaris Perusahaan
+Corporate Secretary
+158
+Unit Audit Internal
+Internal Audit Unit
+163
+Sistem Pengendalian Internal
+Internal Supervisory System
+166
+Sistem Manajemen Risiko
+Risk Management System
+168
+Perkara Penting dan Sanksi 
+Administratif
+Litigation and Administrative 
+Sanctions
+170
+Kode Etik
+Code of Conduct
+170
+Kebijakan Insider Trading
+Insider Trading Policy
+171
+Sistem Pelaporan Pelanggaran
+Whistleblowing System
+172
+Kebijakan Anti Korupsi 
+Anti-Corruption Policy
+174
+Penerapan Pedoman Tata Kelola 
+Perusahaan Terbuka
+Implementation of Corporate 
+Governance Guideline for Public 
+Companies
+175

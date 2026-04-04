@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BRAM-att3.pdf",
+    "ticker": "BRAM_2024",
+    "mdma_start": "122",
+    "mdma_end": "153",
+    "Positive_Sum": 2770.0,
+    "Negative_Sum": 2680.0,
+    "Total_Matched_Words": 1758,
+    "Total_Word": 11803,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MORA-att2.pdf",
+    "ticker": "MORA_2024",
+    "mdma_start": "90",
+    "mdma_end": "127",
+    "Positive_Sum": 4383.0,
+    "Negative_Sum": 3983.0,
+    "Total_Matched_Words": 2706,
+    "Total_Word": 19075,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

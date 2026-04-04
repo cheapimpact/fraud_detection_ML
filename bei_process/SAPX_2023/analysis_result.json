@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-SAPX-att3.pdf",
+    "ticker": "SAPX_2023",
+    "mdma_start": "74",
+    "mdma_end": "92",
+    "Positive_Sum": 2103.0,
+    "Negative_Sum": 1801.0,
+    "Total_Matched_Words": 1257,
+    "Total_Word": 7464,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-CRSN-att1.pdf",
+    "ticker": "CRSN_2024",
+    "mdma_start": "114",
+    "mdma_end": "167",
+    "Positive_Sum": 5300.0,
+    "Negative_Sum": 4522.0,
+    "Total_Matched_Words": 3128,
+    "Total_Word": 20061,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

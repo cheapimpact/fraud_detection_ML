@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-LINK-att2.pdf",
+    "ticker": "LINK_2024",
+    "mdma_start": "106",
+    "mdma_end": "150",
+    "Positive_Sum": 5202.0,
+    "Negative_Sum": 4606.0,
+    "Total_Matched_Words": 3112,
+    "Total_Word": 20293,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

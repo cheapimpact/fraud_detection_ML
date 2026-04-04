@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TAPG-att2.pdf",
+    "ticker": "TAPG_2023",
+    "mdma_start": "94",
+    "mdma_end": "113",
+    "Positive_Sum": 1761.0,
+    "Negative_Sum": 2052.0,
+    "Total_Matched_Words": 1252,
+    "Total_Word": 8122,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KSIX-att2.pdf",
+    "ticker": "KSIX_2024",
+    "mdma_start": "68",
+    "mdma_end": "97",
+    "Positive_Sum": 4076.0,
+    "Negative_Sum": 3333.0,
+    "Total_Matched_Words": 2333,
+    "Total_Word": 14427,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

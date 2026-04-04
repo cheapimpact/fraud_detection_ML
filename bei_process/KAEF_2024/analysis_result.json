@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KAEF-att2.pdf",
+    "ticker": "KAEF_2024",
+    "mdma_start": "190",
+    "mdma_end": "233",
+    "Positive_Sum": 4397.0,
+    "Negative_Sum": 4312.0,
+    "Total_Matched_Words": 2843,
+    "Total_Word": 20717,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

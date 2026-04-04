@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DGWG-att1.pdf",
+    "ticker": "DGWG_2024",
+    "mdma_start": "72",
+    "mdma_end": "117",
+    "Positive_Sum": 5099.0,
+    "Negative_Sum": 5513.0,
+    "Total_Matched_Words": 3388,
+    "Total_Word": 23737,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-RAFI-att2.pdf",
+    "ticker": "RAFI_2023",
+    "mdma_start": "108",
+    "mdma_end": "159",
+    "Positive_Sum": 4991.0,
+    "Negative_Sum": 4316.0,
+    "Total_Matched_Words": 3028,
+    "Total_Word": 22671,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

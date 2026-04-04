@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KRYA-att1.pdf",
+    "ticker": "KRYA_2024",
+    "mdma_start": "150",
+    "mdma_end": "177",
+    "Positive_Sum": 1661.0,
+    "Negative_Sum": 1306.0,
+    "Total_Matched_Words": 997,
+    "Total_Word": 6657,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

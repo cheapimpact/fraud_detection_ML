@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-INCO-att1.pdf",
+    "ticker": "INCO_2024",
+    "mdma_start": "105",
+    "mdma_end": "163",
+    "Positive_Sum": 6672.0,
+    "Negative_Sum": 5482.0,
+    "Total_Matched_Words": 3901,
+    "Total_Word": 25183,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

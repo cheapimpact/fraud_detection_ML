@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DOOH-att1.pdf",
+    "ticker": "DOOH_2024",
+    "mdma_start": "83",
+    "mdma_end": "120",
+    "Positive_Sum": 2864.0,
+    "Negative_Sum": 2482.0,
+    "Total_Matched_Words": 1722,
+    "Total_Word": 11218,
+    "processed_at": "2026-03-30",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-KEEN-att1.pdf",
+    "ticker": "KEEN_2024",
+    "mdma_start": "84",
+    "mdma_end": "122",
+    "Positive_Sum": 2785.0,
+    "Negative_Sum": 3137.0,
+    "Total_Matched_Words": 1889,
+    "Total_Word": 12146,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

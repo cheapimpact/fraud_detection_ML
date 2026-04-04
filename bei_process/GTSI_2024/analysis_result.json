@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-GTSI-att1.pdf",
+    "ticker": "GTSI_2024",
+    "mdma_start": "84",
+    "mdma_end": "111",
+    "Positive_Sum": 2478.0,
+    "Negative_Sum": 2716.0,
+    "Total_Matched_Words": 1699,
+    "Total_Word": 11011,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

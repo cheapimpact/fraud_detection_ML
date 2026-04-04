@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-AVIA-att3.pdf",
+    "ticker": "AVIA_2024",
+    "mdma_start": "97",
+    "mdma_end": "122",
+    "Positive_Sum": 5607.0,
+    "Negative_Sum": 5015.0,
+    "Total_Matched_Words": 3378,
+    "Total_Word": 11701,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

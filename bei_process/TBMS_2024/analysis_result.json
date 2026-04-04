@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-TBMS-att2.pdf",
+    "ticker": "TBMS_2024",
+    "mdma_start": "45",
+    "mdma_end": "56",
+    "Positive_Sum": 1008.0,
+    "Negative_Sum": 875.0,
+    "Total_Matched_Words": 607,
+    "Total_Word": 4295,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

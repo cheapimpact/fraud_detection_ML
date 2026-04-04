@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TAXI-att1.pdf",
+    "ticker": "TAXI_2023",
+    "mdma_start": "72",
+    "mdma_end": "93",
+    "Positive_Sum": 2489.0,
+    "Negative_Sum": 2810.0,
+    "Total_Matched_Words": 1640,
+    "Total_Word": 11015,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

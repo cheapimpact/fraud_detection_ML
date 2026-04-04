@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-IPTV-att1.pdf",
+    "ticker": "IPTV_2024",
+    "mdma_start": "77",
+    "mdma_end": "92",
+    "Positive_Sum": 1717.0,
+    "Negative_Sum": 1697.0,
+    "Total_Matched_Words": 1051,
+    "Total_Word": 6352,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DAAZ-att2.pdf",
+    "ticker": "DAAZ_2024",
+    "mdma_start": "78",
+    "mdma_end": "101",
+    "Positive_Sum": 2305.0,
+    "Negative_Sum": 1696.0,
+    "Total_Matched_Words": 1265,
+    "Total_Word": 7814,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

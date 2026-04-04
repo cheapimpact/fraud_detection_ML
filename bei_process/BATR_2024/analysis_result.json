@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BATR-att3.pdf",
+    "ticker": "BATR_2024",
+    "mdma_start": "97",
+    "mdma_end": "122",
+    "Positive_Sum": 2554.0,
+    "Negative_Sum": 2173.0,
+    "Total_Matched_Words": 1522,
+    "Total_Word": 9818,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

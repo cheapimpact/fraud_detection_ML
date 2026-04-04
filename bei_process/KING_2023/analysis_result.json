@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-KING-att1.pdf",
+    "ticker": "KING_2023",
+    "mdma_start": "52",
+    "mdma_end": "60",
+    "Positive_Sum": 1135.0,
+    "Negative_Sum": 1007.0,
+    "Total_Matched_Words": 697,
+    "Total_Word": 4825,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

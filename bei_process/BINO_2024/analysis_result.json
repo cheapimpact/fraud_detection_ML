@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BINO-att1.pdf",
+    "ticker": "BINO_2024",
+    "mdma_start": "84",
+    "mdma_end": "104",
+    "Positive_Sum": 2040.0,
+    "Negative_Sum": 2118.0,
+    "Total_Matched_Words": 1317,
+    "Total_Word": 9013,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

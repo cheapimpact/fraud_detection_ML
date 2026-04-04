@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-DMND-att1.pdf",
+    "ticker": "DMND_2024",
+    "mdma_start": "82",
+    "mdma_end": "119",
+    "Positive_Sum": 4279.0,
+    "Negative_Sum": 3461.0,
+    "Total_Matched_Words": 2529,
+    "Total_Word": 15195,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

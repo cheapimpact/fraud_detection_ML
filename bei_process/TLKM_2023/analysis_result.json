@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-TLKM-att2.pdf",
+    "ticker": "TLKM_2023",
+    "mdma_start": "100",
+    "mdma_end": "165",
+    "Positive_Sum": 11101.0,
+    "Negative_Sum": 9237.0,
+    "Total_Matched_Words": 6600,
+    "Total_Word": 25556,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

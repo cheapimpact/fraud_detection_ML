@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-MBTO-att1.pdf",
+    "ticker": "MBTO_2024",
+    "mdma_start": "49",
+    "mdma_end": "67",
+    "Positive_Sum": 2733.0,
+    "Negative_Sum": 3016.0,
+    "Total_Matched_Words": 1885,
+    "Total_Word": 12217,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

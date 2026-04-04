@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-HOPE-att1.pdf",
+    "ticker": "HOPE_2024",
+    "mdma_start": "64",
+    "mdma_end": "88",
+    "Positive_Sum": 1833.0,
+    "Negative_Sum": 2113.0,
+    "Total_Matched_Words": 1248,
+    "Total_Word": 8909,
+    "processed_at": "2026-03-26",
+    "status": "Success"
+}

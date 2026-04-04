@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-BOAT-att1.pdf",
+    "ticker": "BOAT_2024",
+    "mdma_start": "58",
+    "mdma_end": "71",
+    "Positive_Sum": 2266.0,
+    "Negative_Sum": 2269.0,
+    "Total_Matched_Words": 1436,
+    "Total_Word": 8761,
+    "processed_at": "2026-03-12",
+    "status": "Success"
+}

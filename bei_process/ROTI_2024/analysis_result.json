@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-ROTI-att1.pdf",
+    "ticker": "ROTI_2024",
+    "mdma_start": "44",
+    "mdma_end": "52",
+    "Positive_Sum": 1365.0,
+    "Negative_Sum": 1186.0,
+    "Total_Matched_Words": 821,
+    "Total_Word": 5001,
+    "processed_at": "2026-03-28",
+    "status": "Success"
+}

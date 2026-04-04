@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2023-MNCN-att1.pdf",
+    "ticker": "MNCN_2023",
+    "mdma_start": "102",
+    "mdma_end": "125",
+    "Positive_Sum": 1520.0,
+    "Negative_Sum": 1559.0,
+    "Total_Matched_Words": 1018,
+    "Total_Word": 7494,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

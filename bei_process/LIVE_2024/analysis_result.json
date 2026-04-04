@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-LIVE-att1.pdf",
+    "ticker": "LIVE_2024",
+    "mdma_start": "86",
+    "mdma_end": "108",
+    "Positive_Sum": 1799.0,
+    "Negative_Sum": 1840.0,
+    "Total_Matched_Words": 1147,
+    "Total_Word": 7741,
+    "processed_at": "2026-03-29",
+    "status": "Success"
+}

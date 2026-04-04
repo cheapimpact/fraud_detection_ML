@@ -1,0 +1,12 @@
+{
+    "target_file": "AnnualReport2024-SSIA-att1.pdf",
+    "ticker": "SSIA_2024",
+    "mdma_start": "68",
+    "mdma_end": "82",
+    "Positive_Sum": 3333.0,
+    "Negative_Sum": 3188.0,
+    "Total_Matched_Words": 2167,
+    "Total_Word": 14346,
+    "processed_at": "2026-03-27",
+    "status": "Success"
+}

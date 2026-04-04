@@ -1,0 +1,11 @@
+{
+    "target_file": "AnnualReport2024-ADMR-att1.pdf",
+    "ticker": "ADMR_2024",
+    "mdma_start": "78",
+    "mdma_end": "93",
+    "Positive_Sum": 1871.0,
+    "Negative_Sum": 1774.0,
+    "Total_Matched_Words": 1246,
+    "Total_Word": 8062,
+    "processed_at": "2026-02-24"
+}
