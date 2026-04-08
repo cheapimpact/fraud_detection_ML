@@ -1,6 +1,6 @@
 import os
 
-base_dir = r"C:\Users\Malik\PycharmProjects\pypypy\BEI\MDMA\bei_process"
+base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bei_process")
 unprocessed = []
 processed = []
 
