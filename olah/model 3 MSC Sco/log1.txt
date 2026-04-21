@@ -1,0 +1,60 @@
+/opt/homebrew/lib/python3.14/site-packages/xgboost/training.py:200: UserWarning: [10:39:39] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:782: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/opt/homebrew/lib/python3.14/site-packages/xgboost/training.py:200: UserWarning: [10:39:39] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:782: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+/opt/homebrew/lib/python3.14/site-packages/xgboost/training.py:200: UserWarning: [10:39:39] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:782: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+Memuat dataset...
+
+==================================================
+1. Analisis Deskriptif
+==================================================
+FLAG POTENTIAL FRAUD              0         1
+M_Score            mean   -2.747626 -2.391681
+                   median -2.670226 -2.532393
+                   std     0.440367  0.886459
+VolatilitasD-30    mean    0.483351  0.479612
+                   median  0.392302  0.394572
+                   std     0.357149  0.362134
+Negative_Tone      mean    0.236061  0.245830
+                   median  0.232134  0.235764
+                   std     0.035829  0.062392
+Positive_Tone      mean    0.238109  0.254978
+                   median  0.236713  0.246913
+                   std     0.037683  0.066992
+Subjectivity_Ratio mean    0.151682  0.160278
+                   median  0.151368  0.152018
+                   std     0.020012  0.040374
+
+==================================================
+2. Uji Performa Klasifikasi (Komparasi 3 Model)
+==================================================
+Model 1 (Baseline) metrics:
+ {'F1-Score': 0.45, 'Precision': 0.34615384615384615, 'Recall': 0.6428571428571429, 'AUC': 0.7021428571428572}
+
+Model 2 (Replikasi Jurnal) metrics:
+ {'F1-Score': 0.3870967741935484, 'Precision': 0.35294117647058826, 'Recall': 0.42857142857142855, 'AUC': 0.5528571428571429}
+
+Model 3 (Inovasi Skripsi) metrics:
+ {'F1-Score': 0.42424242424242425, 'Precision': 0.3684210526315789, 'Recall': 0.5, 'AUC': 0.64}
+
+==================================================
+3. Uji Signifikansi (McNemar's Test) - Model 2 vs Model 3
+==================================================
+Tabel Kontingensi:
+[38, 7] (M2 Correct+M3 Correct , M2 Correct+M3 Wrong)
+[7, 12] (M2 Wrong+M3 Correct  , M2 Wrong+M3 Wrong)
+
+McNemar's test statistic: 0.0714, p-value: 0.7893
+=> Kesimpulan: Perbedaan prediksi antara Model 2 dan Model 3 TIDAK SIGNIFIKAN secara statistik (p >= 0.05).
+
+==================================================
+4. Analisis SHAP (Feature Importance Model 3)
+==================================================
+=> Plot SHAP Summary telah berhasil disimpan sebagai 'model3_shap_summary.png' di folder 'olah/model 3'.
