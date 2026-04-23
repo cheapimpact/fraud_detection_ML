@@ -22,7 +22,7 @@ def main():
     print("Mengeksekusi Feature Importance dari Model Terbaik per Skenario")
     print("="*80)
     
-    base_dir = '/Users/calcifer/Documents/MDMA/olah/model 2 MSC var  Oke'
+    base_dir = '/Users/calcifer/Documents/MDMA/olah/model_2_MSC_var_Oke'
     olah_dir = os.path.join(base_dir, 'olah')
     matrix_file = os.path.join(olah_dir, 'Matriks_Terbaik_F1_Recall.xlsx')
     data_file = os.path.join(base_dir, 'Dataset_ML_Ready_CLEAN_2.xlsx')
@@ -83,6 +83,7 @@ def main():
         return models[name]
 
     # Iterasi untuk tiap skenario untuk memetakan Feature Importancenya
+    all_importances_data = []
     for _, row in best_models_per_scenario.iterrows():
         scenario = row['Skenario Fitur']
         model_name = row['Model']
@@ -119,6 +120,15 @@ def main():
         sorted_features = [feature_cols[i] for i in indices]
         sorted_importances = importances[indices]
         
+        # Simpan nilai kedalam list
+        for feat, imp in zip(sorted_features, sorted_importances):
+            all_importances_data.append({
+                'Skenario Fitur': scenario,
+                'Model': model_name,
+                'Fitur': feat,
+                'Importance': imp
+            })
+        
         # Visualisasi Bar Plot
         plt.figure(figsize=(10, 6))
         plt.barh(range(len(sorted_importances)), sorted_importances, color='teal', alpha=0.8)
@@ -137,7 +147,13 @@ def main():
         
         print(f"--> Skenario: {scenario} ({model_name}) | Disimpan: {img_name}")
         
-    print("\nPROSES SELESAI! Semua Feature Importance berhasil terbuat dalam folder 'Performance Test'.")
+    df_importances = pd.DataFrame(all_importances_data)
+    df_importances = df_importances.sort_values(by=['Skenario Fitur', 'Importance'], ascending=[True, False])
+    importances_path = os.path.join(output_dir, 'Feature_Importances_Values.xlsx')
+    df_importances.to_excel(importances_path, index=False)
+    
+    print(f"\nNilai Feature Importance berhasil disimpan dalam file excel: {importances_path}")
+    print("PROSES SELESAI! Semua Feature Importance berhasil terbuat dalam folder 'Performance Test'.")
 
 if __name__ == '__main__':
     main()
