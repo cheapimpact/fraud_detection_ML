@@ -1,0 +1,9 @@
+Model Metrics
+Model 1 - MScore/X1 (Naive Bayes)
+=============================================
+  AUC         : 0.6129
+  F1          : 0.4068
+  Recall      : 0.8571
+  Precision   : 0.2667
+  Accuracy    : 0.4531
+  MCC         : 0.1784

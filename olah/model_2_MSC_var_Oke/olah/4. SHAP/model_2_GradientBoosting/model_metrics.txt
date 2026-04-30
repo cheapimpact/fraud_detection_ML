@@ -1,0 +1,9 @@
+Model Metrics
+Model 2 - MScore+Linguistik/X1+X2 (Gradient Boosting)
+=============================================
+  AUC         : 0.6614
+  F1          : 0.5455
+  Recall      : 0.6429
+  Precision   : 0.4737
+  Accuracy    : 0.7656
+  MCC         : 0.4007

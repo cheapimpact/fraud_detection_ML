@@ -1,0 +1,15 @@
+SHAP Feature Importance Ranking
+Model 3 - Full/X1+X2+X3 (Random Forest)
+=============================================
+ 1. Positive Tone                        0.057775
+ 2. DSRI                                 0.042075
+ 3. SGI                                  0.041194
+ 4. GMI                                  0.036403
+ 5. Volatilitas Saham D-30               0.036203
+ 6. LVGI                                 0.035237
+ 7. SGAI                                 0.024278
+ 8. Negative Tone                        0.023686
+ 9. TATA                                 0.023309
+10. DEPI                                 0.018525
+11. Subjectivity Ratio                   0.016446
+12. AQI                                  0.012622

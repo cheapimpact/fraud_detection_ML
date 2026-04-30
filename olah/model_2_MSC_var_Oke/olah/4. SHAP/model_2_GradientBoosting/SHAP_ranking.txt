@@ -1,0 +1,14 @@
+SHAP Feature Importance Ranking
+Model 2 - MScore+Linguistik/X1+X2 (Gradient Boosting)
+=============================================
+ 1. GMI                                  0.503845
+ 2. SGI                                  0.495496
+ 3. Positive Tone                        0.311341
+ 4. DSRI                                 0.305171
+ 5. LVGI                                 0.287353
+ 6. DEPI                                 0.258726
+ 7. TATA                                 0.254057
+ 8. Subjectivity Ratio                   0.163886
+ 9. Negative Tone                        0.161760
+10. AQI                                  0.153852
+11. SGAI                                 0.150100

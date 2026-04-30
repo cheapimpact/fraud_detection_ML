@@ -1,0 +1,9 @@
+Model Metrics
+Model 3 - Full/X1+X2+X3 (Random Forest)
+=============================================
+  AUC         : 0.6221
+  F1          : 0.4444
+  Recall      : 0.4286
+  Precision   : 0.4615
+  Accuracy    : 0.7656
+  MCC         : 0.2965
