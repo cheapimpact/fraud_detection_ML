@@ -117,63 +117,37 @@ def to_2d(sv):
 
 
 # ══════════════════════════════════════════════════════════════════════
-# WATERFALL per grup variabel (mirip gambar referensi)
-# Semua fitur dalam satu grup ditampilkan sebagai stacked bar
+# WATERFALL per grup variabel — 2 PANEL: Fraud vs Non-Fraud
 # Biru = positif (mendorong fraud), Merah = negatif
 # ══════════════════════════════════════════════════════════════════════
-def plot_waterfall_group(sv_2d, all_model_cols, group_cols, feat_vals_mean,
-                         group_title, model_title, out_path):
-    """
-    sv_2d          : (n_samples, n_features) full model SHAP
-    all_model_cols : list of all col names in the model (same order as sv_2d)
-    group_cols     : subset of cols to plot in this group
-    feat_vals_mean : dict {col: mean_value}
-    """
-    # Get indices of group cols in model
-    col_idxs = [all_model_cols.index(c) for c in group_cols]
-    mean_sv  = sv_2d[:, col_idxs].mean(axis=0)  # signed mean SHAP per feature
-
-    # Sort by absolute SHAP: highest on top
+def _draw_waterfall_panel(ax, mean_sv, group_cols, feat_vals_mean, bar_width=0.5):
+    """Draw a single waterfall panel on the given axes."""
     sort_order = np.argsort(np.abs(mean_sv))[::-1]
+    labels   = [FEAT_LABEL.get(group_cols[i], group_cols[i]) for i in sort_order]
+    values   = mean_sv[sort_order]
+    raw_cols = [group_cols[i] for i in sort_order]
 
-    labels     = [FEAT_LABEL.get(group_cols[i], group_cols[i]) for i in sort_order]
-    values     = mean_sv[sort_order]
-    raw_cols   = [group_cols[i] for i in sort_order]
+    pos_segs = [(v, l, r) for v, l, r in zip(values, labels, raw_cols) if v >= 0]
+    neg_segs = [(v, l, r) for v, l, r in zip(values, labels, raw_cols) if v < 0]
+    pos_segs.sort(key=lambda x: x[0])
+    neg_segs.sort(key=lambda x: abs(x[0]))
 
-    fig, ax = plt.subplots(figsize=(5.5, max(4, len(group_cols) * 1.2)))
-    fig.patch.set_facecolor('white')
-
-    # Build stacked segments (positive up from 0, negative down from 0)
-    pos_bottom = 0.0
-    neg_bottom = 0.0
-
-    pos_segments = [(v, l, r) for v, l, r in zip(values, labels, raw_cols) if v >= 0]
-    neg_segments = [(v, l, r) for v, l, r in zip(values, labels, raw_cols) if v < 0]
-
-    # Sort positive: largest at bottom (stacks up)
-    pos_segments.sort(key=lambda x: x[0])
-    # Sort negative: largest magnitude at top (stacks down)
-    neg_segments.sort(key=lambda x: abs(x[0]))
-
-    bar_width = 0.5
-
-    for v, lbl, raw in pos_segments:
+    pos_bottom, neg_bottom = 0.0, 0.0
+    for v, lbl, raw in pos_segs:
         ax.bar(0, v, bottom=pos_bottom, width=bar_width,
                color='#3B82F6', edgecolor='white', linewidth=1.5, zorder=3)
         mid = pos_bottom + v / 2
         fv = feat_vals_mean.get(raw, 0)
-        # Value inside bar
         if abs(v) > 0.001:
             ax.text(0, mid, f'{v:.2f}', ha='center', va='center',
                     fontsize=9, fontweight='bold', color='white', zorder=5)
-        # Label to the right
         ax.text(bar_width/2 + 0.03, mid, f'{lbl} = {fv:.2f}',
                 ha='left', va='center', fontsize=8.5, color='#1e293b', zorder=5)
         pos_bottom += v
 
     ax.axhline(0, color='#475569', linewidth=1.2, linestyle='--', zorder=2)
 
-    for v, lbl, raw in neg_segments:
+    for v, lbl, raw in neg_segs:
         ax.bar(0, v, bottom=neg_bottom, width=bar_width,
                color='#EF4444', edgecolor='white', linewidth=1.5, zorder=3)
         mid = neg_bottom + v / 2
@@ -185,21 +159,61 @@ def plot_waterfall_group(sv_2d, all_model_cols, group_cols, feat_vals_mean,
                 ha='left', va='center', fontsize=8.5, color='#1e293b', zorder=5)
         neg_bottom += v
 
-    # Styling
     ax.set_xlim(-0.5, 2.0)
     ax.set_xticks([])
     ax.set_ylabel('Mean SHAP Value', fontsize=10)
-    ax.set_title(f'{group_title}\n{model_title}',
-                 fontsize=11, fontweight='bold', pad=12, linespacing=1.5)
     ax.spines[['top', 'right', 'bottom']].set_visible(False)
     ax.tick_params(axis='y', labelsize=8)
 
-    # Legend
+
+def plot_waterfall_group(sv_2d, all_model_cols, group_cols, Xte_raw, y_test,
+                         group_title, model_title, out_path):
+    """
+    2-panel waterfall: Left = Fraud (y=1), Right = Non-Fraud (y=0)
+    sv_2d          : (n_samples, n_features) full model SHAP
+    all_model_cols : list col names (same order as sv_2d columns)
+    group_cols     : subset cols for this group
+    Xte_raw        : test DataFrame (original scale, for mean feature values)
+    y_test         : Series with actual labels
+    """
+    col_idxs   = [all_model_cols.index(c) for c in group_cols]
+    y_arr      = np.array(y_test)
+    fraud_mask = (y_arr == 1)
+    nonfr_mask = (y_arr == 0)
+
+    sv_fraud   = sv_2d[fraud_mask][:, col_idxs]
+    sv_nonfr   = sv_2d[nonfr_mask][:, col_idxs]
+
+    mean_fraud = sv_fraud.mean(axis=0)
+    mean_nonfr = sv_nonfr.mean(axis=0)
+
+    # Mean feature values per class
+    fv_fraud = {c: float(Xte_raw.loc[y_test == 1, c].mean()) for c in group_cols}
+    fv_nonfr = {c: float(Xte_raw.loc[y_test == 0, c].mean()) for c in group_cols}
+
+    n_feats = len(group_cols)
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, max(5, n_feats * 1.1)))
+    fig.patch.set_facecolor('white')
+    fig.suptitle(f'{group_title}\n{model_title}',
+                 fontsize=12, fontweight='bold', y=1.03, linespacing=1.4)
+
+    # Left panel: Fraud
+    _draw_waterfall_panel(ax1, mean_fraud, group_cols, fv_fraud)
+    ax1.set_title(f'Fraud (n={fraud_mask.sum()})', fontsize=11, fontweight='bold',
+                  color='#DC2626', pad=10)
+
+    # Right panel: Non-Fraud
+    _draw_waterfall_panel(ax2, mean_nonfr, group_cols, fv_nonfr)
+    ax2.set_title(f'Non-Fraud (n={nonfr_mask.sum()})', fontsize=11, fontweight='bold',
+                  color='#2563EB', pad=10)
+
+    # Shared legend
     pos_p = mpatches.Patch(color='#3B82F6', label='Positif (mendorong fraud)')
     neg_p = mpatches.Patch(color='#EF4444', label='Negatif (mengurangi fraud)')
-    ax.legend(handles=[pos_p, neg_p], fontsize=8, loc='lower right', framealpha=0.85)
+    fig.legend(handles=[pos_p, neg_p], fontsize=8, loc='lower center',
+               ncol=2, bbox_to_anchor=(0.5, -0.04), framealpha=0.85)
 
-    fig.text(0.5, -0.02, 'Source: Processed Data',
+    fig.text(0.5, -0.07, 'Source: Processed Data',
              ha='center', fontsize=8, color='#94a3b8', style='italic')
 
     fig.tight_layout()
@@ -347,7 +361,8 @@ def main():
                 sv_2d          = sv,
                 all_model_cols = cols,
                 group_cols     = vg['cols'],
-                feat_vals_mean = feat_mean,
+                Xte_raw        = Xte,
+                y_test         = yte,
                 group_title    = vg['title'],
                 model_title    = title,
                 out_path       = os.path.join(folder, vg['file']),

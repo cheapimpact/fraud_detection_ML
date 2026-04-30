@@ -1,11 +1,11 @@
 SHAP Feature Importance Ranking
 Model 1 - MScore/X1 (Naive Bayes)
 =============================================
- 1. GMI                                  0.084191
- 2. DSRI                                 0.046554
- 3. SGAI                                 0.036957
- 4. DEPI                                 0.033560
- 5. AQI                                  0.025921
- 6. LVGI                                 0.024701
- 7. TATA                                 0.023588
- 8. SGI                                  0.020289
+ 1. GMI                                  0.084230
+ 2. DSRI                                 0.046347
+ 3. SGAI                                 0.036897
+ 4. DEPI                                 0.033611
+ 5. AQI                                  0.025890
+ 6. LVGI                                 0.024953
+ 7. TATA                                 0.023595
+ 8. SGI                                  0.020485
